@@ -1,0 +1,103 @@
+データセンター冷却 日次ニュースレポート 2026-04-11
+======================================================
+
+【日本語ニュース】
+
+1. 水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも【Data Center Japan 2026】
+   媒体: INTERNET Watch (Impress)
+   日付: 2026-03-26
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 2026年3月24〜25日に東京で開催された「Data Center Japan 2026」では、AIサーバー向けの液冷・水冷設備の展示が相次いだ。
+   CDU（冷却液分配ユニット）や電動リフトの実機デモが注目を集め、各社がAIデータセンター対応の液冷ソリューションを競って展示した。
+
+------------------------------------------------------
+
+2. 日本データセンター冷却市場2035年までに21億5227万米ドルへ成長
+   媒体: AT Press
+   日付: 2026-04-04
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: レポートオーシャンが発表した調査によると、日本のデータセンター冷却市場は2025年の7億1950万米ドルから2035年には21億5227万米ドルに拡大する見通し。
+   年平均成長率（CAGR）は11.58%で、AIサーバーの高発熱化に対応する液冷技術への投資が拡大している。
+
+------------------------------------------------------
+
+3. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウド Watch (Impress)
+   日付: 2026-03-01
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業はスタートアップ企業の買収を通じて取得したサーバー冷却装置および半導体チップ液冷装置を2026年春に量産開始する計画。
+   AWS・Google・Microsoftなど大手クラウド事業者への採用を目指し、北米データセンター市場での体制を整備している。
+
+------------------------------------------------------
+
+4. データセンター冷却関連株が急落、エヌビディアCEO発言で需要懸念
+   媒体: Yahoo!ニュース（Bloomberg）
+   日付: 2026-04-08
+   URL: https://news.yahoo.co.jp/articles/1af53e6fae69fdcc63e3d0201284227afde0e249
+   概要: エヌビディアのジェンスン・ファンCEOの発言を受け、液冷関連株が軟調な動きを見せた。
+   AI向けデータセンター冷却需要の先行き不透明感が市場心理に影響し、冷却インフラ関連銘柄が下落した。
+
+------------------------------------------------------
+
+5. 急増するデータセンターを超効率的に冷やす！「液浸冷却」の可能性
+   媒体: 経済産業省 METI Journal ONLINE
+   日付: 2026-04-07
+   URL: https://journal.meti.go.jp/p/39339/
+   概要: 経済産業省の公式メディアが液浸冷却（サーバーを絶縁性液体に沈めて冷却する方式）の仕組みと普及に向けた課題を解説。
+   電力消費を最大90%削減できる可能性があり、AIデータセンターの電力問題の解決策として注目が高まっている。
+
+======================================================
+
+【English News】
+
+1. The Heat Island Effect Is Warming Up The AI Data Center Controversy
+   （AI データセンター論争を加速させる「熱の島」効果）
+   Source: Hackaday
+   Date: 2026-04-07
+   URL: https://hackaday.com/2026/04/07/the-heat-island-effect-is-warming-up-the-ai-data-center-controversy/
+   Summary: New research shows that data center heat rejection can raise ambient temperatures in surrounding areas by approximately 2°C on average, with worst-case scenarios potentially much higher. The heat is released into nearby bodies of water or into the atmosphere, intensifying scrutiny of data center siting and cooling methods.
+   【日本語訳】新たな研究により、データセンターの廃熱が周辺地域の気温を平均約2°C（最悪ケースではそれ以上）上昇させる可能性があることが判明した。廃熱は近隣の水域や大気中に放出されており、データセンターの設置場所や冷却方法の見直しを求める声が高まっている。
+
+------------------------------------------------------
+
+2. Data Center World 2026 Expo Hall Features World's Largest Showcase of Cutting-Edge Technologies Driving AI-Powered Data Center Era
+   （Data Center World 2026 エキスポ、AI時代を牽引する最新技術の世界最大規模の展示を開催）
+   Source: BusinessWire
+   Date: 2026-04-07
+   URL: https://www.businesswire.com/news/home/20260407484378/en/Data-Center-World-2026-Expo-Hall-Features-Worlds-Largest-Showcase-of-Cutting-Edge-Technologies-Driving-AI-Powered-Data-Center-Era
+   Summary: Data Center World 2026, scheduled for April 20-23 in Washington D.C., announced its expanded Expo Hall featuring 500+ global exhibitors. NIMBUS Advanced Process Cooling will showcase systems using 95% less water than cooling towers and 50% less energy than chillers, while AIRSYS will present AI-ready thermal solutions including LiquidRack spray cooling and FluidCool-X.
+   【日本語訳】4月20〜23日にワシントンD.C.で開催される「Data Center World 2026」のエキスポホールに500社以上が出展する。NIMBUS社は冷却塔比95%減水・チラー比50%省エネのシステムを、AIRSYS社はAI対応スプレー液冷技術「LiquidRack」などを披露する予定。
+
+------------------------------------------------------
+
+3. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling for Next-Gen AI Data Centers
+   （エコラブ、次世代AI データセンター向け先進液冷リーダーのCoolITシステムズを買収へ）
+   Source: BusinessWire
+   Date: 2026-03-19
+   URL: https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers
+   Summary: Ecolab announced a definitive agreement to acquire CoolIT Systems, a leading provider of direct liquid cooling technology for AI data centers. The deal is expected to generate approximately $550 million in sales over the next 12 months, reflecting surging demand for liquid cooling infrastructure as AI workloads push power densities beyond what air cooling can handle.
+   【日本語訳】エコラブはAIデータセンター向け直接液冷技術のリーダー、CoolITシステムズの買収合意を発表した。今後12ヶ月で約5億5000万ドルの売上が見込まれており、AIワークロードによる高密度発熱への対応として液冷インフラへの需要が急増していることを反映している。
+
+------------------------------------------------------
+
+4. Liquid Cooling in 2026: Beyond Efficiency — The Emergence of Integrated Thermal Intelligence
+   （2026年の液冷：効率化を超えた「統合熱インテリジェンス」の台頭）
+   Source: ByteBridge
+   Date: 2026-04-09
+   URL: https://www.bytebt.com/liquid-cooling-2026/
+   Summary: Liquid cooling has crossed a critical threshold in 2026 and is now the backbone of modern AI data centers, with rack-level power densities routinely exceeding 1,000 watts per rack unit. The article explores how integrated thermal intelligence systems are combining real-time sensor data, AI-driven controls, and predictive cooling to optimize energy use across entire facilities.
+   【日本語訳】2026年、液冷はAI対応データセンターの基幹技術として臨界点を超えた。ラック単位の電力密度が1,000W/Uを超えることも珍しくなく、リアルタイムセンサー・AI制御・予測冷却を組み合わせた「統合熱インテリジェンス」が施設全体のエネルギー最適化を担うようになっている。
+
+------------------------------------------------------
+
+5. Cold-Climate Data Centers: The Next Hot Thing in Data Center Growth
+   （寒冷地データセンター：データセンター成長の次なる注目トレンド）
+   Source: Data Center Knowledge
+   Date: 2026-04-10
+   URL: https://www.datacenterknowledge.com/cooling/cold-climate-data-centers-the-next-hot-thing-in-data-center-growth
+   Summary: Cold-climate data centers are emerging as a sustainable strategy to slash cooling costs and energy consumption. atNorth, a Nordic operator recently acquired by Equinix and Canada Pension Plan Investment Board for $4 billion, operates eight data centers across Iceland, Denmark, Sweden, and Finland, leveraging natural cold air to dramatically reduce mechanical cooling requirements.
+   【日本語訳】寒冷地を活用したデータセンターが、冷却コストとエネルギー消費を大幅に削減できる持続可能な戦略として注目されている。EquinixとカナダのCPPIBが40億ドルで買収した北欧事業者atNorthは、アイスランド・デンマーク・スウェーデン・フィンランドで8拠点を運営し、自然冷却を最大限に活用している。
+
+======================================================
+レポート生成日時: 2026-04-11
+対象期間: 2026-04-10 〜 2026-04-11
