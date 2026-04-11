@@ -1,0 +1,109 @@
+データセンター冷却 日次ニュースレポート 2026-04-10
+======================================================
+
+【日本語ニュース】
+
+1. ヒートアイランド現象の主な原因は、データセンター。半径10kmを2度上昇させている
+   媒体: Gizmodo Japan
+   日付: 2026-04-09
+   URL: https://www.gizmodo.jp/2026/04/data-centers-create-heat-islands-stretching-6-miles-study-finds.html
+   概要: データセンターの排熱が周辺環境のヒートアイランド現象を引き起こしているという研究が
+         注目を集めている。データセンターは平均で半径約10km以内の気温を最大2度（最悪ケースでは
+         9.1度）上昇させることが明らかになった。AI需要の拡大に伴いデータセンター数が急増する中、
+         冷却技術の高度化と熱マネジメントの重要性が増している。
+
+2. 水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも
+   【Data Center Japan 2026】
+   媒体: INTERNET Watch
+   日付: 2026-03-25
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 2026年3月24〜25日に東京で開催された「Data Center Japan 2026」では、AIデータセンター
+         需要を背景に液冷設備の展示が目立った。nVentやRittalなどが大型CDU（冷媒分配ユニット）や
+         ラック内蔵CDU、エアアシスト液冷製品を展示し、液冷が主流技術として定着しつつあることを
+         示した。
+
+3. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウド Watch
+   日付: 2026-04-07
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業は、買収したスタートアップ3社（Alliance Air Products、DDC Solutions、
+         Chilldyne）を活用し、北米データセンター向けの冷却事業を強化。2026年春にサーバー冷却
+         装置および半導体チップ液冷装置の量産を開始する。同社は北米に「Data Center Solutions Hub」
+         を設立し、AI半導体からサーバールームまで対応する統合冷却ソリューションを展開する。
+
+4. ダイキン工業、サーバー冷却とチップ液冷を手中に データセンター攻略
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-04-08
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業がスタートアップの買収によって得たサーバー冷却装置と半導体チップ向け液冷
+         装置を2026年春に量産開始すると発表。北米のデータセンター冷却市場は2025年の約1.1兆円から
+         2030年には約2.7兆円（約2.5倍）に拡大が見込まれ、同社はこの成長市場を狙う。
+
+5. 国内データセンターで液冷が始動、発熱抑制へ脱GPUも
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-04-09
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/02985/111200007/
+   概要: 国内データセンターでも液冷方式の導入が本格化しており、2025年以降に開業予定の29施設の
+         うち10施設が液冷に対応すると表明している。GPU高発熱問題に対処するため、一部事業者は
+         GPU非搭載構成（脱GPU）も模索しており、冷却効率と消費電力削減の両立が課題となっている。
+
+------------------------------------------------------
+
+【English News】
+
+1. The Heat Island Effect Is Warming Up The AI Data Center Controversy
+   Source: Hackaday
+   Date: 2026-04-07
+   URL: https://hackaday.com/2026/04/07/the-heat-island-effect-is-warming-up-the-ai-data-center-controversy/
+   Summary: A new study reveals that data centers are creating heat islands in surrounding areas,
+            warming nearby environments by approximately 2 degrees C on average and up to 9.1
+            degrees C in worst-case scenarios within a 10 km radius. The findings intensify the
+            debate over AI-driven data center expansion and its environmental impacts, underscoring
+            the urgency of improving cooling efficiency and heat reuse strategies.
+
+2. Data Center World 2026 Expo Hall Features World's Largest Showcase of Cutting-Edge Technologies
+   Driving AI-Powered Data Center Era
+   Source: BusinessWire
+   Date: 2026-04-07
+   URL: https://www.businesswire.com/news/home/20260407484378/en/Data-Center-World-2026-Expo-Hall-Features-Worlds-Largest-Showcase-of-Cutting-Edge-Technologies-Driving-AI-Powered-Data-Center-Era
+   Summary: Data Center World 2026, scheduled for April 20-23 in Washington D.C., is set to feature
+            the industry's largest showcase of AI-era data center technologies. Cooling solutions
+            including immersion cooling, direct-to-chip liquid cooling, and AI-driven thermal
+            management systems are a major focus, reflecting the industry's shift away from
+            traditional air cooling toward advanced liquid-based architectures.
+
+3. Data Centers: Daily Notes | April 9, 2026
+   Source: Strisker (Data Centers Daily Notes)
+   Date: 2026-04-09
+   URL: https://writing.strisker.com/data-centers-daily-notes-april-9-2026/
+   Summary: The April 9 edition covers multiple regulatory and policy developments affecting data
+            center cooling and power consumption: Virginia lawmakers remained deadlocked over a
+            $1.9B data center tax break tied to energy efficiency requirements, Illinois opened its
+            first of three planned hearings on the POWER Act (data center regulation), and East
+            Manchester Township, PA approved new data center ordinances including height limits and
+            setback requirements.
+
+4. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling for Next-Gen AI
+   Data Centers
+   Source: BusinessWire
+   Date: 2026-03-19
+   URL: https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers
+   Summary: Ecolab announced a $4.75 billion agreement to acquire CoolIT Systems, a leading
+            manufacturer of direct-to-chip liquid cooling solutions including CDUs and cold plates.
+            CoolIT's technology will be integrated with Ecolab's water and chemistry expertise to
+            create a comprehensive Cooling-as-a-Service offering for AI data centers, with the deal
+            expected to close in Q3 2026.
+
+5. Liquid Cooling in 2026: Beyond Efficiency - The Emergence of Integrated Thermal Intelligence
+   Source: ByteBridge
+   Date: 2026-04-08
+   URL: https://www.bytebt.com/liquid-cooling-2026/
+   Summary: This analysis highlights how liquid cooling has evolved from a niche HPC technology into
+            the mainstream data center standard in 2026. Every liquid loop now integrates dozens of
+            sensors feeding AI-driven infrastructure management platforms, enabling predictive
+            thermal management. Cooling is now co-engineered from the silicon level up, as AI
+            workloads routinely exceed 1,000W per rack unit.
+
+======================================================
+レポート生成日時: 2026-04-10
+対象期間: 2026-04-07 〜 2026-04-10
