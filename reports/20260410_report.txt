@@ -52,6 +52,7 @@
 【English News】
 
 1. The Heat Island Effect Is Warming Up The AI Data Center Controversy
+   （AIデータセンター論争を加熱させるヒートアイランド効果）
    Source: Hackaday
    Date: 2026-04-07
    URL: https://hackaday.com/2026/04/07/the-heat-island-effect-is-warming-up-the-ai-data-center-controversy/
@@ -60,9 +61,14 @@
             degrees C in worst-case scenarios within a 10 km radius. The findings intensify the
             debate over AI-driven data center expansion and its environmental impacts, underscoring
             the urgency of improving cooling efficiency and heat reuse strategies.
+   【日本語訳】新たな研究により、データセンターが周辺地域にヒートアイランドを形成し、平均で約2度C、
+            最悪ケースでは半径10km圏内で最大9.1度Cも気温を上昇させることが明らかになった。AI主導の
+            データセンター拡張をめぐる議論が激化しており、冷却効率の向上と廃熱再利用戦略の緊急性が
+            改めて強調されている。
 
 2. Data Center World 2026 Expo Hall Features World's Largest Showcase of Cutting-Edge Technologies
    Driving AI-Powered Data Center Era
+   （Data Center World 2026、AIデータセンター時代を牽引する最先端技術の世界最大展示会を開催）
    Source: BusinessWire
    Date: 2026-04-07
    URL: https://www.businesswire.com/news/home/20260407484378/en/Data-Center-World-2026-Expo-Hall-Features-Worlds-Largest-Showcase-of-Cutting-Edge-Technologies-Driving-AI-Powered-Data-Center-Era
@@ -71,8 +77,13 @@
             including immersion cooling, direct-to-chip liquid cooling, and AI-driven thermal
             management systems are a major focus, reflecting the industry's shift away from
             traditional air cooling toward advanced liquid-based architectures.
+   【日本語訳】4月20〜23日にワシントンD.C.で開催されるData Center World 2026は、AIデータセンター
+            時代の最先端技術を業界最大規模で展示するイベントとなる。液浸冷却、ダイレクト・トゥ・チップ
+            液冷、AIによる熱管理システムなど冷却ソリューションが主要テーマとなっており、業界が従来の
+            空冷から先進的な液冷アーキテクチャへシフトしていることを反映している。
 
 3. Data Centers: Daily Notes | April 9, 2026
+   （データセンター日次ノート 2026年4月9日号）
    Source: Strisker (Data Centers Daily Notes)
    Date: 2026-04-09
    URL: https://writing.strisker.com/data-centers-daily-notes-april-9-2026/
@@ -82,9 +93,15 @@
             first of three planned hearings on the POWER Act (data center regulation), and East
             Manchester Township, PA approved new data center ordinances including height limits and
             setback requirements.
+   【日本語訳】4月9日号では、データセンターの冷却・電力消費に関わる複数の規制・政策動向を報告。
+            バージニア州議会では約19億ドルのデータセンター税制優遇をめぐり膠着状態が続き、イリノイ州
+            では省エネ規制法（POWER法）に関する公聴会の第1回が開催された。またペンシルベニア州の
+            イーストマンチェスター郡では、高さ制限やセットバック要件を含む新たなデータセンター条例が
+            承認された。
 
 4. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling for Next-Gen AI
    Data Centers
+   （EcolabがAIデータセンター向け先進液冷の世界的リーダー、CoolIT Systemsを買収へ）
    Source: BusinessWire
    Date: 2026-03-19
    URL: https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers
@@ -93,8 +110,13 @@
             CoolIT's technology will be integrated with Ecolab's water and chemistry expertise to
             create a comprehensive Cooling-as-a-Service offering for AI data centers, with the deal
             expected to close in Q3 2026.
+   【日本語訳】Ecolabは、CDU（冷媒分配ユニット）やコールドプレートを含むダイレクト・トゥ・チップ液冷
+            ソリューションの大手メーカーであるCoolIT Systemsを約47億5,000万ドルで買収する最終合意を
+            発表した。CoolITの技術はEcolabの水・化学・流体管理の専門知識と統合され、AIデータセンター
+            向けの包括的な「Cooling-as-a-Service」を提供する。買収は2026年第3四半期完了の見込み。
 
 5. Liquid Cooling in 2026: Beyond Efficiency - The Emergence of Integrated Thermal Intelligence
+   （2026年の液冷：効率を超えた統合型サーマルインテリジェンスの台頭）
    Source: ByteBridge
    Date: 2026-04-08
    URL: https://www.bytebt.com/liquid-cooling-2026/
@@ -103,6 +125,10 @@
             sensors feeding AI-driven infrastructure management platforms, enabling predictive
             thermal management. Cooling is now co-engineered from the silicon level up, as AI
             workloads routinely exceed 1,000W per rack unit.
+   【日本語訳】本稿では、液冷がニッチなHPC技術から2026年のデータセンター主流技術へと進化した経緯を
+            分析している。各液冷ループにはAI駆動のインフラ管理プラットフォームへデータを送る多数の
+            センサーが組み込まれ、予測型熱管理を実現している。AIワークロードがラックユニットあたり
+            常時1,000Wを超える現代では、冷却はシリコンレベルから共同設計されるものとなっている。
 
 ======================================================
 レポート生成日時: 2026-04-10
