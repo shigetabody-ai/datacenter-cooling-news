@@ -1,0 +1,135 @@
+データセンター冷却 日次ニュースレポート 2026-04-14
+======================================================
+
+【日本語ニュース】
+
+1. 液冷技術の最先端が集うイノベーションラボ「DRIL」、印西のデータセンターに現わる
+   媒体: ASCII.jp
+   日付: 2026-04-08
+   URL: https://ascii.jp/elem/000/004/392/4392195/
+   概要: MCデジタル・リアルティが千葉県印西市のNRTキャンパスにイノベーションラボ「DRIL」
+   を開設。最大150kW/ラックの液冷対応コロケーションスペースを備え、AI・HPC向けの最先端
+   冷却技術の実証・検証を行う施設として2026年4月8日より稼働を開始した。
+
+------------------------------------------------------
+
+2. パナソニック、生成AIデータセンター向け液冷システム事業を欧州で開始
+   媒体: クラウド Watch
+   日付: 2026-03-04
+   URL: https://cloud.watch.impress.co.jp/docs/news/2090632.html
+   概要: パナソニックが欧州市場で生成AIデータセンター向けの液冷システム事業を開始した。
+   400kW・800kWのCDU（冷却水分配装置）2機種とフリークーリングチラー2機種の受注を開始し、
+   将来的には北米やアジアへの展開も視野に入れている。
+
+------------------------------------------------------
+
+3. 古河電工、アジアで550億円投資 AIデータセンター冷却装置増産へ
+   媒体: 日本経済新聞
+   日付: 2026-03-30
+   URL: https://www.nikkei.com/article/DGXZQOUC305BY0Q6A330C2000000/
+   概要: 古河電工がフィリピンなどアジア拠点に550億円を投資し、AIデータセンター向け放熱・
+   冷却部品の生産能力を増強する。生成AIサーバーの急激な高発熱化を受け、冷却装置の需要が
+   急増しており、アジアでの増産体制を整えることで需要に対応する。
+
+------------------------------------------------------
+
+4. 水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも
+   【Data Center Japan 2026】
+   媒体: INTERNET Watch
+   日付: 2026-03-25
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 東京で開催されたData Center Japan 2026では、AIデータセンターの需要に対応する
+   液冷設備（CDUなど）の展示が多数見受けられた。AIサーバーの重量増に対応する電動リフトの
+   実機デモも実施され、データセンター現場での液冷化が加速している実態が明らかになった。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Oklahoma Lawmakers Add Data Center Restrictions to Groundwater Metering Measure
+   （オクラホマ州、地下水計量法案にデータセンター向け冷却規制を追加）
+   Source: KGOU – Oklahoma's NPR Source
+   Date: 2026-04-13
+   URL: https://www.kgou.org/science-technology-and-environment/2026-04-13/oklahoma-lawmakers-add-data-center-restrictions-to-groundwater-metering-measure
+   Summary: Oklahoma's House Energy Committee unanimously approved an amendment to a groundwater
+   metering bill (Senate Bill 259) requiring data centers to use closed-loop cooling systems instead
+   of open-air evaporative cooling to obtain a state groundwater permit. The amendment mandates
+   low-consumptive water cooling mechanisms such as closed-loop systems, dielectric fluid cooling,
+   or air cooling.
+   【日本語訳】オクラホマ州議会の下院エネルギー委員会が、地下水計量法案（上院法案259号）に
+   改正を加え、データセンターが州の地下水利用許可を受けるには密閉型冷却システムの使用を義務付けると
+   全会一致で可決した。従来の蒸発型空冷に代わり、閉ループ式・誘電性フルード・空冷などの
+   低水消費型冷却方式が義務となる。
+
+------------------------------------------------------
+
+2. Data Centers Add New Strain to Texas Water Supplies
+   （データセンターがテキサス州の水資源に新たな負荷をかけている）
+   Source: Texas Public Radio (TPR)
+   Date: 2026-04-13
+   URL: https://www.tpr.org/podcast/the-source/2026-04-13/data-centers-add-new-strain-to-texas-water-supplies
+   Summary: A report by the Houston Advanced Research Center (HARC) reveals Texas data centers
+   consume approximately 25 billion gallons of water annually for cooling and electricity generation.
+   By 2030, annual water demand could rise to between 29 and 161 billion gallons depending on
+   growth rates and cooling technology choices. The Texas House State Affairs Committee heard
+   testimony on the issue on April 10, 2026.
+   【日本語訳】ヒューストン先端研究センター（HARC）の報告書によると、テキサス州のデータセンターは
+   冷却と発電のために年間約250億ガロン（約946億リットル）の水を消費している。2030年には成長速度や
+   冷却技術の選択次第で年間290億〜1,610億ガロンに増加する可能性があるとして、州議会でも証言が行われた。
+
+------------------------------------------------------
+
+3. Texas Data Center Developers Play Offense on Water, Claiming Huge Cuts in Usage
+   （テキサスのデータセンター開発業者が積極的に水使用削減をアピール）
+   Source: Inside Climate News
+   Date: 2026-04-10
+   URL: https://insideclimatenews.org/news/10042026/texas-data-center-developers-play-offense-on-water-claiming-huge-cuts-in-usage/
+   Summary: Texas data center developers are showcasing closed-loop cooling systems that dramatically
+   reduce water consumption. Companies like Skybox Datacenters claim their systems use less water
+   than five typical households, with only a 2% water loss rate. State legislators heard testimony
+   from developers arguing that modern closed-loop cooling makes data centers far more water-efficient
+   than older evaporative cooling systems.
+   【日本語訳】テキサスのデータセンター開発業者が、水使用量を大幅削減する密閉型冷却システムを積極的に
+   アピールしている。Skybox Datacentersは閉ループ式システムにより平均的な一般家庭5世帯分以下の水しか
+   消費しないと主張。州議会でも開発業者が証言し、最新の閉ループ冷却技術が従来の蒸発型より
+   大幅に水効率が高いと訴えた。
+
+------------------------------------------------------
+
+4. New Data Center Developments: April 2026
+   （2026年4月のデータセンター新規開発動向）
+   Source: Data Center Knowledge
+   Date: 2026-04-01
+   URL: https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-april-2026
+   Summary: A roundup of April 2026 data center developments highlights unprecedented capital
+   expenditure growth, with the six largest US hyperscalers projected to spend approximately $700
+   billion this year – nearly six times 2022 levels. Investments are driving massive expansion in
+   cooling infrastructure, with liquid cooling now featured in most new major projects as AI workload
+   densities continue to soar.
+   【日本語訳】2026年4月のデータセンター新規開発動向まとめ。米国の主要ハイパースケール6社が
+   2026年に約7,000億ドルの設備投資を計画しており、2022年比で約6倍に相当する。AIワークロードの
+   密度上昇に伴い、新規の大型プロジェクトのほぼすべてで液冷が採用されるなど、冷却インフラへの
+   大規模投資が進んでいる。
+
+------------------------------------------------------
+
+5. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling for Next-Gen AI Data Centers
+   （EcolabがAIデータセンター向け先進液冷リーダーのCoolIT Systemsを買収へ）
+   Source: Business Wire
+   Date: 2026-03-19
+   URL: https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers
+   Summary: Ecolab announced a definitive agreement to acquire CoolIT Systems, a global leader in
+   direct liquid cooling (DLC) technology for next-generation AI data centers, in an all-cash deal
+   valued at approximately $4.75 billion. CoolIT Systems is expected to generate approximately $550
+   million in annual sales, reflecting major consolidation in the liquid cooling market driven by
+   surging AI infrastructure demand.
+   【日本語訳】水処理・衛生管理大手のEcolabが、次世代AIデータセンター向けダイレクトリキッドクーリング
+   技術のリーダーであるCoolIT Systemsを約47.5億ドル（現金）で買収する合意を締結したと発表した。
+   CoolIT Systemsの年間売上は約5.5億ドルを見込む。AIインフラ需要の急増を背景に、液冷市場での
+   大型M&Aが活発化している。
+
+======================================================
+レポート生成日時: 2026-04-14
+対象期間: 2026-04-13 〜 2026-04-14
