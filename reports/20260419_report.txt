@@ -1,0 +1,74 @@
+データセンター冷却 日次ニュースレポート 2026-04-19
+======================================================
+
+【日本語ニュース】
+
+1. 水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも【Data Center Japan 2026】
+   媒体: INTERNET Watch（Impress）
+   日付: 2026-04-05
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 2026年3月24〜25日開催の「Data Center Japan 2026」詳細レポート。CDU（冷却水分配装置）をはじめAIサーバー向け液冷・水冷設備が各社から多数展示された。高重量化するAIサーバーの安全な取り扱いを支援する電動リフトの実機デモも実施され、液冷対応インフラへの移行に伴う現場の実務ニーズが浮き彫りになった。
+
+------------------------------------------------------
+
+2. 冷蔵庫大の「マイクロデータセンター」も登場。AI需要を反映し、小型データセンターが各社から【Data Center Japan 2026】
+   媒体: INTERNET Watch（Impress）
+   日付: 2026-04-05
+   URL: https://internet.watch.impress.co.jp/docs/event/2097263.html
+   概要: Data Center Japan 2026で冷蔵庫程度の大きさのモジュール型「マイクロデータセンター」が各社から出展され注目を集めた。冷却機能を内蔵した自己完結型設計で、エッジ環境や中小規模拠点での展開に対応する。AI需要の拡大とともに、大規模DCにとどまらない多様な形態の冷却対応インフラへの需要が高まっている。
+
+------------------------------------------------------
+
+3. AIサーバーの効率的な冷却を実現する「AImod」、IIJ、PFN、JAISTが共同で実証
+   媒体: クラウド Watch（Impress）
+   日付: 2026-04-01
+   URL: https://cloud.watch.impress.co.jp/docs/news/2096544.html
+   概要: PFN・IIJ・JAISTの3者が、IIJの千葉県白井データセンターキャンパスに構築した直接水冷方式モジュール型データセンター「AImod」を2026年4月より本格稼働させた。GPU/CPUを水冷（70%）、その他を空冷（30%）とするハイブリッド方式で設計pPUE 1.1〜1.2を達成し、密閉循環システムにより水使用量を実質ゼロとすることを目指す。NEDOの資金支援のもと、超高効率AI計算基盤技術の研究開発を推進している。
+
+------------------------------------------------------
+
+4. 日本データセンター冷却市場2035年までに21億5227万米ドル到達　CAGR11.58%で液冷需要が拡大
+   媒体: atpress（プレスリリース）
+   日付: 2026-04-05
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: 市場調査レポートによると、日本のデータセンター冷却市場は2025年の7億1950万米ドルから2035年に21億5227万米ドルへ約3倍に拡大する見通し（CAGR 11.58%）。AIサーバーの高発熱化を背景に液冷・液浸冷却技術への需要が急増している。2026年以降は技術標準の未確立な先行投資フェーズとして液冷向け市場参入が活発化し、グリーンデータセンター投資との相乗効果が成長を後押しするとの分析が示された。
+
+------------------------------------------------------
+
+【English News】
+
+1. Data Center World 2026 Expo Hall Features World's Largest Showcase of Cutting-Edge Technologies Driving AI-Powered Data Center Era
+   （データセンター・ワールド2026エキスポ：AI時代を牽引する最先端技術の世界最大規模展示会）
+   Source: Business Wire / Data Center World
+   Date: 2026-04-07
+   URL: https://www.businesswire.com/news/home/20260407484378/en/Data-Center-World-2026-Expo-Hall-Features-Worlds-Largest-Showcase-of-Cutting-Edge-Technologies-Driving-AI-Powered-Data-Center-Era
+   Summary: Data Center World 2026 (April 20–23, Walter E. Washington Convention Center, Washington D.C.) will host 500+ global exhibitors focusing on liquid cooling, AI infrastructure, power systems, and energy efficiency. Industry data shows 39% of operators report their cooling can no longer keep pace with demand, and liquid cooling adoption has nearly doubled from 19% to 36% in a single year. Featured cooling exhibitors include AIRSYS (UniCool, FluidCool-X, LiquidRack spray cooling), NIMBUS Advanced Process Cooling (95% less water than cooling towers), and LG Electronics.
+   【日本語訳】2026年4月20〜23日にワシントンD.C.で開催される「Data Center World 2026」には500社超が出展し、液冷・AIインフラ・電力・エネルギー効率を重点テーマとした最新技術を披露する。業界調査では39%のオペレーターが冷却能力の限界を報告しており、液冷採用率は1年で19%から36%へと倍増した。AirsysのUniCool・FluidCool-X・LiquidRackスプレー冷却、NIMBUSの省水型ドライ冷却（冷却塔比95%節水）、LGエレクトロニクスが主要出展者として名を連ねる。
+
+2. Supercomputers Can Stay Chill With Hot Water, Says Nvidia
+   （NvidiaがGPUを「温水」で冷却可能と発表―データセンター冷却インフラを刷新）
+   Source: Fierce Network
+   Date: 2026-04-17
+   URL: https://www.fierce-network.com/cloud/nvidia-has-no-chill
+   Summary: Nvidia announced that its latest-generation supercomputer GPUs can be cooled with warm water, eliminating chillers from the cooling chain and simplifying data center thermal management. By using facility-temperature water directly from a cooling tower or building loop, data centers can remove the energy-intensive chiller stage, significantly reducing PUE and operating costs. The announcement aligns with CEO Jensen Huang's earlier statements and is expected to lower total cost of ownership for high-density AI compute deployments.
+   【日本語訳】Nvidiaは最新世代のGPUが「温水」（施設温度の水）で冷却可能と発表し、チラーを冷却チェーンから排除できることを示した。冷却塔・建物ループの水を直接利用することでエネルギー集約型のチラー段階を省略し、PUEと運用コストを大幅に改善できる。ジェンスン・フアンCEOの従来発言とも整合するこの発表は、高密度AI計算インフラのTCO（総所有コスト）を抜本的に低下させる可能性を持つ。
+
+3. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling for Next-Gen AI Data Centers
+   （Ecolab、次世代AIデータセンター向け液冷リーダー「CoolIT Systems」を47.5億ドルで買収へ）
+   Source: Business Wire / Ecolab
+   Date: 2026-03-19
+   URL: https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers
+   Summary: Ecolab entered into a definitive agreement to acquire CoolIT Systems for approximately $4.75 billion in cash, doubling its Global High-Tech addressable market from $5 billion to $10 billion. CoolIT offers end-to-end liquid cooling capabilities including coolant distribution units (CDUs), cold plates, and direct-to-chip cooling technologies, and is projected to generate $550 million in sales over the next 12 months. The acquisition, pending regulatory approval, is expected to close in Q3 2026.
+   【日本語訳】EcolabはデータセンターAI向け液冷システムのリーダー「CoolIT Systems」を約47億5000万ドルで買収することで合意した。CoolITはCDU・コールドプレート・チップ直冷技術などのエンドツーエンドの液冷能力を保有し、今後12ヶ月で5億5000万ドルの売上が見込まれる。規制当局の承認を経て2026年第3四半期に完了予定で、買収によりEcolabのハイテク向けアドレス可能市場は倍増する。
+
+4. Brownfield Data Center Modernization for AI: Liquid Cooling Without Starting from Scratch
+   （既存データセンターのAI対応液冷改修：ゼロから再構築しなくてよい方法）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-04-05
+   URL: https://www.datacenterdynamics.com/en/opinions/brownfield-data-center-modernization-for-ai-liquid-cooling-without-starting-from-scratch/
+   Summary: This DCD opinion piece argues that legacy brownfield data centers can be modernized for AI through targeted liquid cooling retrofits rather than full rebuilds. Recommended strategies include rear-door heat exchangers, in-row coolers, and direct-to-chip CDU installations integrated into existing raised-floor air-cooled environments. Phased upgrades minimize downtime while enabling AI capacity expansion, with organizations that modernize fastest positioned to capture AI growth sooner.
+   【日本語訳】既存（ブラウンフィールド）データセンターはゼロから再構築しなくても、段階的な液冷改修でAI対応が可能とDCDが論じている。リアドア型ヒートエクスチェンジャー、インロー型クーラー、CDUのチップ直冷導入を既存の空冷環境に組み込む手法を推奨。段階的な改修によりダウンタイムを最小化しながらAI計算能力を拡張でき、液冷化に早期対応した組織が既存インフラを活用して競争優位を確立できると結論付けている。
+
+======================================================
+レポート生成日時: 2026-04-19
+対象期間: 2026-04-18 〜 2026-04-19
