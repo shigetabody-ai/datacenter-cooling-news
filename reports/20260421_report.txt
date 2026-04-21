@@ -1,0 +1,90 @@
+データセンター冷却 日次ニュースレポート 2026-04-21
+======================================================
+
+【日本語ニュース】
+
+1. LGとSKが、AIデータセンター向け冷却・エネルギー統合ソリューションで提携
+   媒体: Data Center Café
+   日付: 2026-04-20
+   URL: https://cafe-dc.com/energy/lg-sk-partner-for-cooling-and-energy-solutions-for-ai-data-centers/
+   概要: LGエレクトロニクスとSKグループがAIデータセンター向けの冷却・エネルギー統合ソリューション開発に向けて提携を締結した。LGの冷却インフラとSKのエネルギー技術を組み合わせ、増大するAI演算需要に対応する高効率・低炭素な次世代データセンター基盤の構築を目指す。Data Center World 2026（4月20〜23日、ワシントンD.C.）でも関連技術が披露された。
+
+------------------------------------------------------
+
+2. マイクロソフトが一部のAIデータセンターでLGエレクトロニクスの冷却インフラを採用
+   媒体: Data Center Café
+   日付: 2026-04-21
+   URL: https://cafe-dc.com/energy/microsoft-to-use-lg-electronics-cooling-infrastructure-in-some-ai-data-centers/
+   概要: マイクロソフトがAIデータセンターの一部にLGエレクトロニクスの冷却インフラの採用を決定したことが明らかになった。LGの液冷・浸漬冷却技術を活用することで、高密度AIワークロードの熱管理を効率化し、PUE改善とデータセンターの省エネ化を図る。LGにとって大手クラウド事業者との初の大規模連携として注目される。
+
+------------------------------------------------------
+
+3. データセンターがヒートアイランド現象の主因、半径10kmを2℃上昇させている
+   媒体: Gizmodo Japan
+   日付: 2026-04-20
+   URL: https://www.gizmodo.jp/2026/04/data-centers-create-heat-islands-stretching-6-miles-study-finds.html
+   概要: 最新の研究で、データセンターが周辺地域に最大6マイル（約10km）に及ぶヒートアイランド現象を引き起こし、地表温度を約2℃上昇させていることが判明した。AIブームによりデータセンターの消費電力・廃熱が急増しており、排熱対策・冷却技術の抜本的改善が社会課題として浮上している。冷却効率向上や廃熱再利用の必要性が一層高まっている。
+
+------------------------------------------------------
+
+4. 日本データセンター冷却市場、2035年までに21億5227万米ドル到達へ CAGR11.58％で成長
+   媒体: atpress（プレスリリース）
+   日付: 2026-04-20
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: 日本のデータセンター冷却市場が2025年の7億1950万米ドルから2035年に21億5227万米ドルへ、CAGR 11.58%の高成長を遂げる見通しが発表された。AIサーバーの高発熱化を背景に、従来型空冷から液冷・液浸冷却へのシフトが加速しており、グリーンデータセンター投資の拡大とともに高効率液冷技術の需要が急増している。
+
+------------------------------------------------------
+
+【English News】
+
+1. Airsys Introduces Next-Generation LiquidRack™ Technology for Simpler Liquid Cooling Architecture
+   （Airsysが次世代LiquidRack™技術を発表——レトロフィット・エッジ・中密度AIインフラ向け液冷アーキテクチャを簡素化）
+   Source: GlobeNewswire
+   Date: 2026-04-20
+   URL: https://www.globenewswire.com/news-release/2026/04/20/3276957/0/en/Airsys-Introduces-Next-Generation-LiquidRack-Technology-to-Provide-a-Simpler-Liquid-Cooling-Architecture-for-Retrofit-Edge-and-Mid-Density-AI-Infrastructure.html
+   Summary: Airsys announced the next generation of LiquidRack™, a rack-level liquid cooling platform designed to simplify deployment for mid-density AI, data center, telecom, and edge environments. The new architecture enables easier retrofitting of existing data center facilities and broadens liquid cooling accessibility beyond hyperscale operators to mid-density deployments. The platform addresses the growing gap in liquid cooling solutions between hyperscale-only products and underserved edge and retrofit markets.
+   【日本語訳】Airsysは次世代LiquidRack™技術を発表した。中密度AI・データセンター・通信・エッジ環境向けに液冷導入を簡素化するラックレベルの液冷プラットフォームで、既存設備へのレトロフィット対応を実現し、ハイパースケール専用ではなく中密度・エッジ用途にも液冷を普及させる。従来の液冷ソリューションがカバーしきれていたエッジ・レトロフィット市場の空白を埋める製品として注目される。
+
+------------------------------------------------------
+
+2. LG Electronics Showcases AI Data Center Cooling Solutions at Data Center World 2026
+   （LGエレクトロニクスがData Center World 2026でAIデータセンター向け冷却ソリューションを披露——CDU容量を2倍以上に拡張し液浸冷却にも参入）
+   Source: LG Corp Press Release
+   Date: 2026-04-20
+   URL: https://www.lgcorp.com/media/release/30070
+   Summary: LG Electronics showcased its integrated AI data center cooling portfolio at Data Center World 2026 in Washington D.C. (April 20–23), including a new Coolant Distribution Unit (CDU) with doubled capacity from 650kW to 1.4MW and a first-ever immersion cooling solution developed with GRC and SK Enmove. The company also demonstrated a DC Grid solution reducing initial power loss to around 15%, and unveiled PADO's AI-based workload orchestration platform for smarter thermal management. LG is aggressively targeting the AI data center market as a key B2B growth driver, aiming to provide end-to-end thermal and power management.
+   【日本語訳】LGエレクトロニクスはData Center World 2026（ワシントンD.C.、4月20〜23日）にて、AIデータセンター向け統合冷却ポートフォリオを披露した。冷却水分配装置（CDU）の冷却容量を650kWから1.4MWへ2倍以上に拡大したほか、GRCおよびSK Enmoveと共同開発した業界初の液浸冷却ソリューションを発表。初期電力損失を約15%に低減するDCグリッドソリューションや、AIによるワークロード管理プラットフォームPADOも公開し、AIデータセンター向けエンドツーエンドの熱管理・電力管理提供を目指す姿勢を示した。
+
+------------------------------------------------------
+
+3. QTS Data Centers and Layton Construction Top Out Eagle Mountain Campus Featuring Closed-Loop Cooling
+   （QTSデータセンターがユタ州イーグルマウンテンにて水消費ゼロの密閉循環冷却システムを備えた新キャンパス上棟を完了）
+   Source: Utah Business
+   Date: 2026-04-20
+   URL: https://www.utahbusiness.com/press-releases/2026/04/20/layton-construction-qts-data-centers-campus-eagle-mountain/
+   Summary: QTS Data Centers and Layton Construction marked the topping out of the third building at their Eagle Mountain, Utah campus on April 20, 2026, a significant construction milestone. The campus is distinguished by a closed-loop cooling system that does not draw from local water resources and consumes zero water for cooling once operational, addressing a major environmental concern for data center development in water-scarce regions. The facility represents a growing trend of sustainable, water-efficient cooling design in hyperscale data center construction.
+   【日本語訳】QTSデータセンターとLayton Constructionは2026年4月20日、ユタ州イーグルマウンテンキャンパス第3棟の上棟（構造物の最高部到達）を完了した。同キャンパスの最大の特徴は、稼働後に地域水源から取水せず冷却に水を一切消費しない密閉循環冷却システムの採用で、水資源が乏しい地域でのデータセンター開発における環境問題への対応策として注目される。水効率に優れた持続可能な冷却設計の最新事例として業界の関心を集めている。
+
+------------------------------------------------------
+
+4. Data Center Cooling Market Size to Reach USD 45.8 Billion by 2033 as AI Infrastructure Demand Accelerates
+   （データセンター冷却市場、AI需要加速で2033年に458億ドル規模へ——CAGR 13.64%で成長）
+   Source: OpenPR
+   Date: 2026-04-20
+   URL: https://www.openpr.com/news/4475235/data-center-cooling-market-size-to-reach-usd-45-8-billion-by-2033
+   Summary: A new market analysis projects the global data center cooling market to grow from USD 16.37 billion in 2025 to USD 45.8 billion by 2033, at a CAGR of 13.64% during 2026–2033, driven by AI infrastructure buildout, hyperscale expansion, and high-density thermal management requirements. Liquid cooling solutions, including direct-to-chip and immersion cooling, are identified as the fastest-growing segments as rack densities exceed traditional air-cooling thresholds. The United States and Japan are cited as defining the next standard for high-density AI infrastructure cooling.
+   【日本語訳】新たな市場調査により、世界のデータセンター冷却市場が2025年の163.7億ドルから2033年に458億ドルへ、CAGR 13.64%で成長する見通しが示された。AIインフラ整備・ハイパースケール拡張・高密度熱管理需要が主要成長因子で、ダイレクトツーチップ冷却や液浸冷却を含む液冷ソリューションが最速成長セグメントと特定された。高密度AI冷却の次世代標準を定義する市場として米国と日本が注目されている。
+
+------------------------------------------------------
+
+5. Data Center Liquid Cooling Market to Reach USD 13.05 Billion by 2032 as AI Rack Density and Hyperscale Expansion Accelerate
+   （データセンター液冷市場、AIラック密度向上とハイパースケール拡大で2032年に130億ドル超へ）
+   Source: OpenPR
+   Date: 2026-04-20
+   URL: https://www.openpr.com/news/4475192/data-center-liquid-cooling-market-size-to-reach-usd-13-05-billion
+   Summary: The global data center liquid cooling market, valued at USD 2.80 billion in 2024, is forecast to reach USD 13.05 billion by 2032 at a CAGR of 21.21%, accelerated by direct-to-chip deployments, hyperscale facility expansion, and surging AI rack densities. Goldman Sachs projects liquid-cooled AI server share to rise from 15% in 2024 to 76% in 2026, reflecting the rapid mainstream adoption of liquid cooling. Key growth drivers include next-generation GPU workloads requiring 100kW+ per rack and the industry-wide shift from air cooling to hybrid and full liquid cooling architectures.
+   【日本語訳】2024年に28億ドル規模だった世界のデータセンター液冷市場が、2032年には130.5億ドルへCAGR 21.21%で拡大するとの予測が発表された。ダイレクトツーチップ冷却の普及・ハイパースケール施設拡張・AIラック密度急上昇が成長を加速させている。ゴールドマン・サックスは液冷AIサーバーの比率が2024年の15%から2026年には76%に急増すると予測しており、液冷の急速な主流化を示している。次世代GPUがラックあたり100kW超の冷却を必要とすることが、空冷からハイブリッド・フル液冷アーキテクチャへの移行を業界全体で加速させている。
+
+======================================================
+レポート生成日時: 2026-04-21
+対象期間: 2026-04-20 〜 2026-04-21
