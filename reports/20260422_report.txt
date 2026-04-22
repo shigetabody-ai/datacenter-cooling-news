@@ -1,0 +1,82 @@
+データセンター冷却 日次ニュースレポート 2026-04-22
+======================================================
+
+【日本語ニュース】
+
+1. ダイキン工業、サーバー冷却とチップ液冷を手中に データセンター攻略
+   媒体: 日経xTECH
+   日付: 2026-04-21
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業が米スタートアップ買収を通じて獲得したサーバー冷却装置および半導体チップ向け液冷装置を2026年春から量産開始したと報じられた。北米データセンター市場でのシェア拡大を目指し、AIサーバーの高発熱化に対応する製品ラインアップを整備している。同社の北米データセンター冷却事業は2025年度に約1000億円規模へ急拡大しており、2030年度には3000億円超を目指す。
+
+------------------------------------------------------
+
+2. OptiCoolとBeldenがラック内の液冷ソリューションで提携
+   媒体: Data Center Café
+   日付: 2026-04-21
+   URL: https://cafe-dc.com/energy/opticool-and-belden-team-up-on-rack-level-liquid-cooling-solution/
+   概要: 液冷ソリューション企業のOptiCoolがBeldenと提携し、Beldenのデータセンター向けラックにOptiCoolの液冷技術を統合することを発表した。既存の空冷インフラへの後付け対応（レトロフィット）に重点を置いており、水冷設備が未整備のデータセンターでも液冷を導入できるアーキテクチャを提供する。AI需要急増に伴い増設が追いつかない既設データセンターの冷却課題を解決する取り組みとして注目される。
+
+------------------------------------------------------
+
+3. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウド Watch（インプレス）
+   日付: 2026-04-22
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業が北米のデータセンター向け冷却市場での事業体制を強化していると報じられた。AIサーバーに特化した液冷製品の量産体制を整えるとともに、現地法人を通じたサービスネットワークの拡充を進めている。従来の空調機器メーカーとしての強みを活かしつつ、液冷・チップ冷却分野への参入によりデータセンター冷却市場でのプレゼンスを高める戦略を推進している。
+
+------------------------------------------------------
+
+【English News】
+
+1. Data-Center Cooling Stocks Sink in China on Competition Concerns
+   （中国の液冷株が急落――業績悪化と競争激化への懸念を背景に）
+   Source: Bloomberg
+   Date: 2026-04-21
+   URL: https://www.bloomberg.com/news/articles/2026-04-21/data-center-cooling-stocks-sink-in-china-on-competition-concerns
+   Summary: Shares of Chinese liquid-cooling providers fell sharply on April 21 after a closely watched company reported earnings that missed market expectations, fueling concerns about intensifying competition in the sector. The selloff reflects investor anxiety over margin pressure as more players enter the rapidly growing data center cooling market. The development underscores that while overall demand for cooling solutions remains strong amid AI infrastructure buildout, the Chinese market faces heightened competitive dynamics that could weigh on profitability.
+   【日本語訳】2026年4月21日、中国の液冷関連企業の株価が急落した。市場予想を下回る決算発表を受け、競争激化への懸念が広がったためである。AIインフラ投資の拡大でデータセンター冷却市場の全体的な需要は堅調なものの、新規参入の増加による収益圧迫リスクが投資家心理を冷やした形となった。
+
+------------------------------------------------------
+
+2. Accelsius Launches NeuCool IR150 Two-Phase Liquid Cooling System and HyperStart Program at Data Center World 2026
+   （Accelsiusが2相液冷システム「NeuCool IR150」と導入支援プログラムをData Center World 2026で発表）
+   Source: Business Wire / Minichart
+   Date: 2026-04-21
+   URL: https://www.businesswire.com/news/home/20260420391618/en/Accelsius-Announces-General-Availability-of-NeuCool-IR150-and-Launches-NeuCool-HyperStart-Program-at-Data-Center-World-2026
+   Summary: Accelsius announced the general availability of the NeuCool® IR150 at Data Center World 2026, describing it as the industry's first fully integrated rack-level cooling solution combining a two-phase Coolant Distribution Unit (CDU), 42U of IT rack space, and built-in liquid and vapor manifolds in a single 800mm-wide enclosure supporting up to 150kW of capacity. The company simultaneously launched the NeuCool HyperStart Program to accelerate enterprise adoption by offering pre-configured, factory-tested cooling units with streamlined deployment support. The solution is designed to address the rapidly escalating thermal demands of AI and HPC workloads without requiring extensive facility modification.
+   【日本語訳】AccelsiusはData Center World 2026にて、業界初の完全統合型ラックレベル液冷ソリューション「NeuCool® IR150」の一般提供開始を発表した。2相CDU・42Uラックスペース・液体および蒸気マニホールドを800mm幅の単一エンクロージャに集約し、最大150kWの冷却能力を提供する。あわせて企業導入を加速するための「NeuCool HyperStart Program」も開始。大規模な施設改修を伴わずにAI・HPCワークロードの高発熱需要に対応できる点が特徴となっている。
+
+------------------------------------------------------
+
+3. Data Center World 2026: AI Pushes Infrastructure to New Limits
+   （Data Center World 2026：AIがインフラを限界まで押し上げる）
+   Source: Data Center Knowledge
+   Date: 2026-04-21
+   URL: https://www.datacenterknowledge.com/build-design/data-center-world-2026-ai-pushes-infrastructure-to-new-limits
+   Summary: Data Center Knowledge's coverage of Data Center World 2026 (Washington D.C., April 20–23) highlights that AI workloads are driving data center infrastructure to unprecedented limits, particularly in thermal management and power density. Exhibitors across the show floor demonstrated liquid cooling solutions—including direct-to-chip, two-phase, and immersion systems—as the new baseline for AI-optimized facilities rather than an optional upgrade. Industry leaders emphasized that operators must now manage hybrid environments where liquid-cooled AI clusters coexist with legacy air-cooled infrastructure, requiring new operational strategies and facility redesign.
+   【日本語訳】Data Center Knowledgeによるデータセンターワールド2026（ワシントンD.C.、4月20〜23日）のレポートは、AIワークロードがデータセンターインフラを熱管理・電力密度の両面で前例のない限界まで押し上げていると伝えている。会場ではダイレクトツーチップ・2相・液浸冷却など各種液冷ソリューションが、オプション機能ではなくAI対応施設の標準仕様として展示された。液冷AIクラスターと従来型空冷インフラが共存するハイブリッド環境の運用課題への対応が急務であることも強調された。
+
+------------------------------------------------------
+
+4. LG bets on AI data center cooling for B2B growth
+   （LGエレクトロニクス、AIデータセンター冷却をB2B成長の中核に位置付け）
+   Source: The Korea Herald
+   Date: 2026-04-21
+   URL: https://www.koreaherald.com/article/10721845
+   Summary: LG Electronics is positioning its AI data center cooling portfolio as a primary driver of B2B business growth, following its showcase at Data Center World 2026. The company confirmed a deal with Microsoft to supply cooling infrastructure for AI data centers and unveiled a broader end-to-end thermal management offering spanning CDUs, immersion cooling tanks (co-developed with GRC and SK Enmove), and AI-based workload optimization software. LG aims to capture a significant share of the fast-growing liquid cooling market as hyperscalers and enterprises race to deploy high-density GPU infrastructure.
+   【日本語訳】LGエレクトロニクスはData Center World 2026での披露を受け、AIデータセンター向け冷却ポートフォリオをB2B事業成長の主軸として位置付けていることを明らかにした。マイクロソフトのAIデータセンターへの冷却インフラ供給契約を確認するとともに、CDU・液浸冷却タンク（GRC・SK Enmoveとの共同開発品）・AIワークロード最適化ソフトウェアを組み合わせたエンドツーエンドの熱管理ソリューションを発表。高密度GPUインフラの展開を急ぐハイパースケーラー・企業向けに急成長する液冷市場での大幅なシェア獲得を目指す。
+
+------------------------------------------------------
+
+5. Delta Unveils Integrated Power, Cooling, and Infrastructure Architecture for AI Data Centers at Data Center World 2026
+   （デルタ電子、Data Center World 2026でAIデータセンター向け電力・冷却・インフラ統合アーキテクチャを発表）
+   Source: PR Newswire
+   Date: 2026-04-22
+   URL: https://www.prnewswire.com/news-releases/delta-unveils-integrated-power-cooling-and-infrastructure-architecture-for-ai-data-centers-at-data-center-world-2026-302746844.html
+   Summary: Delta Electronics unveiled its grid-to-chip infrastructure architecture at Data Center World 2026, showcasing a 3MW Liquid-to-Liquid Coolant Distribution Unit (CDU) capable of delivering up to 3,000 kW of cooling capacity at flow rates up to 3,000 LPM, enabling efficient heat removal for the most demanding AI and HPC workloads. The announcement reinforces Delta's strategy of offering integrated power and cooling solutions from the utility grid down to the chip level, aiming to reduce overall data center PUE and total cost of ownership. The 3MW CDU is among the highest-capacity single-unit liquid cooling products announced to date.
+   【日本語訳】デルタ電子はData Center World 2026にて、グリッドからチップまでを統合したデータセンターインフラアーキテクチャを発表し、最大3,000kWの冷却容量・3,000LPMの流量に対応する3MW規模の液冷CDUを披露した。電力・冷却を一体提供することでPUEと総保有コストの削減を図る戦略を強調しており、この3MW CDUは現時点で発表された単体液冷製品の中でも最大規模クラスに位置付けられる。AI・HPCワークロードの極限の熱需要に対応する製品として業界の注目を集めている。
+
+======================================================
+レポート生成日時: 2026-04-22
+対象期間: 2026-04-21 〜 2026-04-22
