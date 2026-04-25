@@ -20,7 +20,7 @@ import gspread
 from google.oauth2.service_account import Credentials
 
 # ===== 設定 =====
-SPREADSHEET_ID = "1ou5DoJZii7XsilIRgdjGQbDdx6s7m1j8"
+SPREADSHEET_ID = "1KaQdI4KJG-r0_V5qPed0qxkKUrnHV5C_6xv3n_lTPec"
 REPORTS_DIR = Path("reports")
 DAYS = 7
 
