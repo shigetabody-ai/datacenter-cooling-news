@@ -1,0 +1,82 @@
+データセンター冷却 日次ニュースレポート 2026-04-25
+======================================================
+
+【日本語ニュース】
+
+1. イメージワン株式会社、5社間でAI特化型高性能データセンターの開発および運営に向けた基本合意締結
+   媒体: ASCII.jp
+   日付: 2026-04-24
+   URL: https://ascii.jp/elem/000/004/398/4398088/
+   概要: イメージワン株式会社を含む5社が合弁会社「AI Data Partners」の設立に向けた基本合意を締結。国内10拠点でAI特化型高性能データセンターを開発・運営する計画で、高密度AIワークロードに対応した高度な冷却・電源設備を備えたインフラ提供を目指す。AI時代の急増するデータセンター需要に応えるため、冷却設備を含む設計・施工から運営まで一貫した体制を構築する。
+
+------------------------------------------------------
+
+2. データセンターの液浸冷却 市場: グローバル展望
+   媒体: イノベーションズアイ（REPORTSINSIGHTS CONSULTING PVT LTD プレスリリース）
+   日付: 2026-04-14
+   URL: https://www.innovations-i.com/release/2452950.html
+   概要: データセンター液浸冷却市場は2026年に8億5000万米ドルに達し、2026〜2033年にCAGR 28.5%で成長する見込みとする市場調査レポートが公表された。AIサーバーの高発熱化を受け、シングルフェーズ・ツーフェーズ両方式の液浸技術への需要が急増しており、従来型空冷と比較してエネルギー消費40%削減・水使用量90%削減という効果が注目されている。
+
+------------------------------------------------------
+
+3. 「冷却技術は日本企業の強みに」 三菱商事発データセンター企業が印西市で狙う、AIインフラの覇権
+   媒体: ITmedia ビジネスオンライン
+   日付: 2026-04-09
+   URL: https://www.itmedia.co.jp/business/articles/2604/09/news057.html
+   概要: 三菱商事と米Digital Realtyの合弁会社MCデジタル・リアルティが千葉県印西市で「NRT14」データセンターを開業。NVIDIAの認証を取得した液冷対応設備を備え、空冷と液冷のハイブリッド環境を実現した最新施設だ。「冷却技術こそ日本企業の競争優位」と位置づけ、AI時代のデータセンターインフラ競争での存在感拡大を図る戦略を披露した。
+
+------------------------------------------------------
+
+【English News】
+
+1. Refroid Technologies Recognized as an 'Emerging Leader' in MarketsandMarkets' Latest 360Quadrant for the Data Center Liquid Cooling Market
+   （Refroid Technologies、データセンター液体冷却市場「新興リーダー」に認定）
+   Source: PR Newswire
+   Date: 2026-04-24
+   URL: https://www.prnewswire.com/news-releases/refroid-technologies-recognized-as-an-emerging-leader-in-marketsandmarkets-latest-360quadrant-for-the-data-center-liquid-cooling-market-302752657.html
+   Summary: Refroid Technologies has been named an Emerging Leader in the Data Center Liquid Cooling market by MarketsandMarkets in its latest 360Quadrant evaluation, recognizing the company's growing presence in delivering advanced liquid cooling solutions for high-density AI and HPC environments. The designation highlights Refroid's ability to improve energy efficiency and reduce the carbon footprint of mission-critical infrastructure as AI workloads drive unprecedented thermal management demands. This recognition comes amid accelerating enterprise adoption of liquid cooling as rack densities consistently exceed levels manageable by conventional air-based systems.
+   【日本語訳】MarketsandMarketsの最新360Quadrant評価でRefroid Technologiesがデータセンター液体冷却市場の「新興リーダー」に認定された。高密度AI・HPCインフラ向け先進液冷ソリューションの提供と、エネルギー効率改善・カーボンフットプリント削減への貢献が評価の根拠となっている。ラック密度が空冷の許容範囲を超えるデータセンターが急増する中、企業での液冷採用加速を背景に同社の革新的ポジションが改めて確認された。
+
+------------------------------------------------------
+
+2. "We said no!!": Dozens protest as construction of Project Blue data center begins
+   （「我々は反対した」：プロジェクト・ブルー データセンター建設開始に数十人が抗議）
+   Source: AZ Luminaria
+   Date: 2026-04-24
+   URL: https://azluminaria.org/2026/04/24/we-said-no-dozens-protest-as-construction-of-project-blue-data-center-begins/
+   Summary: Construction officially began on April 24 for Project Blue, a large-scale data center near the Pima County Fairgrounds in Tucson, Arizona, despite strong community opposition at the groundbreaking. Beale Infrastructure's facility is designed with a closed-loop air cooling system that continuously recirculates water, eliminating evaporative loss and minimizing industrial water consumption—a critical distinction from traditional cooling towers. The protest underscores growing tensions between rapid data center expansion and local communities concerned about environmental impacts, water use, and land use in residential areas.
+   【日本語訳】アリゾナ州ツーソンのピマ郡フェアグラウンド近くで、地域住民の強い反対にもかかわらず大規模データセンター「プロジェクト・ブルー」の建設が4月24日に始まった。Beale Infrastructureが採用する閉ループ式空冷システムは水を循環再利用し、蒸発による水損失をゼロに抑える設計で、従来の冷却塔と差別化している。急速なデータセンター拡大と、環境・水資源・住宅地への影響を懸念する地域住民との摩擦が浮き彫りとなった。
+
+------------------------------------------------------
+
+3. Data Center World 2026: Innovation Spotlight
+   （データセンター・ワールド2026：イノベーション特集）
+   Source: Data Center Frontier
+   Date: 2026-04-24
+   URL: https://www.datacenterfrontier.com/hyperscale/article/55373434/data-center-world-2026-innovation-spotlight
+   Summary: Data Center Frontier's post-event recap of Data Center World 2026 (Washington D.C., April 20–23) highlights the most impactful cooling and infrastructure announcements from the conference. Standout developments include XL Batteries' non-flammable organic flow battery platform for long-duration energy storage in AI facilities, and a new partnership between Belden and OptiCool Technologies delivering rack-integrated rear-door heat exchangers for scalable cooling in enterprise and colocation environments. The event solidified the view that advanced cooling innovation is now the primary engineering differentiator in the AI data center buildout cycle.
+   【日本語訳】Data Center Frontierによるデータセンター・ワールド2026（ワシントンD.C.、4月20〜23日）のイベントレポートで、冷却・インフラ分野の主要革新が紹介された。XL Batteriesの不燃性有機フロー電池（AIデータセンター向け長時間エネルギー貯蔵）と、Belden・OptiCool Technologiesによるラック統合型リアドア熱交換器のパートナーシップが注目を集めた。冷却技術の革新がAIデータセンター投資サイクルの主要な技術的差別化要素として定着していることを確認したイベントとなった。
+
+------------------------------------------------------
+
+4. AI Demand Is Forcing a Rethink of Data Center Power, Cooling
+   （AI需要がデータセンターの電力・冷却設計を根本から変えつつある）
+   Source: TechRepublic
+   Date: 2026-04-24
+   URL: https://www.techrepublic.com/article/news-ai-data-center-power-cooling-infrastructure-dcw/
+   Summary: TechRepublic's reporting from Data Center World 2026 details how surging AI workloads are forcing a fundamental redesign of data center cooling and power infrastructure at every level. Liquid-cooled capacity equaled air cooling in 2025 and is projected to double air cooling capacity by end of 2026, while NVIDIA's Blackwell architecture pushes individual GPU heat loads beyond 1,200 watts—a fourfold increase from 2017. Industry leaders confirmed that racks now routinely draw 50 to 120 kilowatts, rendering legacy air-cooling architectures increasingly inadequate for next-generation AI deployments.
+   【日本語訳】TechRepublicがデータセンター・ワールド2026の取材をもとに、AI負荷の爆発的増加がデータセンターの冷却・電力インフラを根本から再設計させている実態を報告した。液冷能力は2025年に空冷と並び、2026年末には空冷の2倍を超える見通し。NVIDIAのBlackwellアーキテクチャはGPU1基あたり1,200W超の発熱（2017年比4倍）を生み出し、ラック全体で50〜120kWが当たり前となった今、従来型空冷の限界が業界全体で共有されつつある。
+
+------------------------------------------------------
+
+5. Delta Unveils Integrated Power, Cooling, and Infrastructure Architecture for AI Data Centers at Data Center World 2026
+   （デルタ、DCW 2026でAIデータセンター向け電力・冷却・インフラ統合アーキテクチャを発表）
+   Source: PR Newswire (Delta Electronics)
+   Date: 2026-04-20
+   URL: https://www.prnewswire.com/news-releases/delta-unveils-integrated-power-cooling-and-infrastructure-architecture-for-ai-data-centers-at-data-center-world-2026-302746844.html
+   Summary: Delta Electronics unveiled a "grid-to-chip" infrastructure architecture for next-generation AI data centers at DCW 2026, headlined by a new 3MW Liquid-to-Liquid Coolant Distribution Unit (CDU) delivering up to 3,000 kW of cooling capacity at flow rates up to 3,000 LPM. The integrated platform supports a full spectrum of rack densities—from standard mixed workloads to ultra-high-density AI/HPC configurations—positioning the CDU as the backbone of scalable liquid cooling distribution. Delta's announcement reflects the accelerating industry-wide transition toward chip-level integrated thermal management as AI cluster densities continue to escalate globally.
+   【日本語訳】デルタエレクトロニクスがDCW 2026にて「グリッドからチップまで」のAIデータセンター向け統合インフラアーキテクチャを発表。目玉は最大3,000kW冷却能力・最大3,000LPM流量を誇る3MW液体-液体間CDU（冷却水分配装置）で、標準的な混合ワークロードから超高密度AI/HPC構成まで幅広いラック密度に対応する。AIクラスタ密度が世界規模で上昇し続ける中、チップレベル統合型の熱管理アーキテクチャへの業界シフトを象徴する発表となった。
+
+======================================================
+レポート生成日時: 2026-04-25
+対象期間: 2026-04-24 〜 2026-04-25
