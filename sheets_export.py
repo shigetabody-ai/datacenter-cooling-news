@@ -21,6 +21,7 @@ from google.oauth2.service_account import Credentials
 
 # ===== 設定 =====
 SPREADSHEET_ID = "1KaQdI4KJG-r0_V5qPed0qxkKUrnHV5C_6xv3n_lTPec"
+SHEET_NAME = "記事DB"
 REPORTS_DIR = Path("reports")
 DAYS = 7
 
@@ -185,24 +186,27 @@ def main():
         print(f"  {p.name}: {len(arts)}件")
     print(f"  合計: {len(all_articles)}件")
 
-    # 既存URLを収集（全シート横断で重複チェック）
+    # 「記事DB」シートの取得または作成
+    try:
+        ws = spreadsheet.worksheet(SHEET_NAME)
+        print(f"シート '{SHEET_NAME}' に接続")
+    except gspread.WorksheetNotFound:
+        ws = spreadsheet.add_worksheet(title=SHEET_NAME, rows=1000, cols=len(HEADERS))
+        ws.append_row(HEADERS)
+        print(f"シート '{SHEET_NAME}' を新規作成しました")
+
+    # 既存URLを収集（重複チェック）
     existing_urls: set[str] = set()
-    for ws in spreadsheet.worksheets():
-        try:
-            data = ws.get_all_values()
-            if not data:
-                continue
-            header = data[0]
-            if "URL" not in header:
-                continue
+    data = ws.get_all_values()
+    if len(data) > 1:
+        header = data[0]
+        if "URL" in header:
             url_idx = header.index("URL")
             for row in data[1:]:
                 if url_idx < len(row) and row[url_idx]:
                     existing_urls.add(normalize_url(row[url_idx]))
-        except Exception as e:
-            print(f"  警告: シート '{ws.title}' の読み込みエラー: {e}")
 
-    print(f"\n既存URL数: {len(existing_urls)}件")
+    print(f"既存URL数: {len(existing_urls)}件")
 
     # 重複除去
     new_articles, skipped, seen = [], 0, set()
@@ -217,30 +221,17 @@ def main():
         seen.add(url_norm)
         new_articles.append(art)
 
-    print(f"重複スキップ: {skipped}件 / 新規追記対象: {len(new_articles)}件")
+    print(f"重複スキップ: {skipped}件 / 新規追加対象: {len(new_articles)}件")
 
     if not new_articles:
         print("\n追加すべき新規記事がありません（全て既登録）")
         sys.exit(0)
 
-    # 週次シート名（ISO週番号）
-    year, week, _ = datetime.now().isocalendar()
-    sheet_name = f"{year}-W{week:02d}"
-
-    # シートの取得または作成
-    try:
-        ws = spreadsheet.worksheet(sheet_name)
-        print(f"\n既存シート '{sheet_name}' に追記します")
-    except gspread.WorksheetNotFound:
-        ws = spreadsheet.add_worksheet(title=sheet_name, rows=500, cols=len(HEADERS))
-        ws.append_row(HEADERS)
-        print(f"\n新規シート '{sheet_name}' を作成しました")
-
-    # データ書き込み（バッチ）
+    # 一番下の行に追記
     rows = [[str(art.get(k, "")) for k in KEYS] for art in new_articles]
     ws.append_rows(rows, value_input_option="USER_ENTERED")
 
-    print(f"\n完了: シート '{sheet_name}' に {len(new_articles)}件を追記")
+    print(f"\n完了: シート '{SHEET_NAME}' の最終行に {len(new_articles)}件を追加")
     print(f"URL: https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}")
 
 
