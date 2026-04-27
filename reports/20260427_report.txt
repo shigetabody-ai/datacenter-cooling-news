@@ -1,0 +1,146 @@
+データセンター冷却 日次ニュースレポート 2026-04-27
+======================================================
+
+【日本語ニュース】
+
+1. 「データセンター」の中ってどうなってるの？ 潜入して分かった、生成AIを支える「冷却技術の進化」
+   媒体: ITmedia ビジネスオンライン
+   日付: 2026-04-09
+   URL: https://www.itmedia.co.jp/business/articles/2604/09/news045.html
+   概要: 生成AIを支えるデータセンター内部に密着取材し、従来の空冷方式では限界を迎えるAIサーバーの
+         高発熱問題を解説。ダイレクト・トゥ・チップ冷却や液浸冷却など最新技術の実装状況を現場視点で
+         紹介し、冷却技術がデータセンター運営の根幹に位置づけられるようになった経緯を詳述している。
+
+------------------------------------------------------
+
+2. AIサーバーの効率的な冷却を実現する「AImod」、IIJ、PFN、JAISTが共同で実証
+   媒体: クラウドWatch (Impress)
+   日付: 2026-03-23
+   URL: https://cloud.watch.impress.co.jp/docs/news/2096544.html
+   概要: IIJ・Preferred Networks・JAISTの3者が共同で、直接水冷方式を採用した高密度AIサーバー向け
+         モジュール型データセンター「AImod」を白井データセンターキャンパスに設置し2026年4月から
+         本格運用を開始。設計PUEは1.1（フリークーリング時）、設計WUEは実質ゼロを達成し、大規模AI
+         計算基盤の次世代参照モデルとして位置づけられている。
+
+------------------------------------------------------
+
+3. ダイキン工業、サーバー冷却とチップ液冷を手中に データセンター攻略
+   媒体: 日経クロステック
+   日付: 2026-04月
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業がスタートアップ買収で取得したサーバー冷却装置と半導体チップ液冷装置を2026年春から
+         量産開始。AIデータセンター向けに空調からチップレベルまで一貫した冷却ソリューション事業を
+         立ち上げ、AWS・Google・Microsoftなど大手クラウド事業者への採用拡大を戦略的に目指している。
+
+------------------------------------------------------
+
+4. 次世代AI向け国産水冷データセンター、密閉循環で水使用効率を実質的ゼロへ
+   媒体: MONOist (ITmedia)
+   日付: 2026-03-31
+   URL: https://monoist.itmedia.co.jp/mn/articles/2603/31/news063.html
+   概要: 国産の高密度AI向け水冷データセンターが密閉循環冷却システムを採用し、外部への水の蒸発・排出を
+         抑制することでWUE（水使用効率）を実質ゼロに近づける設計を実現したと報告。PUEを1.1台に抑え
+         ながら大容量AIワークロードを支え、電力・水資源両面から持続可能な運営モデルを提示した。
+
+------------------------------------------------------
+
+【English News】
+
+1. LG Electronics Showcases AI Data Center Cooling Solutions at Data Center World 2026
+   （LGエレクトロニクス、「データセンター・ワールド2026」でAIデータセンター向け冷却ソリューションを披露）
+   Source: LG Nova
+   Date: 2026-04-21
+   URL: https://www.lgnova.com/news/lg-electronics-showcases-ai-data-center-cooling-solutions-at-data-center-world-2026
+   Summary: LG Electronics demonstrated its comprehensive AI data center cooling portfolio at Data Center
+            World 2026 in Washington, D.C. (April 20-23), featuring Direct-to-Chip (DTC) cooling systems,
+            immersion cooling tanks co-developed with Green Revolution Cooling (GRC), and AI-driven
+            workload orchestration platforms. The company also showcased cooling fluids jointly developed
+            with SK Enmove and its integrated DCCM software for managing diverse cooling environments.
+            LG's presentation highlighted how integrated thermal intelligence is becoming the foundation
+            for next-generation AI data center operations.
+   【日本語訳】LGエレクトロニクスはワシントンD.C.開催のデータセンター・ワールド2026（4月20〜23日）にて、
+              AIデータセンター向け統合冷却ポートフォリオを披露した。GRCとの共同開発による液浸冷却タンク、
+              SK Enmoveとの合同開発冷却液、ダイレクト・トゥ・チップ（DTC）冷却システム、DCCM統合管理
+              ソフトウェアなどを展示し、次世代AIデータセンター運営における統合熱管理の重要性を示した。
+
+------------------------------------------------------
+
+2. Top 10: Direct to Chip Cooling Companies
+   （ダイレクト・トゥ・チップ冷却企業トップ10）
+   Source: Data Centre Magazine
+   Date: 2026-04-22
+   URL: https://datacentremagazine.com/top10/top-10-direct-to-chip-cooling-companies-22-04-2026
+   Summary: Data Centre Magazine ranked the top 10 direct-to-chip (DTC) cooling companies leading the
+            liquid cooling market, with JetCool, Schneider Electric, and LiquidStack among the
+            frontrunners in high-density AI and HPC thermal management. The article documents how DTC
+            technology is rapidly becoming the default cooling architecture for racks exceeding 50-120 kW,
+            as AI accelerator densities continue to climb. The rankings reflect the accelerating enterprise
+            adoption of liquid cooling as traditional air-based systems struggle to meet next-generation
+            workload demands.
+   【日本語訳】データセンター・マガジンが液冷市場をリードするダイレクト・トゥ・チップ（DTC）冷却企業
+              トップ10を発表。JetCool、シュナイダーエレクトリック、LiquidStackらが高密度AI・HPC向け
+              熱管理分野の最前線をリード。AIアクセラレータの密度上昇に伴い50〜120kWを超えるラックへの
+              DTC冷却採用が加速しており、従来型空冷の限界を補う液冷標準化の進展が示されている。
+
+------------------------------------------------------
+
+3. Data-Center Cooling Stocks Sink in China on Competition Concerns
+   （競争激化懸念で中国のデータセンター冷却関連株が急落）
+   Source: Bloomberg
+   Date: 2026-04-21
+   URL: https://www.bloomberg.com/news/articles/2026-04-21/data-center-cooling-stocks-sink-in-china-on-competition-concerns
+   Summary: Shares of Chinese liquid-cooling providers tumbled after a leading company's quarterly results
+            missed analyst expectations, triggering fears of intensifying competition in China's data
+            center cooling segment. The decline highlighted investor concerns about margin compression
+            as multiple domestic and international vendors race to capture share in China's rapidly
+            expanding AI data center buildout. The episode underscores the growing strategic importance
+            and competitive risks of the global liquid cooling market as AI infrastructure spending
+            accelerates.
+   【日本語訳】中国の主要液冷メーカーが市場予想を下回る四半期業績を発表したことを受け、競争激化への
+              懸念から中国の液冷関連株が大幅下落した。複数の国内外ベンダーが急成長する中国AIデータセンター
+              市場でシェア争いを繰り広げる中、マージン圧迫リスクへの投資家不安が浮き彫りとなった。
+              世界の液冷市場が戦略的に重要視される一方、競争環境の激化が課題として顕在化している。
+
+------------------------------------------------------
+
+4. Data Center Liquid Cooling Market Size to Reach USD 13.05 Billion by 2032 as AI Rack Density,
+   Hyperscale Expansion, and Direct-to-Chip Deployments Accelerate
+   （AI高密度・ハイパースケール拡大・DTC普及が加速、液体冷却市場2032年に130億ドルへ）
+   Source: OpenPR
+   Date: 2026-04-16
+   URL: https://www.openpr.com/news/4475192/data-center-liquid-cooling-market-size-to-reach-usd-13-05-billion
+   Summary: A new market research report projects the global Data Center Liquid Cooling Market will grow
+            from USD 2.80 billion in 2024 to USD 13.05 billion by 2032, advancing at a CAGR of 21.21%
+            during 2025-2032. Key growth drivers include surging AI rack densities, accelerating
+            hyperscale data center deployments, and rapid proliferation of direct-to-chip cooling
+            solutions across North America, Europe, and Asia-Pacific. Direct-to-chip liquid cooling,
+            immersion cooling tanks, and CDU-based distribution systems are the three primary technology
+            segments driving market expansion.
+   【日本語訳】新市場調査によると、世界のデータセンター液体冷却市場は2024年の28億ドルから2032年に
+              130億5000万ドルへ、CAGR 21.21%で拡大する見通し。AIラック密度の急上昇、ハイパースケール
+              データセンターの拡張加速、ダイレクト・トゥ・チップ（DTC）冷却の普及が主要ドライバー。
+              DTC液冷・液浸冷却タンク・CDUベース分配システムの3セグメントが市場をけん引する。
+
+------------------------------------------------------
+
+5. AI Pushes Cooling to the Forefront of Data Center Design
+   （AIが冷却をデータセンター設計の最優先課題に押し上げる）
+   Source: Data Center Knowledge
+   Date: 2026-04月
+   URL: https://www.datacenterknowledge.com/cooling/cooling-becomes-the-system-constraint-as-ai-reshapes-data-center-design
+   Summary: Data Center Knowledge analysis explains how AI workloads have transformed cooling from a
+            secondary facility concern into the primary system constraint governing data center
+            architecture and operations. With AI racks drawing 50-120 kW and NVIDIA's Blackwell GPUs
+            generating over 1,200 watts per chip, facilities managers must re-engineer power delivery
+            and liquid cooling loop integration from the ground up. Tighter coupling between IT
+            infrastructure and thermal management is now an operational necessity rather than an
+            optional enhancement for AI-era data centers.
+   【日本語訳】Data Center Knowledgeの分析記事によると、AIワークロードの普及により冷却技術はデータ
+              センター設計における二次的な設備要素から、アーキテクチャ全体を規定する最優先制約へと変貌した。
+              AIラックが50〜120kW、NVIDIAのBlackwell GPUが1チップあたり1,200W超を発熱する現状では、
+              電力供給から液冷ループ統合まで施設全体の再設計が避けられない。IT設備と熱管理システムの
+              緊密な統合が、AIデータセンター時代の運営における必須要件として確立されている。
+
+======================================================
+レポート生成日時: 2026-04-27
+対象期間: 2026-04-26 〜 2026-04-27
