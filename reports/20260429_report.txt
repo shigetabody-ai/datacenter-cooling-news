@@ -1,0 +1,103 @@
+データセンター冷却 日次ニュースレポート 2026-04-29
+======================================================
+
+【日本語ニュース】
+
+1. NTTドコモビジネス、先端半導体企業Rapidus向けに液冷データセンター「Green Nexcenter®」を提供
+   媒体: NTTドコモビジネス プレスリリース
+   日付: 2026-04-27
+   URL: https://www.ntt.com/about-us/press-releases/news/article/2026/0427_2.html
+   概要: NTTドコモビジネスが、先端半導体の研究・開発・製造を手掛けるRapidus株式会社に対し、生成AIや
+         半導体開発向けの超高発熱サーバー冷却に最適な液冷方式データセンター「Green Nexcenter®」を提供
+         すると発表した。液冷方式では空冷比で冷却用消費電力を最大60%削減でき、AI時代の高密度コンピュー
+         ティング需要に対応する。
+
+------------------------------------------------------
+
+2. NTT、国内データセンターを3倍以上に拡張 東京・品川区でも「液冷方式」データセンター建設へ
+   媒体: TBS NEWS DIG（dメニューニュース）
+   日付: 2026-04-28
+   URL: https://topics.smt.docomo.ne.jp/article/tbs/business/tbs-2629101
+   概要: NTT島田社長が「新たなインフラへの転換が必要」と語り、国内データセンター規模の3倍超拡張を
+         発表。東京・品川区に「液冷方式」のAIデータセンターを建設し2029年度下半期にサービス開始予定。
+         液冷採用による消費電力削減と、AI推論需要への対応を両立させる計画だ。
+
+------------------------------------------------------
+
+3. NTTグループ4社、AIネイティブインフラ「AIOWN」の展開を発表——2033年度に向けてIT電力容量を3倍の約1GWに拡張
+   媒体: Data Center Café
+   日付: 2026-04-28
+   URL: https://cafe-dc.com/japan/ntt-group-4-companies-announce-ai-native-infrastructure-aiown-plan-to-triple-it-power-capacity-to-about-1gw-by-fy2033/
+   概要: NTT・NTTデータグループ・NTTドコモビジネス・NTT Comの4社がAIネイティブインフラ「AIOWN（エー
+         アイオン）」の展開を発表。IT電力容量を2033年度に現在の約300MWから約1GWへ3倍以上拡張する計画
+         を公表した。液冷標準のAIデータセンターを新設するほか、既存拠点でも液冷対応を順次拡大する。
+
+------------------------------------------------------
+
+4. NTTが国内データセンターを3倍超へ AI需要で電力と冷却が焦点
+   媒体: FP Trendy
+   日付: 2026-04-28
+   URL: https://www.fptrendy.com/2026/04/28/ntt-ai-datacenter-expansion/
+   概要: NTTのAIOWN発表を受け、AI需要急増に伴うデータセンター電力確保と液冷効率の最大化が最重要課題
+         となっていることを報告。液冷方式の採用により消費電力を大幅に削減しながら、データセンター受電
+         容量を約1GWへ拡張する計画の背景と技術的課題を詳述している。
+
+------------------------------------------------------
+
+【English News】
+
+1. UNICOM Engineering and Fourier Cooling Collaborate to Deliver Cooling-Defined Modular AI Data Center Infrastructure
+   （UNICOM エンジニアリングとFourier Coolingが冷却ファーストのモジュール型AIデータセンター基盤で提携）
+   Source: GlobeNewswire
+   Date: 2026-04-28
+   URL: https://www.globenewswire.com/news-release/2026/04/28/3282409/0/en/UNICOM-Engineering-and-Fourier-Cooling-Collaborate-to-Deliver-Cooling-Defined-Modular-AI-Data-Center-Infrastructure.html
+   Summary: UNICOM Engineering and Fourier Cooling Solutions announced a strategic collaboration to deliver
+            modular, liquid-cooled AI data center infrastructure engineered around GPU thermal demands.
+            Fourier's prefabricated, containerized platforms support direct-to-chip, immersion, and hybrid
+            fan-wall cooling designs and can deliver 30 MW of turnkey liquid-cooled capacity in as little as
+            six months. Fourier reports over 600 MW of deployed and in-progress liquid-cooled infrastructure
+            globally.
+   【日本語訳】UNICOM EngineeringとFourier Cooling SolutionsがGPUの熱需要に対応したモジュール型液冷AI
+              データセンター基盤の提供で戦略的提携を発表。Fourierのプリファブ・コンテナ型プラットフォームは
+              ダイレクト・トゥ・チップ・液浸・ハイブリッドファンウォール冷却に対応し、最短6ヶ月で30MWの
+              ターンキー液冷キャパシティを提供可能。同社は世界で600MW超の液冷インフラを展開・進行中と報告。
+
+------------------------------------------------------
+
+2. Carrier Ventures Expands Investment in ZutaCore to Scale Liquid Cooling for AI Data Centers
+   （Carrier VenturesがZutaCoreへの追加投資を拡大——AIデータセンター向け液冷ソリューションのスケールアップへ）
+   Source: Carrier Global (press release)
+   Date: 2026-04-29
+   URL: https://www.carrier.com/us/en/news/carrierventures-expands-investment-in-zutacore-to-scale-liquid-cooling-for-ai-data-centers/
+   Summary: Carrier Global's venture arm expanded its investment in ZutaCore, a direct-to-chip waterless
+            liquid cooling solutions provider. ZutaCore's HyperCool® technology uses a closed-loop, two-phase
+            system to capture and remove heat directly at the chip level, enabling higher-density AI compute
+            while improving energy efficiency. This follow-on investment builds on Carrier's 2025 stake,
+            reflecting growing urgency as AI chip power densities continue to surge beyond air cooling limits.
+   【日本語訳】Carrier GlobalのベンチャーアームであるCarrier VenturesがZutaCore社への追加投資を実施。
+              ZutaCoreのHyperCool®はクローズドループ二相システムでチップレベルの熱を直接除去する無水液冷
+              技術が特徴。2025年の初回出資に続く追加投資で、AIチップの消費電力密度が空冷限界を超えて上昇
+              し続ける中、液冷インフラの拡大を加速させる。
+
+------------------------------------------------------
+
+3. AI Data Center Cooling Infrastructure Market to Reach US$ 44.06 Billion by 2032 as the United States and Japan Define the Next Standard for High-Density AI Infrastructure
+   （AIデータセンター冷却インフラ市場、2032年までに440億ドル超へ——米国・日本が高密度AI基盤の次世代標準を主導）
+   Source: OpenPR
+   Date: 2026-04-28
+   URL: https://www.openpr.com/news/4478471/ai-data-center-cooling-infrastructure-market-to-reach-us-44-06
+   Summary: A new market intelligence report projects the global AI data center cooling infrastructure market
+            will reach US$ 44.06 billion by 2032, driven by soaring GPU rack densities and tightening energy
+            efficiency regulations. The United States leads with the largest hyperscale investment in liquid
+            cooling deployments, while Japan has positioned immersion cooling as a national energy efficiency
+            priority under its updated 2026 energy framework. Liquid-to-chip and immersion cooling are
+            identified as the dominant growth vectors as AI GPU rack densities consistently exceed 200 kW.
+   【日本語訳】最新の市場調査レポートによると、世界のAIデータセンター冷却インフラ市場はGPUラック密度の急上昇
+              とエネルギー効率規制強化を背景に、2032年までに440億ドル超に達する見通し。米国がハイパースケール
+              液冷投資でトップを走り、日本は2026年エネルギー基本計画の改訂のもと液浸冷却を国家的なエネルギー
+              効率優先事項に位置付けた。AIのGPUラック密度が200kWを超え続ける中、液体−チップ間冷却と液浸冷却
+              が主要な成長ベクターとして注目されている。
+
+======================================================
+レポート生成日時: 2026-04-29
+対象期間: 2026-04-28 〜 2026-04-29
