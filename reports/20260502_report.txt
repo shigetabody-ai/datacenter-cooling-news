@@ -1,0 +1,119 @@
+データセンター冷却 日次ニュースレポート 2026-05-02
+======================================================
+
+【日本語ニュース】
+
+1. NTTドコモビジネス、最先端半導体企業Rapidusへ液冷データセンターを提供
+   媒体: NTTドコモビジネス 企業情報
+   日付: 2026-04-27
+   URL: https://www.ntt.com/about-us/press-releases/news/article/2026/0427_2.html
+   概要: NTTドコモビジネスが最先端半導体企業Rapidusに対し、生成AI向け超高発熱サーバー冷却に最適な
+         液冷方式データセンター「Green Nexcenter」を提供すると発表。Rapidusの設計・検証・製造
+         プロセスでの大規模計算処理を高速かつ安定的に実行できる環境を整備し、半導体開発の
+         TAT（Turn Around Time）短縮に貢献する。NTTドコモビジネスはAI対応型液冷データセンターの
+         供給体制をさらに強化する方針。
+
+------------------------------------------------------
+
+2. NTTデータグループ、AIネイティブインフラ「AIOWN」を展開——液冷で冷却消費電力最大60%削減
+   媒体: NTTデータグループ
+   日付: 2026-04-27
+   URL: https://www.nttdata.com/global/ja/news/topics/2026/042700/
+   概要: NTTデータグループがAI活用に最適化された自律型リソース管理・オペレーション基盤「AIOWN」を
+         発表した。液冷方式GPUサーバーを1ラックに複数台搭載でき、空冷方式比で冷却消費電力を最大60%
+         削減可能。NTTドコモビジネスが東京都心部に建設中のAIデータセンター（2029年度下半期サービス
+         開始予定）も液冷標準設計を採用し、高密度AI基盤の整備を加速する。
+
+------------------------------------------------------
+
+3. 日本データセンター冷却市場、2035年に21億5227万米ドル到達——CAGR11.58%で高効率液冷技術が牽引
+   媒体: NEWSCAST / atpress
+   日付: 2026-05-01
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: 最新市場調査によると、日本のデータセンター冷却市場は2025年の7億1950万米ドルから2035年には
+         21億5227万米ドルへ、CAGR11.58%で拡大する見通し。ハイパースケールデータセンター増設の加速と
+         従来型空冷から液冷へのシフト本格化が主要ドライバー。グリーンデータセンターへの投資拡大も
+         市場成長を後押しする要因として挙げられている。
+
+------------------------------------------------------
+
+【English News】
+
+1. The Breaking Points: Cooling Struggles to Keep Pace With AI Power Density
+   （冷却の転換点：AI電力密度に追いつけない冷却インフラの限界）
+   Source: Data Center Knowledge
+   Date: 2026-05-01
+   URL: https://www.datacenterknowledge.com/cooling/the-breaking-points-cooling-struggles-to-keep-pace-with-ai-density
+   Summary: As AI deployments move beyond early pilots, thermal management has emerged as the defining
+            bottleneck for modern data center infrastructure. Facilities now face rack densities exceeding
+            200 kW, with next-generation designs already targeting 400 kW and beyond, rendering traditional
+            air cooling fundamentally inadequate at scale. McKinsey's Soren Jautelat argues cooling must
+            be treated as a "system-integration challenge" rather than a component choice—a paradigm shift
+            reshaping deployment timelines, facility architecture, and site selection across the industry.
+   【日本語訳】AIデプロイメントが実証段階を超えて本格拡大する中、熱管理が現代のデータセンターインフラ
+              における最大のボトルネックとして浮上している。すでにラック密度が200kWを超える施設が登場し、
+              次世代設計は400kW以上を視野に入れており、従来型空冷は根本的な限界に直面している。
+              マッキンゼーの専門家は冷却を単なる機器選択ではなく「システム統合の課題」として捉えるべきと
+              指摘しており、施設設計・立地選定・展開スケジュール全体に大きな影響を与えている。
+
+------------------------------------------------------
+
+2. Switch Announces Plans for Data Center Campus Outside Pittsburgh, Pennsylvania
+   （スイッチ社、ピッツバーグ郊外にゼロウォーター冷却型データセンターキャンパスを計画）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-01
+   URL: https://www.datacenterdynamics.com/en/news/switch-announces-plans-for-data-center-campus-outside-pittsburgh-pennsylvania/
+   Summary: Switch announced plans for a 382-acre data center campus in Big Beaver Borough, Beaver County,
+            Pennsylvania, around 40 miles northwest of Pittsburgh. The standout feature is Switch's
+            proprietary closed-loop cooling system that recycles water, consuming zero water to cool
+            servers and GPUs. The project marks Switch's entry into Pennsylvania and demonstrates a
+            sustainable cooling approach in response to growing regulatory and stakeholder scrutiny over
+            data center water consumption.
+   【日本語訳】スイッチ社がペンシルバニア州ビーバー郡ビッグビーバー・バラ（ピッツバーグ郊外約64km）に
+              382エーカー規模のデータセンターキャンパスを計画していると発表した。最大の特徴は同社独自の
+              閉ループ水循環冷却システムで、サーバー・GPU冷却において水消費をゼロに抑える。本プロジェクトは
+              スイッチ社のペンシルバニア進出を意味するとともに、データセンターの水消費に対する規制・
+              ステークホルダー圧力の高まりに応えるサステナブルな冷却モデルとして注目される。
+
+------------------------------------------------------
+
+3. How Data Center Cooling Could Become More Manageable
+   （データセンター冷却を「管理しやすく」する革新的アプローチ）
+   Source: Facilities Dive
+   Date: 2026-05-01
+   URL: https://www.facilitiesdive.com/news/how-data-center-cooling-could-become-more-manageable/812051/
+   Summary: A Facilities Dive analysis examines how innovation—including closed-loop systems, AI-driven
+            DCIM platforms, and modular cooling deployments—is making thermal management more tractable
+            even as AI workloads drive unprecedented rack densities. Prime Data Centers has earned Energy
+            Star recognition for hybrid air-and-liquid cooling facilities in Dallas and Sacramento.
+            The report emphasizes that effective cooling management is now a strategic enterprise concern
+            requiring integration with IT operations and resilience planning, not just a facilities-team
+            responsibility.
+   【日本語訳】Facilities Diveの分析によると、閉ループシステム・AI統合DCIMプラットフォーム・モジュール
+              展開といった冷却技術革新により、AIワークロードがラック密度を前例なく押し上げる中でも熱管理の
+              実現可能性が高まっている。Prime Data Centersはダラスとサクラメントのハイブリッド空冷・液冷
+              施設でEnergy Star認定を取得。冷却管理の有効性は施設チームの責任を超え、ITオペレーションや
+              レジリエンス計画と統合された経営レベルの戦略課題として位置づける必要があると指摘している。
+
+------------------------------------------------------
+
+4. Munters Wins Order of BSEK 2.0 for a Modular AI Cooling Solution
+   （マンタース、AIファクトリー向けモジュール型冷却ソリューションで約SEK20億の大型受注）
+   Source: Munters
+   Date: 2026-04-30
+   URL: https://www.munters.com/en-us/news-media/press-releases/2026/munters-wins-order-of-bsek-2.0-for-a-modular-ai-cooling-solution
+   Summary: Munters received an order worth approximately SEK 2 billion (around USD 190 million) from a
+            U.S. colocation customer for a new modular cooling platform purpose-built for an AI factory
+            deployment, combining high-capacity CDUs with CRAHs positioned above server racks. The order
+            is included in Q2 2026 order intake and is expected to be delivered during 2026. This
+            represents one of Munters' largest single cooling orders and underscores surging demand for
+            high-density thermal management solutions as global AI data center buildouts accelerate.
+   【日本語訳】マンタースが米国のコロケーション顧客から、AIファクトリー向けに設計されたモジュール型冷却
+              プラットフォームとして約SEK20億（約1億9000万米ドル）の大型受注を獲得した。高容量CDUと
+              サーバーラック上部に設置するCRAHユニットを組み合わせた新型プラットフォームで、2026年度内の
+              納入が予定され、2026年第2四半期の受注額に計上される。世界的なAIデータセンター建設ラッシュを
+              背景に、高密度熱管理ソリューションへの需要急増を示す大型受注となった。
+
+======================================================
+レポート生成日時: 2026-05-02
+対象期間: 2026-05-01 〜 2026-05-02
