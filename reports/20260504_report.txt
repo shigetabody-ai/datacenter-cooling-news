@@ -1,0 +1,121 @@
+データセンター冷却 日次ニュースレポート 2026-05-04
+======================================================
+
+【日本語ニュース】
+
+1. NVIDIAのVera Rubinが実現した「温水冷却」の衝撃により空調関連株が急落
+   媒体: XenoSpectrum
+   日付: 2026-05-03
+   URL: https://xenospectrum.com/nvidia-vera-rubin-hot-water-cooling-hvac-stock-drop/
+   概要: NVIDIAの次世代AI GPU「Vera Rubin」が45℃の温水で冷却でき、従来のチラーが不要になるという
+         Jensen Huang CEOの発言を受け、Modine Manufacturing（－7.5%）、Johnson Controls（－6.2%）、
+         Trane Technologies（－5.3%）など空調・HVAC関連株が大幅下落。単相ダイレクト液冷（DLC）で
+         チラーレス運用が可能となるVera Rubinは、データセンター冷却設備の在り方を根本から変えると
+         業界アナリストは指摘している。
+
+------------------------------------------------------
+
+2. Vera Rubinの温水冷却技術発表がHVAC株下落を引き起こす
+   媒体: Data Center Café（日本語版）
+   日付: 2026-05-02
+   URL: https://cafe-dc.com/energy/vera-rubin-hot-water-cooling-reveal-triggers-hvac-share-drop/
+   概要: データセンター専門メディアData Center CaféがNVIDIAのVera Rubin温水冷却技術に関する最新動向を
+         日本語でレポート。45℃温水による冷却でチラー設備が不要となる新アーキテクチャを詳説し、
+         既存の空冷・チラー設備への設備投資がどう変化するかを分析。AIデータセンター建設ラッシュが
+         続く中、冷却設備選定の戦略的転換点として注目されると解説している。
+
+------------------------------------------------------
+
+3. パナソニック、データセンターの液体冷却システム 欧州で受注開始
+   媒体: 日本経済新聞
+   日付: 2026-03-04
+   URL: https://www.nikkei.com/article/DGXZQOUF027FB0S6A300C2000000/
+   概要: パナソニック空質空調社が欧州市場で生成AIデータセンター向け冷却液分配ユニット（CDU）2機種
+         （400kW・800kW）とフリークーリングチラー2機種（800kW・1,200kW）の受注を開始したと発表。
+         生成AIサーバーの急増する発熱量に対応する高効率液体冷却ソリューションを欧州の
+         データセンター事業者に提供する。
+
+------------------------------------------------------
+
+【English News】
+
+1. Data Center Humidifiers: What They Do and How to Choose
+   （データセンター加湿器：機能と最適な選び方）
+   Source: Data Center Knowledge
+   Date: 2026-05-04
+   URL: https://www.datacenterknowledge.com/cooling/data-center-humidifiers-what-they-do-and-how-to-choose
+   Summary: Christopher Tozzi examines the four main humidification methods—isothermal (steam),
+            ultrasonic, nozzle (high-pressure), and adiabatic (evaporative)—and their critical role
+            alongside thermal cooling systems in data centers. IT equipment performs better with
+            moderately higher humidity, and humidity management is as vital as temperature control
+            for uptime and equipment longevity. Given tightening power budgets in AI-era data centers,
+            lower-energy approaches such as ultrasonic and adiabatic systems are increasingly favored
+            over energy-intensive steam humidifiers.
+   【日本語訳】Christopher Tozzi氏が、データセンターにおける4種類の加湿方式（等温式・超音波式・
+              高圧ノズル式・気化式）を詳解。適切な湿度管理は冷却と同様に稼働率と機器寿命を左右する
+              重要な運用要素であり、AI時代のデータセンターで電力制約が高まる中、超音波式・気化式など
+              低エネルギー方式の採用が蒸気式に比べて優位になりつつある実態をまとめた。
+
+------------------------------------------------------
+
+2. Higher Loads, Faster Builds: 6 Data Center Trends in 2026
+   （高負荷・高速建設：2026年のデータセンターを定義する6大トレンド）
+   Source: Data Center Knowledge
+   Date: 2026-05-04
+   URL: https://www.datacenterknowledge.com/data-center-construction/higher-loads-faster-builds-six-trends-defining-data-centers-in-2026
+   Summary: Data Center Knowledge identifies six key trends reshaping data center construction in 2026,
+            with rising power density at the center. Accelerated AI compute systems are pushing rack
+            loads toward 200 kW and beyond, forcing simultaneous overhauls of power distribution,
+            cooling infrastructure, and structural engineering. Liquid cooling adoption, modular
+            prefabricated builds, shortened deployment timelines, and increasingly aggressive sustainability
+            targets are identified as the defining forces driving unprecedented capital expenditure
+            across the global data center sector.
+   【日本語訳】Data Center Knowledgeが2026年のデータセンター建設を定義する6大トレンドを分析。AIコンピュート
+              の高性能化でラック負荷が200kW超へ向かう中、電力分配・冷却インフラ・構造設計の同時刷新が
+              不可避となっている。液冷の本格普及、プレハブ型モジュール建設の加速、導入工期の大幅短縮、
+              そしてサステナビリティ目標の高度化が世界規模の設備投資拡大を牽引する主要ドライバーとして
+              分析されている。
+
+------------------------------------------------------
+
+3. Vera Rubin Hot Water Cooling Reveal Triggers HVAC Share Drop
+   （Vera Rubin温水冷却発表がHVAC株急落を引き起こす）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-03
+   URL: https://www.datacenterdynamics.com/en/news/vera-rubin-hot-water-cooling-reveal-triggers-hvac-share-drop/
+   Summary: Data Center Dynamics reports that NVIDIA CEO Jensen Huang's disclosure that Vera Rubin GPU
+            systems can operate with 45°C hot-water cooling—with no traditional chillers required—
+            immediately triggered a market selloff among HVAC companies: Modine Manufacturing fell
+            7.5%, Johnson Controls 6.2%, Trane Technologies 5.3%, and Carrier Global 1%. The
+            Vera Rubin NVL72 leverages single-phase direct-to-chip liquid cooling with a 45°C supply
+            temperature, allowing facilities to cool water using ambient air rather than energy-intensive
+            refrigerant-based chiller systems, sharply reducing cooling capital and operating costs.
+   【日本語訳】Data Center DynamicsがNVIDIA CEO Jensen Huang氏の発言をレポート。Vera Rubin GPUシステムが
+              45℃の温水で冷却可能で従来型チラーが不要となることが明らかになり、Modine Manufacturing
+              （－7.5%）・Johnson Controls（－6.2%）・Trane Technologies（－5.3%）などHVAC株が急落した。
+              Vera Rubin NVL72は単相ダイレクト液冷と45℃供給温度を採用し、外気で水冷が可能となる
+              ため、冷却設備の資本コストと運用コストを大幅に削減できる。
+
+------------------------------------------------------
+
+4. No Chillers Needed for Vera Rubin Server Racks: Nvidia CEO
+   （Vera RubinサーバーラックにチラーはもはやいらないとNVIDIA CEOが宣言）
+   Source: Facilities Dive
+   Date: 2026-04-30
+   URL: https://www.facilitiesdive.com/news/no-chillers-needed-for-vera-rubin-server-racks-nvidia-ceo/809216/
+   Summary: Facilities Dive covers Jensen Huang's declaration that NVIDIA's Vera Rubin server systems
+            will not require water chillers—a transformative statement for data center facility planners.
+            The Vera Rubin NVL72 uses warm-water direct liquid cooling at 45°C supply temperature,
+            allowing cooling with ambient air alone and eliminating the largest energy draw in
+            conventional data center HVAC. Facilities professionals are reassessing capital plans for
+            chiller plants, cooling towers, and associated mechanical infrastructure as AI GPU
+            generations continue to evolve away from traditional air-handling paradigms.
+   【日本語訳】Facilities DiveがNVIDIA CEO Jensen Huang氏の宣言を報道：Vera Rubinサーバーシステムでは
+              チラー設備が不要になる。Vera Rubin NVL72は45℃の温水ダイレクト液冷を採用し、外気冷却のみで
+              運用可能なため、従来型データセンターHVACで最大のエネルギー消費源だったチラープラントの
+              撤廃を可能にする。施設管理担当者はチラープラント・冷却塔・空調関連設備の資本投資計画を
+              抜本的に見直すよう求められている状況だ。
+
+======================================================
+レポート生成日時: 2026-05-04
+対象期間: 2026-05-03 〜 2026-05-04
