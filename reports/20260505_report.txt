@@ -1,0 +1,118 @@
+データセンター冷却 日次ニュースレポート 2026-05-05
+======================================================
+
+【日本語ニュース】
+
+1. ヘリオス傘下のFaster、データセンター向け液体冷却製品を発売
+   媒体: Investing.com 日本語版
+   日付: 2026-05-04
+   URL: https://jp.investing.com/news/company-news/article-93CH-1518472
+   概要: ヘリオス傘下のFaster社がデータセンター向け新型液体冷却製品を発売。同製品は2026年5月6〜7日に
+         ドイツ・フランクフルトで開催されるTECH SHOW（ホール8、ブース#I090）でも展示予定。AI GPU
+         サーバーの高密度化・高発熱化に対応した液体冷却ソリューションで、欧州市場への本格展開を狙う。
+
+------------------------------------------------------
+
+2. NTTドコモビジネス、Rapidusへ液冷データセンター「Green Nexcenter」を提供
+   媒体: クラウド Watch
+   日付: 2026-04-27
+   URL: https://cloud.watch.impress.co.jp/docs/news/2104964.html
+   概要: NTTドコモビジネスが最先端半導体企業Rapidusに対し、液冷方式データセンター「Green Nexcenter®」
+         を提供すると発表。生成AI・半導体設計で必要な超高発熱サーバーを安定稼働させるため従来の空冷
+         から液冷方式へ切り替え。TAT（Turn Around Time）短縮に貢献し、2026年度内に実証実験を実施予定。
+
+------------------------------------------------------
+
+3. ハイパースケーラーが世界のデータセンター容量の67%を握る時代——2031年の産業地図
+   媒体: ITmedia オルタナティブ・ブログ（ビジネス2.0の視点）
+   日付: 2026-05-05
+   URL: https://blogs.itmedia.co.jp/business20/2026/05/672031.html
+   概要: Synergy Research Groupの調査（2026年4月公表）によると、2025年末時点でハイパースケーラーが
+         世界のDC容量の48%を占め、2031年には67%に達する見込み。AI投資急拡大でラック高密度化が進み、
+         液冷インフラが必須要件となる中、中小コロケーション事業者との競争力格差が拡大するとしている。
+
+------------------------------------------------------
+
+【English News】
+
+1. Data Centers: Daily Notes | May 4, 2026
+   （データセンター日次ノート｜2026年5月4日）
+   Source: Strisker
+   Date: 2026-05-04
+   URL: https://writing.strisker.com/data-centers-daily-notes-may-4-2026/
+   Summary: The Ypsilanti Community Utilities Authority (Michigan) unanimously passed a 12-month
+            moratorium on water and sewage services to new data centers, after a proposed $1.25 billion
+            computing facility by the University of Michigan and Los Alamos National Laboratory drew
+            public opposition. The facility would require 100 MW of power and 500,000 to 1 million
+            gallons of water daily for cooling. The decision is part of a growing North American trend
+            of water-related restrictions on data center construction, with similar moratoriums appearing
+            in Ohio, Minnesota, and other states over cooling water consumption concerns.
+   【日本語訳】ミシガン州イプシランティ市上下水道局が新規データセンターへの水道・下水道サービス供給に
+              12ヶ月のモラトリアムを全会一致で可決。ミシガン大学とロスアラモス国立研究所が提案した
+              12億5000万ドル規模の施設は、100MWの電力と日量最大100万ガロンの冷却水を必要とするもの。
+              オハイオ州・ミネソタ州など北米各地でデータセンター冷却水問題に関する規制強化が広まる。
+
+------------------------------------------------------
+
+2. How Data Center Cooling Could Become More Manageable
+   （データセンター冷却を「もっと管理しやすく」する方法）
+   Source: Facilities Dive
+   Date: 2026-05-05
+   URL: https://www.facilitiesdive.com/news/how-data-center-cooling-could-become-more-manageable/812051/
+   Summary: Facilities Dive examines emerging technologies and strategies that could reduce the
+            operational complexity of data center cooling. The article focuses on AI-driven thermal
+            management systems capable of dynamically adjusting coolant flow and temperature based
+            on real-time workload, predictive maintenance via sensor-embedded CDUs, and hybrid
+            architectures that combine rear-door heat exchangers with direct-to-chip liquid loops.
+            As AI rack densities exceed 100 kW, facility operators face mounting pressure to
+            transition cooling management from reactive to fully automated, data-driven operations.
+   【日本語訳】データセンター冷却の運用複雑性を低減するための最新技術と戦略を解説。リアルタイムの
+              ワークロードに応じて冷却液の流量・温度を動的に調整するAI駆動型サーマルマネジメント、
+              センサー組み込みCDUによる予防保全、リアドアHEXとダイレクト液冷の組み合わせアーキテクチャ
+              が注目される。AIラックの電力密度が100kWを超える中、冷却管理をリアクティブから自動化へ
+              移行する必要性が高まっている。
+
+------------------------------------------------------
+
+3. Why Liquid Cooling Is Becoming the Data Center Standard
+   （液冷がデータセンターの標準となりつつある理由）
+   Source: DataCenters.com
+   Date: 2026-05-04
+   URL: https://www.datacenters.com/news/why-liquid-cooling-is-becoming-the-data-center-standard
+   Summary: DataCenters.com analyzes the key drivers behind liquid cooling's emergence as the new
+            standard for modern data centers. AI workloads routinely exceeding 1,000 watts per rack
+            unit have made air cooling insufficient for high-density deployments. Direct-to-chip
+            cooling, single-phase and two-phase immersion, and CDU-based distribution systems are
+            compared for efficiency, cost, and deployment complexity. The article highlights that
+            liquid-cooled capacity equaled air-cooled capacity in 2025 and is projected to double
+            it by the end of 2026, representing a fundamental shift in data center infrastructure
+            design philosophy.
+   【日本語訳】液冷が現代のデータセンターの新標準として台頭した要因を分析。AIワークロードでラックの
+              消費電力が1,000W/rack unitを超え空冷では対応不可能となった背景を詳述。ダイレクト液冷・
+              単相・二相液浸冷却・CDU分散方式を効率・コスト・導入複雑性の観点で比較。2025年に液冷容量が
+              空冷容量と同水準に達し、2026年末には2倍になると予測されており、インフラ設計思想の根本的
+              転換が起きている。
+
+------------------------------------------------------
+
+4. New Data Center Developments: May 2026
+   （2026年5月のデータセンター新規開発動向）
+   Source: Data Center Knowledge
+   Date: 2026-05-05
+   URL: https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-may-2026
+   Summary: Data Center Knowledge's monthly roundup for May 2026 highlights continued hyperscale
+            AI infrastructure investment across North America, alongside a wave of regulatory
+            activity targeting the infrastructure demands of large-scale data centers. Multiple
+            cities and states are introducing zoning restrictions and cooling water use regulations,
+            while major cloud providers continue announcing new AI-ready facilities equipped with
+            liquid cooling infrastructure. The report underscores the dual pressure on the industry:
+            accelerating demand for high-density liquid-cooled capacity versus increasing environmental
+            and regulatory scrutiny of water and power consumption.
+   【日本語訳】Data Center Knowledgeの2026年5月月次動向まとめ。北米では大手クラウド事業者によるAI対応
+              施設の新規発表が続く一方、データセンター建設に対する規制活動が拡大。複数の都市・州が
+              ゾーニング制限や冷却水使用規制を導入しており、業界は高密度液冷需要の加速と環境・規制面での
+              水・電力消費へのスクルーティニ強化という二重の圧力に直面している。
+
+======================================================
+レポート生成日時: 2026-05-05
+対象期間: 2026-05-04 〜 2026-05-05
