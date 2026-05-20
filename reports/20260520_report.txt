@@ -1,0 +1,128 @@
+データセンター冷却 日次ニュースレポート 2026-05-20
+======================================================
+
+【日本語ニュース】
+
+1. Dell、液冷対応の第18世代PowerEdgeサーバー群を発表——AIデータセンターの高密度冷却要件に対応
+   媒体: クラウド Watch（インプレス）
+   日付: 2026-05-20
+   URL: https://cloud.watch.impress.co.jp/docs/event/2110149.html
+   概要: Dell Technologies World 2026において、AMDの未発表EPYC「Venice」や
+         Intelの「Diamond Rapids」搭載を含む第18世代PowerEdgeサーバー群を発表。
+         液冷対応のPowerEdge M9825を新たにラインナップに加え、空冷・液冷両対応の
+         設計により従来比最大70%の性能向上と13対1のサーバー統合効果を実現する。
+
+------------------------------------------------------
+
+2. マイケル・デルとジェンスン・フアンが語るAIエージェント時代——冷却統合型「PowerRack」など
+   AIインフラを大拡充
+   媒体: クラウド Watch（インプレス）
+   日付: 2026-05-20
+   URL: https://cloud.watch.impress.co.jp/docs/event/2109791.html
+   概要: Dell Technologies World 2026の基調講演で、AIおよびHPCワークロード向けの
+         統合ラックシステム「PowerRack」を発表。コンピューティング・ストレージ・ネット
+         ワーク・液体冷却を一体化したラックスケールシステムで、最短6時間での展開を実現。
+         NVIDIAのAIファクトリープラットフォームとの統合も拡充し次世代GPU冷却に対応する。
+
+------------------------------------------------------
+
+3. デル・テクノロジーズ、AI時代のモダン データセンターを再構築するソリューションを発表
+   媒体: PR TIMES（デル・テクノロジーズ株式会社）
+   日付: 2026-05-20
+   URL: https://prtimes.jp/main/html/rd/p/000000409.000025237.html
+   概要: 空冷・水冷環境の両方でデータセンター効率を向上させる11機種の新PowerEdgeサーバーと、
+         NVIDIA Vera Rubin NVL72プラットフォーム対応の液冷分配ユニット「PowerCool CDU
+         C7000」を発表。220kW超の冷却能力と最大40℃の施設水温対応を実現し、高密度AI
+         データセンターの電力コスト削減に貢献する。2026年第3四半期より提供予定。
+
+------------------------------------------------------
+
+4. 2年ぶりの大型刷新、「PowerStore Elite」が性能・効率の新基準を打ち立てる
+   【Dell Technologies World 2026】
+   媒体: マイナビニュース テックプラス
+   日付: 2026-05-20
+   URL: https://news.mynavi.jp/techplus/article/20260520-4475611/
+   概要: Dell Technologies World 2026でPowerStore Eliteストレージが2年ぶりに大幅刷新され、
+         データセンターの性能と電力効率の新たな基準を提示。AIワークロード増大に対応した
+         高密度設計を採用し、冷却効率の向上と高いエネルギー効率を両立した最新インフラ。
+
+------------------------------------------------------
+
+【English News】
+
+1. Dell Overhauls Data Center Portfolio with AI-Focused Storage, Servers and Cyber Resilience Tools
+   （デル、AI重視のストレージ・サーバー・サイバー耐性ツールでデータセンター製品を全面刷新）
+   Source: SiliconANGLE
+   Date: 2026-05-19
+   URL: https://siliconangle.com/2026/05/19/dell-overhauls-data-center-portfolio-ai-focused-storage-servers-cyber-resilience-tools/
+   Summary: Dell Technologies announced the PowerCool CDU C7000 at Dell Technologies World
+            2026, the first rack-mount cooling distribution unit designed for the NVIDIA
+            Vera Rubin NVL72 platform in a compact 4U, 19-inch form factor. Supporting
+            over 220kW of heat dissipation and facility water temperatures up to 40°C, the
+            unit significantly reduces energy costs for dense AI data centers. The PowerCool
+            CDU C7000 is scheduled for availability in Q3 2026.
+   【日本語訳】デルはDell Technologies World 2026でNVIDIA Vera Rubin NVL72プラットフォーム
+              対応のコンパクト4U型冷却分配ユニット「PowerCool CDU C7000」を発表した。220kW超
+              の冷却能力と最大40℃の施設水温対応で高密度AIデータセンターの運用コストを削減。
+              2026年第3四半期に提供開始予定。
+
+------------------------------------------------------
+
+2. ACT Expands U.S. Manufacturing to Scale Cold Plate Production for AI Data Center Cooling
+   （ACT社、AIデータセンター向けコールドプレート生産拡大のため米国製造拠点を新設）
+   Source: PR Newswire
+   Date: 2026-05-19
+   URL: https://www.prnewswire.com/news-releases/act-expands-us-manufacturing-to-scale-cold-plate-production-for-ai-data-center-cooling-302776037.html
+   Summary: Advanced Cooling Technologies (ACT) announced the expansion of its U.S.
+            manufacturing operations with a planned 50,000-square-foot facility in Lancaster,
+            Pennsylvania, dedicated to producing cold plates for liquid-cooled AI data
+            centers. The facility targets initial annual capacity exceeding 500,000 cold
+            plates supporting single-phase and two-phase configurations for diverse AI
+            processors. The expansion is backed by Blackstone Energy Transition Partners,
+            which agreed to acquire a majority stake in ACT in February 2026.
+   【日本語訳】Advanced Cooling Technologies社がペンシルバニア州ランカスターに5万平方フィートの
+              製造拠点を新設し、液冷AIデータセンター向けコールドプレートの大量生産を開始すると
+              発表。年間50万枚超の生産能力を持ち、各種AIプロセッサ向け単相・二相冷却に対応。
+              2026年2月にブラックストーン・エナジー・トランジション・パートナーズが過半株式
+              取得に合意し、戦略的拡張を加速している。
+
+------------------------------------------------------
+
+3. Tech Forum 2026: AI Server Racks Push Liquid Cooling into Mainstream
+   （テックフォーラム2026：AIサーバーラックが液冷をメインストリームへ押し上げる）
+   Source: Digitimes
+   Date: 2026-05-20
+   URL: https://www.digitimes.com/news/a20260520PD236/ai-server-liquid-cooling-nvidia-2026.html
+   Summary: At Tech Forum 2026, META Green Cooling Technology president Clyde Chu revealed
+            that Nvidia's chip roadmap shows cooling requirements doubling in under a year,
+            with the NVL72 rack based on the Vera Rubin architecture expected in H2 2026.
+            As AI rack power densities exceed 100kW and are projected to approach 600kW with
+            next-generation systems, liquid cooling is rapidly becoming the baseline
+            requirement for modern data center design rather than an optional upgrade.
+   【日本語訳】テックフォーラム2026でMETA Green CoolingのClyde Chu社長は、NVIDIAのロードマップが
+              1年未満で冷却要件を2倍にすることを示し、Vera Rubin NVL72ラックが2026年後半に
+              登場すると説明した。AIラックの電力密度が100kWを超え次世代では600kW超が予測される中、
+              液冷はオプションではなくデータセンター設計の基本要件となりつつある。
+
+------------------------------------------------------
+
+4. Dell Launches PowerRack, a Turnkey Compute, Storage, and Networking Solution,
+   Updates Nvidia AI Factory Platform
+   （デル、AIファクトリープラットフォームを更新しターンキー型統合ラック「PowerRack」を発売）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-19
+   URL: https://www.datacenterdynamics.com/en/news/dell-launches-powerrack-a-turnkey-compute-storage-and-networking-solution-updates-nvidia-ai-factory-platform/
+   Summary: Dell unveiled PowerRack at Dell Technologies World 2026, a rack-scale platform
+            integrating compute, networking, storage, and liquid cooling into a single
+            deployable unit for AI and HPC workloads. Designed for deployment in as little
+            as six hours, it targets hyperscale operators and enterprises building
+            high-density AI infrastructure where thermal management and power delivery must
+            be co-designed at rack scale.
+   【日本語訳】デルはDell Technologies World 2026でコンピューティング・ネットワーク・ストレージ・
+              液冷を統合した「PowerRack」を発表。最短6時間での展開が可能なラックスケールシステムで、
+              熱管理と電力供給をラック単位で共同設計する超高密度AIインフラ向けに設計されている。
+              ハイパースケール事業者と高密度AI基盤を構築する企業を主なターゲットとする。
+
+======================================================
+レポート生成日時: 2026-05-20
+対象期間: 2026-05-19 〜 2026-05-20
