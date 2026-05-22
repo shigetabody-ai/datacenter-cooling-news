@@ -1,0 +1,141 @@
+データセンター冷却 日次ニュースレポート 2026-05-13
+======================================================
+
+【日本語ニュース】
+
+1. データセンター向けダイレクトチップ冷却市場は2032年に173億1,000万米ドル規模へ
+   媒体: ドリームニュース（株式会社SEMABIZ プレスリリース）
+   日付: 2026-05-12
+   URL: https://www.dreamnews.jp/press/0000349093
+   概要: MarketsandMarketsの最新市場調査報告書によると、データセンター向けダイレクト
+         チップ冷却市場は2026年の33億3,000万米ドルから年平均成長率（CAGR）26.5%で
+         拡大し、2032年には173億1,000万米ドルに達すると予測。AI半導体の高発熱化を
+         背景に、主要企業の米モダイン・マニュファクチャリング、シュナイダーエレクト
+         リックなどが市場拡大をけん引している。
+
+------------------------------------------------------
+
+2. データセンターの液浸冷却とは？ AI時代に必須…富士通・ニデックら開発競争など解説
+   媒体: ビジネス+IT（SBクリエイティブ株式会社）
+   日付: 2026-05-12
+   URL: https://www.sbbit.jp/article/cont1/159638
+   概要: 生成AI・ビッグデータ・IoT普及によるサーバー高発熱化対策として、液浸冷却技術
+         への注目が急上昇。富士通・ニデックなど国内大手が液浸冷却システムの開発競争
+         を加速している。単相式と二相式の2方式を解説し、空冷比で冷却効率が高く省エネ
+         効果も大きいと指摘している。
+
+------------------------------------------------------
+
+3. AIを支える電力：バークレイズが推奨するデータセンター冷却関連株トップ銘柄
+   媒体: Investing.com 日本語版
+   日付: 2026-05-12
+   URL: https://jp.investing.com/news/stock-market-news/article-93CH-1485447
+   概要: AIデータセンターの冷却技術急拡大を背景に、バークレイズが注目する冷却関連銘
+         柄を分析。データセンターの消費電力の30〜40%を占める冷却システムの省エネ化
+         技術が投資家から高い注目を集めており、液冷・空冷ソリューション各社の成長機
+         会を詳述している。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Airsys Opens Global Headquarters Campus in South Carolina to Meet Surging
+   Global Demand for AI and Data Center Cooling
+   （Airsys、AIおよびデータセンター冷却需要の急増に応え
+     サウスカロライナ州に世界本社キャンパスを開設）
+   Source: GlobeNewswire
+   Date: 2026-05-13
+   URL: https://www.globenewswire.com/news-release/2026/05/13/3294315/0/en/Airsys-Opens-Global-Headquarters-Campus-in-South-Carolina-to-Meet-Surging-Global-Demand-for-AI-and-Data-Center-Cooling.html
+   Summary: Airsys, a global leader in mission-critical cooling for data centers and
+            AI infrastructure, officially opened its new 60-acre global headquarters
+            campus in Woodruff, South Carolina on May 13, 2026. The $60 million
+            investment creates a 264,000-square-foot facility expected to generate
+            215 jobs, serving as the global hub for the company's high-efficiency,
+            zero-water cooling technologies supporting AI and edge computing growth.
+   【日本語訳】データセンター・AI向けミッションクリティカル冷却のグローバルリーダー
+   であるAirsysは2026年5月13日、サウスカロライナ州ウッドラフに60エーカーの世界本社
+   キャンパスを正式オープンした。6,000万ドルの投資により264,000平方フィートの施設が
+   完成し、215名の雇用創出が見込まれる。同施設はAI・エッジコンピューティング向けの
+   ゼロウォーター冷却技術のグローバル拠点となる。
+
+------------------------------------------------------
+
+2. Fourier Highlights System Level Integration Shift at 2026 Advanced Liquid
+   Cooling Technologies Conference in Taipei
+   （台北の2026年先進液体冷却技術会議で、Fourierがシステムレベル
+     統合へのシフトを強調）
+   Source: PR Newswire
+   Date: 2026-05-13
+   URL: https://www.prnewswire.com/news-releases/fourier-highlights-system-level-integration-shift-at-2026-advanced-liquid-cooling-technologies-conference-in-taipei-302770761.html
+   Summary: Fourier Data Center Solution Inc. and Intel jointly showcased a fully
+            integrated 20-foot modular data center container at the 2026 Advanced
+            Liquid Cooling Technologies Conference in Taipei. Fourier CRO Justin
+            Cass delivered a keynote stating that AI infrastructure is entering a
+            phase where density is mandatory, liquid cooling is foundational, and
+            integration defines competitiveness, signaling a market shift from
+            incremental component improvements to deployable integrated systems.
+   【日本語訳】Fourier Data Center Solution社とIntelは台北で開催された2026年先進液体
+   冷却技術会議にて、完全統合型20フィートモジュラーデータセンターコンテナを共同展示
+   した。Fourier CROのジャスティン・キャス氏は基調講演で「AIインフラはデンシティが
+   必須、液冷が基盤、統合が競争力を左右する段階に入った」と述べ、コンポーネント改善
+   から統合システムへの市場転換を訴えた。
+
+------------------------------------------------------
+
+3. T-Global Technology Partners with France's SiPearl to Advance
+   Next-Generation HPC Cooling Technologies
+   （T-Global Technology、フランスSiPearlと提携し次世代HPC冷却技術を推進）
+   Source: PR Newswire
+   Date: 2026-05-13
+   URL: https://www.prnewswire.com/news-releases/t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies-302770804.html
+   Summary: T-Global Technology announced that its flagship project—"Development
+            of High Thermal Conductivity Materials and Two-Phase Liquid Cooling
+            Modules for HPC Chips"—received official approval under Taiwan's Ministry
+            of Economic Affairs' "A+ Driving Industrial Innovation with AI" program.
+            This two-year joint R&D initiative with European fabless chip designer
+            SiPearl aims to deliver advanced thermal management solutions for
+            next-generation HPC and AI computing platforms.
+   【日本語訳】T-Global Technology社は、「HPC向け高熱伝導材料および二相液冷モジュール
+   開発」プロジェクトが台湾経済部の「A+AI産業革新推進」プログラムに正式承認されたと
+   発表。欧州のファブレスチップ設計会社SiPearlとの2年間の共同R&Dにより、次世代HPC・
+   AIコンピューティング向け先進熱管理ソリューションの開発を目指す。
+
+------------------------------------------------------
+
+4. Augusta Data Center Could Use Wastewater for Cooling
+   （オーガスタのデータセンター、冷却に廃水利用を検討）
+   Source: WRDW News 12
+   Date: 2026-05-12
+   URL: https://www.wrdw.com/video/2026/05/12/augusta-data-center-could-use-wastewater-cooling/
+   Summary: Augusta Utilities is in active discussions with QTS, the developer
+            behind a $2 billion, six-building data center campus planned near Fort
+            Gordon in Augusta, Georgia. The talks center on using treated municipal
+            wastewater as a cooling source for the massive campus, representing an
+            innovative approach to reducing freshwater consumption at large-scale
+            data center facilities.
+   【日本語訳】ジョージア州オーガスタのUtilities部門が、フォートゴードン近郊に計画中
+   の20億ドル・6棟構成のQTSデータセンターキャンパス開発に向け協議を進めている。協議
+   の焦点は処理済み下水（廃水）を冷却水源として活用する取り組みで、大規模データセン
+   ターでの淡水消費量削減に向けた革新的アプローチとして注目される。
+
+------------------------------------------------------
+
+5. Data Centers: Daily Notes | May 12, 2026
+   （データセンター：デイリーノート 2026年5月12日号）
+   Source: Strisker Writing
+   Date: 2026-05-12
+   URL: https://writing.strisker.com/data-centers-daily-notes-may-12-2026/
+   Summary: A daily digest covering the latest data center industry developments
+            for May 12, 2026, including updates on cooling technology investments,
+            liquid cooling adoption trends, power management challenges, and key
+            infrastructure announcements from major operators and vendors across
+            the sector.
+   【日本語訳】2026年5月12日のデータセンター業界の主要ニュースをまとめたデイリーダイ
+   ジェスト。冷却技術への投資動向、液冷採用トレンドの拡大、電力管理課題、主要オペレー
+   ターやベンダーのインフラ発表など、業界の最新動向を網羅している。
+
+======================================================
+レポート生成日時: 2026-05-13
+対象期間: 2026-05-12 〜 2026-05-13
