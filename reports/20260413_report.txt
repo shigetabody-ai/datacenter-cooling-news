@@ -1,0 +1,125 @@
+データセンター冷却 日次ニュースレポート 2026-04-13
+======================================================
+
+【日本語ニュース】
+
+1. 「データセンター」の中ってどうなってるの？ 潜入して分かった、生成AIを支える「冷却技術の進化」
+   媒体: ITmedia ビジネスオンライン
+   日付: 2026-04-09
+   URL: https://www.itmedia.co.jp/business/articles/2604/09/news045.html
+   概要: 千葉県印西市で4月8日に稼働した新データセンター「NRT14」に潜入取材し、生成AI需要に
+   対応する最新冷却技術の進化を報告。AIサーバーの膨大な発熱に対応するため、液冷・空冷の
+   ハイブリッド方式をはじめとした最新設備の導入状況を詳しく紹介している。
+
+------------------------------------------------------
+
+2. 「冷却技術は日本企業の強みに」 三菱商事発データセンター企業が印西市で狙う、AIインフラの覇権
+   媒体: ITmedia ビジネスオンライン
+   日付: 2026-04-09
+   URL: https://www.itmedia.co.jp/business/articles/2604/09/news057.html
+   概要: 三菱商事がバックにあるデータセンター企業が千葉県印西市で新設した「NRT14」を稼働。
+   同社は「冷却技術は日本企業の強み」と強調し、液冷・高効率空調を組み合わせた省エネ設計で
+   国際競争力を高め、AI向けインフラ市場の覇権を狙う戦略を明かした。
+
+------------------------------------------------------
+
+3. 次世代AI向け国産水冷データセンター、密閉循環で水使用効率を実質的ゼロへ
+   媒体: MONOist（ITmedia）
+   日付: 2026-03-31
+   URL: https://monoist.itmedia.co.jp/mn/articles/2603/31/news063.html
+   概要: PFNとIIJら3社が共同で開発した国産AI向け水冷データセンター「AImod」が2026年4月より
+   本格稼働。水冷と空冷のハイブリッド空調でPUE1.1台を実現するとともに、密閉循環方式により
+   WUE（水使用効率）を実質ゼロに抑え、省エネと環境負荷低減を両立させた国産モデルとして注目を集める。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Data Centers Make It Hard for States to Meet Climate Goals
+   （データセンターが各州の気候目標達成を困難にしている）
+   Source: The Columbian
+   Date: 2026-04-13
+   URL: https://www.columbian.com/news/2026/apr/13/data-centers-make-it-hard-for-states-to-meet-climate-goals/
+   Summary: Data centers are placing enormous strain on state power grids and clean energy commitments.
+   Nevada's largest utility says it would need three times the electricity required to power Las Vegas
+   just to handle proposed data centers, while renewable targets of 50% by 2030 would likely be missed.
+   Many utilities and tech companies are turning to gas-fired generation, with cooling system efficiency
+   highlighted as a key area where data centers must improve to reduce grid and climate impact.
+   【日本語訳】データセンターが各州の電力網と再エネ目標を脅かしている。ネバダ州最大の電力会社は、
+   計画中のデータセンター対応にはラスベガスの3倍の電力が必要と試算し、2030年までに再エネ50%という
+   目標達成が困難との見通しを示した。多くの電力会社とIT企業が化石燃料発電に頼る中、冷却設備の
+   効率化がデータセンターの環境負荷軽減の鍵として注目されている。
+
+------------------------------------------------------
+
+2. What FMs Need to Know About Data Center Immersion Cooling Fluid Selection
+   （施設管理者が知るべきデータセンター液浸冷却フルード選択の要点）
+   Source: Facilities Dive
+   Date: 2026-04-12
+   URL: https://www.facilitiesdive.com/news/what-fms-need-to-know-about-data-center-immersion-cooling-fluid-selection/816674/
+   Summary: As immersion cooling becomes mainstream, fluid selection is emerging as a critical operational
+   decision for data center facilities managers. The article explains how dielectric fluid chemistry directly
+   affects heat extraction efficiency, oxidation resistance, electrical behavior, and long-term system
+   reliability. As rack densities increase and equipment lifecycles lengthen, careful evaluation of fluid
+   properties is essential to ensure system predictability and reduce unplanned maintenance costs.
+   【日本語訳】液浸冷却がデータセンターの主流になりつつある中、フルード（冷却液）の選定が施設管理者
+   にとって重要な運用上の意思決定として浮上している。誘電性フルードの化学的特性が熱抽出効率・耐酸化性・
+   電気的挙動・長期的信頼性に影響するとし、全フルードが同等ではないと警告する。ラック密度の上昇と
+   機器ライフサイクルの長期化を踏まえ、慎重なフルード評価が不可欠だと訴えている。
+
+------------------------------------------------------
+
+3. 'Adaptive Phase Cooling' Improves Efficiency Over Direct-to-Chip: UCLA Study
+   （「アダプティブ位相冷却」がダイレクト・トゥ・チップ液冷を上回る効率を実証：UCLA研究）
+   Source: Facilities Dive
+   Date: 2026-04-10
+   URL: https://www.facilitiesdive.com/news/adaptive-phase-cooling-improves-efficiency-over-direct-to-chip-ucla-stud/815829/
+   Summary: A study conducted by UCLA's Intelligent Connectivity Laboratory using NVIDIA H200 GPUs found
+   that Ferveret's adaptive phase cooling technology improves computational efficiency (TFLOPs/kW) by 15%
+   over direct-to-chip (DTC) liquid cooling while achieving zero water consumption and a best-in-class PUE
+   of 1.03. The two-phase approach eliminates internal fans and enables sustained higher clock speeds,
+   positioning it as a strong candidate for next-generation AI data center cooling.
+   【日本語訳】UCLAインテリジェント・コネクティビティ研究室がNVIDIA H200 GPUを使って実施した試験で、
+   Ferveretのアダプティブ位相冷却技術がダイレクト・トゥ・チップ液冷と比較して計算効率（TFLOPs/kW）を
+   15%向上させ、水消費量ゼロかつPUE1.03を達成したことが判明した。二相方式により内部ファンを不要とし、
+   持続的な高クロック動作を実現。次世代AI向け冷却技術の有力候補として注目される。
+
+------------------------------------------------------
+
+4. Cold-Climate Data Centers: The Next Hot Thing in Data Center Growth
+   （寒冷地データセンター：次のデータセンター成長トレンド）
+   Source: Data Center Knowledge
+   Date: 2026-04-07
+   URL: https://www.datacenterknowledge.com/cooling/cold-climate-data-centers-the-next-hot-thing-in-data-center-growth
+   Summary: Nordic data center operators are leveraging cold climates to dramatically reduce cooling costs
+   and energy consumption. atNorth, recently acquired by Equinix and CPP Investments for $4 billion,
+   operates eight facilities across Iceland, Denmark, Sweden, and Finland using natural cooling. Its newest
+   Copenhagen-area facility (DEN01) will offer 22.5 MW of direct liquid cooling (DLC) capacity with a PUE
+   below 1.2, and will channel waste heat into a district heating network serving over 8,000 homes.
+   【日本語訳】北欧のデータセンター事業者が寒冷気候を活かして冷却コストとエネルギー消費を大幅に削減している。
+   エクイニクスとCPPインベストメンツに40億ドルで買収されたatNorthは、アイスランド・デンマーク・スウェーデン・
+   フィンランドで8施設を運営。コペンハーゲン近郊の新施設DEN01は22.5MWの直接液冷設備を備え、PUE1.2未満を目標に
+   廃熱を地域暖房ネットワーク経由で8,000世帯以上に供給する計画だ。
+
+------------------------------------------------------
+
+5. The Heat Island Effect Is Warming Up The AI Data Center Controversy
+   （ヒートアイランド効果がAIデータセンター論争に火をつけている）
+   Source: Hackaday
+   Date: 2026-04-07
+   URL: https://hackaday.com/2026/04/07/the-heat-island-effect-is-warming-up-the-ai-data-center-controversy/
+   Summary: A research paper published in March 2026 found that AI data centers raise ambient temperatures
+   by an average of 2°C within a 10km radius, and up to 9°C in worst-case scenarios, affecting an estimated
+   340 million people worldwide. The findings are intensifying debates over data center siting regulations,
+   electricity grid strain, and the urgency of deploying waste-heat recovery and advanced cooling technologies
+   to limit environmental impact as hyperscalers accelerate construction globally.
+   【日本語訳】2026年3月に発表された研究で、AIデータセンターが半径10km圏内の気温を平均2℃、最悪のシナリオでは
+   最大9℃上昇させることが判明し、全世界で推計3億4,000万人が影響を受けているとされる。この結果が、データセンターの
+   立地規制・電力網への負担・廃熱回収および高度冷却技術導入の緊急性に関する議論を再燃させており、
+   ハイパースケーラーによる建設加速を背景に対策が急務となっている。
+
+======================================================
+レポート生成日時: 2026-04-13
+対象期間: 2026-04-12 〜 2026-04-13

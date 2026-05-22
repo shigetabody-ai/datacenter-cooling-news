@@ -1,0 +1,50 @@
+データセンター冷却 日次ニュースレポート 2026-04-16
+======================================================
+
+【日本語ニュース】
+
+1. 次世代データセンターに求められる高効率の冷却技術を支える「液浸冷却液」についてENEOSに聞いた
+   媒体: MyNavi TechPlus
+   日付: 2026-04-16
+   URL: https://news.mynavi.jp/techplus/article/20260416-4293492/
+   概要: 生成AIの急速な普及でサーバーの発熱量が急増する中、ENEOSが開発した液浸冷却液「ENEOS IXシリーズ」の特徴と競争優位性を紹介。同シリーズは石油精製技術を活用した高純度炭化水素系冷却液で、絶縁性と熱伝導性を兼ね備え、「Type J」「Type H」「Type B」の3製品を展開。ENEOSの全国規模の供給ネットワークにより、大量供給が必要なデータセンター用途にも対応できる点が強みとされる。
+
+------------------------------------------------------
+
+【English News】
+
+1. 800 VDC Data Center Cooling: Implications, Infrastructure Evolution & Operational Impact
+   （800VDCデータセンター冷却：インフラ進化と運用インパクト）
+   Source: Schneider Electric Blog
+   Date: 2026-04-15
+   URL: https://blog.se.com/datacenter/2026/04/15/800-vdc-data-center-cooling-infrastructure-evolution-operational-impact/
+   Summary: As AI rack densities surge and 800 VDC power architecture emerges as the new data center standard, liquid cooling is becoming mandatory rather than optional. The article examines how 800VDC direct-current distribution reduces heat generation in power pathways, enabling more efficient liquid cooling deployments. Cooling already accounts for approximately 40% of total data center energy use, making efficient thermal management critical to operational economics.
+   【日本語訳】AIラック密度の急上昇と800VDC電力アーキテクチャの台頭により、データセンターにおける液冷の採用は選択肢ではなく必須になりつつある。800VDCの直流配電は電力経路における発熱を抑制し、より効率的な液冷展開を可能にする。冷却はデータセンター総エネルギー消費の約40%を占めており、効率的な熱管理が運用コストを左右するとシュナイダーエレクトリックが解説している。
+
+2. DataCool Launches Next-Generation Data Center Cooling Platform Amid Surging AI-Driven Demand
+   （DataCool、AI需要急増を受け次世代データセンター冷却プラットフォームを発表）
+   Source: PR Newswire / DataCool (JohnsonMarCraft HVAC Products)
+   Date: 2026-04-16
+   URL: https://www.prnewswire.com/news-releases/datacool-launches-next-generation-data-center-cooling-platform-amid-surging-ai-driven-demand-302744010.html
+   Summary: DataCool launched three new product lines—Alpine, Glacier, and Kodiak—forming a next-generation cooling platform engineered for AI, cloud, and high-density data center environments. The systems support an operating range of 2,000 to 100,000 CFM and up to 300 tons of cooling capacity, enabling customers to standardize on a single platform across multiple facility types and sizes. All three product lines are now available for specification and immediate shipment.
+   【日本語訳】DataCoolが「Alpine」「Glacier」「Kodiak」の3製品ラインを発表し、AI・クラウド・高密度データセンター向け次世代冷却プラットフォームを提供開始。2,000〜100,000 CFMの風量と最大300トンの冷却能力をサポートし、複数施設タイプへの単一プラットフォーム標準化を実現。全製品ラインは即日、仕様確定・出荷対応可能となっている。
+
+3. Data Center Cooling Market Size to Reach USD 45.8 Billion by 2033 as AI Infrastructure, Hyperscale Expansion, and High-Density Thermal Management Accelerate Global Demand
+   （データセンター冷却市場、2033年に458億ドル到達予測 — AIインフラ・ハイパースケール拡大が需要を加速）
+   Source: OpenPR
+   Date: 2026-04-16
+   URL: https://www.openpr.com/news/4475235/data-center-cooling-market-size-to-reach-usd-45-8-billion-by-2033
+   Summary: The global data center cooling market reached USD 16.37 billion in 2025 and is projected to reach USD 45.8 billion by 2033, growing at a CAGR of 13.64%. Market growth is driven by AI training clusters, high-performance computing workloads, and hyperscale expansions pushing rack densities beyond the limits of legacy thermal systems. Strategic M&A activity—including Trane's acquisition of LiquidStack—signals the rising value of advanced cooling solution providers.
+   【日本語訳】グローバルなデータセンター冷却市場は2025年に163.7億ドルに達し、2033年には458億ドルへ成長する見込み（CAGR 13.64%）。AI訓練クラスタや高性能コンピューティング、ハイパースケール拡張がラック密度を従来の熱設計限界以上に押し上げていることが成長を牽引。Traneによる LiquidStack買収など、先進冷却ソリューション分野での戦略的M&Aが相次いでいる。
+
+4. Data Center Liquid Cooling Market Size to Reach USD 13.05 Billion by 2032 as AI Rack Density, Hyperscale Expansion, and Direct-to-Chip Deployments Accelerate
+   （AIラック密度・ハイパースケール拡大・チップ直冷展開が加速、液冷市場は2032年に130億ドル超へ）
+   Source: OpenPR
+   Date: 2026-04-16
+   URL: https://www.openpr.com/news/4475192/data-center-liquid-cooling-market-size-to-reach-usd-13-05-billion
+   Summary: The global data center liquid cooling market is expected to grow from USD 2.80 billion in 2024 to USD 13.05 billion by 2032, at a CAGR of 21.21%. Liquid-cooled AI servers are forecast to surge from 15% market penetration in 2024 to 54% in 2025 and 76% in 2026, driven by direct-to-chip cooling, immersion cooling, and CDU-based liquid cooling systems. Every liquid cooling loop now features dozens of embedded sensors feeding AI-driven DCIM platforms for real-time thermal intelligence.
+   【日本語訳】グローバルなデータセンター液冷市場は2024年の28億ドルから2032年に130.5億ドルへ拡大予測（CAGR 21.21%）。液冷AIサーバーの市場浸透率は2024年の15%から2025年54%、2026年76%へ急増する見込みで、チップ直冷・液浸冷却・CDUベースシステムが主な成長ドライバー。各液冷ループにはAI駆動のDCIM（データセンターインフラ管理）プラットフォームと連携するセンサーが組み込まれ、リアルタイム熱制御を実現している。
+
+======================================================
+レポート生成日時: 2026-04-16
+対象期間: 2026-04-15 〜 2026-04-16

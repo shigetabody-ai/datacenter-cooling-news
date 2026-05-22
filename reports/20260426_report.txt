@@ -1,0 +1,115 @@
+データセンター冷却 日次ニュースレポート 2026-04-26
+======================================================
+
+【日本語ニュース】
+
+1. 「AIデータセンター液冷化」の設計・施工・検証でオールジャパン体制、ニデック×第一実業×カンネツ
+   媒体: Built / ITmedia
+   日付: 2026-04-01
+   URL: https://built.itmedia.co.jp/bt/articles/2604/01/news110.html
+   概要: ニデック・第一実業・カンネツの3社が AIデータセンター液冷化の設計・施工・検証を一括提供する
+         オールジャパン体制を整備。ニデックがCDU、第一実業がエネルギー調達・施工、カンネツが自律制御・
+         実証検証を担い、最短工期での液冷インフラ実装を目指す。AIの高密度化に対応する国産連携体制として
+         注目を集めている。
+
+------------------------------------------------------
+
+2. AIデータセンター液冷化に「確実な実装」を。ニデック・第一実業・カンネツが、止めないインフラを実現する
+   国産冷却アライアンスを始動。
+   媒体: ASCII.jp
+   日付: 2026-03-24
+   URL: https://ascii.jp/elem/000/004/383/4383554/
+   概要: 「Data Center Japan 2026」会場でニデック・第一実業・カンネツの3社が戦略アライアンス締結を
+         正式発表。AIデータセンター最大の課題「液冷インフラの迅速実装」に向け、設計から施工・検証まで
+         一括対応する体制を公開した。累積1万台超のCDU実績を持つカンネツ主導で、1MW超の高負荷環境を
+         再現する実証検証基盤も整備し、止まらない冷却インフラの実現を目指す。
+
+------------------------------------------------------
+
+3. データセンターの効率的な冷却を支援する「FreeWaterLoop」を発表【アルファ・ラバル】
+   媒体: NEWSCAST（アルファ・ラバル プレスリリース）
+   日付: 2026-03-04
+   URL: https://newscast.jp/smart/news/8578330
+   概要: スウェーデンの熱交換器大手アルファ・ラバルがデータセンター向け外部冷却システム
+         「FreeWaterLoop」を発表。施設外に設置するフリークーリング対応の閉ループ水冷システムで、
+         チラー不要の高効率冷却を実現し、データセンターのPUE改善とエネルギーコスト削減に貢献する。
+         AI需要急拡大による冷却インフラ需要の高まりを受け、液冷対応インフラの品揃えを強化した。
+
+------------------------------------------------------
+
+【English News】
+
+1. Everything Data Center Operators Need to Know About Dielectric Fluids
+   （液浸冷却の要：データセンター事業者が知っておくべき誘電体液の全て）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-04-17
+   URL: https://www.datacenterdynamics.com/en/analysis/everything-data-center-operators-need-to-know-about-dielectric-fluids/
+   Summary: DCD published a comprehensive guide to dielectric cooling fluids for data center operators
+            evaluating immersion cooling systems. Major suppliers including Shell, ENEOS, ExxonMobil,
+            Castrol, and SK Enmove are covered, along with new entrant Infinium developing CO2-based
+            synthetic cooling fluids. The guide covers fluid types (hydrocarbon, synthetic, ester-based),
+            thermal properties, fire safety standards, and long-term hardware compatibility.
+   【日本語訳】DCDが液浸冷却の導入を検討するデータセンター事業者向けに誘電体液の総合ガイドを公開。
+              Shell・ENEOS・ExxonMobil・Castrol・SK Enmoveなど主要サプライヤーに加え、
+              CO2由来の合成冷却液を開発する新参のInfiniumも紹介。炭化水素系・合成系・エステル系の
+              各種液体の熱特性・防火基準・ハードウェア長期適合性について詳説した実践的ガイドとなっている。
+
+------------------------------------------------------
+
+2. AI Data Center Cooling Infrastructure Market to Reach US$ 44.06 Billion by 2032 as the
+   United States and Japan Define the Next Standard for High-Density AI Infrastructure
+   （AIデータセンター冷却インフラ市場、米国・日本が高密度AI規格を牽引し2032年に440億ドル到達へ）
+   Source: OpenPR
+   Date: 2026-04-19
+   URL: https://www.openpr.com/news/4478471/ai-data-center-cooling-infrastructure-market-to-reach-us-44-06
+   Summary: A market research report projects the global AI Data Center Cooling Infrastructure Market
+            will grow from US$ 13.42 billion in 2025 to US$ 44.06 billion by 2032, at a CAGR of 18.51%.
+            The United States and Japan are identified as defining markets for next-generation
+            high-density AI infrastructure standards. Direct-to-Chip Liquid Cooling Systems lead
+            the segment at US$ 4.97 billion in 2025, projected to reach US$ 17.18 billion by 2032.
+   【日本語訳】市場調査レポートによると、世界のAIデータセンター冷却インフラ市場は2025年の134億ドルから
+              2032年に440億6,000万ドルへ、CAGR 18.51%で拡大する見通し。米国と日本が次世代高密度AI
+              規格を牽引するリーダー市場として位置づけられ、ダイレクト・トゥ・チップ液冷システムが
+              2025年の49.7億ドルから2032年に171.8億ドルへ成長することが予測されている。
+
+------------------------------------------------------
+
+3. Data Center Cooling Market Set to Quadruple by 2035 as AI Workloads Redefine
+   Thermal Infrastructure Demand
+   （データセンター冷却市場、AIワークロードが熱管理インフラ需要を再定義し2035年までに4倍超に拡大）
+   Source: OpenPR (MarketGenics)
+   Date: 2026-04-22
+   URL: https://www.openpr.com/news/4483546/data-center-cooling-market-set-to-quadruple-by-2035-as-ai
+   Summary: MarketGenics reports the global data center cooling market, valued at USD 17.4 billion
+            in 2025, is projected to reach USD 65.6 billion by 2035 at a CAGR of 14.2%. AI workloads
+            are rendering legacy air cooling insufficient, driving rapid adoption of liquid cooling,
+            immersion cooling, and hybrid thermal management across hyperscale and enterprise
+            data centers globally.
+   【日本語訳】MarketGenicsの調査によると、世界のデータセンター冷却市場は2025年の174億ドルから
+              2035年に656億ドルへ、CAGR 14.2%で4倍以上に拡大する見込み。AIワークロードが旧来型
+              空冷を機能不全にしつつあり、ハイパースケール・エンタープライズを問わず液冷・液浸・
+              ハイブリッド熱管理アーキテクチャへの急速な移行が進んでいることが示されている。
+
+------------------------------------------------------
+
+4. AI Data Centers Market Size to Lead USD 197.57 Billion by 2035 Rising Adoption of
+   AI Workloads is Driving Demand for Advanced Data Center Infrastructure
+   （AIデータセンター市場、2035年に1,975億ドル規模へ―高密度冷却・電力インフラ需要が急伸）
+   Source: GlobeNewswire
+   Date: 2026-04-15
+   URL: https://www.globenewswire.com/news-release/2026/04/15/3274646/0/en/AI-Data-Centers-Market-Size-to-Lead-USD-197-57-Billion-by-2035-Rising-Adoption-of-AI-Workloads-is-Driving-Demand-for-Advanced-Data-Center-Infrastructure.html
+   Summary: A newly released market analysis forecasts the global AI data centers market will expand
+            to USD 197.57 billion by 2035, fueled by surging demand for advanced cooling and power
+            infrastructure to support high-density GPU workloads. Advanced liquid cooling, direct-to-chip
+            systems, and immersion cooling are highlighted as critical enabling technologies, with
+            hyperscale operators and colocation providers accelerating capital investment in
+            next-generation thermal management solutions.
+   【日本語訳】新市場調査によると、世界のAIデータセンター市場は2035年に1,975億ドル規模へ拡大する
+              見通し。高密度GPUワークロードを支える高度な冷却・電力インフラへの需要急増が成長を牽引し、
+              液冷・ダイレクト・トゥ・チップ・液浸の各冷却技術が不可欠な要素技術として注目されている。
+              ハイパースケール事業者とコロケーション事業者は次世代熱管理ソリューションへの設備投資を
+              加速させており、市場全体のインフラ刷新サイクルが短縮している。
+
+======================================================
+レポート生成日時: 2026-04-26
+対象期間: 2026-04-25 〜 2026-04-26

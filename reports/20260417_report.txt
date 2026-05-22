@@ -1,0 +1,58 @@
+データセンター冷却 日次ニュースレポート 2026-04-17
+======================================================
+
+【日本語ニュース】
+
+1. 国内最大級、千葉県印西・白井エリアで約250メガワット（MW）のデータセンターキャンパス開発を始動
+   媒体: NTTデータグループ（日本経済新聞同日報道）
+   日付: 2026-04-17
+   URL: https://www.nttdata.com/global/ja/news/release/2026/041700/
+   概要: NTTデータグループは4月17日、千葉県印西市・白井市エリアで合計約250MWの大規模データセンターキャンパス開発を始動すると発表した。6棟構成で国内最大級の電力容量を誇り、生成AIやクラウド事業者の急増する需要を取り込む狙い。液冷・空冷ハイブリッド方式の高効率冷却設備を採用予定で、2030年以降のサービス提供開始を目指す。
+
+------------------------------------------------------
+
+2. 次世代データセンターに求められる高効率の冷却技術を支える「液浸冷却液」についてENEOSに聞いた
+   媒体: MyNavi TechPlus
+   日付: 2026-04-16
+   URL: https://news.mynavi.jp/techplus/article/20260416-4293492/
+   概要: 生成AI普及でサーバーの発熱量が急増する中、ENEOSが開発した液浸冷却液「ENEOS IXシリーズ」の特徴と競争優位性を解説。石油精製技術を応用した高純度炭化水素系冷却液で、国内消防法に対応した「Type J」、海外向け「Type H」、植物由来原料100%の「Type B」の3ラインアップを展開。ENEOSの全国規模の燃料・潤滑油供給ネットワークを活用した安定的な大量供給が強みとされる。
+
+------------------------------------------------------
+
+【English News】
+
+1. Airsys Redefines High-Density Cooling with New UniCool-Max Precision Vertical Packaged Unit
+   （Airsys、高密度データセンター向け新型精密空調ユニット「UniCool-Max」を発表）
+   Source: GlobeNewswire / Airsys
+   Date: 2026-04-16
+   URL: https://www.globenewswire.com/news-release/2026/04/16/3275278/0/en/Airsys-Redefines-High-Density-Cooling-with-New-UniCool-Max-Precision-Vertical-Packaged-Unit.html
+   Summary: Airsys unveiled the UniCool-Max, a precision vertical packaged cooling unit engineered for high-density modular data centers and telecom facilities. Unlike traditional fixed-speed compressors, its variable-speed technology minimizes mechanical startup stress and reduces noise by up to 75%. Running two units at 45% capacity achieves an exceptional 21 IEER rating; the system uses eco-friendly R-454B low-GWP refrigerant and requires zero side clearance for maximum floor density. Airsys will showcase the UniCool-Max at Data Center World in Washington D.C., April 20–23, 2026.
+   【日本語訳】Airsysは高密度モジュール型データセンター・通信施設向け精密垂直パッケージ型冷却ユニット「UniCool-Max」を発表した。可変速技術を採用し、起動時の機械的ストレスと騒音を最大75%低減。2台を各45%出力で運転することでIEER 21という高効率を達成し、低GWP冷媒R-454Bを使用。サイドクリアランスゼロ設計でフロア密度を最大化できる。4月20〜23日のData Center World（ワシントンD.C.）にてデモ展示予定。
+
+2. DataCool Launches Next-Generation Data Center Cooling Platform Amid Surging AI-Driven Demand
+   （DataCool、AI需要急増を受け次世代データセンター冷却プラットフォーム3製品ラインを発表）
+   Source: PR Newswire / DataCool (JohnsonMarCraft HVAC Products)
+   Date: 2026-04-16
+   URL: https://www.prnewswire.com/news-releases/datacool-launches-next-generation-data-center-cooling-platform-amid-surging-ai-driven-demand-302744010.html
+   Summary: DataCool, a division of JohnsonMarCraft HVAC Products, launched the Alpine, Glacier, and Kodiak product lines—a next-generation cooling platform designed for AI, cloud, and high-density data center environments. The systems support an operating range of 2,000 to 100,000 CFM and up to 300 tons of cooling capacity, enabling standardization across edge-to-hyperscale facilities. NVIDIA's Blackwell architecture pushing individual GPU heat loads beyond 1,200 watts per chip is cited as the primary demand driver.
+   【日本語訳】JohnsonMarCraft HVAC Products傘下のDataCoolが、AI・クラウド・高密度データセンター向けの次世代冷却プラットフォームとして「Alpine」「Glacier」「Kodiak」の3製品ラインを発表・即日出荷対応開始。2,000〜100,000 CFMの風量と最大300トンの冷却能力をカバーし、エッジからハイパースケールまでの単一プラットフォーム標準化を可能にする。NVIDIAのBlackwellアーキテクチャで1GPU当たり1,200Wを超える発熱量が主な需要ドライバーとして挙げられている。
+
+3. Data Center Cooling Market Size to Reach USD 45.8 Billion by 2033 as AI Infrastructure, Hyperscale Expansion, and High-Density Thermal Management Accelerate Global Demand
+   （AIインフラ・ハイパースケール拡大が牽引、データセンター冷却市場は2033年に458億ドル到達へ）
+   Source: OpenPR
+   Date: 2026-04-16
+   URL: https://www.openpr.com/news/4475235/data-center-cooling-market-size-to-reach-usd-45-8-billion-by-2033
+   Summary: The global data center cooling market reached USD 16.37 billion in 2025 and is projected to expand to USD 45.8 billion by 2033, growing at a CAGR of 13.64%. AI training clusters and high-performance computing are pushing rack densities far beyond legacy air-cooling limits, accelerating demand for advanced thermal management. Strategic M&A, including Trane Technologies' completed acquisition of LiquidStack in March 2026, signals consolidation in the high-value cooling solutions sector.
+   【日本語訳】グローバルなデータセンター冷却市場は2025年に163.7億ドルに達し、2033年までに年平均13.64%の成長率で458億ドルへ拡大する見込み。AIトレーニングクラスタや高性能コンピューティングがラック密度を従来の空冷限界以上に押し上げ、先進熱管理への需要を加速させている。2026年3月のTrane TechnologiesによるLiquidStack買収完了など、高付加価値冷却ソリューション分野でのM&A集約が加速している。
+
+4. Data Center Liquid Cooling Market Size to Reach USD 13.05 Billion by 2032 as AI Rack Density, Hyperscale Expansion, and Direct-to-Chip Deployments Accelerate
+   （AIラック密度・ハイパースケール拡大・チップ直冷展開加速、液冷市場は2032年に130億ドル超へ）
+   Source: OpenPR
+   Date: 2026-04-16
+   URL: https://www.openpr.com/news/4475192/data-center-liquid-cooling-market-size-to-reach-usd-13-05-billion
+   Summary: The global data center liquid cooling market is forecast to grow from USD 2.80 billion in 2024 to USD 13.05 billion by 2032 at a CAGR of 21.21%. Liquid-cooled AI server penetration is projected to surge from 15% in 2024 to 54% in 2025 and 76% in 2026, driven by direct-to-chip cooling, immersion cooling, and CDU-based systems. Each modern liquid cooling loop now embeds dozens of sensors feeding AI-driven DCIM platforms for real-time thermal intelligence and predictive maintenance.
+   【日本語訳】グローバルなデータセンター液冷市場は2024年の28億ドルから2032年に130.5億ドルへ拡大予測（CAGR 21.21%）。液冷AIサーバーの市場浸透率は2024年の15%から2025年に54%、2026年には76%へ急増する見込み。チップ直冷・液浸冷却・CDUベースシステムが主な成長ドライバーで、各液冷ループにはAI駆動DCIMプラットフォームとリンクするセンサーネットワークが組み込まれ、リアルタイム熱制御と予兆保全を実現している。
+
+======================================================
+レポート生成日時: 2026-04-17
+対象期間: 2026-04-16 〜 2026-04-17

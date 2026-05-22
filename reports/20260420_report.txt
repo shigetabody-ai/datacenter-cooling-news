@@ -1,0 +1,80 @@
+データセンター冷却 日次ニュースレポート 2026-04-20
+======================================================
+
+【日本語ニュース】
+
+1. 「冷却技術は日本企業の強みに」 三菱商事発データセンター企業が印西市で狙う、AIインフラの覇権
+   媒体: ITmedia ビジネスオンライン
+   日付: 2026-04-09
+   URL: https://www.itmedia.co.jp/business/articles/2604/09/news057.html
+   概要: 三菱商事と米Digital Realtyの合弁会社MCデジタル・リアルティが千葉県印西市に新データセンター「NRT14」を開業した。NVIDIA最新GPUサーバーの液体冷却基準を取得・認証を受けており、空冷と液冷を組み合わせたハイブリッド環境を実装。冷却技術を日本企業の強みに位置づけ、AI時代のインフラ覇権確立を目指す戦略を詳報している。
+
+------------------------------------------------------
+
+2. 「データセンター」の中ってどうなってるの？ 潜入して分かった、生成AIを支える「冷却技術の進化」
+   媒体: ITmedia ビジネスオンライン
+   日付: 2026-04-09
+   URL: https://www.itmedia.co.jp/business/articles/2604/09/news045.html
+   概要: 国内最新データセンターの内部に潜入し、生成AI時代に求められる冷却技術の進化を詳報した記事。ラックあたり100kW超の発熱に対応すべく、従来の空冷方式から液冷・ハイブリッド冷却へのシフトが急加速している現場の実態を紹介。AIサーバーの高発熱課題と各社の解決策について多角的に解説している。
+
+------------------------------------------------------
+
+3. PFN・IIJ・JAIST、水冷AIデータセンターを白井で運用開始 省エネ基盤へ
+   媒体: Plus Web3 Media
+   日付: 2026-04-（上旬）
+   URL: https://plus-web3.com/media/latestnews_1002_8274/
+   概要: Preferred Networks（PFN）、IIJ、JAISTの3者がNEDO事業として千葉県白井市のIIJデータセンターキャンパスに構築した直接水冷方式モジュール型データセンター「AImod」の本格稼働を開始した。GPU/CPUを水冷（70%）・その他を空冷（30%）とするハイブリッド方式で設計pPUE 1.1〜1.2を達成し、密閉循環により冷却水消費量を実質ゼロとする超高効率AI基盤を実現している。
+
+------------------------------------------------------
+
+4. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウド Watch（Impress）
+   日付: 2026年（4月上旬）
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業はAlliance Air Products、DDCソリューションズ（Dynamic Data Center Solutions）、Chilldyneなど相次ぐ買収を通じ、北米データセンター向け液冷・空冷の総合冷却体制を整備した。AIサーバーの急拡大に伴うラック冷却需要の高まりを受け、2026年春からサーバー冷却装置・半導体チップ液冷装置の量産を開始し、グローバル市場での競争力強化を図っている。
+
+------------------------------------------------------
+
+【English News】
+
+1. Accelsius Announces General Availability of NeuCool® IR150 and Launches NeuCool HyperStart Program at Data Center World 2026
+   （AccelsiusがNeuCool® IR150正式リリースと二相液冷向けHyperStartプログラムをData Center World 2026で発表）
+   Source: BusinessWire
+   Date: 2026-04-20
+   URL: https://www.businesswire.com/news/home/20260420391618/en/Accelsius-Announces-General-Availability-of-NeuCool-IR150-and-Launches-NeuCool-HyperStart-Program-at-Data-Center-World-2026
+   Summary: Accelsius announced the general availability of NeuCool® IR150, the industry's first fully integrated rack-level two-phase liquid cooling solution combining a CDU, 42U of IT rack space, and built-in liquid/vapor manifolds in a single 800mm enclosure with up to 150kW capacity. The NeuCool HyperStart Program was also launched at Data Center World 2026 (Washington D.C., April 20–23) to support hyperscale operators and neocloud providers in validating two-phase direct-to-chip liquid cooling at scale. Multiple hyperscale AI cloud providers have already joined the program ahead of next-generation AI infrastructure deployments.
+   【日本語訳】AccelsiusはData Center World 2026（ワシントンD.C.、4月20〜23日）にて、業界初の完全統合型ラックレベル二相液冷ソリューション「NeuCool® IR150」の一般提供を発表した。二相CDU・42Uラックスペース・液体／蒸気マニホールドを800mm単体エンクロージャーに統合し、最大150kWの冷却能力を提供するプラグアンドプレイ型製品。ハイパースケール事業者・ネオクラウドプロバイダー向けに技術検証・展開計画支援を行う「NeuCool HyperStartプログラム」も新設し、既に複数の大手AIクラウドプロバイダーが参画している。
+
+------------------------------------------------------
+
+2. Delta Unveils Integrated Power, Cooling, and Infrastructure Architecture for AI Data Centers at Data Center World 2026
+   （Deltaが統合型電力・冷却・インフラアーキテクチャをData Center World 2026でAIデータセンター向けに披露）
+   Source: PR Newswire
+   Date: 2026-04-20
+   URL: https://www.morningstar.com/news/pr-newswire/20260420sf37903/delta-unveils-integrated-power-cooling-and-infrastructure-architecture-for-ai-data-centers-at-data-center-world-2026
+   Summary: Delta Electronics unveiled its integrated power, cooling, and infrastructure architecture at Data Center World 2026, designed to meet the escalating thermal and power demands of AI data centers where rack densities now commonly reach 50–140kW. The Ultron DPM Gen-2 series UPS (250–2500 kVA) was highlighted as a key offering for hyperscale, enterprise, and colocation data centers requiring uninterrupted high-density power delivery alongside coordinated cooling. Delta's approach tightly integrates thermal management with power distribution to enable more efficient and resilient AI infrastructure deployments at scale.
+   【日本語訳】Delta Electronics（台達電子）はData Center World 2026にて、AIデータセンター向けの統合型電力・冷却・インフラアーキテクチャを発表した。ラック密度が50〜140kWに達するAI施設の需要増大に対応する設計で、主力製品としてUltron DPM Gen-2シリーズUPS（250〜2,500kVA）を紹介した。電力供給と熱管理を一体化したアプローチにより、ハイパースケール・企業・コロケーション全体でのAIインフラ効率化と信頼性向上を実現する。
+
+------------------------------------------------------
+
+3. DataCool Launches Next-Generation Data Center Cooling Platform Amid Surging AI-Driven Demand
+   （DataCoolが急拡大するAI需要に対応する次世代データセンター冷却プラットフォームを発売）
+   Source: PR Newswire
+   Date: 2026-04-16
+   URL: https://www.prnewswire.com/news-releases/datacool-launches-next-generation-data-center-cooling-platform-amid-surging-ai-driven-demand-302744010.html
+   Summary: DataCool launched its next-generation cooling platform comprising Alpine, Glacier, and Kodiak product lines, supporting a broad operating range from 2,000 to 100,000 CFM and up to 300 tons of cooling capacity for both indoor and outdoor applications. The new systems are designed to scale with escalating AI workload demands as data centers routinely deploy racks drawing 50 to 120 kilowatts. DataCool's flexible, high-capacity platform positions operators to handle rapid infrastructure growth without full facility redesign.
+   【日本語訳】DataCoolはAI需要の急拡大に対応する次世代冷却プラットフォームとして「Alpine」「Glacier」「Kodiak」の3製品ラインを発表した。2,000〜100,000 CFMの広範な運転範囲と最大300トンの冷却容量に対応し、屋内・屋外いずれの用途にも設置可能な設計となっている。ラックあたり50〜120kW以上の消費電力が一般化するAIデータセンターに向け、施設の全面設計変更なしにスケーラブルな冷却能力を提供するプラットフォームとして訴求している。
+
+------------------------------------------------------
+
+4. Ablecom Launches 130kW-Ready Cooling Solutions for High-Density Computing
+   （Ablecomが高密度コンピューティング向け130kW対応冷却ソリューション「AbleRack／AbleCool」を発表）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-04-11
+   URL: https://www.datacenterdynamics.com/en/product-news/ablecom-launches-130kw-ready-cooling-solutions-for-high-density-computing/
+   Summary: Ablecom Technology announced its AbleRack and AbleCool infrastructure solutions to address the industry's rapid shift from traditional 20–30kW-per-rack servers to 130kW-per-rack high-density AI installations. The solutions offer scalable cooling capacity that can grow with AI workload requirements without requiring a complete data center redesign, lowering the barrier to entry for high-density AI compute. Ablecom's announcement underscores the broader industry push for component-level cooling innovation to support next-generation GPU-dense AI infrastructure.
+   【日本語訳】Ablecomテクノロジーは、従来のラックあたり20〜30kWから130kWへと急上昇するAIサーバーの発熱密度増大に対応する「AbleRack」「AbleCool」インフラソリューションを発表した。データセンターの全面設計変更なしにAIワークロードの拡大に合わせてスケーラブルに冷却能力を追加できる設計により、高密度AI導入のハードルを引き下げる。次世代GPU密集型AIインフラを支えるコンポーネントレベル冷却革新の流れを反映した製品発表として業界から注目されている。
+
+======================================================
+レポート生成日時: 2026-04-20
+対象期間: 2026-04-19 〜 2026-04-20

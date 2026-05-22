@@ -1,0 +1,82 @@
+データセンター冷却 日次ニュースレポート 2026-04-23
+======================================================
+
+【日本語ニュース】
+
+1. 水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも【Data Center Japan 2026】
+   媒体: INTERNET Watch（インプレス）
+   日付: 2026-03-25
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 2026年3月24〜25日に東京都内で開催された「Data Center Japan 2026」では、AIサーバー向けの液冷設備が多数展示された。CDU（冷却水分配装置）や高荷重AIサーバーを安全に持ち上げるための電動リフトなど、液冷化を支える周辺機器が来場者の関心を集め、データセンター業界における液冷移行の本格化を印象付けた。実機デモを交えた展示が多く、現場への導入イメージを具体的に伝える内容となった。
+
+------------------------------------------------------
+
+2. カンネツ、ニデック、第一実業の3社が連携、AIデータセンターに必要となる液冷化パッケージを提供
+   媒体: クラウド Watch（インプレス）
+   日付: 2026-03-25
+   URL: https://cloud.watch.impress.co.jp/docs/news/2095704.html
+   概要: カンネツ・ニデック・第一実業の3社がAIデータセンター向け液冷システムの設計から施工・試験・保守に至るまでを一括提供する「液冷化パッケージ」で連携することを発表した。各社の専門技術を組み合わせることで液冷導入の複雑さを軽減し、企業が迅速に移行できる環境を整える。高発熱GPU搭載サーバーへの対応を急ぐデータセンター事業者のニーズに応える取り組みとして期待されている。
+
+------------------------------------------------------
+
+3. 日本データセンター冷却市場、2035年までに21億5,227万米ドル規模へ拡大
+   媒体: AT Press
+   日付: 2026-04-22
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: 市場調査レポートによると、日本のデータセンター冷却市場は2026年から2035年にかけてCAGR 11.58%で拡大し、2035年には21億5,227万米ドルに達する見通しである。AIサーバー普及の加速とハイパースケーラーによる国内投資拡大を背景に、液冷・液浸方式の採用拡大が市場成長をけん引するとみられる。日本市場特有の高い信頼性要件に対応した液冷ソリューションへの需要増加も注目される。
+
+------------------------------------------------------
+
+【English News】
+
+1. LG Electronics Showcases AI Data Center Cooling Solutions at Data Center World 2026
+   （LGエレクトロニクス、Data Center World 2026でAIデータセンター向け冷却ソリューションを一挙披露）
+   Source: LG Global Newsroom
+   Date: 2026-04-22
+   URL: https://www.lg.com/global/newsroom/news/eco-solution/lg-electronics-showcases-ai-data-center-cooling-solutions-at-data-center-world-2026/
+   Summary: LG Electronics presented its end-to-end AI data center cooling portfolio at Data Center World 2026 (Washington D.C., April 20–23), featuring Direct-to-Chip (DTC) cooling systems, immersion cooling tanks co-developed with Green Revolution Cooling (GRC) and SK Enmove, and the DCCM AI-based cooling management software. The company also confirmed a supply agreement with Microsoft for AI data center cooling infrastructure, reinforcing its ambition to become a full-stack thermal management provider. The integrated portfolio spans hardware and intelligent software for next-generation high-density AI workloads.
+   【日本語訳】LGエレクトロニクスはData Center World 2026（ワシントンD.C.、4月20〜23日）にて、ダイレクトツーチップ（DTC）冷却システム、GRC・SK Enmoveとの共同開発による液浸冷却タンク、AIベースの冷却管理ソフト「DCCM」を含むエンドツーエンドのAIデータセンター向け冷却ポートフォリオを披露した。マイクロソフトへの冷却インフラ供給契約を確認し、フルスタック熱管理プロバイダとしての地位確立を目指している。
+
+------------------------------------------------------
+
+2. Top 10: Direct to Chip Cooling Companies
+   （ダイレクトツーチップ冷却企業トップ10）
+   Source: Data Centre Magazine
+   Date: 2026-04-22
+   URL: https://datacentremagazine.com/top10/top-10-direct-to-chip-cooling-companies-22-04-2026
+   Summary: Data Centre Magazine published a comprehensive ranking of the top 10 direct-to-chip (DTC) cooling companies as AI rack power densities continue to escalate far beyond the limits of traditional air cooling. The ranking highlights that DTC liquid cooling has shifted from a niche solution to a mainstream requirement, with companies competing on thermal resistance, flow rate efficiency, and integration capabilities with AI orchestration platforms. The list reflects the rapid commercialization of precision liquid cooling technologies driven by surging AI infrastructure investment.
+   【日本語訳】AIラックの電力密度が従来の空冷限界を大幅に超え続ける中、Data Centre Magazineがダイレクトツーチップ（DTC）冷却企業のトップ10ランキングを公開した。DTC液冷は既にニッチな技術から主流の必須要件へと移行しており、熱抵抗・流量効率・AIオーケストレーション統合性などを軸にメーカー間の競争が激化している。AI投資拡大を背景とした精密液冷技術の急速な商業化が反映されている。
+
+------------------------------------------------------
+
+3. AI Demand Is Forcing a Rethink of Data Center Power, Cooling
+   （AI需要がデータセンターの電力・冷却インフラの抜本的再考を迫る）
+   Source: TechRepublic
+   Date: 2026-04-23
+   URL: https://www.techrepublic.com/article/news-ai-data-center-power-cooling-infrastructure-dcw/
+   Summary: At Data Center World 2026, engineering leaders from Oracle Cloud Infrastructure, Nvidia, and Google described a fundamental shift in how data centers must be designed and operated to support AI training and inference at scale. Liquid cooling capacity equaled air cooling capacity globally in 2025, and by end of 2026, liquid cooling is expected to double air cooling capacity—marking a definitive transition from optional to standard infrastructure. Speakers emphasized that facilities are evolving from general-purpose IT environments into tightly integrated AI compute systems requiring holistic redesign of power and thermal architecture.
+   【日本語訳】データセンターワールド2026にて、Oracle Cloud Infrastructure・Nvidia・Googleのエンジニアリングリーダーが、AI推論・学習ワークロードを支えるためのデータセンター設計・運用の根本的な転換について語った。2025年時点で液冷の冷却容量が空冷と並び、2026年末には液冷が空冷の2倍に達する見込みであり、液冷はオプションから標準インフラへと変化した。施設は汎用ITインフラからAI特化の高密度コンピューティングシステムへと進化しつつある。
+
+------------------------------------------------------
+
+4. Data Center World 2026: Power Architecture Pushed Beyond the Rack
+   （Data Center World 2026：電力アーキテクチャがラックの限界を超える）
+   Source: Data Center Knowledge
+   Date: 2026-04-22
+   URL: https://www.datacenterknowledge.com/build-design/data-center-world-2026-new-limits-push-power-architecture-beyond-the-rack
+   Summary: Data Center Knowledge reports from DCW 2026 that AI workloads are pushing power and cooling architectures beyond traditional rack-level constraints, forcing facility-level redesign of power distribution and thermal management systems. Industry experts described the urgent need to rethink coolant distribution networks, power conversion efficiency, and the integration of liquid cooling loops with building-level infrastructure. The convergence of extreme power and cooling challenges is driving the development of new standards for next-generation data center design and colocation specifications.
+   【日本語訳】Data Center Knowledgeのデータセンターワールド2026レポートによれば、AIワークロードが電力・冷却アーキテクチャを従来のラックレベルの限界を超えて押し上げ、施設レベルでの電力配分・熱管理システムの再設計を余儀なくしている。冷媒分配ネットワークの見直し、電力変換効率の改善、液冷ループと建物インフラの統合が急務となっており、電力と冷却の課題の収束が次世代データセンター設計の新標準策定を促進している。
+
+------------------------------------------------------
+
+5. Cooling Constraints Emerge as Major Challenge for Data Centers
+   （冷却制約がデータセンターの主要課題として浮上）
+   Source: Broadband Breakfast
+   Date: 2026-04-23
+   URL: https://broadbandbreakfast.com/cooling-constraints-emerge-as-major-challenge-for-data-centers/
+   Summary: Broadband Breakfast reports that cooling constraints have become one of the most significant bottlenecks for data center expansion in 2026, alongside power availability and land access, as AI-driven rack densities make traditional air cooling increasingly inadequate. The article highlights growing pressure on operators to adopt liquid cooling and immersion systems, and notes rising policy-level concerns over the water usage of large-scale cooling infrastructure. Interest in closed-loop and waterless cooling alternatives is accelerating as operators seek to balance thermal performance with environmental sustainability requirements.
+   【日本語訳】Broadband Breakfastの報告によると、AIによるラック密度の上昇で従来の空冷が不十分となり、冷却制約が電力供給・用地確保と並ぶ2026年のデータセンター拡張における重大なボトルネックとして浮上している。液冷・液浸冷却システムの採用圧力が高まる一方、大規模冷却インフラの水使用量への懸念から政策立案者の関心も高まっている。熱的性能と環境サステナビリティの両立を目指し、閉ループ型・無水型冷却技術への関心が急速に加速している。
+
+======================================================
+レポート生成日時: 2026-04-23
+対象期間: 2026-04-22 〜 2026-04-23

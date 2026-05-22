@@ -1,0 +1,27 @@
+name: Weekly News → Google Sheets
+
+on:
+  schedule:
+    - cron: '0 3 * * 6'   # 毎週土曜 12:00 JST (= 03:00 UTC)
+  workflow_dispatch:        # 手動実行ボタン（動作確認用）
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install gspread google-auth
+
+      - name: Export to Google Sheets
+        env:
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
+        run: python sheets_export.py

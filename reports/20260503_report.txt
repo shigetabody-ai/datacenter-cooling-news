@@ -1,0 +1,126 @@
+データセンター冷却 日次ニュースレポート 2026-05-03
+======================================================
+
+【日本語ニュース】
+
+1. KDDI、全世界のデータセンターを再生可能エネルギー100%に切り替える環境目標を達成
+   媒体: クラウド Watch (Impress)
+   日付: 2026-05-01
+   URL: https://cloud.watch.impress.co.jp/docs/news/2106181.html
+   概要: KDDIが全世界のKDDIデータセンターで使用する電力を再生可能エネルギー由来100%に切り替える
+         環境目標を2026年3月31日に達成したと5月1日に発表。大阪堺データセンターでは日本初の商用
+         大規模水冷技術を導入しGPUの高発熱に対応した。AI時代の電力需要急増に対応しながら水冷
+         技術や廃熱再利用など省エネ施策を組み合わせてカーボンニュートラルを推進している。
+
+------------------------------------------------------
+
+2. IIJ・Quantum Mesh・ネットチャート、液浸冷却システム搭載の分散型エッジデータセンター取扱い開始
+   媒体: IIJ企業情報（プレスリリース）
+   日付: 2026-04-07
+   URL: https://www.iij.ad.jp/news/pressrelease/2026/0407.html
+   概要: IIJ・Quantum Mesh・ネットチャートの3社が、液浸冷却システム「KAMUI」を搭載した分散型エッジ
+         データセンターの取扱いを開始すると発表。Quantum MeshのオールインワンAI液浸冷却ラック
+         「KAMUI γ」は電源さえあれば設置可能で、高密度GPUサーバーを企業内に直接導入できる。
+         空冷式比で消費電力を大幅削減しながら、PUE1.03の超省エネ・高密度コンピューティング環境を
+         実現する。
+
+------------------------------------------------------
+
+3. NTTデータグループ、AI需要に対応し千葉県白井市に日本最大級のデータセンターを建設へ
+   媒体: 日本経済新聞
+   日付: 2026-04-17
+   URL: https://www.nikkei.com/article/DGXZQOUC171880X10C26A4000000/
+   概要: NTTデータグループが千葉県白井市に日本最大級のデータセンターを建設すると発表した。
+         2030年以降のサービス提供開始を目指し、AI処理の大規模化に伴う発熱増大に対応するため
+         高性能な冷却システムの導入を検討している。国内外のAI投資急増を背景に大規模インフラへの
+         投資を加速させ、液冷対応施設の整備を進める方針を示した。
+
+------------------------------------------------------
+
+【English News】
+
+1. Vertiv Acquires Strategic Thermal Labs to Strengthen Liquid-Cooling System Capability
+   （Vertiv、液冷システム能力強化に向けStrategic Thermal Labsを買収）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-04-28
+   URL: https://www.datacenterdynamics.com/en/news/vertiv-acquires-strategic-thermal-labs-to-strengthen-liquid-cooling-offering/
+   Summary: Vertiv announced the acquisition of Strategic Thermal Labs (STL), a Georgetown, Texas-based
+            specialist in cold-plate design and high-density thermal validation for AI data centers,
+            extending its thermal-chain strategy at the server-side liquid cooling interface. STL adds
+            proven cold-plate design, server-side liquid cooling, and high-density thermal validation
+            expertise, enhancing Vertiv's ability to simulate and emulate real high-density compute
+            conditions and optimize the interaction between the thermal chain and power train.
+            Vertiv reaffirmed its open-ecosystem commitment, ensuring solutions remain server- and
+            silicon-agnostic across diverse AI deployment environments.
+   【日本語訳】Vertivがテキサス州ジョージタウンに拠点を置くAIデータセンター向けコールドプレート設計・
+              高密度熱検証の専門企業Strategic Thermal Labs（STL）を買収したと発表。この買収で、Vertivは
+              サーバーサイド液冷インターフェースの技術力を強化し、高密度コンピューティング条件のシミュレーション
+              と電力系統との統合最適化を改善する。サーバー・シリコン非依存のオープンエコシステムを維持しながら
+              液冷サービス体制を拡充する方針を示した。
+
+------------------------------------------------------
+
+2. AI Data Center Liquid Cooling Market to Jump at 17.2% CAGR reaching $18.1 Billion by 2036
+   （AIデータセンター液冷市場、年率17.2%成長で2036年に181億ドル到達予測）
+   Source: PRNewswire / Market Decipher
+   Date: 2026-04-28
+   URL: https://www.prnewswire.com/news-releases/ai-data-center-liquid-cooling-market-to-jump-at-17-2-cagr-reaching-18-1-billion-by-2036--302755702.html
+   Summary: A new market intelligence report projects the global AI data center liquid cooling market
+            to grow from $3.7 billion in 2026 at a CAGR of 17.2%, reaching $18.1 billion by 2036,
+            driven by AI workloads routinely pushing rack densities beyond 200kW. Immersion cooling
+            and direct-to-chip technologies are the fastest-growing segments as hyperscalers and
+            AI operators standardize on liquid-first architectures for Blackwell- and Rubin-generation
+            GPU deployments. North America dominates with over 42% market share, while Asia Pacific
+            is forecast to grow at the highest CAGR as hyperscale AI buildouts accelerate across
+            Japan, South Korea, and India.
+   【日本語訳】新たな市場調査レポートによると、世界のAIデータセンター液冷市場は2026年の37億ドルから
+              年率17.2%で拡大し2036年には181億ドルに達する見込み。AIワークロードが標準的にラック密度
+              200kWを超えることが液冷採用を加速させ、液浸冷却とダイレクト・ツー・チップ技術が最速成長
+              セグメントとなっている。北米が42%超のシェアで首位を維持しながら、日本・韓国・インドを含む
+              アジア太平洋がハイパースケール展開の加速で最高成長率を記録すると予測されている。
+
+------------------------------------------------------
+
+3. AI Pushes Cooling to the Forefront of Data Center Design
+   （AI時代の高発熱がデータセンター設計における冷却の最優先課題化を加速）
+   Source: Data Center Knowledge (DCK)
+   Date: 2026-04-26
+   URL: https://www.datacenterknowledge.com/cooling/cooling-becomes-the-system-constraint-as-ai-reshapes-data-center-design
+   Summary: Data Center Knowledge analysis concludes that cooling has evolved from a background utility
+            to the defining constraint in AI-era data center design, as rack densities routinely exceed
+            200kW with next-generation designs targeting 400kW and beyond. Operators now select cooling
+            architectures—direct-to-chip, immersion, or hybrid—before floor layouts, power distribution,
+            and even site locations, fundamentally reversing decades of conventional practice. Industry
+            experts at Data Center World in Washington DC warned that the inability to scale cooling
+            at the pace AI workloads demand is becoming the primary bottleneck to data center expansion.
+   【日本語訳】Data Center Knowledgeの分析によると、ラック密度が標準200kWを超え設計上400kW以上を視野に
+              入れるAI時代において、冷却はデータセンター設計の背景的インフラから最重要制約へと変化した。
+              オペレーターは今や、フロアレイアウト・電力分配・立地選定よりも先に冷却アーキテクチャ
+              （DTC・液浸・ハイブリッド）を決定しており、数十年来の設計慣行が根本から変わりつつある。
+              ワシントンDCのData Center Worldに集った業界専門家は、AIワークロードの需要増大に冷却スケール
+              が追いつけないことがデータセンター拡張の最大ボトルネックになると警告した。
+
+------------------------------------------------------
+
+4. AI-Driven Cooling Revolution Transforms Data Centers Cooling Market as Efficiency Demands Surge
+   （AI主導の冷却革命、効率性需要急増でデータセンター冷却市場を変革――CAGR 19.2%）
+   Source: PRNewswire
+   Date: 2026-04-29
+   URL: https://www.prnewswire.com/news-releases/ai-driven-cooling-revolution-transforms-data-centers-cooling-market-as-efficiency-demands-surge--cagr-19-2-302755735.html
+   Summary: A new market research report reveals the global data center cooling market is forecast to
+            grow at a CAGR of 19.2%, reaching approximately $46.3 billion by 2033, driven by
+            unprecedented AI-fueled heat density requirements across hyperscale and enterprise facilities.
+            Liquid cooling now accounts for nearly 46% of new data center cooling deployments, with
+            immersion and direct-to-chip segments growing fastest as operators standardize on
+            liquid-first architectures globally. North America leads with 36% market share while
+            Asia Pacific is the fastest-growing region at 24.6% CAGR, reflecting a worldwide shift
+            in cooling investment priorities toward sustainable, high-efficiency thermal management.
+   【日本語訳】新たな市場調査レポートにより、世界のデータセンター冷却市場がCAGR19.2%で成長し2033年までに
+              463億ドルに達する見込みであることが明らかになった。AIによる前例のない発熱密度要求が主要ドライバーで、
+              液冷が新設DC冷却展開の46%近くを占めるまでに普及している。液浸・DTC冷却が最速成長セグメントとなり、
+              北米が36%シェアで首位を維持しながら、アジア太平洋が24.6%CAGRで最高成長地域として台頭して
+              いる状況が確認された。
+
+======================================================
+レポート生成日時: 2026-05-03
+対象期間: 2026-05-02 〜 2026-05-03

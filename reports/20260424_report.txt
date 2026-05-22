@@ -1,0 +1,82 @@
+データセンター冷却 日次ニュースレポート 2026-04-24
+======================================================
+
+【日本語ニュース】
+
+1. IIJ・Preferred Networks・JAIST、直接水冷方式モジュール型データセンター「AImod」が4月より本格稼働
+   媒体: PR TIMES（株式会社インターネットイニシアティブ）
+   日付: 2026-04-01
+   URL: https://prtimes.jp/main/html/rd/p/000000031.000165540.html
+   概要: IIJ・Preferred Networks（PFN）・北陸先端科学技術大学院大学（JAIST）が共同開発した直接水冷方式モジュール型データセンター「AImod」が、IIJ白井データセンターキャンパスで4月より本格稼働を開始した。経産省・NEDO採択の「超高効率AI計算基盤技術の研究開発」事業として、フリークーリングと水冷/空冷ハイブリッド機構を採用し、高密度AIサーバーの大規模展開を可能にする超省エネ計算基盤の実現を目指している。
+
+------------------------------------------------------
+
+2. ジョンソンコントロールズ、2026年度はデータセンター市場への注力を強化
+   媒体: クラウド Watch（インプレス）
+   日付: 2026-04-23
+   URL: https://cloud.watch.impress.co.jp/docs/special/2075236.html
+   概要: ジョンソンコントロールズが液冷ソリューションへの戦略的投資を2026年度の最優先事項に位置づけ、データセンター向けHVAC・中央監視・自動制御の強化方針を発表した。AIサーバーの高発熱化への対応として統合的な熱管理ソリューションの拡販体制を整備し、ビル管理システム（BMS）と連携した省エネ型冷却自動制御の提供を加速させる計画である。
+
+------------------------------------------------------
+
+3. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウド Watch（インプレス）
+   日付: 2026-04-24
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業が2025年に買収したDynamic Data Centers Solutions（DDCソリューションズ）とChilldyne（チルダイン）の技術を統合し、2026年春よりサーバー冷却装置とチップ液冷装置の量産を本格化する。チラーから空調・ラック冷却・チップ直接液冷まで一貫したトータルソリューションを提供することで、北米データセンター向け冷却事業を2030年度に3000億円以上へ拡大する目標を掲げている。
+
+------------------------------------------------------
+
+【English News】
+
+1. Munters Wins Order of BSEK 2.0 for a Modular AI Cooling Solution
+   （Munters、AIファクトリー向けモジュール型冷却ソリューションで約183億円規模を受注）
+   Source: Munters Group / PR Newswire
+   Date: 2026-04-24
+   URL: https://www.prnewswire.com/news-releases/munters-wins-order-of-bsek-2-0-for-a-modular-ai-cooling-solution-302752621.html
+   Summary: Munters' Data Center Technologies (DCT) business area announced a landmark order worth approximately BSEK 2.0 (~USD 183M) from a US colocation data center provider for a fully modular AI cooling platform. The solution integrates high-capacity Coolant Distribution Units (CDUs) with over-rack Computer Room Air Handlers (CRAHs) designed for rapid AI factory deployment at scale. Munters will book the order in Q2 2026, with deliveries scheduled to begin in early 2027 and continue through Q1 2028, underscoring the accelerating enterprise demand for AI-optimized thermal management infrastructure.
+   【日本語訳】MuntersのDCT部門が米国コロケーション事業者から約20億スウェーデンクローナ（約183百万ドル）規模のAIファクトリー向けモジュール型冷却プラットフォームを受注した。高容量CDUとラック上部設置型CRAHを統合した製品で、AIインフラの迅速な展開・拡張を可能にする設計。2026年Q2に受注計上し、2027年初頭から2028年Q1にかけて納品予定。AI向け熱管理インフラ需要の急加速を示す過去最大級の単一契約の一つとなった。
+
+------------------------------------------------------
+
+2. Lawmakers Eye Water Use Transparency Requirements for Data Centers
+   （米イリノイ州議会、データセンターの冷却用水使用量の開示義務化を検討）
+   Source: NPR Illinois / Capitol News Illinois
+   Date: 2026-04-23
+   URL: https://www.nprillinois.org/illinois/2026-04-23/lawmakers-eye-water-use-transparency-requirements-for-data-centers
+   Summary: Illinois House Committee held its final of three data center-focused hearings on April 23, centering on water use transparency for large-scale AI cooling infrastructure. Advocates of the POWER Act called for data centers to adopt closed-loop cooling as the efficiency baseline and submit quarterly water usage reports to state agencies and a publicly accessible database. Industry representatives objected to the bill, arguing it unfairly targets data centers while other high water-use industries face no equivalent requirements—highlighting an emerging policy tension between data center growth and environmental stewardship.
+   【日本語訳】イリノイ州議会下院委員会が4月23日、データセンターの大規模AI冷却インフラに関する水使用量透明性をテーマとする最終公聴会を開催した。POWER法支持者は閉ループ型冷却の標準採用と年4回の水使用量開示を義務づけるよう求めた。業界側はこれに反対し、他の高水使用産業が規制対象とならない中でデータセンターだけを狙い打ちにしていると主張。データセンター成長と環境管理の間に生じている政策的緊張を浮き彫りにした。
+
+------------------------------------------------------
+
+3. AI Pushes Cooling to the Forefront of Data Center Design
+   （AIがデータセンター設計の中心に冷却を押し上げる）
+   Source: Data Center Knowledge
+   Date: 2026-04-23
+   URL: https://www.datacenterknowledge.com/cooling/cooling-becomes-the-system-constraint-as-ai-reshapes-data-center-design
+   Summary: As AI workloads push rack densities toward the megawatt era, cooling has shifted from a supporting system into the primary engineering constraint in data center design, according to Data Center Knowledge coverage from Data Center World 2026. Industry leaders confirmed that liquid cooling—once considered optional—is now a baseline requirement for high-density AI deployments, with hybrid air-liquid architectures emerging as the near-term steady state. Speakers from Google, Oracle Cloud Infrastructure, and Nvidia stressed that liquid-cooled environments tolerate only seconds of disruption—versus minutes for air-cooled systems—demanding new operational protocols and real-time thermal monitoring.
+   【日本語訳】Data Center Knowledgeによると、AIワークロードによってラック密度がメガワット時代に向かう中、冷却はデータセンター設計の主要工学的制約として中心的役割を担うようになった。液冷はもはやオプション機能ではなくAI高密度展開の基本要件であり、ハイブリッド空冷・液冷アーキテクチャが近未来の標準として議論されている。Google・Oracle Cloud Infrastructure・Nvidiaの幹部は、液冷環境での障害許容時間が数秒単位と空冷の数分と比較して格段に短く、リアルタイム熱監視と新たな運用プロトコルが不可欠であると強調した。
+
+------------------------------------------------------
+
+4. India Data Center Cooling Market Valued at USD 1.6 Billion with Strong Long-Term Growth Potential
+   （インドのデータセンター冷却市場、16億ドル規模で長期高成長へ）
+   Source: OpenPR (Ken Research)
+   Date: 2026-04-24
+   URL: https://www.openpr.com/news/4485535/india-data-center-cooling-market-ken-research-stated
+   Summary: Ken Research's latest market intelligence report shows India's data center cooling market is valued at USD 1.6 billion and is positioned for strong long-term expansion, driven by hyperscale data center buildouts by global cloud providers, surging AI workload density, and government-backed digital infrastructure programs. Liquid cooling and indirect evaporative cooling technologies are gaining traction as Indian operators seek energy-efficient solutions compatible with the country's warm climate and increasingly strict sustainability mandates.
+   【日本語訳】ケン・リサーチの最新市場調査によると、インドのデータセンター冷却市場は16億ドル規模に達し、長期的な高成長が見込まれる。グローバルクラウド事業者によるハイパースケールDCの急速な建設、AIワークロード密度の上昇、政府主導のデジタルインフラ整備が成長を後押しする。高い外気温と厳格化する持続可能性要件への対応として、液冷・間接蒸発冷却技術の採用がインドの事業者に広がりつつある。
+
+------------------------------------------------------
+
+5. LG Bets on AI Data Center Cooling for B2B Growth
+   （LGエレクトロニクス、AIデータセンター冷却を法人成長の柱に据える）
+   Source: The Korea Herald
+   Date: 2026-04-23
+   URL: https://www.koreaherald.com/article/10721845
+   Summary: Following its prominent presence at Data Center World 2026, LG Electronics is strategically positioning its AI data center cooling portfolio as a key driver of B2B revenue growth. LG's integrated lineup—spanning direct-to-chip (DTC) cooling, immersion cooling tanks co-developed with Green Revolution Cooling and SK Enmove, and the DCCM AI-based management software—is designed to capture a significant share of the rapidly growing global AI thermal management market. LG aims to leverage its manufacturing scale, consumer appliance thermal expertise, and strategic partnerships with US hyperscale operators to establish a globally competitive position in mission-critical data center cooling.
+   【日本語訳】LGエレクトロニクスはData Center World 2026での積極的な展示を経て、AIデータセンター冷却ポートフォリオを法人（B2B）収益成長の主要ドライバーとして戦略的に位置づけている。チップ直接液冷（DTC）・GRC/SK Enmoveとの共同開発液浸冷却タンク・AI冷却管理ソフト「DCCM」を軸に、急成長するグローバルAI熱管理市場でのシェア獲得を目指す。家電事業で培った熱管理技術と製造規模を活かし、米国ハイパースケール事業者との戦略的連携でグローバル競争力を確立する方針だ。
+
+======================================================
+レポート生成日時: 2026-04-24
+対象期間: 2026-04-23 〜 2026-04-24

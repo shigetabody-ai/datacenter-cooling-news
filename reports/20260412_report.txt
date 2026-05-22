@@ -1,0 +1,134 @@
+データセンター冷却 日次ニュースレポート 2026-04-12
+======================================================
+
+【日本語ニュース】
+
+1. ヒートアイランド現象の主な原因は、データセンター。半径10kmを2℃上昇させている
+   媒体: ギズモード・ジャパン
+   日付: 2026-04-07
+   URL: https://www.gizmodo.jp/2026/04/data-centers-create-heat-islands-stretching-6-miles-study-finds.html
+   概要: 国際研究チームの調査により、データセンターの排熱がヒートアイランド現象を引き起こし、
+   施設から半径10km（約6マイル）圏内の地表面温度を平均2℃上昇させていることが判明した。
+   最悪のシナリオでは9.1℃の上昇が予測され、全世界で3億4000万人が影響を受ける可能性があるという。
+
+------------------------------------------------------
+
+2. パナソニック、生成AIデータセンター向け液冷システム事業を欧州で開始 CDUやフリークーリングチラーを販売
+   媒体: クラウド Watch (Impress)
+   日付: 2026-03-04
+   URL: https://cloud.watch.impress.co.jp/docs/news/2090632.html
+   概要: パナソニックが欧州市場で生成AIデータセンター向け液冷システムの受注を開始した。
+   400kW・800kWのCDU（冷却液分配ユニット）および800kW・1,200kWのフリークーリングチラーを投入し、
+   高発熱GPUサーバーに対応する液冷ソリューションを展開、今後は北米・アジアへの拡大も検討する。
+
+------------------------------------------------------
+
+3. 三菱重工業、次世代AIデータセンター向け10MW級遠心チラーを北米へ投入
+   媒体: 三菱重工業（MHI）プレスリリース
+   日付: 2026-03-12
+   URL: https://www.mhi.com/news/26031202.html
+   概要: 三菱重工業が北米の次世代AIデータセンター向けに10MW超級の遠心チラーの提供を発表した。
+   AIの急激な需要拡大に伴う大規模冷却ニーズに応えるもので、同社は2025年にテキサス州ダラスに
+   北米データセンター事業の拠点を設立し、電力・冷却ソリューションの包括的な強化を進めている。
+
+------------------------------------------------------
+
+4. データセンターが半径10kmの地表面温度を2℃上昇させている
+   媒体: ライブドアニュース
+   日付: 2026-04-07
+   URL: https://news.livedoor.com/topics/detail/30935430/
+   概要: データセンターが周囲に「熱の島」をつくり出し、半径10km圏の地表面温度を平均2℃上昇させるとの
+   国際研究チームの報告をもとに、国内ニュースでも冷却インフラの重要性への関心が高まっている。
+   生成AIの普及でデータセンターが急増する中、冷却技術の革新と廃熱利用策が急務となっている。
+
+------------------------------------------------------
+
+5. 水冷（液冷）設備が目白押し。重いAIサーバーを高く持ち上げるための電動リフト実機デモも【Data Center Japan 2026】
+   媒体: INTERNET Watch (Impress)
+   日付: 2026-03-26
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 2026年3月24〜25日に東京で開催された「Data Center Japan 2026」展示会のレポート。
+   AIサーバーの液冷・水冷設備が多数出展され、CDUや電動リフトの実機デモが注目を集めた。
+   各社がAIデータセンター対応の最新液冷ソリューションを競って紹介し、業界の液冷シフトを印象付けた。
+
+======================================================
+
+【English News】
+
+1. Building AI Factories: Why Integrated Power and Liquid Cooling Systems Are Critical for High-Density AI Data Centers
+   （AIファクトリー構築：高密度AIデータセンターに統合電源・液冷システムが不可欠な理由）
+   Source: Schneider Electric Blog
+   Date: 2026-04-09
+   URL: https://blog.se.com/datacenter/2026/04/09/building-ai-factories-why-integrated-power-and-liquid-cooling-systems-are-critical-for-high-density-ai-data-centers/
+   Summary: Schneider Electric argues that as AI rack densities surpass 100kW and approach 600kW, power and
+   thermal management systems must be designed together as one integrated solution from the start. The article
+   details how combining direct-to-chip and immersion cooling with intelligent power distribution can reduce PUE
+   while enabling faster, modular deployment for next-generation AI factories.
+   【日本語訳】シュナイダーエレクトリックは、AIラック密度が100kWを超え600kWに達しつつある現在、液冷の追加だけでは
+   不十分であり、電源管理と熱管理を最初から統合設計する必要があると主張。直接冷却・液浸冷却と電源分配の組み合わせで
+   PUEを低減しつつAIファクトリーの迅速なモジュール展開を実現できると解説している。
+
+------------------------------------------------------
+
+2. Data Centers Are So Hot Their 'Heat Island' Effect Is Raising Temperatures Up to 6 Miles Away
+   （データセンターが発する熱の「ヒートアイランド」効果が半径約10km先まで気温を押し上げている）
+   Source: Fortune
+   Date: 2026-04-01
+   URL: https://fortune.com/2026/04/01/ai-data-centers-heat-island-hyperscalers/
+   Summary: Fortune reports on new international research showing that AI data centers generate enough waste
+   heat to measurably raise ambient temperatures within a 6-mile (10km) radius, affecting an estimated 340
+   million people globally. The findings are intensifying calls for stricter siting regulations, energy-efficient
+   cooling designs, and waste heat recovery systems as hyperscalers accelerate data center construction.
+   【日本語訳】フォーチュン誌が国際研究を報じており、AIデータセンターの廃熱が約10km圏内の気温を計測可能なレベルで
+   上昇させ、世界で推計3億4000万人に影響を与えることが明らかになった。ハイパースケーラーによるデータセンター建設加速を
+   背景に、立地規制の強化・省エネ冷却設計・廃熱回収を求める声が高まっている。
+
+------------------------------------------------------
+
+3. Vertiv to Expand Ohio Manufacturing to Boost U.S. Production of Critical Thermal Management Technologies for AI Data Centers
+   （バーティブ、AIデータセンター向け熱管理技術の米国生産強化でオハイオ州の製造施設を拡張）
+   Source: PRNewswire / Vertiv
+   Date: 2026-03-30
+   URL: https://www.prnewswire.com/news-releases/vertiv-to-expand-ohio-manufacturing-to-boost-us-production-of-critical-thermal-management-technologies-for-ai-data-centers-302729052.html
+   Summary: Vertiv announced approximately $50 million in investment to expand manufacturing in Ironton and
+   Westerville, Ohio, covering liquid cooling and chilled water systems for AI data centers, with a ~45% capacity
+   increase expected by Q2 2027. The expansion will create hundreds of new jobs through 2029, reflecting
+   surging demand from hyperscalers and colocation providers for purpose-built AI cooling infrastructure.
+   【日本語訳】バーティブは約5000万ドルを投資し、オハイオ州の製造施設で液冷・冷水システムの生産能力を約45%拡大すると
+   発表した。2027年第2四半期の稼働開始を見込んでおり、2029年までに数百の新規雇用を創出する。
+   ハイパースケーラー・コロケーション事業者からAI対応冷却インフラへの旺盛な需要が主要因だ。
+
+------------------------------------------------------
+
+4. Munters Grows Data Center Cooling Offering as AI Drives Demand for Next-Generation Thermal Solutions
+   （AIが次世代熱管理需要を牽引する中、ムンタースがデータセンター冷却ラインアップを拡充）
+   Source: Munters
+   Date: 2026-04-11
+   URL: https://www.munters.com/en-us/news-media/stories/2026/munters-grows-data-center-cooling-offering-as-ai-drives-demand-for-next-generation-thermal-solutions/
+   Summary: Swedish cooling specialist Munters announced an expansion of its data center cooling portfolio,
+   introducing a next-generation chiller platform targeting capacities up to 3MW while operating at higher
+   peak ambient temperatures required by dense AI GPU clusters. The solutions support both air-side and
+   water-side economization, reducing overall facility energy consumption in line with tightening global
+   efficiency regulations.
+   【日本語訳】スウェーデンの冷却専門企業ムンタースが、最大3MW対応かつ高外気温でも稼働可能な次世代チラープラットフォームを
+   含むデータセンター冷却製品群の拡充を発表した。AI向けGPU密集型データセンターが求める極端な熱密度への対応が主な動機であり、
+   エア・ウォーターサイドのエコノミゼーションをサポートする省エネ設計が特徴だ。
+
+------------------------------------------------------
+
+5. Data Center World 2026 Expo Hall Features World's Largest Showcase of Cutting-Edge Technologies Driving AI-Powered Data Center Era
+   （データセンター・ワールド2026、AI時代を牽引する最先端技術の世界最大規模の展示を発表）
+   Source: BusinessWire
+   Date: 2026-04-07
+   URL: https://www.businesswire.com/news/home/20260407484378/en/Data-Center-World-2026-Expo-Hall-Features-Worlds-Largest-Showcase-of-Cutting-Edge-Technologies-Driving-AI-Powered-Data-Center-Era
+   Summary: Data Center World 2026 (April 20-23, Washington D.C.) announced its expanded Expo Hall featuring
+   500+ global exhibitors. Highlighted cooling innovations include NIMBUS Advanced Process Cooling (95% less
+   water than cooling towers, 50% less energy than chillers), AIRSYS's AI-ready UniCool and FluidCool-X systems,
+   and BAC's COBALT immersion cooling platform designed for high-density AI racks.
+   【日本語訳】4月20〜23日にワシントンD.C.で開催される「データセンター・ワールド2026」のエキスポホールに500社以上が出展する。
+   注目の冷却技術として、冷却塔比95%節水・チラー比50%省エネのNIMBUS、AIレディのFluidCool-Xを擁するAIRSYS、
+   高密度AI向けBACのCOBALT液浸冷却システムが披露される予定。
+
+======================================================
+レポート生成日時: 2026-04-12
+対象期間: 2026-04-11 〜 2026-04-12

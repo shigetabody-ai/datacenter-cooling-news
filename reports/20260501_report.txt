@@ -1,0 +1,113 @@
+データセンター冷却 日次ニュースレポート 2026-05-01
+======================================================
+
+【日本語ニュース】
+
+1. 商船三井と日立、中古船再利用の浮体式データセンター 海水冷却採用で開発期間最大3年短縮
+   媒体: 日経ビジネス電子版
+   日付: 2026-04-27
+   URL: https://business.nikkei.com/atcl/gen/19/00159/042700381/
+   概要: 商船三井・日立製作所・日立システムズが中古自動車運搬船を改造した浮体式データセンター（FDC）
+         の開発・運用・商用化に向けた基本合意書を締結。大型船の広大な床面積を活かし、海水・河川を
+         利用した水冷式冷却システムを導入できるため、AI向け高密度サーバーの大量冷却にも対応可能。
+         陸上型データセンターと比べ開発期間を最大3年短縮できる見込みで、日本・マレーシア・米国での
+         展開を検討している。
+
+------------------------------------------------------
+
+2. ダイキン工業、AIデータセンターのサーバー冷却とチップ液冷市場に本格参入
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-04
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業は北米を中心にデータセンター冷却事業を積極展開し、スタートアップ買収で取得した
+         サーバー冷却装置および半導体チップ液冷装置を2026年春から量産する計画を発表した。AI需要急増に
+         伴うサーバー発熱量増大を受け、空調大手が液冷市場へ本格参入する動向として注目される。
+
+------------------------------------------------------
+
+3. 省エネ・非化石転換法に基づくデータセンター業の措置ガイドライン策定（2026年4月）
+   媒体: 資源エネルギー庁（経済産業省）
+   日付: 2026-04-10
+   URL: https://www.enecho.meti.go.jp/category/saving_and_new/saving/enterprise/factory/support-tools/data/dc_gaiyo.pdf
+   概要: 省エネ・非化石転換法に基づき、データセンター業に係る措置のガイドラインが2026年4月10日付で
+         策定された。2026年度報告からホスティング・クラウド（テナント）型データセンターもベンチマーク
+         指標の計算対象に含まれ、PUEや冷却システム効率向上に向けた規制強化が本格化する。
+
+------------------------------------------------------
+
+【English News】
+
+1. Predictive Maintenance: The Critical Enabler for AI Datacenter Liquid Cooling Systems
+   （AIデータセンター液冷システムの重要な実現技術：予知保全）
+   Source: Schneider Electric Blog (se.com)
+   Date: 2026-04-30
+   URL: https://blog.se.com/datacenter/2026/04/30/predictive-maintenance-the-critical-enabler-for-ai-datacenter-liquid-cooling-systems/
+   Summary: As AI GPU clusters push power densities far beyond what traditional air cooling can handle,
+            a single liquid cooling failure in a high-density AI datacenter can trigger thermal runaway
+            within seconds. Schneider Electric argues that predictive maintenance — leveraging sensor data
+            on flow rates, pressure differentials, and coolant chemistry — is now an essential strategy
+            to prevent catastrophic downtime. AI-driven DCIM platforms can identify pump wear or micro-leaks
+            weeks in advance and enable dynamic workload migration away from emerging hotspots.
+   【日本語訳】AIのGPUクラスターが従来の空冷では対処できないほどの電力密度に達する中、高密度AI
+              データセンターでの液冷システムの単一障害がわずか数秒で熱暴走を引き起こす可能性がある。
+              シュナイダーエレクトリックは、流量・圧力差・冷媒化学特性のセンサーデータを活用した予知保全が
+              AIインフラの液冷システムにおける致命的ダウンタイムを防ぐ必須戦略であると主張。AI駆動のDCIM
+              プラットフォームにより、ポンプ摩耗や微小漏洩を数週間前に検知し、ホットスポット発生前にワーク
+              ロードをマイグレーションすることが可能となる。
+
+------------------------------------------------------
+
+2. Built like a startup, scaled like Cisco: Transforming data center cooling for the AI era
+   （スタートアップ発想、Ciscoのスケール：AI時代のデータセンター冷却変革）
+   Source: JHC / Cisco (jacksonholdingcompany.com)
+   Date: 2026-04-30
+   URL: https://jacksonholdingcompany.com/built-like-a-startup-scaled-like-cisco-transforming-data-center-cooling-for-the-ai-era-denise-lee-on-april-30-2026-at-300-pm/
+   Summary: Cisco is transforming its data center cooling strategy for the AI era by combining startup-style
+            agility with enterprise-scale execution. As AI systems now regularly exceed 200 kilowatts per
+            rack — with designs already targeting 400 kW and beyond — traditional HVAC is no longer viable
+            at scale. Cisco is accelerating adoption of liquid-based cooling systems, intelligent thermal
+            management platforms, and modular infrastructure architectures to meet next-generation AI
+            workload demands.
+   【日本語訳】シスコはスタートアップの敏捷性とエンタープライズのスケールを組み合わせ、AI時代に向けたデータ
+              センター冷却戦略を変革している。AIシステムがラックあたり200kWを超え、400kW超の設計も視野に
+              入る中、従来型HVACはスケールでの対応が困難になっている。液体ベースの冷却システム、インテリ
+              ジェント熱管理プラットフォーム、モジュール型インフラアーキテクチャの採用を加速している。
+
+------------------------------------------------------
+
+3. AI-Driven Cooling Revolution Transforms Data Centers Cooling Market as Efficiency Demands Surge | CAGR 19.2%
+   （AI主導の冷却革命がデータセンター冷却市場を変革、効率化需要急増でCAGR19.2%成長）
+   Source: PR Newswire
+   Date: 2026-04-28
+   URL: https://www.prnewswire.com/news-releases/ai-driven-cooling-revolution-transforms-data-centers-cooling-market-as-efficiency-demands-surge--cagr-19-2-302755735.html
+   Summary: A new market research report reveals the global data center cooling market is projected to grow
+            from approximately $13.6 billion in 2026 to $46.3 billion by 2033, at a CAGR of 19.2%. AI-driven
+            thermal management, liquid cooling adoption, and heat reuse strategies are identified as primary
+            growth drivers. Liquid cooling is the fastest-growing segment, with immersion cooling growing
+            at a CAGR of 26–34%, driven by greenfield AI training facilities operating above 200 kW per rack.
+   【日本語訳】新たな市場調査レポートによると、世界のデータセンター冷却市場は2026年の約136億ドルから
+              2033年には463億ドルに成長すると予測され、CAGR19.2%での拡大が見込まれる。AI主導の熱管理、
+              液冷の導入拡大、廃熱再利用戦略が主要な成長ドライバー。液冷が最も成長速度の速いセグメントとして
+              台頭し、ラックあたり200kW超のグリーンフィールドAI訓練施設の需要を背景にイマージョン冷却は
+              CAGR 26〜34%で成長している。
+
+------------------------------------------------------
+
+4. Data Centers: Daily Notes | April 30, 2026
+   （データセンター：デイリーノート 2026年4月30日号）
+   Source: strisker.com
+   Date: 2026-04-30
+   URL: https://writing.strisker.com/data-centers-daily-notes-april-30-2026/
+   Summary: The April 30 daily briefing covers key developments in data center infrastructure, with a
+            particular focus on cooling capacity bottlenecks as AI workloads drive unprecedented power
+            density increases. The newsletter tracks industry moves across liquid cooling deployment,
+            hyperscaler investment announcements, and emerging thermal management strategies for next-
+            generation AI data centers operating at extreme rack power densities.
+   【日本語訳】4月30日付のデイリーブリーフィングは、AIワークロードが前例のない電力密度の上昇をもたらす中、
+              データセンターインフラにおける重要な動向、特に冷却容量のボトルネックに焦点を当てている。
+              液冷展開の進捗、ハイパースケーラーの投資発表、極端なラック電力密度に対応する次世代AIデータ
+              センター向け熱管理戦略の最新情報をカバーしている。
+
+======================================================
+レポート生成日時: 2026-05-01
+対象期間: 2026-04-30 〜 2026-05-01

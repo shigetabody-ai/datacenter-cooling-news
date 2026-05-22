@@ -1,0 +1,135 @@
+データセンター冷却 日次ニュースレポート 2026-04-30
+======================================================
+
+【日本語ニュース】
+
+1. 水冷（液冷）設備が目白押し、重いAIサーバーを高く持ち上げる電動リフト実機デモも
+   ――Data Center Japan 2026 液冷展示レポート
+   媒体: INTERNET Watch（Impress）
+   日付: 2026-03〜04（3月24-25日開催イベント取材記事）
+   URL: https://internet.watch.impress.co.jp/docs/event/2097305.html
+   概要: 東京都内で開催されたData Center Japan 2026では、AIデータセンター需要を受けた液冷・
+         水冷対応設備の展示が際立った。水冷Ready設計を採用した施設設計や、重量増大するAIサーバーを
+         安全に持ち上げる電動リフトの実機デモも行われ、業界全体で液冷化対応が実装フェーズに入りつつ
+         あることを象徴するイベントとなった。
+
+------------------------------------------------------
+
+2. 日本データセンター冷却市場、2035年に21億5227万米ドル到達予測
+   ――CAGR 11.58%で高効率液冷技術とグリーン投資が牽引
+   媒体: NEWSCAST（ATPressリリース転載）
+   日付: 2026-04
+   URL: https://newscast.jp/smart/news/8885368
+   概要: 市場調査レポートによると、日本のデータセンター冷却市場は2025年の約7億2000万米ドルから
+         2035年には約21億5000万米ドルへと拡大し、CAGR 11.58%の成長が見込まれる。ハイパースケール
+         施設の増設に伴う高効率液冷技術への投資拡大と、カーボンニュートラル推進によるグリーンデータ
+         センター化への需要増が国内市場成長を後押ししている。
+
+------------------------------------------------------
+
+3. ジョンソンコントロールズ、2026年度はデータセンター市場への注力を一段と強化
+   媒体: クラウド Watch（Impress）
+   日付: 2026-04
+   URL: https://cloud.watch.impress.co.jp/docs/special/2075236.html
+   概要: ジョンソンコントロールズは2026年度、データセンター向けHVAC・中央監視・自動制御ソリューション
+         への投資を拡大する計画を発表。同社のデータセンター向けYORK YZターボ冷凍機は前年比3倍の受注を
+         見込んでおり、AIデータセンター急増に伴う高効率空調・冷却ソリューションの需要拡大に積極的に
+         対応する方針を示した。
+
+------------------------------------------------------
+
+【English News】
+
+1. The Breaking Points: Cooling Struggles to Keep Pace With AI Power Density
+   （冷却の限界点：AIの電力密度増加に追いつけないデータセンター冷却技術の現状）
+   Source: Data Center Knowledge
+   Date: 2026-04-30
+   URL: https://www.datacenterknowledge.com/cooling/the-breaking-points-cooling-struggles-to-keep-pace-with-ai-density
+   Summary: As AI infrastructure demands escalate, data center cooling systems are approaching critical
+            breaking points. AI-focused facilities now routinely deploy racks drawing 50 to 120 kilowatts,
+            with NVIDIA's Blackwell architecture pushing individual GPU heat loads beyond 1,200 watts per
+            chip — a fourfold increase from 2017. Cooling accounts for approximately 40% of total data
+            center energy use, and operators are urgently adopting advanced liquid cooling systems, though
+            delivery timelines for high-density liquid-cooling infrastructure have stretched to 18 months
+            or more.
+   【日本語訳】AI計算インフラの急拡大により、データセンターの冷却システムが限界に差し掛かっている。
+              AI特化施設ではラックあたり50〜120kWの消費電力が常態化し、NVIDIAのBlackwellアーキテクチャ
+              では1チップあたり1,200W超の発熱が発生。冷却がデータセンター全電力の約40%を占める中、
+              高密度液冷システムの需要急増により導入リードタイムは18ヶ月以上に延長している。
+
+------------------------------------------------------
+
+2. Microsoft AI Surge Exposes Data Center Capacity Gap
+   （マイクロソフトのAI急成長がデータセンター容量不足を露呈）
+   Source: Data Center Knowledge
+   Date: 2026-04-30
+   URL: https://www.datacenterknowledge.com/next-gen-data-centers/microsoft-ai-surge-exposes-data-center-capacity-gap
+   Summary: Microsoft's AI business reached a $37 billion annual revenue run rate — up 123% year over
+            year — while Azure grew 40%. However, AI clusters push rack density higher, raise power draw
+            per facility, and increase reliance on liquid cooling, each factor extending build cycles
+            beyond traditional cloud deployments. The shortage of high-density power and liquid-cooling
+            systems has stretched delivery windows to 18 months or more, widening the gap between bookings
+            and actual capacity delivery.
+   【日本語訳】マイクロソフトのAIビジネスの年間収益ランレートが前年比123%増の370億ドルに到達したが、
+              AIクラスターの高密度化・消費電力増大・液冷依存により建設サイクルが大幅に延長している。
+              高密度電力・液冷システムの需要急増が供給を圧迫し、データセンター容量の需給ギャップが
+              拡大している。
+
+------------------------------------------------------
+
+3. California Will Soon Have More Than 300 Data Centers. Where Will They Get Their Water?
+   （カリフォルニア州に300超のデータセンター計画、冷却用水源の確保が環境課題に）
+   Source: Inside Climate News
+   Date: 2026-04-29
+   URL: https://insideclimatenews.org/news/29042026/california-data-center-boom-water-issues/
+   Summary: California is undergoing a massive data center expansion, with over 300 facilities slated for
+            completion by 2030. Data centers consume enormous quantities of water for cooling — a
+            medium-sized facility uses as much as three hospitals or two 18-hole golf courses. The
+            investigation explores solutions including treated wastewater reuse and graywater systems as
+            alternatives to potable water for cooling, offering residents and officials options to reduce
+            strain on local water supplies.
+   【日本語訳】カリフォルニア州では2030年までに300以上のデータセンター完成が予定されており、膨大な冷却
+              水消費が地域の水資源に深刻な影響を与えることが懸念されている。中規模施設1棟で病院3施設分
+              相当の水を消費するとされ、処理済み廃水・再生水の冷却利用など持続可能な代替手法の検討が
+              進んでいる。
+
+------------------------------------------------------
+
+4. Vertiv Strengthens Liquid-Cooling System Capability with Acquisition of Strategic Thermal Labs
+   （Vertiv、液冷システム能力の強化に向けStrategic Thermal Labsを買収）
+   Source: PR Newswire / Vertiv Holdings
+   Date: 2026-04-27
+   URL: https://www.prnewswire.com/news-releases/vertiv-strengthens-liquid-cooling-system-capability-with-acquisition-of-strategic-thermal-labs-302754116.html
+   Summary: Vertiv (NYSE: VRT) announced the acquisition of Strategic Thermal Labs LLC (STL), a specialist
+            in cold-plate design, server-side liquid cooling, and high-density thermal validation for AI
+            and high-performance computing environments. The acquisition extends Vertiv's thermal-chain
+            engineering capability at the server-to-infrastructure interface — an increasingly critical
+            factor as GPU power densities continue to surge beyond air cooling limits. Vertiv reaffirmed
+            its commitment to an open, server- and silicon-agnostic ecosystem approach.
+   【日本語訳】データセンター重要インフラ大手Vertivが、コールドプレート設計・サーバー側液冷・高密度熱
+              評価を専門とするStrategic Thermal Labs（STL）を買収。AI・HPC向け高密度環境でのサーバー側
+              液冷とインフラ間の熱チェーン強化が目的で、GPUの発熱密度が空冷限界を超え続ける中、液冷
+              ソリューションのエンジニアリング能力を大幅に拡充する。
+
+------------------------------------------------------
+
+5. AI Data Center Liquid Cooling Market to Jump at 17.2% CAGR, Reaching $18.1 Billion by 2036
+   （AIデータセンター液冷市場、年平均17.2%成長で2036年に181億ドル到達見込み）
+   Source: PR Newswire（Market Decipher）
+   Date: 2026-04-28
+   URL: https://www.prnewswire.com/news-releases/ai-data-center-liquid-cooling-market-to-jump-at-17-2-cagr-reaching-18-1-billion-by-2036--302755702.html
+   Summary: Market Decipher's latest report values the global AI Data Center Liquid Cooling Market at
+            approximately $3.7 billion in 2026, projected to surpass $11.2 billion by 2033 and reach
+            $18.1 billion by 2036 at a CAGR of 17.2%. Direct-to-chip (DLC) cooling commands 42–47% of
+            current market revenue and remains the dominant deployment architecture, while immersion
+            cooling is the fastest-growing segment at a CAGR of 26–34%. North America leads at 35–37%
+            of global revenue; Asia-Pacific follows at a CAGR of 32.8%, with Japan having made immersion
+            cooling a national energy efficiency priority under its updated 2026 energy framework.
+   【日本語訳】最新市場調査によると、世界のAIデータセンター液冷市場は2026年の約37億ドルから2036年には
+              181億ドルへと年率17.2%で成長する見込み。チップ直接冷却（DLC）が市場売上の42〜47%を占め、
+              液浸冷却はCAGR 26〜34%で最速成長。北米が35〜37%で首位を維持し、アジア太平洋がCAGR 32.8%
+              で追随。日本は2026年エネルギー基本計画の改訂のもと液浸冷却を国家的優先事項に位置付けた。
+
+======================================================
+レポート生成日時: 2026-04-30
+対象期間: 2026-04-29 〜 2026-04-30

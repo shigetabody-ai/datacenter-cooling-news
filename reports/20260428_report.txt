@@ -1,0 +1,127 @@
+データセンター冷却 日次ニュースレポート 2026-04-28
+======================================================
+
+【日本語ニュース】
+
+1. NTT AI基盤「AIOWN」発表 2033年度にデータセンター容量を3倍超へ
+   媒体: ケータイ Watch (Impress)
+   日付: 2026-04-27
+   URL: https://k-tai.watch.impress.co.jp/docs/news/2104930.html
+   概要: NTTグループ4社がAIネイティブインフラ「AIOWN（エーアイオン）」を発表。2033年度にIT電力容量を
+         現在の約300MWから約1GWへ3倍超に拡張する計画を公表した。NTTドコモビジネスは品川区のJR駅付近
+         に液冷標準のAIデータセンターを2029年度下半期に開設予定で、液冷方式により冷却用消費電力を
+         空冷比で最大60%削減できるとしている。
+
+------------------------------------------------------
+
+2. NTT、AIネイティブインフラ「AIOWN」展開、都心に液冷標準AIデータセンター建設などDCの大幅拡張を予定
+   媒体: INTERNET Watch (Impress) / Yahoo! ニュース
+   日付: 2026-04-27
+   URL: https://internet.watch.impress.co.jp/docs/news/2104986.html
+   概要: NTTグループが「AIOWN」発表に伴い、東京都心・品川区に液冷標準のAIデータセンターを新設すると
+         明らかにした。2029年度下半期にサービス提供開始を予定し、千葉県印西・白井エリアでも合計約250MW
+         の国内最大級データセンターキャンパスを段階的に整備。AI推論需要の拡大を見据えた液冷インフラへの
+         大規模投資を加速させる。
+
+------------------------------------------------------
+
+3. NTTが国内データセンターを3倍超へ AI需要で電力と冷却が焦点
+   媒体: FP Trendy
+   日付: 2026-04-28
+   URL: https://www.fptrendy.com/2026/04/28/ntt-ai-datacenter-expansion/
+   概要: NTTのAIOWN発表を受け、AI需要急増に伴うデータセンター電力と冷却効率の最大化が最重要課題と
+         なっていることを報告。液冷方式の採用により消費電力を大幅に削減しながら、データセンター受電
+         容量を約1GWへ拡張する計画の背景と技術的課題を詳述している。
+
+------------------------------------------------------
+
+4. NTTグループ「AIOWN」発表—データセンター容量を2033年度に3倍超の1GWへ拡張、AI時代のインフラ主権を握れるか
+   媒体: Innovatopia
+   日付: 2026-04-27
+   URL: https://innovatopia.jp/infrastructure/infrastructure-news/99373/
+   概要: NTTの「AIOWN」戦略を分析し、2033年度に約1GWのIT電力容量を目指す大規模拡張計画の戦略的意義を
+         解説。液冷標準データセンターの整備を中心に、AIインフラにおける国内主権の確立に向けた施策を
+         詳細に評価。国内外の競合他社との差別化要因や技術面での課題についても論じている。
+
+------------------------------------------------------
+
+【English News】
+
+1. AI Data Center Liquid Cooling Market to Jump at 17.2% CAGR reaching $18.1 Billion by 2036
+   （AIデータセンター液体冷却市場、CAGR 17.2%で2036年までに181億ドルへ拡大見通し）
+   Source: PR Newswire (Market Decipher)
+   Date: 2026-04-28
+   URL: https://www.prnewswire.com/news-releases/ai-data-center-liquid-cooling-market-to-jump-at-17-2-cagr-reaching-18-1-billion-by-2036--302755702.html
+   Summary: Market Decipher's latest report values the global AI Data Center Liquid Cooling Market at
+            approximately $3.7 billion in 2026, projecting it to surpass $18.1 billion by 2036 at a CAGR
+            of 17.2%. Direct-to-chip (DTC) cooling commands 42–47% of current market revenue and remains
+            the dominant deployment architecture, while immersion cooling is the fastest-growing sub-segment
+            at a CAGR of 26–34%. Asia-Pacific leads all regions in growth at a CAGR of 32.8%, with Japan
+            among the top markets prioritizing liquid cooling as a national energy strategy.
+   【日本語訳】Market Decipherの最新報告によると、世界のAIデータセンター液体冷却市場は2026年に約37億
+              ドルと評価され、CAGR 17.2%で2036年には181億ドルを超える見通し。ダイレクト・トゥ・チップ
+              （DTC）冷却が市場収益の42〜47%を占める最大セグメントで、液浸冷却はCAGR 26〜34%と最速成長。
+              アジア太平洋地域がCAGR 32.8%で全地域最速成長し、日本は国家エネルギー戦略として液冷を
+              優先する主要市場のひとつに位置づけられている。
+
+------------------------------------------------------
+
+2. AI-Driven Cooling Revolution Transforms Data Centers Cooling Market as Efficiency Demands Surge
+   （AI主導の冷却革命がデータセンター市場を変革、効率要求が急増――CAGR 19.2%）
+   Source: PR Newswire
+   Date: 2026-04-28
+   URL: https://www.prnewswire.com/news-releases/ai-driven-cooling-revolution-transforms-data-centers-cooling-market-as-efficiency-demands-surge--cagr-19-2-302755735.html
+   Summary: A new industry report projects the global data center cooling market will grow from
+            approximately $13.6 billion in 2026 to $46.3 billion by 2033 at a CAGR of 19.2%, driven by
+            surging AI workload densities and tightening sustainability mandates. Liquid cooling is
+            identified as the fastest-growing segment, with immersion and direct-to-chip systems outpacing
+            traditional air-based solutions. North America holds a leading regional share of over 36%,
+            while Asia Pacific is the fastest-growing region with a CAGR of 24.6%.
+   【日本語訳】最新業界レポートによると、世界のデータセンター冷却市場はCAGR 19.2%で2026年の約136億ドル
+              から2033年には463億ドルへ成長する見通し。AIワークロード密度の急増とサステナビリティ規制の
+              強化が主要ドライバー。液体冷却が最速成長セグメントで、液浸・DTC方式が従来型空冷を凌駕。
+              北米が36%超のシェアでトップ、アジア太平洋がCAGR 24.6%で最速成長地域となっている。
+
+------------------------------------------------------
+
+3. Data Center Direct-to-chip Cooling Market worth $17.31 billion by 2032
+   （ダイレクト・トゥ・チップ冷却市場、2032年までに173億ドル規模へ）
+   Source: PR Newswire (MarketsandMarkets)
+   Date: 2026-04-28
+   URL: https://www.prnewswire.com/news-releases/data-center-direct-to-chip-cooling-market-worth-17-31-billion-by-2032---exclusive-report-by-marketsandmarkets-302755381.html
+   Summary: MarketsandMarkets projects the global data center direct-to-chip (DTC) cooling market will
+            expand from USD 3.33 billion in 2026 to USD 17.31 billion by 2032, advancing at a CAGR of
+            26.5%. DTC cooling is rapidly becoming the default architecture for AI server racks exceeding
+            50 kW, as it efficiently removes heat at the chip level using cold plates and liquid coolant
+            loops. The report highlights accelerating enterprise adoption driven by NVIDIA Blackwell and
+            AMD Instinct GPU deployments, which demand cooling solutions far beyond the capability of
+            conventional air-based systems.
+   【日本語訳】MarketsandMarketsによると、世界のダイレクト・トゥ・チップ（DTC）冷却市場は2026年の33億
+              3000万ドルから2032年に173億1000万ドルへCAGR 26.5%で拡大する見通し。50kWを超えるAIサーバー
+              ラックの標準冷却方式として急速に普及が進んでおり、NVIDIA Blackwell・AMD Instinct GPU の
+              導入拡大が需要をけん引している。従来型空冷では対処困難な発熱量に対応するため、企業での採用
+              加速が見込まれている。
+
+------------------------------------------------------
+
+4. New study raises heat island concerns as NC data center boom grows
+   （データセンター急増で「ヒートアイランド」懸念—ノースカロライナ州での研究が警鐘）
+   Source: WRAL.com
+   Date: 2026-04-27
+   URL: https://www.wral.com/news/local/data-centers-north-carolina-heat-island-ai-climate-change-april-2026/
+   Summary: A University of Cambridge preprint study found that large AI-focused data centers can create
+            localized heat islands, with land surface temperatures rising an average of approximately 3.6°F
+            after facilities begin operating, with some cases showing increases as high as 16°F. The
+            findings underscore the growing environmental impact of data center expansion and highlight
+            the urgent need for advanced cooling technologies that minimize heat discharge into surrounding
+            areas. The study coincides with a data center construction boom in North Carolina, where AI
+            infrastructure investments are rapidly proliferating.
+   【日本語訳】ケンブリッジ大学の研究によると、大規模AIデータセンターは局所的な「ヒートアイランド」を
+              形成し、稼働開始後に地表温度が平均約2℃（最大約9℃）上昇することが示された。この知見は
+              データセンター拡大が周辺環境に与える熱的影響の深刻さを浮き彫りにし、廃熱を最小化する
+              高度な冷却技術の早急な普及が求められることを示している。同州ではAIデータセンターの建設
+              ラッシュが続いており、調査結果は産業界に対して警鐘を鳴らしている。
+
+======================================================
+レポート生成日時: 2026-04-28
+対象期間: 2026-04-27 〜 2026-04-28

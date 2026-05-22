@@ -1,0 +1,109 @@
+データセンター冷却 日次ニュースレポート 2026-05-06
+======================================================
+
+【日本語ニュース】
+
+1. ゲットワークス、苫小牧に新たなコンテナ型データセンターの拠点「美沢の杜AIコンテナパーク」を開設
+   媒体: クラウドWatch
+   日付: 2026-05-05
+   URL: https://cloud.watch.impress.co.jp/docs/news/2099478.html
+   概要: ゲットワークスが北海道苫小牧市に開設したコンテナ型データセンター「美沢の杜AIコンテナパーク」の
+         本格稼働が始まった。AI向けGPUサーバーの高発熱に対応した最新の水冷設備を標準装備し、空冷・水冷の
+         ハイブリッド方式にも対応。苫小牧市およびNTTドコモビジネスと連携し、北海道内のAIインフラ整備を推進。
+
+------------------------------------------------------
+
+2. AMDが強気な業績見通し、AIデータセンター顧客からの受注急増
+   媒体: Bloomberg
+   日付: 2026-05-05
+   URL: https://www.bloomberg.com/jp/news/articles/2026-05-05/TEKZ5SKK3NY800
+   概要: AMDが2026年第1四半期決算を発表し、データセンター部門の売上高が前年同期比57%増を記録。
+         AIサーバー向けGPU・プロセッサへの需要急増が冷却インフラへの投資を加速させており、第2四半期は
+         約112億ドル規模の売上を見込む。AIワークロード高密度化に伴い直接液冷システム導入が世界的に進む。
+
+------------------------------------------------------
+
+3. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウドWatch
+   日付: 2026-05-06
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業が北米のデータセンター向け冷却事業の体制強化を発表。FY2026に北米へデータセンター
+         ソリューションハブを新設し、チップ直接液冷・ラック冷却・大型空調を一体化したワンストップ提供体制
+         を構築。買収スタートアップの技術を活用しAIチップの急増する発熱量への対応を強化する方針を示した。
+
+------------------------------------------------------
+
+【English News】
+
+1. Johnson Controls Reports Strong Q2 Results; Raises FY26 Guidance
+   （ジョンソンコントロールズ、好調な第2四半期結果を受け通期業績見通しを引き上げ）
+   Source: PR Newswire
+   Date: 2026-05-06
+   URL: https://www.prnewswire.com/news-releases/johnson-controls-reports-strong-q2-results-raises-fy26-guidance-302763526.html
+   Summary: Johnson Controls International raised its FY2026 adjusted EPS guidance to $4.85 from $4.70,
+            beating analyst consensus of $4.76. Q2 net sales grew to $6.14 billion from $5.68 billion
+            year-over-year, with data center orders surging 30%, building on nearly 40% growth the
+            prior quarter. Backlog reached a record $20 billion, driven by AI-fueled demand for
+            thermal management and cooling solutions across hyperscale and enterprise data centers.
+   【日本語訳】ジョンソンコントロールズがFY2026通期調整後EPS見通しを4.85ドルに引き上げ（従来4.70ドル、
+              アナリスト予想4.76ドル超）。Q2売上高は前年比増の61.4億ドル。データセンター向け受注は30%増と
+              好調を維持し、積み残し受注残は過去最高の200億ドルを記録。AIデータセンターの熱管理・冷却
+              ソリューション需要が主要成長ドライバーとなっている。
+
+------------------------------------------------------
+
+2. Data Centers: Daily Notes | May 5, 2026
+   （データセンター 日次ノート｜2026年5月5日）
+   Source: Strisker Data Center Intelligence
+   Date: 2026-05-05
+   URL: https://writing.strisker.com/data-centers-daily-notes-may-5-2026/
+   Summary: The May 5 edition covers multiple data center development proposals under regulatory
+            review across North America. A key highlight is the proposed Metrobloks facility in
+            Madison, Wisconsin, planning a closed-loop cooling system requiring 19,000 gallons for
+            the first building and 47,500 gallons for the second. Growing community concerns over
+            cooling water consumption are prompting municipalities to apply stricter scrutiny to
+            new data center applications.
+   【日本語訳】北米各地でデータセンター建設計画に関する規制審査の動向を報告。ウィスコンシン州マディソン市の
+              Metrobloks施設案では第1棟に19,000ガロン、第2棟に47,500ガロンの閉ループ冷却システムを計画。
+              冷却水消費量への地域住民の懸念が高まり、自治体が新規データセンター申請の審査を強化する傾向
+              が広がっている。
+
+------------------------------------------------------
+
+3. Barocal Raises $10M to Disrupt Century-Old Cooling Industry With Breakthrough Materials Technology
+   （Barocal、突破口となる材料技術で100年の歴史を持つ冷却産業に革新をもたらす1000万ドルを調達）
+   Source: Data Center Dynamics
+   Date: 2026-05-05
+   URL: https://www.datacenterdynamics.com/en/news/barocal-raises-10m-to-fund-solid-state-cooling-system-for-data-centers/
+   Summary: Cambridge University spin-out Barocal raised $10 million to commercialize a solid-state
+            cooling platform based on caloric materials that absorb or release heat under pressure,
+            eliminating traditional refrigerants entirely. The technology targets data center cooling
+            with a chiller-free system that significantly reduces GWP emissions. Investors include
+            World Fund, Breakthrough Energy Discovery, IP Group, and Cambridge Enterprise Ventures,
+            who see it as a disruptive alternative to conventional vapor-compression cooling.
+   【日本語訳】ケンブリッジ大学発スタートアップBarocalが1000万ドルを調達し、圧力下で熱を吸放出するカロリック
+              材料ベースのソリッドステート冷却プラットフォームを商業化へ。チラー不要・高GWP冷媒ゼロでデータ
+              センター冷却に対応可能な革新技術。World FundやBreakthrough Energy Discoveryなど気候テック分野の
+              著名投資家が出資し、従来の蒸気圧縮方式に代わる破壊的技術として期待が集まる。
+
+------------------------------------------------------
+
+4. AMD Soars as AI Demand Fuels Better-Than-Expected Sales Outlook
+   （AMD、AI需要が予想を上回る業績見通しを牽引し株価急伸）
+   Source: Bloomberg
+   Date: 2026-05-05
+   URL: https://www.bloomberg.com/news/articles/2026-05-05/amd-gives-upbeat-forecast-after-ai-data-center-demand-surges
+   Summary: AMD reported Q1 FY2026 revenue of $10.3 billion (up 38% YoY), exceeding analyst estimates,
+            with the data center segment posting 57% year-over-year growth driven by surging AI
+            accelerator and high-performance chip demand. AMD guided Q2 revenue at approximately
+            $11.2 billion. The explosive growth in GPU-intensive AI workloads is accelerating
+            investment in advanced liquid cooling infrastructure across hyperscale data centers
+            worldwide, as thermal densities exceed 100 kW per rack.
+   【日本語訳】AMDが2026年第1四半期売上高103億ドル（前年比38%増）を発表し、データセンター部門は57%増と急拡大。
+              AIアクセラレーター・高性能コンピューティングチップへの需要が急増し、第2四半期は約112億ドルを予測。
+              GPU集約型AIワークロードの急増により、世界のハイパースケールデータセンターでラックあたり100kWを
+              超える熱密度への対応として先進液冷インフラへの投資が急加速している。
+
+======================================================
+レポート生成日時: 2026-05-06
+対象期間: 2026-05-05 〜 2026-05-06
