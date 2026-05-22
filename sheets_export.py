@@ -13,7 +13,7 @@ import json
 import os
 import re
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 import gspread
@@ -23,7 +23,6 @@ from google.oauth2.service_account import Credentials
 SPREADSHEET_ID = "1KaQdI4KJG-r0_V5qPed0qxkKUrnHV5C_6xv3n_lTPec"
 SHEET_NAME = "記事DB"
 REPORTS_DIR = Path("reports")
-DAYS = 7
 
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
@@ -158,21 +157,11 @@ def main():
     spreadsheet = gc.open_by_key(SPREADSHEET_ID)
     print(f"スプレッドシート接続: {spreadsheet.title}")
 
-    # 直近7日のレポートを収集
-    today = datetime.now().date()
-    start = today - timedelta(days=DAYS - 1)
-
-    report_files = []
-    for p in sorted(REPORTS_DIR.glob("*_report.txt")):
-        m = re.search(r"(\d{8})", p.name)
-        if not m:
-            continue
-        d = datetime.strptime(m.group(1), "%Y%m%d").date()
-        if start <= d <= today:
-            report_files.append(p)
+    # 全レポートを収集（URL重複チェックで新着のみ追記）
+    report_files = sorted(REPORTS_DIR.glob("*_report.txt"))
 
     if not report_files:
-        print(f"直近{DAYS}日分のレポートが見つかりませんでした")
+        print("レポートファイルが見つかりませんでした")
         sys.exit(0)
 
     print(f"\n対象ファイル: {len(report_files)}件 "
