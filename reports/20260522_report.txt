@@ -1,0 +1,125 @@
+データセンター冷却 日次ニュースレポート 2026-05-22
+======================================================
+
+【日本語ニュース】
+
+1. NVIDIAの次世代AIインフラ「Vera Rubin」システムの製造コストが急騰、
+   メモリ価格の高騰が要因に
+   媒体: XenoSpectrum
+   日付: 2026-05-21
+   URL: https://xenospectrum.com/nvidia-vera-rubin-nvl72-memory-cost-surge/
+   概要: Morgan Stanleyの分析によると、100%液冷仕様のNVIDIA Vera Rubin NVL72ラック
+         の製造コストが約780万ドル（約10億円超）に達する見込みで、HBM4/LPDDR5X
+         メモリ価格が前世代比435%急騰しラックコストの26%を占める。液冷コンポーネント
+         を含む部品コストの全体上昇が、AIデータセンター向けサプライチェーン全体に
+         波及している実態を詳報した。
+
+------------------------------------------------------
+
+2. NVIDIA Vera Rubinサーバーラックの価格が約10億円へ急騰
+   PCB・MLCC・メモリの市場価値も軒並み倍増
+   媒体: BigGo ファイナンス
+   日付: 2026-05-21
+   URL: https://finance.biggo.jp/news/MrEuTZ4BX0tZvRTv67Pr
+   概要: NVIDIA Vera Rubin NVL72サーバーラックの価格が約10億円に達することが
+         明らかになり、液冷部品を含むPCB・MLCCなどサプライチェーン全体のコストが
+         倍増していると報告。全ラック液冷仕様となるVera Rubinの冷却システム関連
+         コンポーネント需要が急増しており、液冷部品メーカーにとっては追い風と
+         なっている一方、データセンター運営コストの上昇圧力が強まる見通し。
+
+------------------------------------------------------
+
+3. 日立製作所だけが対応できた——次世代Rubinは熱過ぎるのでAI DCは
+   NVIDIAのデジタルツインでないと設計できない
+   媒体: Sattu AI Agent
+   日付: 2026-05-20
+   URL: https://sattu-ai-agent.com/2026/05/20/rubin-aidc-dsx/
+   概要: Vera Rubin AIチップの熱量が既存の設計手法の限界を超え、NVIDIAのデジタルツイン
+         なしにはAIデータセンターの熱設計が実質不可能なほど高発熱化していると分析。
+         45℃温水冷却（チラー不要）という特殊な液冷要件への対応ができる国内企業は
+         日立製作所のみと指摘し、日本の冷却技術の競争力と課題を論じた。
+
+------------------------------------------------------
+
+【English News】
+
+1. NVIDIA's Vera Rubin Rack Hit With 435% Memory Price Surge,
+   Pushing HBM4 & LPDDR5X Bill to $2M of $7.8M Total
+   （NVIDIAのVera Rubinラック、HBM4・LPDDR5Xメモリ価格が435%急騰し
+    200万ドルが液冷システム含む総額780万ドルに）
+   Source: WCCFtech
+   Date: 2026-05-21
+   URL: https://wccftech.com/nvidia-vera-rubin-rack-hit-with-memory-price-surge-pushing-hbm4-lpddr5x-bill-to-2m-of-7-8m-total/
+   Summary: Morgan Stanley research reveals NVIDIA's Vera Rubin NVL72 rack faces a massive
+            memory cost surge, with HBM4 and LPDDR5X prices rising 435% compared to the
+            Blackwell generation, pushing total rack cost to approximately $7.8 million.
+            The Vera Rubin NVL72 is a 100% liquid-cooled rack system, meaning the entire
+            thermal infrastructure—CDUs, cold plates, and fluid distribution—must now support
+            the highest rack power densities in data center history.
+   【日本語訳】Morgan Stanleyの調査でNVIDIA Vera Rubin NVL72ラックのHBM4・LPDDR5Xメモリ
+              価格が前世代比435%急騰し、ラック総額が約780万ドルに達することが判明した。
+              Vera Rubin NVL72は100%液冷ラックであり、CDU・コールドプレート・流体分配
+              システムが史上最高のラック電力密度に対応する必要があり、液冷インフラへの
+              投資需要がさらに高まっている。
+
+------------------------------------------------------
+
+2. Price of Nvidia's Vera Rubin NVL72 Racks Skyrockets to as Much as $8.8 Million
+   Apiece, But Server Makers' Margins Will Be Tight
+   （NVIDIAのVera Rubin NVL72ラック価格が最大880万ドルまで急騰、
+    サーバーメーカーの利益率は圧迫）
+   Source: Tom's Hardware
+   Date: 2026-05-21
+   URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/price-of-nvidias-vera-rubin-nvl72-racks-skyrockets-to-as-much-as-usd8-8-million-apiece-but-server-makers-margins-will-be-tight-nvidia-is-moving-closer-to-shipping-entire-full-scale-systems
+   Summary: Tom's Hardware reports that NVIDIA's Vera Rubin NVL72 liquid-cooled rack systems
+            are priced as high as $8.8 million per unit, driven by surging component costs
+            across GPUs, memory, and liquid cooling infrastructure. NVIDIA is advancing toward
+            shipping complete rack-scale liquid-cooled systems, signaling that liquid cooling
+            is no longer an add-on but a factory-integrated component of next-gen AI
+            infrastructure.
+   【日本語訳】Tom's HardwareによるとNVIDIA Vera Rubin NVL72液冷ラックの価格が最大880万ドルに
+              達し、GPU・メモリ・液冷インフラのコスト上昇が要因となっている。NVIDIAは完全な
+              液冷ラックスケールシステムの出荷に向けて準備を進めており、液冷がオプションではなく
+              次世代AIインフラの工場統合コンポーネントとなっていることを示している。
+
+------------------------------------------------------
+
+3. Liquid Cooling is Coming to Your Data Center:
+   Dell Tech World Highlights the Options
+   （液体冷却がデータセンターに到来：Dell Tech World 2026が示す選択肢）
+   Source: StorageReview
+   Date: 2026-05-21
+   URL: https://www.storagereview.com/news/liquid-cooling-is-coming-to-your-data-center-dell-tech-world-highlights-the-options
+   Summary: StorageReview's wrap-up from Dell Technologies World 2026 (May 18-21) focuses
+            on Dell's comprehensive liquid cooling portfolio, including the PowerCool CDU C7000
+            designed to support 220kW+ racks for the NVIDIA Vera Rubin NVL72 platform, and
+            the liquid-cooled PowerEdge M9825 server. The article underscores that liquid
+            cooling is no longer a future option for data centers—it is an immediate
+            operational requirement as AI racks exceed 100kW densities.
+   【日本語訳】Dell Technologies World 2026（5月18〜21日）のラップアップとして、220kW超の
+              NVIDIA Vera Rubin NVL72向けPowerCool CDU C7000や液冷PowerEdge M9825サーバーを
+              含むDellの液冷製品ポートフォリオを詳報。AIラックが100kWを超える電力密度に達する
+              中、液冷はデータセンターの即時的な運用要件になったと論じた。
+
+------------------------------------------------------
+
+4. Dell Targets AI-Era Data Centers with Liquid Cooling, Agentic Automation
+   （デル、液冷とエージェントAIを組み合わせたAI時代のデータセンターを標榜）
+   Source: Converge Digest
+   Date: 2026-05-21
+   URL: https://convergedigest.com/dell-targets-ai-era-data-centers-with-liquid-cooling-agentic-automation/
+   Summary: Converge Digest's post-event analysis of Dell Technologies World 2026 examines
+            how Dell is positioning liquid cooling and agentic AI automation as twin pillars
+            of next-generation data center operations. Dell's PowerCool enclosed rear-door heat
+            exchangers, CDUs, and liquid-cooled PowerEdge XE server lineup form an integrated
+            thermal management approach capable of handling the 130kW+ demands of NVIDIA Vera
+            Rubin racks while enabling automated workload management via AI agents.
+   【日本語訳】Converge DigestがDell Technologies World 2026後に分析。Dellが液冷技術と
+              エージェントAI自動化を次世代データセンター運用の双柱と位置づけている点を検証。
+              PowerCoolリアドアHX・CDU・液冷PowerEdge XEサーバー群が統合的な熱管理手法を形成し、
+              NVIDIA Vera Rubinラックの130kW超の電力密度への対応とAIエージェントによる自動化を
+              同時に実現する。
+
+======================================================
+レポート生成日時: 2026-05-22
+対象期間: 2026-05-21 〜 2026-05-22
