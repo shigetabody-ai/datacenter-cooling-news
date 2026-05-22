@@ -1,0 +1,113 @@
+データセンター冷却 日次ニュースレポート 2026-05-11
+======================================================
+
+【日本語ニュース】
+
+1. 東京都、データセンター廃熱利用実装促進事業の公募を開始
+   媒体: 東京都 報道発表資料
+   日付: 2026-05-11
+   URL: https://www.metro.tokyo.lg.jp/information/press/2026/05/2026051124
+   概要: 東京都は2026年5月11日、データセンターが排出する廃熱を有効活用する
+         「データセンター廃熱利用実装促進事業」の公募を開始した。先駆的な
+         技術・サービスや地域共生等のモデルを構築する事業者を公募で選定し、
+         省エネ化や地域への還元策としての有効性を検証する。補助上限額は
+         5.2億円（令和8〜9年度合計）で、公募期間は5月11日〜6月5日。
+
+------------------------------------------------------
+
+2. データセンター需要がサプライチェーンをひっ迫、新規ガス火力発電所建設コストが66%急増
+   媒体: クラウド Watch（データセンターカフェ）
+   日付: 2026-05-06
+   URL: https://cloud.watch.impress.co.jp/docs/dccafe/2106419.html
+   概要: AIデータセンターの急拡大がエネルギーインフラのサプライチェーンをひっ迫させており、
+         新規ガス複合サイクル（CCGT）発電所の製造コストが2023年比66%増の1kWあたり
+         2,157ドルに達した。データセンター冷却・電力需要の急増が電力インフラ整備の
+         遅れとコスト高騰を引き起こしている構図が明らかとなった。
+
+------------------------------------------------------
+
+3. NTTドコモビジネス、Rapidusへ液冷データセンター「Green Nexcenter」提供
+   媒体: NTTドコモビジネス プレスリリース
+   日付: 2026-04-27
+   URL: https://www.ntt.com/about-us/press-releases/news/article/2026/0427_2.html
+   概要: NTTドコモビジネスが最先端半導体企業Rapidusへ、超高発熱サーバーの冷却に
+         最適な液冷方式データセンター「Green Nexcenter®」の提供開始を発表した。
+         生成AI向けGPUサーバーを収容するため液冷インフラを全面採用する先行商用事例であり、
+         国内における液冷データセンター展開の先進モデルとして注目される。
+
+------------------------------------------------------
+
+【English News】
+
+1. AI Data Center Project Secretly Sucked 29 Million Gallons of Water for 15 Months
+   （AIデータセンター計画、発覚まで15ヶ月間にわたり2900万ガロンの水を秘密裏に取水）
+   Source: Tom's Hardware
+   Date: 2026-05-10
+   URL: https://www.tomshardware.com/tech-industry/georgia-data-center-used-29-million-gallons-of-water
+   Summary: QTS (Quality Technology Services), a Blackstone-owned data center developer,
+             drew approximately 29 million gallons of water through two unregistered connections
+             at its Fayetteville, Georgia campus over 15 months. The unauthorized usage was
+             discovered when residents complained of unusually low water pressure. County officials
+             declined to fine QTS despite the violation, drawing criticism from residents who had
+             been asked to conserve water during a drought.
+   【日本語訳】Blackstone傘下のQTSが、ジョージア州フェイエットビルのキャンパスにおいて15ヶ月間、
+              未登録の配管2本を通じて約2900万ガロンを無断取水していた。住民の低水圧報告で発覚
+              したが、郡当局は罰則を見送り。干ばつ下で節水を求められていた住民から強い批判を
+              受けており、データセンター冷却に伴う水資源管理の透明性問題が改めて問われている。
+
+------------------------------------------------------
+
+2. REPORT: Blackstone-Owned Data Center Drained 30 Million Gallons of Water From Atlanta Suburb
+   （Blackstone所有データセンター、アトランタ郊外から約3000万ガロンを無断消費）
+   Source: The Daily Caller
+   Date: 2026-05-11
+   URL: https://dailycaller.com/2026/05/11/project-excalibur-data-center-quality-technology-services-blackstone-29-million-gallons-water-fayetteville-georgia/
+   Summary: The Daily Caller reports on "Project Excalibur," QTS's 6.2 million-square-foot campus
+             in Fayetteville, Georgia, which drew roughly 30 million gallons of municipal water
+             through unregistered connections while residents faced drought-related shortages.
+             QTS claims its operational "closed-loop" cooling system requires no water, but the
+             incident has drawn scrutiny over water usage disclosures and accountability for
+             data center cooling infrastructure.
+   【日本語訳】The Daily CallerがQTS「プロジェクト・エクスカリバー」（620万平方フィート）を追報。
+              Blackstone傘下のQTSがジョージア州キャンパスで約3000万ガロンを未計量取水した。
+              同社は「クローズドループ」冷却でランニング消費水はゼロと主張するが、住民・自治体
+              への情報開示のあり方と冷却インフラの説明責任に批判が集中している。
+
+------------------------------------------------------
+
+3. Dow Taps Data Center Liquid Cooling Theme In AI Infrastructure Story
+   （Dow、AIインフラの拡大でデータセンター液冷流体サプライヤーとして再評価）
+   Source: Yahoo Finance
+   Date: 2026-05-10
+   URL: https://finance.yahoo.com/markets/stocks/articles/dow-taps-data-center-liquid-070945676.html
+   Summary: Dow Inc. (NYSE: DOW) is gaining renewed investor attention as a key supplier of
+             liquid cooling fluids amid the accelerating shift from air to liquid cooling in
+             AI data centers. Dow's DOWFROST LC Heat Transfer Fluid product line is positioned
+             to benefit from the rapid growth of direct-to-chip and immersion cooling deployments.
+             The data center liquid cooling fluids market is forecast to reach USD 2.01 billion
+             by 2032 at a CAGR of 32.7%.
+   【日本語訳】Dow Inc.（NYSE: DOW）がAIデータセンターの液冷シフト加速を背景に、液冷流体の
+              主要サプライヤーとして投資家から再評価されている。DOWFROST LCシリーズが
+              ダイレクト・トゥ・チップや液浸冷却の急拡大に伴い需要増。同市場は
+              2032年までにCAGR32.7%で成長し約20億ドル規模に拡大する見通し。
+
+------------------------------------------------------
+
+4. A Data Center Used 29 Million Gallons of Water Without a Bill, While Residents Complained About Low Water Pressure
+   （データセンター、請求なしで2900万ガロンを取水—住民は低水圧に悩まされた）
+   Source: TechSpot
+   Date: 2026-05-10
+   URL: https://www.techspot.com/news/112356-data-center-used-29-million-gallons-water-without.html
+   Summary: TechSpot covers the QTS Georgia water controversy in detail, highlighting that the
+             facility owed $147,474 in retroactive charges for unmetered water consumption,
+             yet county officials declined to levy fines. The article underscores the broader
+             tension between the large water volumes required for data center cooling and local
+             communities, particularly in regions already facing drought conditions.
+   【日本語訳】TechSpotがQTSジョージア水問題を詳報。未計量の水使用分として147,474ドルの遡及
+              請求が生じたが郡当局は罰則見送り。干ばつ被害が続く地域でのデータセンター冷却水
+              需要と地域住民の利害衝突が改めてクローズアップされ、業界全体の水利用開示基準
+              の整備を求める声が上がっている。
+
+======================================================
+レポート生成日時: 2026-05-11
+対象期間: 2026-05-10 〜 2026-05-11
