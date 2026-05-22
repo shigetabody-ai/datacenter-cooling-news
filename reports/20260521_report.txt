@@ -1,0 +1,97 @@
+データセンター冷却 日次ニュースレポート 2026-05-21
+======================================================
+
+【日本語ニュース】
+
+1. データセンター建設市場、クラウド拡大とAIインフラ投資増加を背景に2030年までに
+   年平均成長率7%で3,810億ドル超へ
+   媒体: ライブドアニュース（PRトピックス）
+   日付: 2026-05-21
+   URL: https://news.livedoor.com/pr_topics/detail/31331826/
+   概要: データセンター建設市場はクラウドサービスの急速な拡大とAIインフラへの投資増加を
+         背景に、2030年までに年平均成長率7%で3,810億ドルを超える規模に成長するとの
+         市場予測が発表された。AIサーバーの高発熱化への対応として液冷設備・電力インフラ
+         への投資需要が拡大しており、冷却システムを含む設備整備が建設市場の重要な成長
+         ドライバーと位置付けられている。
+
+------------------------------------------------------
+
+2. 米エヌビディア 2〜4月期純利益が前年同期の3倍超・過去最高更新、
+   次期見通しも95%増収予想
+   媒体: 時事通信（Yahoo!ファイナンス掲載）
+   日付: 2026-05-21
+   URL: https://finance.yahoo.co.jp/news/detail/4adf2d25ad197716e8db2b6878ee41951fb2eca7
+   概要: エヌビディアの2026年2〜4月期決算で純利益が前年同期比3倍超の538億ドルに達し
+         四半期ベースで過去最高を更新した。データセンター部門が売上高752億ドル
+         （前年比92%増）と全体を牽引しており、AI GPUの高発熱に対応する液冷化投資の
+         旺盛な需要継続が裏付けられる内容となった。
+
+------------------------------------------------------
+
+3. エヌビディア決算、純利益が3倍に データセンター需要いつまで?
+   媒体: 朝日新聞（Yahoo!ニュース掲載）
+   日付: 2026-05-21
+   URL: https://news.yahoo.co.jp/articles/8a092aeeb98dcc4de90b9ce0ac6198b74c45d1b5
+   概要: エヌビディアの過去最高決算を受け、AIデータセンター向け需要の持続性を分析した
+         記事。次世代Vera Rubin NVL72ラックは1ラックあたり100kW超の液冷が必要であり、
+         液冷インフラへの継続投資を促す一方、需要ピークの見極めが業界の焦点に
+         なっていると論じた。
+
+------------------------------------------------------
+
+【English News】
+
+1. Auras Technology Raises 2026 Revenue Outlook as AI-Driven Liquid Cooling Demand Grows
+   （Aurasテクノロジー、AI液冷需要を背景に2026年通期売上高成長率予測を上方修正）
+   Source: Digitimes
+   Date: 2026-05-21
+   URL: https://www.digitimes.com/news/a20260521PD231/2026-auras-avc-demand-liquid-cooling-revenue.html
+   Summary: Taiwan-based thermal management maker Auras Technology raised its 2026 full-year
+            revenue growth target from 50% to 70%, citing surging liquid cooling module orders
+            for AI data centers. Q1 2026 revenue hit NT$49 billion (up 110% YoY), with
+            Chairman Yu-shen Lin noting that demand is expanding beyond Nvidia to AMD and ASIC
+            server platforms, with strong growth expected to sustain through at least 2028.
+   【日本語訳】台湾の熱管理部品メーカーAurasテクノロジーが2026年通期売上高成長率目標を
+              50%から70%に引き上げた。AIデータセンター向け液冷モジュールへの受注が急増し、
+              2026年第1四半期売上高は前年比110%増を達成。NvidiaだけでなくAMDやASICサーバー
+              にも需要が拡大し、少なくとも2028年まで高成長が続く見通しと会長が語った。
+
+------------------------------------------------------
+
+2. Tech Forum 2026: AI Server Racks Push Liquid Cooling Into Mainstream
+   （テクフォーラム2026：AIサーバーラックが液冷技術の主流化を加速）
+   Source: Digitimes
+   Date: 2026-05-20
+   URL: https://www.digitimes.com/news/a20260520PD236/ai-server-liquid-cooling-nvidia-2026.html
+   Summary: At Tech Forum 2026, META Green Cooling Technology president Clyde Chu said
+            Nvidia's chip roadmap shows cooling requirements doubling in under a year. The
+            Vera Rubin NVL72 rack requires 130–140 kW of cooling capacity per rack, and
+            the Vera Rubin Ultra platform expected in 2027 may push single-rack power to
+            200–300 kW, making liquid cooling a mandatory infrastructure requirement rather
+            than an optional upgrade.
+   【日本語訳】テクフォーラム2026でMETA Green Cooling TechnologyのClyde Chu社長が、
+              NvidiaのチップロードマップによりAIサーバーの冷却要件が1年未満で2倍になると
+              発言。Vera Rubin NVL72ラックは1ラックあたり130〜140kWを必要とし、2027年の
+              Vera Rubin Ultraでは200〜300kWに達する可能性があり、液冷がオプションでなく
+              必須インフラになると指摘した。
+
+------------------------------------------------------
+
+3. Data Centers: Daily Notes | May 20, 2026
+   （データセンター 日次ノート | 2026年5月20日）
+   Source: Strisker Writing (Newsletter/Blog)
+   Date: 2026-05-20
+   URL: https://writing.strisker.com/data-centers-daily-notes-may-20-2026/
+   Summary: The May 20 data center daily briefing covers key industry developments including
+            the acceleration of liquid cooling adoption driven by Nvidia's Vera Rubin roadmap,
+            rising rack power densities exceeding 100 kW, and hyperscale operators ramping up
+            direct-to-chip and immersion cooling deployments to meet AI workload thermal demands
+            as the industry prepares for the H2 2026 Vera Rubin production ramp.
+   【日本語訳】2026年5月20日のデータセンター業界動向まとめ。NvidiaのVera Rubin世代による
+              液冷採用の加速、1ラックあたり100kW超への電力密度上昇、ハイパースケール事業者
+              によるダイレクトチップ冷却・液浸冷却の展開加速など、2026年後半のVera Rubin
+              量産開始に向けた業界準備状況を網羅している。
+
+======================================================
+レポート生成日時: 2026-05-21
+対象期間: 2026-05-20 〜 2026-05-21
