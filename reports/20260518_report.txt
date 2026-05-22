@@ -1,0 +1,97 @@
+データセンター冷却 日次ニュースレポート 2026-05-18
+======================================================
+
+【日本語ニュース】
+
+1. NVIDIAだけではない、AI冷却でダイキンが最高益を更新 データセンターが新主戦場に
+   媒体: 風傳媒日本語版
+   日付: 2026-05-18
+   URL: https://japan.storm.mg/articles/1132565
+   概要: AI冷却需要の急増によりダイキン工業が2026年3月期で過去最高益を更新した。
+         売上高5兆円超・純利益2,752億円を達成し、北米のAIデータセンター向け
+         大型空調「アプライド」が米ドルベースで30%増となったことが業績を牽引。
+         同社は液冷・チップ直接冷却の3段構え戦略で2030年に北米3,000億円超を狙う。
+
+------------------------------------------------------
+
+2. ダイキン売上高5兆超え 米データセンター需要が空調事業を押し上げ
+   媒体: チバテレ+プラス
+   日付: 2026-05-16
+   URL: https://www.chiba-tv.com/plus/detail/amp/2026051623021
+   概要: ダイキン工業の2026年3月期決算で売上高が初めて5兆150億円を突破（前年比5.5%増）。
+         米国AIデータセンター建設ラッシュを背景に北米空調事業が急伸した。
+         チップ直接冷却・サーバー冷却・大空間冷却の三本柱でデータセンター冷却市場の
+         攻略を加速させており、業界内での存在感が急速に高まっている。
+
+------------------------------------------------------
+
+3. 2026年3月期 決算短信
+   媒体: ダイキン工業株式会社（公式プレスリリース）
+   日付: 2026-05-12
+   URL: https://www.daikin.co.jp/press/2026/20260512_7
+   概要: ダイキン工業が2026年3月期の決算を発表。売上高5兆150億円・純利益2,752億円でいずれも
+         過去最高を更新。生成AI普及に伴うGPUサーバーの急増が冷却需要を底上げし、
+         北米データセンター向け冷却事業の伸びが業績全体を牽引した。
+         2030年度に北米冷却事業単独で3,000億円超の達成を目指すと公表した。
+
+------------------------------------------------------
+
+【English News】
+
+1. How Liquid Cooling Is Redefining Data Center Efficiency Beyond PUE
+   （液冷がPUEを超えてデータセンター効率指標を再定義する方法）
+   Source: Schneider Electric Blog
+   Date: 2026-05-14
+   URL: https://blog.se.com/datacenter/2026/05/14/how-liquid-cooling-redefining-data-center-efficiency-beyond-pue/
+   Summary: Schneider Electric argues that PUE alone is insufficient to evaluate the efficiency
+            of liquid-cooled data centers. The article proposes a multi-dimensional framework
+            incorporating Water Usage Effectiveness (WUE), Carbon Usage Effectiveness (CUE), and
+            thermal performance indicators. As liquid cooling becomes the backbone of AI
+            infrastructure, operators must adopt new benchmarks to accurately measure and optimize
+            total facility performance.
+   【日本語訳】シュナイダーエレクトリックは、PUEのみでは液冷データセンターの効率を正確に
+              評価できないと主張。WUE（水使用効率）やCUE（炭素使用効率）などを含む多次元評価
+              フレームワークの採用を提言。AIインフラで液冷が主流化する中、包括的な効率指標への
+              移行がデータセンター運用の最適化に不可欠と指摘した。
+
+------------------------------------------------------
+
+2. Telehouse Canada Undergoes Major Infrastructure Upgrade to Scale AI-Driven Organizations
+   （TelehouseカナダがAI対応インフラへの大規模刷新を実施）
+   Source: BusinessWire
+   Date: 2026-05-12
+   URL: https://www.businesswire.com/news/home/20260512456773/en/Telehouse-Canada-Undergoes-Major-Infrastructure-Upgrade-to-Scale-AI-Driven-Organizations
+   Summary: KDDI's Telehouse Canada deployed direct liquid-to-chip cooling technology at its
+            Toronto data centers, becoming Canada's first liquid-cooled interconnection hub with
+            support for rack densities up to 120kW per rack. The system removes up to 80% of heat
+            directly from high-power server components, significantly reducing reliance on
+            power-intensive CRACs. Waste heat is captured and redirected to Enwave's closed-loop
+            district energy system to help warm Toronto's municipal drinking water.
+   【日本語訳】KDDIのTelehouseカナダがトロントのデータセンターにチップ直接液冷技術を導入し、
+              カナダ初の液冷キャリアホテルとなった。ラックあたり最大120kWをサポートし、
+              サーバー部品から発生する熱の最大80%を直接除去。廃熱はEnwaveの地域熱供給システム
+              経由でトロント市の飲料水加熱に再利用される仕組みを構築した。
+
+------------------------------------------------------
+
+3. Data Center Liquid Cooling Analysis and Global Forecast Report 2026: Market Is Set to Surge
+   from USD 4.07 Billion in 2026 to USD 27.65 Billion by 2033, with an Impressive CAGR of 31.5%
+   （データセンター液冷市場分析・世界予測2026：2026年40.7億ドルから2033年276.5億ドルへ急拡大、CAGR 31.5%）
+   Source: GlobeNewswire
+   Date: 2026-05-11
+   URL: https://www.globenewswire.com/news-release/2026/05/11/3291590/0/en/Data-Center-Liquid-Cooling-Analysis-and-Global-Forecast-Report-2026-Market-is-Set-to-Surge-from-USD-4-07-Billion-in-2026-to-USD-27-65-Billion-by-2033-with-an-Impressive-CAGR-of-31-.html
+   Summary: A new market research report projects global data center liquid cooling market growth
+            from USD 4.07 billion in 2026 to USD 27.65 billion by 2033 (CAGR 31.5%), driven
+            primarily by AI workloads pushing rack power densities to 50-120kW. Goldman Sachs
+            estimates that 76% of AI servers deployed by end of 2026 will be liquid-cooled.
+            Direct-to-chip and immersion cooling are identified as the fastest-growing segments,
+            with hyperscalers including Microsoft deploying immersion cooling in 22% of GPU
+            capacity as of mid-2026.
+   【日本語訳】新市場調査報告書によれば、世界のデータセンター液冷市場は2026年の40.7億ドルから
+              2033年には276.5億ドルへと急拡大（CAGR 31.5%）する見通し。AIワークロードがラック
+              電力密度を50〜120kWに押し上げていることが主要因。2026年末にはAIサーバーの76%が
+              液冷採用とゴールドマンサックスが推計し、ハイパースケーラーによる導入加速が確認されている。
+
+======================================================
+レポート生成日時: 2026-05-18
+対象期間: 2026-05-17 〜 2026-05-18
