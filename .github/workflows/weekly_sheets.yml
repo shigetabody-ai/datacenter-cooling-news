@@ -2,7 +2,7 @@ name: Weekly News → Google Sheets
 
 on:
   schedule:
-    - cron: '0 3 * * 6'   # 毎週土曜 12:00 JST (= 03:00 UTC)
+    - cron: '0 1 * * *'   # 毎日 10:00 JST = 1:00 UTC
   workflow_dispatch:        # 手動実行ボタン（動作確認用）
 
 jobs:
