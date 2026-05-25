@@ -1,0 +1,169 @@
+データセンター冷却 日次ニュースレポート 2026-05-25
+======================================================
+
+【日本語ニュース】
+
+1. マイクロソフト、データセンター冷却の環境影響を「ゆりかごから墓場まで」で定量化——液冷で排出量最大21%削減
+   媒体: Microsoft News Center Japan
+   日付: 2026-05-08
+   URL: https://news.microsoft.com/ja-jp/features/250508-microsoft-quantifies-environmental-impacts-of-datacenter-cooling-from-cradle-to-grave-in-new-nature-study/
+   概要: マイクロソフトが学術誌Natureに掲載した新研究で、空冷・コールドプレート・
+         単相液浸・二相液浸の4方式の冷却技術についてライフサイクル全体の環境影響を
+         定量化。コールドプレートと液浸冷却は空冷比でGHG排出量を15〜21%、エネルギー
+         消費を15〜20%、水使用量を31〜52%削減できることが示された。2026年に
+         フェニックス等でパイロット導入を計画中。
+
+------------------------------------------------------
+
+2. Schneider Electric、PFAS規制でデータセンター液冷事業者が採るべき対応を解説
+   媒体: Schneider Electric ブログ（日本語訳参照）
+   日付: 2026-05-22
+   URL: https://blog.se.com/datacenter/2026/05/22/pfas-phase-out-liquid-cooling-us-data-center-operators-must-do/
+   概要: 米国でのPFAS（永遠の化学物質）規制強化を受け、二相液浸冷却と二相
+         ダイレクト・チップ冷却に用いられるフッ素系冷媒が廃止対象に。
+         TSCA（有害物質規制法）に基づく報告期限は2027年1月31日に延長された。
+         シュナイダーエレクトリックはMotivairと連携しPFASフリーの単相
+         DTC液冷ソリューションを提供中。
+
+------------------------------------------------------
+
+3. Schneider Electric、PUEを超える液冷の効率指標を提唱——AIデータセンターの
+   新たな評価基準へ
+   媒体: Schneider Electric ブログ（日本語訳参照）
+   日付: 2026-05-14
+   URL: https://blog.se.com/datacenter/2026/05/14/how-liquid-cooling-redefining-data-center-efficiency-beyond-pue/
+   概要: AI向けデータセンターにおける液体冷却の普及により、従来のPUE（電力使用効率）
+         だけでは評価しきれない熱管理指標の必要性が高まっている。同社は液冷環境に
+         最適化した新指標の採用を提唱し、冷媒温度・フロー制御・AI駆動の
+         インフラ管理との統合を推進する。2026年時点で単相DTC方式が
+         液冷市場の55%のシェアを占める。
+
+------------------------------------------------------
+
+4. データセンター液冷市場、2033年に276億ドルへ——CAGRは31.5%と予測
+   媒体: GlobeNewswire（AT Press 参照）
+   日付: 2026-05-11
+   URL: https://www.globenewswire.com/news-release/2026/05/11/3291590/0/en/Data-Center-Liquid-Cooling-Analysis-and-Global-Forecast-Report-2026-Market-is-Set-to-Surge-from-USD-4-07-Billion-in-2026-to-USD-27-65-Billion-by-2033-with-an-Impressive-CAGR-of-31-.html
+   概要: データセンター液体冷却市場の最新予測レポートによると、2026年の40億7000万
+         ドルから2033年には276億5000万ドルへと、CAGR 31.5%で急成長する見込み。
+         AIインフラへの投資拡大、NVIDIA Blackwellなど高電力GPUの普及、
+         政府の省エネ規制強化が主要な成長要因。
+
+------------------------------------------------------
+
+5. Submer、液浸冷却の専門企業がデータセンター建設事業に参入
+   ——バルセロナに56MWの拠点を設立へ
+   媒体: Data Center Dynamics（日本語訳参照）
+   日付: 2026-05-06
+   URL: https://www.datacenterdynamics.com/en/news/submer-launches-data-center-business-plans-first-facility-in-barcelona/
+   概要: 液浸冷却のSubmrが事業領域をデータセンター建設・運営へ拡大し、バルセロナに
+         56MWのファシリティを建設すると発表。欧州各地への多拠点展開の第一弾で、
+         ラックあたり150kW以上の超高密度AIワークロードに対応する。さらにAIaaS
+         （AI-as-a-Service）を提供するInferXユニットも立ち上げる。
+
+======================================================
+
+【English News】
+
+1. Microsoft Study Finds Liquid Cooling Can Cut Data Center Emissions by Up to 21%
+   （マイクロソフト研究：液体冷却でデータセンター排出量を最大21%削減可能と判明）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-05
+   URL: https://www.datacenterdynamics.com/en/news/microsoft-study-finds-liquid-cooling-can-cut-data-center-emissions-by-up-to-21/
+   Summary: A Microsoft lifecycle assessment published in the journal Nature found that
+            cold plates and immersion cooling technologies reduce greenhouse gas emissions
+            by 15–21%, energy demand by 15–20%, and water consumption by 31–52% over
+            their full lifecycles compared to conventional air cooling. The study notes
+            that two-phase immersion cooling currently relies on PFAS chemicals, which face
+            increasing regulatory pressure in the EU and US. Microsoft plans pilot deployments
+            of zero-water cooling systems in Phoenix, AZ and Mount Pleasant, WI in 2026.
+   【日本語訳】マイクロソフトがNature誌に発表したライフサイクル評価研究によると、
+               コールドプレートと液浸冷却はGHG排出量を15〜21%、エネルギー消費を
+               15〜20%、水使用量を31〜52%削減できることが判明。ただし二相液浸冷却は
+               PFAS系冷媒を使用しており規制対応が課題。2026年にゼロ水冷却の
+               パイロット施設を米国で展開予定。
+
+------------------------------------------------------
+
+2. PFAS Phase-Out & Data Center Liquid Cooling: US 2026 Guide
+   （PFAS廃止とデータセンター液体冷却：米国2026年ガイド）
+   Source: Schneider Electric Blog
+   Date: 2026-05-22
+   URL: https://blog.se.com/datacenter/2026/05/22/pfas-phase-out-liquid-cooling-us-data-center-operators-must-do/
+   Summary: The EPA's designation of PFAS as "forever chemicals" is reshaping data center
+            cooling decisions. Two-phase immersion and two-phase direct-to-chip cooling
+            both rely on PFAS-based dielectric fluids now under regulatory scrutiny.
+            Under TSCA, the reporting deadline has been pushed back to January 31, 2027.
+            Schneider Electric, partnering with Motivair, offers PFAS-free single-phase DTC
+            liquid cooling using a 75% water / 25% glycol mixture, now holding 55% of the
+            liquid cooling market. Goldman Sachs estimates 76% of AI servers deployed by
+            end-2026 will be liquid-cooled.
+   【日本語訳】EPA（米環境保護庁）のPFAS規制強化により、二相液浸・二相DTC冷却に
+               使用されるフッ素系冷媒が廃止対象に。TSCA報告期限は2027年1月31日に
+               延長。シュナイダーエレクトリックはPFASフリーの単相DTC液冷を推進し、
+               ゴールドマン・サックスは2026年末までにAIサーバーの76%が液冷化すると予測。
+
+------------------------------------------------------
+
+3. How Liquid Cooling Is Redefining Data Center Efficiency Beyond PUE
+   （液体冷却がPUEを超えてデータセンター効率を再定義）
+   Source: Schneider Electric Blog
+   Date: 2026-05-14
+   URL: https://blog.se.com/datacenter/2026/05/14/how-liquid-cooling-redefining-data-center-efficiency-beyond-pue/
+   Summary: As liquid cooling becomes the dominant thermal management approach for AI
+            data centers, the traditional PUE metric no longer captures the full picture
+            of efficiency. Schneider Electric argues for new metrics that account for
+            coolant temperature, flow dynamics, and AI-driven predictive controls.
+            Single-phase direct-to-chip cooling now holds 55% market share, with sensors
+            embedded throughout every liquid loop monitoring flow rate, pressure, and
+            coolant chemistry in real time, fed into AI-driven DCIM platforms.
+   【日本語訳】AI時代のデータセンターでは、従来のPUEだけでは液冷システムの
+               効率を正確に評価できなくなっている。シュナイダーエレクトリックは
+               冷媒温度・流量・AI予測制御を統合した新評価指標の採用を提唱。
+               単相DTC方式が市場の55%を占め、すべての液冷ループにリアルタイム
+               センサーとAI管理プラットフォームが統合されている。
+
+------------------------------------------------------
+
+4. Data Center Liquid Cooling Market to Surge from $4.07 Billion in 2026 to $27.65 Billion
+   by 2033 at CAGR of 31.5%
+   （データセンター液冷市場、2026年40億ドルから2033年に276億ドルへ——CAGR 31.5%）
+   Source: GlobeNewswire
+   Date: 2026-05-11
+   URL: https://www.globenewswire.com/news-release/2026/05/11/3291590/0/en/Data-Center-Liquid-Cooling-Analysis-and-Global-Forecast-Report-2026-Market-is-Set-to-Surge-from-USD-4-07-Billion-in-2026-to-USD-27-65-Billion-by-2033-with-an-Impressive-CAGR-of-31-.html
+   Summary: A comprehensive global market analysis projects the data center liquid cooling
+            sector to grow at an extraordinary 31.5% CAGR over 2026–2033, driven by
+            escalating AI infrastructure investment and increasingly dense GPU racks.
+            Direct-to-chip cooling currently leads with 55% share, while immersion
+            cooling is gaining ground rapidly. Average rack densities surged 69% YoY
+            to 27 kW in 2026. North America leads at $9.35 billion market size in 2026,
+            with APAC (particularly Japan and Australia) showing fastest growth.
+   【日本語訳】データセンター液冷市場は2026〜2033年にCAGR 31.5%で成長し、
+               2033年には276億ドルに到達する見通し。AIインフラ投資拡大と高密度GPU
+               ラックの普及が主要ドライバー。平均ラック密度は2026年に前年比69%増の
+               27kWに急上昇し、北米が93億5000万ドルで市場をリード。APACも
+               日本・オーストラリアを中心に急成長中。
+
+------------------------------------------------------
+
+5. Turning Down the Heat from Data Centers: ASU Study Finds Facilities Raise
+   Neighborhood Temperatures by Up to 4°F
+   （データセンターの廃熱が近隣気温を最大4°F上昇——ASUの実測調査が警鐘）
+   Source: ASU News (Arizona State University)
+   Date: 2026-05-18
+   URL: https://news.asu.edu/20260518-environment-and-sustainability-turning-down-heat-data-centers
+   Summary: Arizona State University researchers conducted the first field study to directly
+            measure the thermal impact of data center waste heat on surrounding communities,
+            finding that downwind neighborhoods can be up to 4°F (2.2°C) warmer. Effects
+            were detectable up to a third of a mile (530 m) away, with downwind areas
+            averaging 1.3–1.6°F warmer than upwind locations. The research adds scientific
+            urgency to adopting efficient cooling technologies—such as liquid cooling and
+            heat reuse systems—that minimize thermal waste dissipation into communities.
+   【日本語訳】アリゾナ州立大学が実施した初の実測調査で、データセンターの廃熱が
+               風下の近隣地区の気温を最大4°F（約2.2°C）上昇させることが判明。
+               影響範囲は約530mまで及ぶ。廃熱を地域に放散させない液冷・廃熱再利用
+               技術の普及の必要性を科学的に裏付けた研究として注目される。
+
+======================================================
+レポート生成日時: 2026-05-25
+対象期間: 2026-05-24 〜 2026-05-25
