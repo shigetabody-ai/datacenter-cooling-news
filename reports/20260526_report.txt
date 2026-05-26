@@ -1,0 +1,143 @@
+データセンター冷却 日次ニュースレポート 2026-05-26
+======================================================
+
+【日本語ニュース】
+
+1. 富士電機、データセンターの冷却電力85%削減 「水冷式」機器開発
+   媒体: 日本経済新聞
+   日付: 2026-05-26
+   URL: https://www.nikkei.com/article/DGXZQOUC19AVO0Z10C26A5000000/
+   概要: 富士電機がデータセンターのサーバー冷却にかかる電力消費を85%削減できる
+         水冷式機器を開発し、6月から販売を開始する。超音速ノズルで冷媒を圧縮する
+         独自技術によってコンプレッサーを不要とし、自動販売機事業で培った省エネ
+         ノウハウを応用。AI関連投資の拡大に伴う冷却電力急増問題への解決策として
+         注目される。
+
+------------------------------------------------------
+
+2. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウドWatch
+   日付: 2026-05-25
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業が北米データセンター向け冷却事業を本格展開。買収した
+         スタートアップ3社（チルダイン・Dynamic Data Centers Solutions等）の
+         サーバー冷却装置や半導体チップ液冷装置を2026年春から量産開始した。
+         2030年度には北米DC冷却事業の売上高を3000億円超に引き上げる目標を掲げ、
+         サンディエゴに統合開発拠点「データセンターソリューションハブ」も新設する。
+
+------------------------------------------------------
+
+3. 富士電機が連日新高値、データセンター向け水冷式機器開発と伝わる
+   媒体: 株探ニュース
+   日付: 2026-05-26
+   URL: https://kabutan.jp/news/marketnews/?b=n202605260196
+   概要: 富士電機の水冷式データセンター冷却機器開発のニュースを受け、同社株が
+         連日で年初来高値を更新した。消費電力85%削減という高い省エネ効果が
+         市場に評価され、データセンター向け設備投資の拡大を背景に投資家の
+         注目が集まっている。国内メーカーの独自冷却技術として業界内でも
+         関心が高まっている。
+
+------------------------------------------------------
+
+4. 日本データセンター冷却市場、2035年までに21億5227万米ドルへ
+   媒体: @Press（プレスリリース配信）
+   日付: 2026-05-25
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: 調査レポートによると、日本のデータセンター冷却市場は2025年の
+         7億1950万米ドルから2035年の21億5227万米ドルに達する見通しで、
+         年平均成長率は11.58%。生成AIやクラウドサービスの急拡大に伴う
+         高密度サーバーの増加、および省エネ規制の強化が市場成長を牽引。
+         液冷方式への移行加速が国内市場でも顕著になっている。
+
+======================================================
+
+【English News】
+
+1. Cooling Copper Plates Could Slash Data Center Energy Use by 90%
+   （3Dプリント銅製冷却プレートがデータセンターの冷却エネルギーを90%削減）
+   Source: New Atlas
+   Date: 2026-05-20
+   URL: https://newatlas.com/energy/cooling-copper-plates-data-center-energy-use/
+   Summary: Researchers at the University of Illinois Urbana-Champaign developed 3D-printed
+            pure copper cold plates that can reduce data center cooling energy consumption by
+            over 90%. Using a mathematical algorithm to optimize flow channel geometry, the
+            plates deliver 32% better cooling than conventional cold plates while reducing
+            pressure drop by 68%, making coolant flow easier. Applied across an entire data
+            center, the technology could shrink the cooling-related share of electricity
+            consumption from roughly 30% down to just 1.1%.
+   【日本語訳】イリノイ大学の研究チームが数学的アルゴリズムと3Dプリントを組み合わせた
+               純銅製冷却プレートを開発。従来品より冷却性能32%向上・圧力損失68%低減を
+               実現し、データセンター全体の冷却電力消費をおよそ30%から1.1%にまで
+               削減できるとする。ダイレクト・トゥ・チップ（DTC）冷却への応用で
+               大幅な省電力化が期待される。
+
+------------------------------------------------------
+
+2. Johnson Controls Releases Second Data Center Reference Design Guide to Advance
+   Industrial-Scale AI Factory Cooling
+   （ジョンソンコントロールズ、AIファクトリー向け第2弾データセンター
+     設計リファレンスガイドを公開）
+   Source: Johnson Controls (Press Release)
+   Date: 2026-05-05
+   URL: https://www.johnsoncontrols.com/media-center/news/press-releases/2026/05/05/johnson-controls-releases-second-data-center-reference-design-guide-to-advance-industrialscale-ai-fa
+   Summary: Johnson Controls released its second data center reference design guide focused
+            on air-cooled chiller systems, following its February guide on water-cooled
+            chillers. The new guide enables high-efficiency air-cooled designs that can
+            return up to 50 MW to the AI factory and improve annual energy consumption by
+            32%. The guide addresses the rapidly evolving thermal demands of AI workloads,
+            where single racks now require up to 600 kW of cooling capacity.
+   【日本語訳】ジョンソンコントロールズが空冷チラー向けデータセンター設計
+               リファレンスガイドの第2弾を公開。同ガイドは最大50MWをAIファクトリーに
+               還元し年間エネルギー消費量を32%改善できる高効率設計を実現。
+               1ラックあたり最大600kWの冷却需要が生じるAIワークロードの急増に対応
+               するための実践的な指針を提供する。
+
+------------------------------------------------------
+
+3. AI Datacenter Liquid Cooling Market to Reach USD 17.8 Billion by 2036 as
+   Hyperscale AI Infrastructure Drives Thermal Management Transformation
+   （AIデータセンター液冷市場、ハイパースケールAIインフラ拡大で2036年に
+     178億ドル到達へ）
+   Source: AccessWire / Morningstar (Future Market Insights Report)
+   Date: 2026-05-05
+   URL: https://www.morningstar.com/news/accesswire/1163831msn/ai-datacenter-liquid-cooling-market-to-reach-usd-178-billion-by-2036-as-hyperscale-ai-infrastructure-drives-thermal-management-transformation
+   Summary: A Future Market Insights analysis projects the global AI datacenter liquid
+            cooling market to grow from USD 3.20 billion in 2025 to USD 17.83 billion by
+            2036, at a CAGR of 16.9%. Key drivers include NVIDIA Blackwell GPUs demanding
+            liquid cooling at 1,200W TDP, hyperscalers such as Microsoft targeting 40%
+            liquid cooling penetration by 2028, and regulatory pressure to reduce energy
+            consumption. Direct-to-chip cooling holds 55% market share while two-phase
+            immersion is the fastest growing segment.
+   【日本語訳】AI向けデータセンターの液冷市場は2025年の32億ドルから2036年には
+               178億ドルへとCAGR 16.9%で成長する見通し。NVIDIA Blackwell GPUの
+               1,200W TDP要求やMicrosoftの液冷比率40%目標（2028年）が市場を牽引。
+               DTC（ダイレクト・トゥ・チップ）が市場の55%を占め、二相液浸冷却が
+               最も急成長するセグメントとなっている。
+
+------------------------------------------------------
+
+4. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling
+   for Next-Gen AI Data Centers
+   （エコラボ、次世代AIデータセンター向け液冷最大手のCoolITシステムズを
+     47.5億ドルで買収へ）
+   Source: BusinessWire
+   Date: 2026-03-19
+   URL: https://www.businesswire.com/news/home/20260319353197/en/Ecolab-to-Acquire-CoolIT-Systems-a-Global-Leader-in-Advanced-Liquid-Cooling-for-Next-Gen-AI-Data-Centers
+   Summary: Ecolab announced a definitive agreement to acquire CoolIT Systems from KKR
+            funds for approximately USD 4.75 billion. CoolIT, a pure-play data center
+            liquid cooling company, designs and manufactures CDUs (coolant distribution
+            units), cold plates, and direct-to-chip cooling systems. CoolIT is expected to
+            generate approximately USD 550 million in sales over the next 12 months. The
+            deal is expected to close in Q3 2026 and positions Ecolab as a comprehensive
+            end-to-end cooling solutions provider for the rapidly expanding AI data center
+            market.
+   【日本語訳】水処理大手エコラボがKKRファンドからデータセンター液冷専業の
+               CoolITシステムズを47.5億ドルで買収すると発表。CoolITはCDU・
+               コールドプレート・DTC冷却システムを手がけ、今後12カ月の売上は
+               約5.5億ドル見込み。2026年Q3のクロージングを目指し、エコラボは
+               急拡大するAIデータセンター向け冷却ソリューションの総合プロバイダーと
+               して市場に参入する。
+
+======================================================
+レポート生成日時: 2026-05-26
+対象期間: 2026-05-25 〜 2026-05-26
