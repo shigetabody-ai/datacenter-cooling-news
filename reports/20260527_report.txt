@@ -1,0 +1,104 @@
+データセンター冷却 日次ニュースレポート 2026-05-27
+======================================================
+
+【日本語ニュース】
+
+1. ダイキン工業、サーバー冷却とチップ液冷を手中に データセンター攻略
+   媒体: 日経クロステック
+   日付: 2026-05-26
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業が北米スタートアップ3社（チルダイン・Dynamic Data Centers
+         Solutions等）の買収を通じてサーバー冷却装置・半導体チップ液冷装置を
+         2026年春に量産開始した。AWS・Google・Microsoftなど大規模クラウド事業者
+         への採用拡大を目指し、サンディエゴに統合開発拠点「データセンター
+         ソリューションハブ」も新設。空調大手が液冷市場を本格攻略する
+         戦略として業界の注目を集めている。
+
+------------------------------------------------------
+
+2. データセンター冷却の日本市場（2026年〜2034年）市場調査レポート
+   媒体: @Press
+   日付: 2026-05-27
+   URL: https://www.atpress.ne.jp/news/1946495
+   概要: 日本のデータセンター冷却市場は2026年〜2034年にCAGR 11%超で拡大し、
+         2034年には72億米ドル規模に達する見込み。生成AI・クラウドサービス急拡大
+         に伴う高密度サーバー増加と省エネ規制強化が市場を牽引する。液冷方式への
+         移行加速が国内でも顕著となり、ソフトバンク・NTTなど国内大手各社の
+         データセンター冷却設備への投資も拡大している。
+
+------------------------------------------------------
+
+3. AIを支える電力：バークレイズが推奨するデータセンター冷却関連株トップ銘柄
+   媒体: Investing.com Japan
+   日付: 2026-05-26
+   URL: https://jp.investing.com/news/stock-market-news/article-93CH-1485447
+   概要: AIインフラへの支出急加速を背景に、バークレイズのアナリストが
+         データセンター冷却を重要インフラとして注目する分析レポートを公開。
+         上場・非上場を含む400社超を対象に液冷・空冷・熱管理各社の投資優先度を
+         提示した。冷却コストがデータセンター運営費の30〜40%を占めることを踏まえ、
+         高効率省エネ冷却技術への投資機会が浮上している。
+
+======================================================
+
+【English News】
+
+1. Castrol Moves into AI Liquid-Cooling Testing and Lifecycle Services for Data Centers
+   （キャストロール、AIデータセンター向け液冷テスト・ライフサイクルサービスに参入）
+   Source: Digitimes
+   Date: 2026-05-26
+   URL: https://www.digitimes.com/news/a20260526PD210/testing-data-cooling-2026-infrastructure.html
+   Summary: Castrol is expanding beyond supplying cooling fluids to offering end-to-end
+            liquid-cooling testing and lifecycle services for AI data centers. Its Silicon
+            Valley lab now delivers load bank testing and simulation of power and liquid-cooling
+            infrastructure before customer site deployment, targeting containerized data centers
+            and hyperscale environments. The service model covers four stages: Start-up,
+            Maintenance, Break/Fix, and Disposal, and will be rolled out globally through
+            Castrol's partner network.
+   【日本語訳】キャストロールが冷却流体の供給にとどまらず、AIデータセンター向け
+               液冷テスト・ライフサイクルサービス事業に本格参入。シリコンバレーの
+               ラボで負荷試験・電力および液冷インフラのシミュレーションを顧客サイト
+               導入前に実施し、コンテナ型DCおよびハイパースケール環境を対象とする。
+               スタートアップ・保守・修理・廃棄の4段階フルサービスをグローバル展開。
+
+------------------------------------------------------
+
+2. nVent Debuts Updated Liquid Cooling Products for AI Workloads
+   （nVent、AIワークロード向け最新液冷製品群を発表）
+   Source: Data Center Dynamics
+   Date: 2026-05-27
+   URL: https://www.datacenterdynamics.com/en/news/nvent-debuts-updated-liquid-cooling-products-for-ai-workloads/
+   Summary: nVent launched a new modular liquid cooling solution lineup designed to meet
+            the thermal demands of current and future AI chips. The updated range includes
+            enhanced coolant distribution units (CDUs) in both row and rack configurations,
+            alongside advanced cooling system manifolds. nVent is actively collaborating
+            with NVIDIA to support NVL36 and NVL72 deployments, and reported outstanding
+            liquid cooling growth in its Q1 2026 results, highlighting strong momentum
+            heading into the second half of the year.
+   【日本語訳】nVentがAIチップの熱需要に対応した最新モジュラー液冷ソリューション群を
+               発表。行型・ラック型の冷媒分配ユニット（CDU）と冷却システムマニホールドの
+               新製品ラインを提供。NVIDIAと協業しNVL36・NVL72環境向けにカスタム液冷
+               ソリューションを展開。2026年Q1決算でも液冷部門が際立った成長を記録し、
+               下半期への弾みとなっている。
+
+------------------------------------------------------
+
+3. Critical Cooling Specialists Launch Pioneering Data Center Cooling Controls System in US
+   （Airedale by Modine、米国でデータセンター向け先進冷却制御システムを発売）
+   Source: Data Center Dynamics
+   Date: 2026-05-26
+   URL: https://www.datacenterdynamics.com/en/product-news/critical-cooling-specialists-launch-pioneering-data-center-cooling-controls-system-in-us/
+   Summary: Airedale by Modine launched its Cooling System Optimizer in the US market in
+            response to surging demand for intelligent controls capable of managing
+            increasingly complex chilled water and direct liquid cooling systems in AI-driven
+            facilities. The system employs AI-driven algorithms to automatically balance
+            efficiency and cooling capacity across mixed cooling architectures in real time,
+            reducing operational overhead for data center operators.
+   【日本語訳】Airedale by Modineが米国市場でCooling System Optimizerを発売。
+               AIワークロードによる複雑化した冷水・直接液冷システムの管理需要増に
+               対応するインテリジェント制御システム。AIアルゴリズムが混合冷却
+               アーキテクチャ全体の効率と冷却能力をリアルタイムで自動調整し、
+               データセンター運営者の運用負荷を低減する。
+
+======================================================
+レポート生成日時: 2026-05-27
+対象期間: 2026-05-26 〜 2026-05-27
