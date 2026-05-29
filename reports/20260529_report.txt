@@ -1,0 +1,108 @@
+データセンター冷却 日次ニュースレポート 2026-05-29
+======================================================
+
+【日本語ニュース】
+
+1. AIデータセンターは「水で冷やす」 日本の省エネ技術、電力爆食を抑制
+   媒体: 日本経済新聞
+   日付: 2026-05-29
+   URL: https://www.nikkei.com/article/DGXZQOUC275TX0X20C26A5000000/
+   概要: AI時代のデータセンターが抱える電力大量消費の課題を受け、エアコン冷却より
+         30〜40%効率が高い水冷（液冷）方式が切り札として注目されている。ダイキン
+         工業やパナソニックなど国内メーカー各社が技術開発・量産化を急ピッチで進め、
+         日本の省エネ技術でデータセンターの「電力爆食」問題の解決を目指す。
+
+------------------------------------------------------
+
+2. レノボ、国内に"水冷AIインフラ"の検証施設 GPUサーバ需要増で水冷活用促す
+   媒体: ITmedia NEWS
+   日付: 2026-05-28
+   URL: https://www.itmedia.co.jp/news/articles/2605/28/news145.html
+   概要: レノボ・ジャパンが日本初の水冷AIインフラ検証施設「Neptuneラボ」を、千葉県
+         印西市のMCデジタル・リアルティ NRT12データセンター内に開設した。Lenovo
+         Neptune水冷技術とニデック製CDUを組み合わせ、クラウドベンダーやSIerに本番
+         導入前のPoC・検証環境として提供し、AI活用の本格展開を後押しする。
+
+------------------------------------------------------
+
+3. シュナイダーエレクトリックが解説、GTC 26で見るデータセンターファシリティの
+   最新技術トレンドと今後の潮流
+   媒体: クラウド Watch（Impress）
+   日付: 2026-05-28
+   URL: https://cloud.watch.impress.co.jp/docs/news/2112549.html
+   概要: シュナイダーエレクトリックが5月25日開催のメディアラウンドテーブルで、
+         NVIDIA Rubinラックの200kW発熱に対応するため水冷が必須となる実態を解説。
+         「高密度化・冷却・デジタル化」の3軸を軸に、電力インフラから冷却・運用管理
+         まで一体設計することの重要性を強調し、400kW超ラック対応の課題を示した。
+
+======================================================
+
+【English News】
+
+1. Europe Told to Cool Its Datacenter Boom Before Water and Power Run Short
+   （欧州データセンターブームへの警告：水資源と電力不足が顕在化する前に冷却対策を）
+   Source: The Register
+   Date: 2026-05-28
+   URL: https://www.theregister.com/on-prem/2026/05/28/europe-told-to-cool-its-datacenter-boom-before-water-and-power-run-short/5247994
+   Summary: A new Grundfos report warns that Europe's rapidly expanding datacenter
+            sector risks straining both water supplies and power grids unless
+            regulators embed water and energy efficiency requirements directly
+            into planning approvals. The EU's server farm IT load is projected
+            to grow from 10 GW today to 35 GW by 2030, with cooling already
+            accounting for 38% of a typical facility's electricity consumption.
+            Grundfos recommends governments introduce tax credits and green
+            financing incentives for operators adopting efficient cooling technologies.
+   【日本語訳】グルンドフォス社の新レポートが欧州のデータセンター急拡大について警告。
+               EUのサーバファーム IT負荷は現在の10 GWから2030年には35 GWに増大する
+               見通しで、冷却がすでに施設全体の電力消費の38%を占める。規制当局に対し
+               省エネ冷却設計の計画承認義務化を、政府に対しては税額控除・グリーン
+               ファイナンスによる支援を勧告している。
+
+------------------------------------------------------
+
+2. Vertiv Expands Liquid Cooling Portfolio in EMEA to Accelerate AI-Ready
+   Data Centre Deployments
+   （Vertiv、EMEA向け液冷ポートフォリオを拡充――AI対応データセンターの展開加速）
+   Source: IT-Online
+   Date: 2026-05-28
+   URL: https://it-online.co.za/2026/05/28/vertiv-expands-liquid-cooling-portfolio-2/
+   Summary: Vertiv announced the availability in EMEA of the CoolChip CDU 2300,
+            a liquid-to-liquid coolant distribution unit rated at 2.3 MW of
+            cooling capacity and featuring one of the highest capacity-to-footprint
+            ratios on the market. The launch also includes new CoolChip Fluid
+            Network Row Manifolds, providing the physical connectivity layer
+            between CDUs, server-level cooling hardware, and heat rejection
+            systems. The product range spans 100 kW to 2.3 MW and targets
+            hyperscale, colocation, and enterprise data centers handling high-
+            density AI workloads.
+   【日本語訳】Vertivが欧州・中東・アフリカ（EMEA）向けに、最大2.3 MWの冷却能力を
+               持つ液液冷却型CDU「CoolChip CDU 2300」と新型フルードネットワーク・ロウ・
+               マニホールドの提供を開始した。100 kW〜2.3 MWのレンジをカバーし、超高密度
+               AIワークロードを処理するハイパースケール・コロケーション・エンタープライズ
+               データセンター向けに直接液冷ソリューションの展開加速を支援する。
+
+------------------------------------------------------
+
+3. Liquid Cooling: The Future of Data Center Architecture and Operations
+   （液冷：データセンターのアーキテクチャと運用の未来）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-29
+   URL: https://www.datacenterdynamics.com/en/opinions/liquid-cooling-the-future-of-data-center-architecture-and-operations/
+   Summary: In this opinion piece published by Nigel Hedges of Fluke, liquid
+            cooling is positioned as no longer optional but a structural
+            requirement for modern AI data centers. The article discusses how
+            direct-to-chip and immersion cooling are becoming standard as GPU
+            rack densities exceed what air cooling can handle, and emphasizes
+            the critical role of precise thermal and power quality monitoring
+            — using tools such as thermal cameras and CDU measurement
+            instruments — in maintaining uptime and efficiency in liquid-cooled
+            facilities.
+   【日本語訳】Flukeのナイジェル・ヘッジス氏によるDCDオピニオン記事。液冷はAI
+               データセンターにとってもはや選択肢ではなく構造的必須要件であると主張。
+               GPUのラック密度が空冷の限界を超える中、ダイレクト・トゥ・チップ冷却
+               と液浸冷却が標準化しつつあり、サーモカメラやCDU計測機器を活用した精密な
+               熱・電力品質モニタリングが稼働率と効率維持の鍵になると強調している。
+
+======================================================
+レポート生成日時: 2026-05-29
+対象期間: 2026-05-28 〜 2026-05-29
