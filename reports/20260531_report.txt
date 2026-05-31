@@ -1,0 +1,185 @@
+データセンター冷却 日次ニュースレポート 2026-05-31
+======================================================
+
+【日本語ニュース】
+
+1. AIデータ拠点「水で冷やす」 各社、水冷技術を開発 電力消費の抑制急ぐ
+   媒体: 日本経済新聞
+   日付: 2026-05-30
+   URL: https://www.nikkei.com/article/DGKKZO96587350Z20C26A5EA5000/
+   概要: AI時代のデータセンターにおける電力消費抑制が課題となる中、大手メーカー各社が
+         水冷（液冷）技術の開発・量産を加速している。水は空気と比べて熱伝達効率が格段に
+         高く、CPUやGPUへの直接冷却で空冷比約40%の省電力を実現可能とされる。ダイキン工業
+         やパナソニックをはじめとする国内各社が日本の省エネ技術を活かし、データセンターの
+         「電力爆食」問題の解決に取り組んでいる。
+
+------------------------------------------------------
+
+2. AIデータセンター液冷化に「確実な実装」を——ニデック・第一実業・カンネツが
+   国産冷却アライアンスを始動
+   媒体: PR TIMES（株式会社カンネツ）
+   日付: 2026-05-30
+   URL: https://prtimes.jp/main/html/rd/p/000000011.000129736.html
+   概要: カンネツ、ニデック、第一実業の3社が戦略的ビジネスアライアンスを締結し、国内
+         AIデータセンター向け液冷インフラの一括導入を支援するオールジャパン体制を構築した。
+         ニデックのCDU（冷媒分配ユニット）、第一実業の設備工事力、カンネツの流体配管技術を
+         組み合わせ、設計・施工・保守を一体提供することで、液冷導入のハードルを大幅に
+         引き下げることを目指す。
+
+------------------------------------------------------
+
+3. 水冷データセンターの劇的な省エネを実現 世界初！エジェクタ冷却機の発売について
+   媒体: 富士電機株式会社 ニュースリリース
+   日付: 2026-05-31
+   URL: https://www.fujielectric.co.jp/about/news/detail/1205838_4830.html
+   概要: 富士電機が世界初となる「エジェクタ冷却機」を2026年6月に発売すると発表した。
+         コンプレッサを使わず、サーバーが排出する熱をエネルギーとして再利用する独自の
+         流体圧縮機（エジェクタ）技術により、夏季の冷却消費電力を最大85%削減できる。
+         生成AI普及でデータセンターの消費電力の30〜40%を占める冷却コスト圧縮に直結する
+         画期的な製品として注目されている。
+
+------------------------------------------------------
+
+4. AI時代のデータセンターは「冷やす能力」がカギを握る——次世代インフラの核心とは
+   媒体: 東洋経済オンライン（ダイキン工業 提供）
+   日付: 2026-05-31
+   URL: https://toyokeizai.net/articles/-/940636
+   概要: AI時代の到来でGPUサーバーの発熱量が従来比3〜4倍に達し、「冷やす能力」が
+         データセンター事業者の競争力の核心になりつつある実態を解説。ダイキン工業が米国
+         スタートアップ買収で得たチップ液冷・サーバー液冷技術を2026年春から量産開始し、
+         AWSやGoogle向けの採用拡大を狙う。AIチップからサーバールームまで垂直統合した
+         冷却ソリューションが新たな差異化戦略として浮上している。
+
+------------------------------------------------------
+
+5. 増加が見込まれるデータセンターの電力需要をどうする？
+   さらなる省エネを進める新たな制度に注目！
+   媒体: 経済産業省 資源エネルギー庁
+   日付: 2026-05-30
+   URL: https://www.enecho.meti.go.jp/about/special/johoteikyo/data_center2026.html
+   概要: 経済産業省がAI需要急拡大に伴うデータセンターの電力需要増加への対応策として、
+         省エネ促進に向けた新制度の概要を公表した。PUE（電力使用効率）の基準強化や高効率
+         冷却設備（液冷・外気冷却など）への転換を後押しする補助・税制優遇措置を盛り込み、
+         2030年に向けたエネルギー管理の基本方針を提示している。
+
+======================================================
+
+【English News】
+
+1. Nautilus Data Technologies' Facility Cooling Distribution Unit Exceeds
+   Performance Benchmarks for Next-Generation AI GPU Workloads
+   （ノーティラス・データ・テクノロジーズ、次世代AI GPU向け施設冷却配電ユニットが
+   性能基準を超過達成）
+   Source: PR Newswire
+   Date: 2026-05-28
+   URL: https://www.prnewswire.com/news-releases/nautilus-data-technologies-facility-cooling-distribution-unit-exceeds-performance-benchmarks-for-next-generation-ai-gpu-workloads-302783577.html
+   Summary: Nautilus Data Technologies announced the successful completion of
+            performance testing for its EcoCore Facility Cooling Distribution
+            Unit (CDU), validating full readiness for the most demanding AI GPU
+            clusters available today, including NVIDIA's Vera Rubin architecture.
+            The EcoCore CDU demonstrated the thermal capacity and flow-rate
+            specifications required for racks exceeding 100 kW, positioning
+            Nautilus as a turnkey infrastructure provider for AI-optimized
+            colocation and enterprise data centers.
+   【日本語訳】ノーティラス・データ・テクノロジーズが、NVIDIA Vera Rubinを含む最新世代
+               AI GPUクラスターに対応する「EcoCore施設冷却配電ユニット（CDU）」の性能
+               テストが完了し、出荷準備が整ったと発表した。100kWを超えるラック密度に必要な
+               熱容量と流量仕様を実証し、AIデータセンター向けのターンキー冷却インフラ
+               プロバイダーとして地位を確立した。
+
+------------------------------------------------------
+
+2. Microsoft Study Finds Liquid Cooling Can Cut Data Center Emissions by up to 21%
+   （マイクロソフトの研究、液冷でデータセンターの排出量を最大21%削減できると判明）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-30
+   URL: https://www.datacenterdynamics.com/en/news/microsoft-study-finds-liquid-cooling-can-cut-data-center-emissions-by-up-to-21/
+   Summary: Microsoft published a peer-reviewed life cycle assessment in the
+            journal Nature comparing four data center cooling methods: traditional
+            air cooling, cold-plate direct-to-chip cooling, and single- and
+            two-phase immersion cooling. Cold plates and both immersion cooling
+            variants were found to reduce greenhouse gas emissions by 15–21%,
+            energy use by 15–20%, and water consumption by 31–52% over their
+            entire life cycles relative to air cooling. The study provides the
+            industry with the first rigorous, cradle-to-grave environmental
+            benchmarking of liquid cooling technologies.
+   【日本語訳】マイクロソフトが学術誌「Nature」に、データセンター冷却技術4方式（空冷・
+               コールドプレート・シングルフェーズおよびツーフェーズ液浸）のライフサイクル
+               アセスメントを発表した。液冷方式は空冷比でGHG排出量を15〜21%、エネルギー
+               消費を15〜20%、水使用量を31〜52%削減できることが示された。冷却技術に関する
+               業界初の包括的な環境評価として注目されている。
+
+------------------------------------------------------
+
+3. The AI Boom Is Pushing Data Centers Past the Thermal Wall
+   （AIブームがデータセンターを「熱の壁」の限界へ押し上げている）
+   Source: Yahoo Finance / Tech Analysis
+   Date: 2026-05-31
+   URL: https://finance.yahoo.com/news/ai-boom-pushing-data-centers-180000874.html
+   Summary: Analysis of how the rapid acceleration of AI model training and
+            inference is driving data center rack densities beyond what
+            conventional air cooling can handle. GPU clusters now routinely
+            operate at 30–100 kW per rack, and next-generation AI systems such
+            as NVIDIA Vera Rubin are projected to require racks at 370 kW.
+            The article surveys industry responses including direct-to-chip
+            cooling, CDU-based hybrid architectures, and full immersion cooling,
+            noting that the "thermal wall" is now one of the primary constraints
+            limiting AI infrastructure deployment speed.
+   【日本語訳】AIモデルの学習・推論の急加速により、データセンターのラック密度が空冷の
+               限界を超えつつある状況を分析した記事。GPUクラスターは現在30〜100kW/ラック
+               で稼働し、次世代NVIDIA Vera Rubinでは370kWに達すると予測される。業界では
+               ダイレクト・トゥ・チップ冷却、CDUベースのハイブリッド構成、完全液浸冷却が
+               対応策として採用されており、「熱の壁」がAIインフラ展開の主要制約になって
+               いるとしている。
+
+------------------------------------------------------
+
+4. Why Liquid Cooling Is Becoming the Data Center Standard
+   （液冷がデータセンターの標準になりつつある理由）
+   Source: DataCenters.com
+   Date: 2026-05-30
+   URL: https://www.datacenters.com/news/why-liquid-cooling-is-becoming-the-data-center-standard
+   Summary: Industry survey data shows that 36% of data center operators have
+            already deployed liquid cooling and another 28% plan to adopt it
+            within the next 12–24 months, signaling a structural shift away from
+            air cooling as the default. Single-phase direct-to-chip cooling now
+            commands a 55% share of liquid cooling deployments. Drivers include
+            AI GPU racks requiring sustained thermal management beyond air
+            cooling's capacity, the economic case for PUE improvement, and
+            growing regulatory pressure on energy and water efficiency in large
+            facilities.
+   【日本語訳】業界調査によると、データセンター事業者の36%がすでに液冷を導入し、
+               28%が今後12〜24ヶ月以内の採用を計画しており、空冷からの構造的転換が
+               進んでいる。シングルフェーズDTC冷却が液冷導入の55%を占める。AI GPUの
+               熱管理需要増大、PUE改善による経済効果、規制強化への対応が主要な
+               導入推進要因となっている。
+
+------------------------------------------------------
+
+5. Brownfield Data Center Modernization for AI: Liquid Cooling Without
+   Starting from Scratch
+   （AIに向けた既存データセンターの近代化：スクラッチ不要の液冷導入）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-31
+   URL: https://www.datacenterdynamics.com/en/opinions/brownfield-data-center-modernization-for-ai-liquid-cooling-without-starting-from-scratch/
+   Summary: Opinion piece outlining practical strategies for retrofitting
+            existing (brownfield) data centers with liquid cooling to support
+            high-density AI workloads without full demolition and reconstruction.
+            Recommended approaches include modular CDU deployments in targeted
+            high-density rows, direct-to-chip cooling overlays that coexist with
+            existing air cooling infrastructure, and phased migration plans
+            aligned to lease cycles and hardware refresh schedules. The author
+            argues that most of the world's installed data center floor space
+            was designed before liquid cooling was a standard requirement,
+            making brownfield retrofitting the defining challenge of the AI
+            infrastructure transition.
+   【日本語訳】既存（ブラウンフィールド）データセンターを全面建て替えせずにAI高密度
+               ワークロード対応の液冷に改修するための実践的戦略を論じたオピニオン記事。
+               高密度ゾーンへのモジュール型CDU導入、既存空冷との共存が可能なDTCオーバーレイ、
+               リース期間・ハードウェア更新に合わせた段階移行計画を推奨。世界の既設データ
+               センターの大半は液冷を前提に設計されておらず、ブラウンフィールド改修が
+               AI移行期の最重要課題と主張している。
+
+======================================================
+レポート生成日時: 2026-05-31
+対象期間: 2026-05-30 〜 2026-05-31
