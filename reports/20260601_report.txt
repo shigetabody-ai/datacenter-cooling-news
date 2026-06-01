@@ -1,0 +1,149 @@
+データセンター冷却 日次ニュースレポート 2026-06-01
+======================================================
+
+【日本語ニュース】
+
+1. NVIDIA Vera Rubin の量産が開始、世界中のエージェント型 AI ファクトリーを支える
+   媒体: PR TIMES（NVIDIA Japan）
+   日付: 2026-06-01
+   URL: https://prtimes.jp/main/html/rd/p/000000618.000012662.html
+   概要: NVIDIAがVera Rubin（ヴェラ・ルービン）プラットフォームの量産体制に入ったと発表した。
+         Vera Rubin NVL72ラックは100%液体冷却に対応し、45°Cの温水のみでサーバーを冷却できる
+         ためチラーが不要となる。AIファクトリー全体の電力・冷却設計を刷新する画期的な技術として
+         データセンター業界に大きなインパクトをもたらす。
+
+------------------------------------------------------
+
+2. NVIDIA とパートナーが Vera Rubin に向けた次世代高効率ギガワット AI ファクトリーを推進
+   媒体: NVIDIA Japan Blog
+   日付: 2026-06-01
+   URL: https://blogs.nvidia.co.jp/blog/gigawatt-ai-factories-ocp-vera-rubin/
+   概要: NVIDIAがOpen Compute Project（OCP）と連携し、Vera Rubinを核とするギガワット規模の
+         AIファクトリー構築に向けたパートナーエコシステムを形成したと発表した。液冷を標準と
+         した超高密度設計が次世代データセンターの基盤となり、冷却効率の大幅な改善が見込まれる。
+
+------------------------------------------------------
+
+3. 富士電機、世界初「エジェクタ冷却機」を正式発売——データセンター冷却電力を最大85%削減
+   媒体: 富士電機株式会社 ニュースリリース
+   日付: 2026-05-31
+   URL: https://www.fujielectric.co.jp/about/news/detail/1205838_4830.html
+   概要: 富士電機がコンプレッサを使わずサーバーの排熱を再利用するエジェクタ技術を採用した
+         「エジェクタ冷却機」を世界で初めて正式発売。2026年6月より販売開始し、夏季の冷却
+         消費電力を最大85%削減できる。AI時代の高発熱データセンターにおける省エネ化を
+         実現する製品として注目されている。
+
+------------------------------------------------------
+
+4. AI 時代のデータセンターは「冷やす能力」がカギを握る——次世代インフラの核心とは
+   媒体: 東洋経済オンライン（ダイキン工業 提供）
+   日付: 2026-05-31
+   URL: https://toyokeizai.net/articles/-/940636
+   概要: GPU発熱量が従来比3〜4倍に達するAI時代において「冷却能力」がデータセンター事業者の
+         競争力の核心になりつつある実態を解説。ダイキン工業が米国スタートアップ買収で得た
+         チップ液冷・サーバー液冷技術を2026年春から量産開始し、大手クラウド事業者への採用
+         拡大を目指している。
+
+======================================================
+
+【English News】
+
+1. Supermicro Introduces DCBBS Blueprints for NVIDIA Vera Rubin NVL72 and HGX Rubin NVL8,
+   Built to Scale from 5MW to 1GW as an End-to-End Total Solution
+   （スーパーマイクロ、5MW〜1GW対応のVera Rubin向けDCBBSブループリントを発表）
+   Source: Super Micro Computer, Inc. (Investor Relations)
+   Date: 2026-06-01
+   URL: https://ir.supermicro.com/news/news-details/2026/Supermicro-Introduces-DCBBS-Blueprints-for-NVIDIA-Vera-Rubin-NVL72-and-NVIDIA-HGX-Rubin-NVL8-Built-to-Scale-from-5MW-to-1GW-as-an-End-to-End-Total-Solution/default.aspx
+   Summary: Supermicro unveiled comprehensive Data Center Building Block Solutions (DCBBS)
+            Blueprints for the NVIDIA Vera Rubin NVL72 and HGX Rubin NVL8 platforms,
+            scalable from 5MW to 1GW as an end-to-end total solution. The blueprints
+            integrate liquid cooling options including In-Rack CDU, In-Row CDU, and RDHx,
+            enabling deployment in both liquid-cooled and air-cooled data center environments.
+            The announcement coincides with NVIDIA's Vera Rubin mass production launch.
+   【日本語訳】スーパーマイクロがNVIDIA Vera Rubin NVL72・HGX Rubin NVL8向けの包括的な
+               DCBBSブループリントを発表。5MW〜1GWに対応し、In-Rack CDU・In-Row CDU・RDHxなど
+               液冷オプションを統合。NVIDIA Vera Rubin量産開始と同時に発表された戦略的な
+               製品ラインアップで、液冷・空冷いずれの環境にも対応する。
+
+------------------------------------------------------
+
+2. Vera Rubin Enters Production: What It Means for Data Centers
+   （Vera Rubin生産開始：データセンターへの影響を読み解く）
+   Source: Data Center Richness (Substack)
+   Date: 2026-06-01
+   URL: https://datacenterrichness.substack.com/p/vera-rubin-enters-production-what
+   Summary: In-depth analysis of NVIDIA Vera Rubin's mass production launch and its
+            systemic impact on data center cooling infrastructure. Examines how Vera
+            Rubin's 45°C hot-water cooling requirement—eliminating the need for
+            chillers—will reshape facility thermal design and trigger upgrades in
+            liquid cooling distribution systems across hyperscaler and enterprise
+            data centers globally. The piece assesses the ripple effects on the
+            cooling supply chain and which vendors are positioned to benefit most.
+   【日本語訳】NVIDIAのVera Rubin量産開始がデータセンター冷却インフラに与える体系的な影響を
+               詳細分析。45°C温水冷却でチラーを不要とする設計が施設の熱管理設計を刷新し、
+               ハイパースケーラー・エンタープライズ双方の液冷配管システム刷新を促すと論じる。
+               冷却サプライチェーンの勝者と敗者を分析した解説記事。
+
+------------------------------------------------------
+
+3. Supermicro Expands Liquid Cooling for NVIDIA Vera Rubin NVL72 and HGX Rubin NVL8 Platforms
+   （スーパーマイクロ、Vera Rubin NVL72・HGX Rubin NVL8向け液冷ソリューションを拡充）
+   Source: StorageReview
+   Date: 2026-06-01
+   URL: https://www.storagereview.com/news/supermicro-expands-liquid-cooling-for-nvidia-vera-rubin-nvl72-and-hgx-rubin-nvl8-platforms
+   Summary: StorageReview's technical coverage of Supermicro's expanded liquid cooling
+            portfolio for NVIDIA Vera Rubin architectures. The article details thermal
+            performance specifications, CDU configurations, and integration with NVIDIA's
+            45°C warm-water cooling system. It also covers Supermicro's U.S. manufacturing
+            expansion plan designed to support first-to-market delivery of liquid-cooled
+            Vera Rubin systems for hyperscaler and enterprise customers.
+   【日本語訳】StorageReviewによるSupermicroのVera Rubin向け液冷ソリューション拡充の技術的報道。
+               CDU構成・熱性能仕様、NVIDIA 45°C温水冷却システムとの統合を詳細分析。米国内
+               製造能力拡大によりVera Rubin液冷システムのハイパースケーラー・エンタープライズ
+               向けいち早い供給を実現するとしている。
+
+------------------------------------------------------
+
+4. The AI Boom Is Pushing Data Centers Past the Thermal Wall
+   （AIブームがデータセンターを「熱の壁」の限界へ押し上げている）
+   Source: Yahoo Finance
+   Date: 2026-05-31
+   URL: https://finance.yahoo.com/news/ai-boom-pushing-data-centers-180000874.html
+   Summary: Analysis of how rapid AI acceleration is pushing data center rack densities
+            far beyond what conventional air cooling can handle. GPU clusters now routinely
+            operate at 30–100 kW per rack, with next-generation NVIDIA Vera Rubin racks
+            projected to require 370 kW. The article surveys industry responses including
+            direct-to-chip cooling, CDU-based hybrid architectures, and full immersion
+            cooling, noting that the "thermal wall" has become one of the primary
+            constraints limiting AI infrastructure deployment speed.
+   【日本語訳】AIの急速な進化によりデータセンターのラック密度が空冷の限界を超えつつある状況を
+               分析。GPU現行クラスターは30〜100kW/ラックで稼働し、次世代NVIDIA Vera Rubinでは
+               370kWに達する見通し。DTC冷却・CDUハイブリッド・完全液浸が「熱の壁」への対応
+               として急速に普及しており、AIインフラ展開の主要制約になっているとしている。
+
+------------------------------------------------------
+
+5. Brownfield Data Center Modernization for AI: Liquid Cooling Without Starting from Scratch
+   （AIに向けた既存データセンターの近代化：ゼロからやり直さずに液冷を導入する）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-05-31
+   URL: https://www.datacenterdynamics.com/en/opinions/brownfield-data-center-modernization-for-ai-liquid-cooling-without-starting-from-scratch/
+   Summary: Opinion piece outlining practical strategies for retrofitting existing brownfield
+            data centers with liquid cooling to support high-density AI workloads without
+            full demolition and reconstruction. Recommended approaches include modular CDU
+            deployments in targeted high-density rows, direct-to-chip cooling overlays that
+            coexist with existing air cooling, and phased migration plans aligned to lease
+            cycles and hardware refresh schedules. The author argues that most of the
+            world's installed data center floor space was designed before liquid cooling
+            was a standard requirement, making brownfield retrofitting the defining
+            challenge of the AI infrastructure transition.
+   【日本語訳】既存（ブラウンフィールド）データセンターを全面建て替えなしにAI高密度ワーク
+               ロード対応の液冷へ改修するための実践的戦略を論じたオピニオン記事。高密度ゾーン
+               へのモジュール型CDU導入、既存空冷との共存が可能なDTCオーバーレイ、リース期間・
+               ハードウェア更新に合わせた段階移行計画を推奨。世界の既設データセンターの大半は
+               液冷を前提に設計されておらず、ブラウンフィールド改修がAI移行期の最重要課題と
+               主張している。
+
+======================================================
+レポート生成日時: 2026-06-01
+対象期間: 2026-05-31 〜 2026-06-01
