@@ -1,0 +1,116 @@
+データセンター冷却 日次ニュースレポート 2026-06-03
+======================================================
+
+【日本語ニュース】
+
+1. IIJなど3社、都市型AI基盤向けエッジデータセンターの共同検証を開始
+   媒体: マイナビニュース TECH+
+   日付: 2026-06-02
+   URL: https://news.mynavi.jp/techplus/article/20260602-4533158/
+   概要: インターネットイニシアティブ（IIJ）、NTTデータ、日比谷総合設備の3社が、IIJの
+         モジュール型エッジデータセンター「DX edge Cool Cube」を活用し、NTTデータ運営
+         の「Data Center Trial Field」にて都市型AI基盤向け冷却最適化の共同検証を開始
+         すると発表。空冷と液冷を組み合わせたハイブリッド冷却構成を実環境で検証し、
+         高密度AI基盤の都市部導入に向けた設計・運用指針の確立を目指す。
+
+------------------------------------------------------
+
+2. データセンター不足を海で解決できるか 洋上データセンター実現への課題
+   媒体: マイナビニュース TECH+
+   日付: 2026-06-02
+   URL: https://news.mynavi.jp/techplus/article/20260602-4532565/
+   概要: 急増するデータセンターの用地・冷却コスト問題の解決策として、洋上データセンター
+         が注目されている。海水を活用した自然冷却によりPUEを大幅に改善できる可能性が
+         ある一方、耐塩害対策・海底ケーブル接続・法整備など技術的・コスト的ハードルも
+         多く、実用化には課題が残る。日本でも土地制約の多い都市圏での展開可能性として
+         研究が進んでいる。
+
+------------------------------------------------------
+
+3. モジュール型エッジデータセンターを活用し、都市型AI基盤における冷却最適化の共同検証を開始
+   媒体: NTTデータグループ 公式プレスリリース
+   日付: 2026-06-02
+   URL: https://www.nttdata.com/global/ja/news/topics/2026/060201/
+   概要: NTTデータグループが3社共同検証について公式に発表。IIJの「DX edge Cool Cube」を
+         用い、都市型データセンター制約条件下での高発熱・高密度AI基盤向け冷却方式を
+         実証する。NTTデータは検証全体の設計・プロジェクト統括を担い、日比谷総合設備が
+         冷却設備の構築および評価・可視化システムの構築を担当する。
+
+======================================================
+
+【English News】
+
+1. Vertiv Expands Liquid Cooling Portfolio to Accelerate AI-Ready Data Center Deployments in EMEA
+   （Vertiv、EMEA向け液冷ポートフォリオを拡充しAIレディデータセンターの展開を加速）
+   Source: Channel Post MEA
+   Date: 2026-06-02
+   URL: https://channelpostmea.com/2026/06/02/vertiv-expands-liquid-cooling-portfolio-to-accelerate-ai-ready-data-center-deployments/
+   Summary: At Datacloud Global Congress in Cannes (June 1-4), Vertiv announced the availability
+            of the CoolChip CDU 2300 and CoolChip Fluid Network Row Manifolds for the EMEA market.
+            The CoolChip CDU 2300 delivers 2.3 MW of liquid-to-liquid cooling capacity in one of
+            the industry's most compact footprints, supporting direct-to-chip and rear-door heat
+            exchanger deployments for AI and HPC data centers. The CoolChip CDU systems span from
+            100 kW to 2.3 MW to suit a range of deployment scales.
+   【日本語訳】VertivがカンヌのDatacloud Global Congress（6月1〜4日）にて、EMEA向けに
+   CoolChip CDU 2300とCoolChip Fluid Network Row Manifoldsの提供を発表。CDU 2300は業界
+   最小クラスのフットプリントで2.3MWの液液冷却能力を実現し、AIおよびHPCデータセンターの
+   ダイレクトチップ冷却・リアドア熱交換に対応。100kWから2.3MWのラインナップを揃える。
+
+------------------------------------------------------
+
+2. Vertiv Expands Fluid Management Services to Help Reduce Water Use During Data Center Fluid System Commissioning
+   （Vertiv、データセンター液冷システム試運転時の節水を支援する流体管理サービスを拡充）
+   Source: PR Newswire
+   Date: 2026-06-03
+   URL: https://www.prnewswire.com/news-releases/vertiv-expands-fluid-management-services-to-help-reduce-water-use-during-data-center-fluid-system-commissioning-302790111.html
+   Summary: Vertiv introduced the Vertiv PurgeRite NearZero, a patent-pending fluid management
+            service for commissioning closed-loop hydronic systems in North American data centers.
+            Combining engineered flush-planning, mechanical flushing, water treatment, filtration,
+            reverse osmosis, and continuous water-quality monitoring, the service recycles flushing
+            water throughout commissioning. In selected deployments it has reduced total water
+            consumption by up to 78%, haul-off volumes by up to 91%, and discharge costs by up
+            to 34%, while also cutting approximately 300 tanker trips at one site.
+   【日本語訳】VertivがデータセンターのクローズドループHVACシステム試運転向け特許申請中の
+   流体管理サービス「Vertiv PurgeRite NearZero」を発表。機械的フラッシング・水処理・逆浸透・
+   リアルタイム水質監視を組み合わせた再利用型サービスで、水消費量最大78%削減、廃水輸送量
+   最大91%削減、排水管理コスト最大34%削減を達成。ある拠点ではタンカー約300台分の輸送も削減した。
+
+------------------------------------------------------
+
+3. Inside Vertiv's CoolChip Launch for High-Density Workloads
+   （高密度ワークロード向けVertiv CoolChip CDU新製品発表の詳報）
+   Source: Data Centre Magazine
+   Date: 2026-06-02
+   URL: https://datacentremagazine.com/news/vertiv-coolchip-launch-for-ai-workloads-and-high-density-computing
+   Summary: Data Centre Magazine provides an in-depth look at Vertiv's expanded CoolChip CDU
+            portfolio unveiled at Datacloud Global Congress. The full range from 100 kW to 2.3 MW
+            covers rack-scale to campus-scale deployments, with each unit pre-flushed, passivated,
+            pressure-tested, and sealed for superior cleanliness, corrosion resistance, and leak-free
+            performance. The portfolio supports both direct-to-chip liquid cooling and rear-door heat
+            exchangers, designed to meet the surging thermal demands of AI and ML infrastructure.
+   【日本語訳】Data Centre MagazineがDatacloud Global Congressで発表されたVertivのCoolChip CDU
+   ポートフォリオ拡充を詳報。100kWから2.3MWのラインナップはラックスケールからキャンパス規模まで
+   カバーし、各ユニットは事前フラッシング・不動態化・耐圧試験・封止処理済みで清浄性・耐腐食性・
+   無漏洩を保証。AIおよびML基盤の急増する熱負荷に対応するダイレクトチップ冷却・リアドア熱交換に対応。
+
+------------------------------------------------------
+
+4. Vertiv Launches Liquid Cooling Services Offering for AI & High-Density Compute
+   （Vertiv、AIおよび高密度コンピューティング向けの液冷サービスを発表）
+   Source: Data Center Dynamics
+   Date: 2026-06-02
+   URL: https://www.datacenterdynamics.com/en/news/vertiv-launches-liquid-cooling-services-offering-for-ai-high-density-compute/
+   Summary: Data Center Dynamics reports on Vertiv's newly launched end-to-end liquid cooling
+            services portfolio for AI and high-density compute applications. The portfolio covers
+            the full lifecycle of liquid cooling deployments—from design consulting and system
+            commissioning to ongoing maintenance, emergency response, and fluid management—aimed
+            at helping data center operators keep pace with surging AI workload thermal demands
+            while maintaining uptime and operational efficiency.
+   【日本語訳】Data Center DynamicsがVertivによるAI・高密度コンピューティング向けエンドツーエンド
+   液冷サービスポートフォリオの発表を報道。設計コンサルティング・システム試運転から継続的な保守・
+   緊急対応・流体管理まで液冷導入の全ライフサイクルをカバー。急増するAIワークロードの熱負荷に
+   対応しながら稼働率と運用効率を維持することを目的とした包括的サービス体系。
+
+======================================================
+レポート生成日時: 2026-06-03
+対象期間: 2026-06-02 〜 2026-06-03
