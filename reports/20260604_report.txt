@@ -1,0 +1,131 @@
+データセンター冷却 日次ニュースレポート 2026-06-04
+======================================================
+
+【日本語ニュース】
+
+1. コンピューテックス2026：SSSTC（キオクシア子会社）、AIデータセンターの熱課題に対応する液浸冷却SSDポートフォリオを拡充
+   媒体: PR Newswire APAC（日本語配信 / CodeCamp）
+   日付: 2026-06-02
+   URL: https://trends.codecamp.jp/blogs/media/prna-list4684
+   概要: SSSTPCがComputex 2026にて、AI駆動型データセンター向けに設計された液浸冷却対応の
+         エンタープライズSSDポートフォリオを展示。SATA ER3/ER4/ER5シリーズおよびPCIe U.2
+         PJ1/EJ5シリーズが非導電性誘電体液体に浸漬する環境に対応し、特殊材料による耐腐食性
+         強化・高密度計算向けファームウェア最適化・容量型PLPによる信頼性の確保を特長とする。
+
+------------------------------------------------------
+
+2. ダウ（Dow）、COMPUTEX台北2026でAIデータセンター向け次世代熱管理材料を展示——6月4日に「AIデータセンター冷却」基調講演を実施
+   媒体: Dow Inc.（公式プレスリリース）
+   日付: 2026-06-04
+   URL: https://corporate.dow.com/en-us/news/press-releases/computex-taipei-2026.html
+   概要: ダウがCOMPUTEX台北2026（南港展覧館、6月2〜5日）にて、AIデータセンターの熱課題に
+         対応する「DOW Cooling Science」技術群を展示。単相液浸冷却向け「DOWSIL ICL-1100」流体・
+         熱伝導接着剤・半導体パッケージング材料などを紹介。6月4日にアジア太平洋R&Dディレクター
+         が「Cooling AI-generation data centres」と題した基調講演を行い、AI/HPC向け先端冷却材
+         料の展望を発信した。
+
+------------------------------------------------------
+
+3. MSI、COMPUTEX 2026で液冷AI インフラポートフォリオを発表——最大100kW対応のORv3液冷ラックを展示
+   媒体: PR Newswire
+   日付: 2026-06-02
+   URL: https://www.prnewswire.com/news-releases/msi-showcases-liquid-cooled-ai-infrastructure-nvidia-mgx-nvidia-dgx-station-and-dc-mhs-platforms-at-computex-2026-302785182.html
+   概要: MSIがComputex 2026にて液冷AIデータセンターインフラのポートフォリオを発表。
+         21インチ44OU ORv3液冷ラックアーキテクチャはL2L CDU（液液冷媒分配ユニット）内蔵で
+         最大100kW展開をサポートし、NVIDIA MGX・DGX Station・DC-MHSプラットフォームとの
+         組み合わせでAI高密度ワークロードの熱要求に対応するソリューションを訴求した。
+
+======================================================
+
+【English News】
+
+1. Data Centre Cooling Market Size to Hit $83.54 Billion by 2035
+   （データセンター冷却市場規模、2035年に834億ドルへ——AI需要がCAGR 14.99%成長を牽引）
+   Source: GlobeNewsWire / SNS Insider
+   Date: 2026-06-03
+   URL: https://www.globenewswire.com/news-release/2026/06/03/3305885/0/en/Data-Centre-Cooling-Market-Size-to-Hit-83-54-Billion-by-2035-SNS-Insider.html
+   Summary: SNS Insider reports the global data centre cooling market was valued at USD 20.73
+            billion in 2025 and is projected to reach USD 83.54 billion by 2035 at a CAGR of
+            14.99%. AI training, inference, and HPC workloads drive heat densities that conventional
+            air-cooling cannot handle, accelerating adoption of liquid and immersion cooling. Asia
+            Pacific leads regional growth, driven by large-scale data center investments in Japan,
+            China, India, Singapore, and South Korea.
+   【日本語訳】SNS Insiderの調査によると、世界のデータセンター冷却市場は2025年の207億ドルから
+   2035年には834億ドルへ成長（CAGR 14.99%）。AIの学習・推論・HPC処理が空冷では対応困難な
+   高密度熱負荷を生み出しており、液冷・液浸冷却技術の採用が加速。日本・中国・インド等への大
+   規模投資に牽引されアジア太平洋地域が最速の成長を示す。
+
+------------------------------------------------------
+
+2. Microsoft CEO Says New AI Data Centers Use as Little Water Annually as a Restaurant
+   （マイクロソフトCEO：新世代AIデータセンターの年間水消費量はレストラン1軒分相当）
+   Source: Tom's Hardware
+   Date: 2026-06-03
+   URL: https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny
+   Summary: At Microsoft Build 2026 (June 2), CEO Satya Nadella revealed the company's newest AI
+            data centers consume as little water annually as a single restaurant, thanks to a
+            closed-loop liquid cooling system. The Fairwater campus in Wisconsin uses a loop filled
+            once at construction; over 90% of cooling relies on recirculated liquid rather than
+            evaporating water, reducing annual consumption from millions of gallons to near zero.
+            The design currently applies to newly built facilities following the Fairwater blueprint.
+   【日本語訳】マイクロソフトCEOのサティア・ナデラ氏がMicrosoft Build 2026（6月2日）で、新世代
+   AIデータセンターの年間水消費量がレストラン1軒分に相当すると発表。ウィスコンシン州Fairwater
+   キャンパスでは建設時1度のみ注水する閉ループ液冷システムを採用し、冷却の90%以上を循環水で
+   賄う。従来の年間数百万ガロン消費から実質ゼロへの劇的な削減を新築施設にて実現した。
+
+------------------------------------------------------
+
+3. MSI Showcases Liquid-Cooled AI Infrastructure at COMPUTEX 2026
+   （MSI、COMPUTEX 2026で液冷AIインフラを展示——最大100kW対応ORv3液冷ラック）
+   Source: PR Newswire
+   Date: 2026-06-02
+   URL: https://www.prnewswire.com/news-releases/msi-showcases-liquid-cooled-ai-infrastructure-nvidia-mgx-nvidia-dgx-station-and-dc-mhs-platforms-at-computex-2026-302785182.html
+   Summary: MSI unveiled a comprehensive liquid-cooled AI data center portfolio at Computex 2026,
+            featuring the 21" 44OU ORv3 Liquid-Cooled Rack Architecture supporting up to 100kW
+            deployments with an integrated Liquid-to-Liquid Coolant Distribution Unit (L2L CDU).
+            Configured with 28x 1OU2N Open Compute multi-node systems, it enables higher compute
+            density alongside NVIDIA MGX, DGX Station, and DC-MHS platforms to meet the surging
+            thermal demands of AI workloads.
+   【日本語訳】MSIがComputex 2026でL2L CDU（液液冷媒分配ユニット）内蔵の21インチ44OU ORv3
+   液冷ラックアーキテクチャを発表。最大100kWの展開をサポートし、28台の1OU2Nオープンコンピュー
+   トマルチノードシステムで高密度化を実現。NVIDIA MGX・DGX Station・DC-MHSプラットフォームと
+   組み合わせ、AIワークロードの急増する熱要求に対応する。
+
+------------------------------------------------------
+
+4. Computex 2026: SSSTC Expands Immersion-Cooling SSD Portfolio to Address AI Data Center Thermal Challenges
+   （Computex 2026：SSSTC、AIデータセンターの熱課題に対応する液浸冷却SSDポートフォリオを拡充）
+   Source: PR Newswire (APAC)
+   Date: 2026-06-02
+   URL: https://www.prnewswire.com/apac/news-releases/computex-2026-ssstc-expands-immersion-cooling-ssd-portfolio-to-address-ai-data-center-thermal-challenges-302787885.html
+   Summary: SSSTC (Kioxia subsidiary) expanded its enterprise SSD portfolio for immersion cooling
+            at Computex 2026, including SATA ER3/ER4/ER5 and PCIe U.2 PJ1/EJ5 series designed for
+            non-conductive dielectric fluid environments. The SSDs feature enhanced corrosion
+            resistance, firmware optimized for high-density computing, and capacitor-based PLP
+            to ensure reliable operation in demanding AI data center immersion-cooled deployments.
+   【日本語訳】キオクシア子会社のSSSTPCがComputex 2026で液浸冷却対応エンタープライズSSDポートフォ
+   リオを拡充。SATA ER3/ER4/ER5シリーズとPCIe U.2 PJ1/EJ5シリーズが非導電性誘電体液体環境向け
+   に設計され、特殊材料による耐腐食性強化・高密度計算向けファームウェア・容量型PLPによる信頼性の
+   高いパフォーマンスをAIデータセンターの液浸冷却環境で実現する。
+
+------------------------------------------------------
+
+5. Dow Features Next-Gen AI Thermal Technologies at COMPUTEX Taipei
+   （ダウ、COMPUTEX台北2026でAI世代データセンター向け次世代熱管理技術を展示）
+   Source: Yahoo Finance / Zacks
+   Date: 2026-06-04
+   URL: https://sg.finance.yahoo.com/news/dow-features-next-gen-ai-152600346.html
+   Summary: Dow showcased its DOW Cooling Science portfolio at Computex Taipei 2026, featuring the
+            DOWSIL ICL-1100 single-phase immersion cooling fluid, thermally conductive adhesives,
+            encapsulants, and silicone hot-melt technologies for semiconductor packaging. Dr Myra
+            Zhai, Director of R&D and Technical Service APAC, delivered a keynote titled "Cooling
+            AI-generation data centres" on June 4, sharing perspectives on how advanced cooling
+            materials address rising thermal demands from AI and high-performance computing.
+   【日本語訳】ダウがComputex台北2026でDOW Cooling Scienceポートフォリオを展示。単相液浸冷却向け
+   「DOWSIL ICL-1100」流体・熱伝導接着剤・エンカプシュラント・半導体パッケージング向けシリコン
+   ホットメルト技術を紹介。6月4日にはアジア太平洋R&Dディレクターが「AIデータセンター冷却」を
+   テーマに基調講演を行い、AI・HPCの熱需要増加に対応する先端冷却材料の展望を発信した。
+
+======================================================
+レポート生成日時: 2026-06-04
+対象期間: 2026-06-03 〜 2026-06-04
