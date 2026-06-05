@@ -1,0 +1,125 @@
+データセンター冷却 日次ニュースレポート 2026-06-05
+======================================================
+
+【日本語ニュース】
+
+1. マイクロソフト、今後のデータセンターでクローズドループの水蒸発ゼロ設計を使用
+   媒体: Data Center Café
+   日付: 2026-06-04
+   URL: https://cafe-dc.com/design/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E3%80%81%E4%BB%8A%E5%BE%8C%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A7%E3%82%AF%E3%83%AD%E3%83%BC/
+   概要: Microsoft Build 2026でサティア・ナデラCEOが発表した「Fairwater」AIデータセンターでは、
+         建設時に一度だけ注水する閉ループ液冷システムを採用し、年間水消費量をレストラン1店舗分
+         程度に抑制することに成功した。冷却ループ内の水は蒸発することなく循環し続けるため実質
+         ゼロの水廃棄を実現。2024年8月以降に設計された全マイクロソフトデータセンターへ展開予定。
+
+------------------------------------------------------
+
+2. IIJ・NTTデータ・日比谷総合設備、モジュール型エッジDCで空冷・液冷ハイブリッド冷却の共同検証を開始
+   媒体: クラウド Watch（Impress）
+   日付: 2026-06-02
+   URL: https://cloud.watch.impress.co.jp/docs/news/2113676.html
+   概要: IIJ、NTTデータ、日比谷総合設備の3社が、IIJ製モジュール型エッジデータセンター「DX edge
+         Cool Cube」を活用し都市型AI基盤向け冷却最適化の共同検証を開始。空冷と液冷を組み合わせた
+         ハイブリッド構成で高発熱AIサーバーを都市部の制約環境でも安定稼働させる技術を確立する。
+         冷却データの可視化と設計指針の策定を通じてモジュール型DCの社会実装を推進する。
+
+------------------------------------------------------
+
+3. COMPUTEX 2026：Phanteks「EX5/EX6」、熱源を本体から分離する革新的冷却システムを展示
+   媒体: エルミタージュ秋葉原
+   日付: 2026-06-04
+   URL: https://www.gdm.or.jp/crew/2026/0604/637619
+   概要: Computex 2026（6月2〜5日、台北）にてPhanteksが、コンポーネントの熱源を筐体から物理的
+         に分離して冷却する新コンセプトの冷却システム「EX5」「EX6」シリーズを展示。高密度コン
+         ピューティング環境向けの次世代サーバー・ワークステーション冷却設計として業界の注目を
+         集め、AIデータセンターの熱管理思想にも影響を与えるアプローチとして評価された。
+
+------------------------------------------------------
+
+4. 富士電機、世界初エジェクタ冷却機を2026年6月発売——コンプレッサ不要でデータセンター冷却電力を最大85%削減
+   媒体: 富士電機（公式ニュースリリース）
+   日付: 2026-05-26（発売：2026年6月）
+   URL: https://www.fujielectric.co.jp/about/news/detail/1205838_4830.html
+   概要: 富士電機が、コンプレッサを一切使用せずサーバーの排熱を駆動エネルギーとして再利用する
+         「エジェクタ冷却機」を世界で初めて開発し2026年6月に発売。独自開発の流体圧縮機（エジェ
+         クタ）で冷媒ガスを圧縮・循環させる仕組みで、夏季3ヵ月の冷却消費電力を最大85%削減する。
+         従来チラーとの置き換えによる大幅な省エネで水冷データセンターの普及を後押しする。
+
+======================================================
+
+【English News】
+
+1. Supermicro shows off Vera Rubin NVL72 rack with all-new type of coolant at Computex 2026
+   （スーパーマイクロ、Computex 2026でVera Rubin NVL72に独自誘電性冷却液「SMC PG25-A」を発表）
+   Source: Tom's Hardware
+   Date: 2026-06-02
+   URL: https://www.tomshardware.com/desktops/servers/supermicro-shows-off-vera-rubin-nvl72-rack-with-all-new-type-of-coolant-company-claims-coolant-offers-1-000-times-higher-electrical-impedance-over-standard-cooling
+   Summary: Super Micro Computer unveiled its proprietary dielectric coolant "SMC PG25-A" at
+            Computex 2026, claiming it achieves electrical impedance 1,000 times higher than
+            standard coolants, reducing shutdown risk caused by minor leaks in high-density AI racks.
+            The announcement paired with a fully configured NVIDIA Vera Rubin NVL72 rack and new
+            Data Center Building Block Solutions (DCBBS) blueprints scaling from 5 MW to 1 GW.
+            Independent verification is pending; full deployments align with Vera Rubin's GA in H2 2026.
+   【日本語訳】スーパーマイクロがComputex 2026でNVIDIA Vera Rubin NVL72向け独自誘電性冷却液
+   「SMC PG25-A」を発表。従来冷却液比で絶縁抵抗が1000倍高いと主張し、高密度AIラックでの
+   わずかな液漏れによるサーバー停止リスクを低減。5MWから1GWまでスケール可能なDCBBSブルー
+   プリントも同時発表し、2026年後半のVera Rubin量産にあわせて本格展開を予定する。
+
+------------------------------------------------------
+
+2. Enermax at Computex 2026: Pump-free AIO and Oil-immersed Case Using Daikin DAISAVE
+   （エナーマックス、Computex 2026でダイキンDAISAVEを使ったポンプレス液冷・液浸冷却ケースを披露）
+   Source: TechPowerUp
+   Date: 2026-06-04
+   URL: https://www.techpowerup.com/349660/enermax-at-computex-2026-pump-free-aio-oil-immersed-case-new-psus-and-cooling-products
+   Summary: Enermax showcased two immersion-cooling solutions at Computex 2026 using Daikin's
+            DAISAVE SF-49 dielectric fluid (boiling point 49°C). The pump-free AIO (PFA) cooler
+            leverages vapor pressure to circulate coolant without mechanical pumps, supporting up to
+            900W TDP in a 360mm radiator. The Cirrus Mk II oil-immersion case submerges components
+            in the dielectric fluid, with heat transferred via vapor condensation at heatsinks,
+            demonstrating immersion cooling concepts directly applicable to AI data center design.
+   【日本語訳】エナーマックスがComputex 2026でダイキン製液浸冷却液「DAISAVE SF-49」（沸点49℃）
+   を採用したポンプレスAIOクーラーと油浸冷却ケース「Cirrus Mk II」を展示。ポンプレスAIOは
+   蒸気圧で冷却液を自己循環させる仕組みで最大900W TDPに対応。液浸冷却のコンセプトをAIデータ
+   センターへの応用に向けて実証し、ダイキンのDAISAVEシリーズの産業用途での採用拡大を示した。
+
+------------------------------------------------------
+
+3. AI Pushes Cooling to the Forefront of Data Center Design
+   （AI需要がデータセンター設計の制約要因を「冷却」に転換——冷却がシステム全体の主役へ）
+   Source: Data Center Knowledge
+   Date: 2026-06-04
+   URL: https://www.datacenterknowledge.com/cooling/cooling-becomes-the-system-constraint-as-ai-reshapes-data-center-design
+   Summary: As AI training and inference workloads push rack densities toward the megawatt era,
+            cooling has shifted from a supporting system to the primary design constraint in modern
+            data centers. What was once a facility problem—removing heat from a room—is now a
+            systems engineering problem spanning silicon, fluid dynamics, controls, and workload
+            scheduling. Liquid cooling is now the default for AI-centric deployments, with direct-
+            to-chip (DLC) and immersion cooling driving the next wave of infrastructure innovation.
+   【日本語訳】AIの学習・推論ワークロードがラック電力密度をメガワット域へ押し上げるなか、冷却は
+   データセンター設計において「支援システム」から「主たる制約要因」へと転換した。シリコン・流
+   体・制御・ワークロードスケジューリングを横断するシステム工学の問題となった冷却について、
+   2026年のAI特化型データセンターではダイレクト液冷（DLC）と液浸冷却が事実上の標準となった。
+
+------------------------------------------------------
+
+4. From Wisconsin to Atlanta: Microsoft connects datacenters to build its first AI superfactory
+   （ウィスコンシン州からアトランタへ——マイクロソフト、初のAIスーパーファクトリー「Fairwater」を構築）
+   Source: Microsoft Source (Official Blog)
+   Date: 2026-06-04
+   URL: https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/
+   Summary: Microsoft detailed the architecture of its first AI superfactory "Fairwater," connecting
+            facilities in Mount Pleasant, Wisconsin and Atlanta, Georgia into a single unified AI
+            compute cluster. The two-story, vertically stacked design integrates a closed-loop
+            liquid cooling system filled once at construction, recirculating coolant through 172
+            20-foot fans to achieve near-zero annual water consumption. Microsoft confirmed that
+            multiple identical Fairwater facilities are under construction across the US, with this
+            design becoming the standard for all future AI-focused data centers.
+   【日本語訳】マイクロソフトが初のAIスーパーファクトリー「Fairwater」の詳細を公開。ウィスコンシン
+   州マウントプレザントとジョージア州アトランタの施設を単一のAIコンピュートクラスターとして接続。
+   建設時1度のみ注水する閉ループ液冷システムで172台の20フィートファンにより冷却液を循環させ年間
+   水消費量を実質ゼロに近づける設計で、同方式が今後のAI特化型DC全施設に展開される。
+
+======================================================
+レポート生成日時: 2026-06-05
+対象期間: 2026-06-04 〜 2026-06-05
