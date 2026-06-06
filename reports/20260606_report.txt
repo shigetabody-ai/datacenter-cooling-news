@@ -1,0 +1,124 @@
+データセンター冷却 日次ニュースレポート 2026-06-06
+======================================================
+
+【日本語ニュース】
+
+1. ニデック、「Interop Tokyo 2026」への出展を発表——AIデータセンター向け液冷CDUを展示
+   媒体: ライブドアニュース（ニデック株式会社 プレスリリース）
+   日付: 2026-06-02
+   URL: https://news.livedoor.com/pr_topics/detail/31435339/
+   概要: ニデックが2026年6月10日〜12日に幕張メッセで開催されるInterop Tokyo 2026への出展を
+         発表。1万台の出荷実績を持つIn-Rack CDU（冷却液分配装置）に加え、2MW級の冷却能力を
+         持つIn-Row CDUなど最新液冷ソリューションを展示。GPU等高発熱AIサーバーへの対応と
+         従来の空冷では担えない高密度コンピューティング環境の冷却ニーズに応える製品群を紹介する。
+
+------------------------------------------------------
+
+2. IIJ・NTTデータ・日比谷総合設備、モジュール型エッジDCで空冷・液冷ハイブリッド冷却の共同検証を開始
+   媒体: IIJ ニュースリリース
+   日付: 2026-06-02
+   URL: https://www.iij.ad.jp/news/pressrelease/2026/0602.html
+   概要: IIJ、NTTデータ、日比谷総合設備の3社が、IIJ開発のモジュール型エッジデータセンター
+         「DX edge Cool Cube」を活用した都市型AI基盤向け冷却最適化の共同検証を開始。空冷と
+         液冷を組み合わせたハイブリッド構成で高発熱AIサーバーを都市部の制約環境でも安定稼働
+         させる技術を確立。冷却データの可視化と設計指針の策定を通じてモジュール型DCの社会
+         実装を推進する。
+
+------------------------------------------------------
+
+3. 富士電機、世界初エジェクタ冷却機を2026年6月発売——コンプレッサ不要でDC冷却電力を最大85%削減
+   媒体: 富士電機（公式ニュースリリース）
+   日付: 2026-05-26（発売：2026年6月）
+   URL: https://www.fujielectric.co.jp/about/news/detail/1205838_4830.html
+   概要: 富士電機が世界初となるコンプレッサを使わない「エジェクタ冷却機」を開発し2026年6月に
+         発売。サーバー排熱を独自開発の流体圧縮機（エジェクタ）でエネルギーとして再利用し
+         冷媒を圧縮・循環させる仕組みで、夏季3カ月の冷却消費電力を最大85%削減する。生成AI
+         普及に伴うデータセンターの消費電力急増に対応する省エネ冷却の切り札として注目される。
+
+------------------------------------------------------
+
+4. ダイキン工業、北米データセンター向け冷却市場の体制を強化——液冷・空冷の総合ソリューションへ
+   媒体: クラウド Watch（Impress）
+   日付: 2026-06（詳細日付確認中）
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業が北米のAIデータセンター向け冷却事業を強化。買収した米Chilldyneの負圧式
+         液体冷却システム（CDU）を2026年春から量産開始し、DDCソリューションズの精密空調・
+         液冷技術と組み合わせた包括的ソリューション体制を構築する。AWSやGoogleなど大手クラ
+         ウド事業者への採用拡大を進め、北米DC冷却事業の売上高を2030年度に3000億円以上へ拡大
+         する目標を掲げている。
+
+======================================================
+
+【English News】
+
+1. Google Pledges to Replenish More Water Than Its Data Centers Use by 2030
+   （グーグル、データセンター使用量を超える水を2030年までに自然へ返還すると宣言）
+   Source: 9to5Google
+   Date: 2026-06-03
+   URL: https://9to5google.com/2026/06/03/google-says-it-will-replenish-more-water-than-it-uses-at-data-centers-amid-public-pushback/
+   Summary: Google announced a water stewardship framework committing to replenish 120% of the
+            water its data centers consume by 2030. The company has 165 active projects across 97
+            watersheds expected to restore 19 billion gallons annually — more than double its 2024
+            consumption. Google also pledged $17 million in new watershed projects across 7 US states
+            and committed to choosing air cooling over water-based cooling in at-risk watersheds.
+   【日本語訳】Googleが2030年までにデータセンター使用量の120%を上回る水を流域に補充する水管理
+   フレームワークを発表。97の流域にわたる165プロジェクトで年間190億ガロンを復元する計画は2024年
+   消費量の2倍超。高リスク流域では水冷でなく空冷を選択する指針も明示し、7州の新規流域保全プロ
+   ジェクトに1700万ドルを追加拠出する。
+
+------------------------------------------------------
+
+2. Vera Rubin Hot Water Cooling Reveal Triggers HVAC Share Drop
+   （NVIDIA「Vera Rubin」の温水冷却発表が空調関連株を急落させる）
+   Source: Data Center Dynamics
+   Date: 2026-06-05（Computex 2026 最終日）
+   URL: https://www.datacenterdynamics.com/en/news/vera-rubin-hot-water-cooling-reveal-triggers-hvac-share-drop/
+   Summary: NVIDIA confirmed that Vera Rubin GPUs operate entirely on 45°C hot water cooling,
+            eliminating the need for chillers in AI data centers. Jensen Huang declared the system
+            "cools this supercomputer with hot water," sending HVAC-related stocks including Vertiv
+            and Schneider Electric sharply lower. The disclosure signals that next-generation AI
+            infrastructure will require fundamentally different thermal management, shifting demand
+            away from traditional CRAC/CRAH units toward direct liquid cooling.
+   【日本語訳】NVIDIAがVera Rubin GPUを45℃の温水のみで冷却でき、チラーが不要と確認。ジェンスン
+   ・ファン氏の「温水でスーパーコンピューターを冷やす」発言を受け、VertivやSchneider Electricなど
+   空調関連株が急落した。次世代AIインフラでは従来のCRAC/CRAHユニットに替わり直接液冷が主流に
+   なるとの見方が広まり、データセンター熱管理市場の構造変化を示す出来事として注目されている。
+
+------------------------------------------------------
+
+3. Computex 2026: SSSTC Expands Immersion-Cooling SSD Portfolio to Address AI Data Center Thermal Challenges
+   （Computex 2026：SSSTC、AI DC熱課題への対応に向け液浸冷却対応SSDラインナップを拡充）
+   Source: PR Newswire
+   Date: 2026-06-02（Computex 2026 初日）
+   URL: https://www.prnewswire.com/news-releases/computex-2026-ssstc-expands-immersion-cooling-ssd-portfolio-to-address-ai-data-center-thermal-challenges-302787916.html
+   Summary: Kioxia subsidiary SSSTC (Solid State Storage Technology) unveiled an expanded enterprise
+            SSD lineup engineered for immersion cooling environments at Computex 2026. The portfolio
+            includes SATA ER3/ER4/ER5 and PCIe U.2 PJ1/EJ5 series, with enhanced corrosion
+            resistance through specialized materials and structural design for direct submersion in
+            dielectric fluids. The products target AI data center operators building high-density
+            immersion-cooled rack environments.
+   【日本語訳】キオクシア子会社のSSSTC（Solid State Storage Technology）がComputex 2026で液浸
+   冷却対応のエンタープライズSSDラインを拡充。SATA ERシリーズとPCIe U.2シリーズは誘電体液への
+   直接浸漬を想定した耐腐食材料・構造設計を採用。AIデータセンターの高密度液浸冷却ラック環境で
+   の信頼性向上を実現し、液浸冷却ストレージの商用展開を加速させる。
+
+------------------------------------------------------
+
+4. Data Centre Cooling Market Size to Hit $83.54 Billion by 2035
+   （データセンター冷却市場、2035年に約834億ドル規模へ——年平均成長率15%で拡大）
+   Source: GlobeNewswire（SNS Insider）
+   Date: 2026-06-03
+   URL: https://www.globenewswire.com/news-release/2026/06/03/3305885/0/en/Data-Centre-Cooling-Market-Size-to-Hit-83-54-Billion-by-2035-SNS-Insider.html
+   Summary: SNS Insider's latest market research values the global data centre cooling market at
+            USD 20.73 billion in 2025, projecting growth to USD 83.54 billion by 2035 at a CAGR
+            of 14.99% from 2026 to 2035. AI training and inference workloads driving unprecedented
+            rack heat densities are cited as the primary growth driver, with liquid cooling solutions
+            —direct-to-chip and immersion—capturing an increasingly dominant share of new deployments.
+   【日本語訳】SNS Insiderのリポートによると、世界のデータセンター冷却市場は2025年に207億ドル規模。
+   2035年には834億ドルへと年平均成長率14.99%で拡大する見通し。AIの学習・推論ワークロードが生む
+   前例のないラック熱密度が主な成長要因で、ダイレクト液冷（DLC）と液浸冷却が新規導入の主流と
+   なりつつある状況が浮き彫りになった。
+
+======================================================
+レポート生成日時: 2026-06-06
+対象期間: 2026-06-05 〜 2026-06-06
