@@ -1,0 +1,133 @@
+データセンター冷却 日次ニュースレポート 2026-06-07
+======================================================
+
+【日本語ニュース】
+
+1. LiquidStack、最大10MW対応の業界初スケーラブルCDU「GigaModular」をDatacloud Global Congress 2026で発表
+   媒体: Data Center Café
+   日付: 2026-06-05
+   URL: https://cafe-dc.com/energy/liquidstack-launches-modular-cdu-able-to-offer-10mw-of-cooling-capacity/
+   概要: LiquidStackがフランスのDatacloud Global Congress（6月3〜5日）にて、業界初のスケーラブル
+         モジュール型CDU「GigaModular」を発表。2.5MWから最大10MWまで段階的に拡張可能な単相
+         ダイレクト液冷（DLC）対応で、従来比25%低いCAPEXと省スペース設計を実現する。フロント
+         アクセスのみでサービス可能な構造で設置自由度が高く、AI・HPCデータセンターの急増する
+         熱密度需要に対応する次世代CDU基盤として注目を集めた。
+
+------------------------------------------------------
+
+2. ZutaCore、AIデータセンター向け水不要の直接液冷技術拡大へ1億ドル超のシリーズC調達を完了
+   媒体: Data Center Café
+   日付: 2026-06-03
+   URL: https://cafe-dc.com/energy/zutacore-secures-100m-series-c-funding-to-push-liquid-cooling-tech/
+   概要: イスラエル発の液冷スタートアップZutaCoreが三菱電機・Carrier Ventures・Samsung Ventures
+         などを引受先とする1億ドル超のシリーズCラウンドを完了した。同社の二相式直接チップ冷却
+         技術は水を一切使わずチップ直上で誘電体流体を沸騰させて排熱し、従来比で冷却エネルギーを
+         約半減させる。今回の資金調達により世界75拠点超の事例をベースにグローバル商用展開を加速
+         し、次世代チップアーキテクチャ向けのインパッケージ熱管理技術R&Dも推進する。
+
+------------------------------------------------------
+
+3. シュナイダーエレクトリック、高密度AI DC向け次世代チラー「Uniflair XCA」シリーズを発売——最大2.5MWの空冷・フリークーリング対応
+   媒体: Intelligent Data Centres（Schneider Electric プレスリリース）
+   日付: 2026-06-02
+   URL: https://www.intelligentdatacentres.com/2026/06/02/schneider-electric-introduces-new-uniflair-xca-chiller-line-designed-to-enhance-energy-performance-and-operational-stability-in-high-density-ai-data-centres/
+   概要: シュナイダーエレクトリックが高密度AIデータセンター向けの新チラーラインアップ「Uniflair
+         XCA」を発売。空冷タイプ（XCAC）とフリークーリングタイプ（XCAF）の2シリーズで1,300 kW
+         〜2,500 kWの冷却能力を提供。磁気軸受搭載のオイルフリー遠心圧縮機により従来比最大25%
+         の効率向上と超低騒音を実現し、-20℃〜+52℃の過酷環境でも稼働可能。2026年6月より世界
+         向けに出荷を開始（米国は2027年初頭より）。
+
+------------------------------------------------------
+
+4. CoolIT Systems、15kWコールドプレートをComputex 2026で発表——2030年以降も見据えた単相DLCロードマップを提示
+   媒体: HPCwire
+   日付: 2026-06-01
+   URL: https://www.hpcwire.com/off-the-wire/coolit-systems-demonstrates-15kw-coldplate-extending-single-phase-dlc-roadmap-far-beyond-2030/
+   概要: CoolIT SystemsがComputex 2026にて業界初の15kWコールドプレート設計を発表。同社独自の
+         Split-Flow™マイクロチャネルアーキテクチャを採用し、2025年3月発表の4kW製品比で約4倍
+         の冷却能力を実現。標準の水グリコール冷媒・1.2 L/min/kW流量・45℃温水冷却環境での動作
+         を検証済みで、現行AIチップが要求する冷却能力の10倍以上を提供。単相液冷を2030年代も
+         主流として維持するための技術的裏付けを業界に示した。
+
+======================================================
+
+【English News】
+
+1. LiquidStack Launches GigaModular CDU: Industry's First Scalable Direct-to-Chip Cooling Unit with 10MW Capacity
+   （LiquidStack、業界初の拡張可能モジュール型CDU「GigaModular」を発表——最大10MW対応）
+   Source: Data Center Dynamics
+   Date: 2026-06-05
+   URL: https://www.datacenterdynamics.com/en/news/liquidstack-launches-modular-cdu-able-to-offer-10mw-of-cooling-capacity/
+   Summary: LiquidStack unveiled the GigaModular CDU at Datacloud Global Congress 2026 in France,
+            claiming it is the industry's first scalable modular Coolant Distribution Unit supporting
+            single-phase Direct-to-Chip heat loads from 2.5MW to 10MW. The system features a
+            high-efficiency IE5 pump, dual brazed-plate heat exchangers, and front-only serviceability
+            with no rear or end access required, enabling wall-adjacent installation. GigaModular
+            offers 25% lower capex and floor space than traditional CDUs, and can operate in ambient
+            temperatures up to 50°C, making it suitable for edge AI and hyperscale deployments.
+   【日本語訳】LiquidStackがDatacloud Global Congress 2026（フランス）にてGigaModular CDUを発表。
+   2.5MWから10MWまで段階拡張可能な業界初のモジュール型CDUで、単相DLC熱負荷に対応する。IE5
+   高効率ポンプと二重プレート熱交換器を搭載し、フロントアクセスのみでサービス可能な設計で壁面
+   設置にも対応。従来型CDU比でCAPEXと設置面積を25%削減し、最高50℃環境での稼働を実現する。
+
+------------------------------------------------------
+
+2. Schneider Electric Introduces Uniflair XCA Chiller Line for High-Density AI Data Centers
+   （シュナイダーエレクトリック、高密度AIデータセンター向けUniflair XCAチラーラインを発売）
+   Source: Intelligent Data Centres
+   Date: 2026-06-02
+   URL: https://www.intelligentdatacentres.com/2026/06/02/schneider-electric-introduces-new-uniflair-xca-chiller-line-designed-to-enhance-energy-performance-and-operational-stability-in-high-density-ai-data-centres/
+   Summary: Schneider Electric launched the Uniflair XCA chiller line, offering six new sizes of
+            oil-free centrifugal chillers ranging from 1,300 kW to 2,500 kW designed specifically
+            for high-density AI data centers. The lineup includes air-cooled (XCAC) and free-cooling
+            (XCAF) variants, both integrating oil-free centrifugal compressors with magnetic bearing
+            technology and built-in variable-speed drives. In moderate climates, the XCAF free-cooling
+            model achieves up to 60% energy savings versus mechanical cooling alone. Global shipments
+            began in June 2026, with US availability following in early 2027.
+   【日本語訳】シュナイダーエレクトリックが高密度AIデータセンター向けにUniflair XCAチラーラインを
+   発売。1,300 kW〜2,500 kWの6サイズを展開し、空冷型（XCAC）とフリークーリング型（XCAF）の
+   2シリーズを用意。磁気軸受搭載のオイルフリー遠心圧縮機で従来比最大25%効率向上を実現し、温暖
+   な気候での自由冷却利用時は機械冷却単体比で最大60%の省エネが可能。2026年6月に世界向け出荷開始。
+
+------------------------------------------------------
+
+3. ZutaCore Raises $100M Series C to Scale Waterless Cooling for AI and HPC Data Centers
+   （ZutaCore、AIおよびHPCデータセンター向け水不要液冷技術拡大へシリーズCで1億ドル超を調達）
+   Source: HPCwire
+   Date: 2026-06-02
+   URL: https://www.hpcwire.com/off-the-wire/zutacore-raises-100m-series-c-to-scale-waterless-cooling-for-ai-and-hpc-data-centers/
+   Summary: ZutaCore closed a $100M+ Series C funding round backed by Mitsubishi Electric, Carrier
+            Ventures, and Samsung Ventures to scale its waterless direct-to-chip two-phase liquid
+            cooling technology. The company's approach boils a dielectric fluid directly at the chip,
+            removing heat via phase-change without any water consumption while halving cooling energy
+            versus conventional setups. ZutaCore has achieved over 75 deployments across the Americas,
+            Europe, and Asia, and will use proceeds to accelerate global commercialization and advance
+            in-package thermal management R&D for next-generation chip architectures.
+   【日本語訳】ZutaCoreが三菱電機・Carrier Ventures・Samsung Venturesなどを引受先に1億ドル超の
+   シリーズCラウンドを完了。同社の二相式直接チップ冷却は誘電体流体をチップ直上で沸騰させ、水を
+   一切使わずに排熱し、従来冷却比でエネルギーを約半減させる。世界75拠点超の導入実績をもとに
+   グローバル商用展開を加速し、次世代チップ向けインパッケージ熱管理のR&Dも推進する。
+
+------------------------------------------------------
+
+4. CoolIT Systems Demonstrates 15kW Coldplate, Extending Single-Phase DLC Roadmap Far Beyond 2030
+   （CoolIT Systems、15kWコールドプレートを発表——単相液冷ロードマップを2030年代へ延長）
+   Source: PR Newswire
+   Date: 2026-06-01
+   URL: https://www.prnewswire.com/news-releases/coolit-systems-demonstrates-15kw-coldplate-extending-single-phase-dlc-roadmap-far-beyond-2030-302787344.html
+   Summary: CoolIT Systems unveiled the industry's first 15kW coldplate design at Computex 2026,
+            delivering approximately four times the cooling capacity of its previous 4kW coldplate
+            announced in March 2025. The design uses CoolIT's Split-Flow™ microchannel architecture
+            validated with standard water-glycol coolant at 1.2 L/min/kW in 45°C warm-water cooling
+            environments, providing more than 10x the capacity required for current AI GPUs. The
+            announcement confirms that single-phase Direct Liquid Cooling (DLC) can scale to meet
+            the thermal demands of future ultra-high-density GPU and AI accelerator architectures
+            well beyond the current generation.
+   【日本語訳】CoolIT SystemsがComputex 2026にて業界初の15kWコールドプレート設計を発表。2025年3月
+   発表の4kW製品比で約4倍の冷却能力を実現するSplit-Flow™マイクロチャネル構造で、45℃温水環境
+   でも稼働可能。現行AIチップが必要とする冷却能力の10倍以上を提供し、単相ダイレクト液冷（DLC）
+   が2030年代以降のGPU・AIアクセラレータにも対応可能であることを技術的に示した。
+
+======================================================
+レポート生成日時: 2026-06-07
+対象期間: 2026-06-06 〜 2026-06-07
