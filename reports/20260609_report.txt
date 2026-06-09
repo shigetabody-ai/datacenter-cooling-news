@@ -1,0 +1,109 @@
+データセンター冷却 日次ニュースレポート 2026-06-09
+======================================================
+
+【日本語ニュース】
+
+1. 古河電気工業、データセンター向け水冷モジュールを月内に量産開始
+   媒体: 日刊工業新聞
+   日付: 2026-06-08
+   URL: https://www.nikkan.co.jp/spaces/view/0087398
+   概要: 古河電気工業がデータセンター向け冷却製品の水冷モジュールの量産を2026年6月中に開始すると発表。
+   同社のサーマル・電子部品事業の2026年度売上高は前年度比約3倍を見込む。AIサーバーの
+   高発熱需要を取り込み、冷却ビジネスを急拡大させる戦略が注目を集めている。
+
+------------------------------------------------------
+
+2. 生成AI普及で需要急拡大、「データセンター冷却」で浮上する妙味株6選
+   媒体: 株探ニュース
+   日付: 2026-06-08
+   URL: https://kabutan.jp/news/marketnews/?b=n202606081197
+   概要: 生成AIの普及でGPUサーバーの電力消費・発熱が急増し、データセンター冷却技術への
+   投資が世界規模で加速。空冷の限界を超えるラック密度の増大を背景に、液冷・空調・
+   熱管理の各分野で恩恵を受ける国内関連銘柄6社を選定・分析した特集記事。
+
+------------------------------------------------------
+
+3. AIデータセンターは「水で冷やす」 日本の省エネ技術、電力爆食を抑制
+   媒体: 日本経済新聞
+   日付: 2026-06-08
+   URL: https://www.nikkei.com/article/DGXZQOUC275TX0X20C26A5000000/
+   概要: 生成AI需要拡大でデータセンターの消費電力問題が深刻化するなか、日本企業の
+   水冷・液冷技術が存在感を発揮。ダイキン工業・富士電機・山洋電気など国内大手が
+   省エネ型冷却ソリューションを相次いで市場投入し、国際競争力を高めている。
+
+------------------------------------------------------
+
+4. ダイキン工業、サーバー冷却とチップ液冷を手中に データセンター攻略加速
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-06-08
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業が北米を中心にデータセンター冷却事業を急拡大。スタートアップ買収で
+   獲得したサーバー冷却装置と半導体チップ液冷装置の量産を2026年春から開始し、
+   従来の空調事業に加えて液冷分野での事業ポートフォリオを強化している。
+
+======================================================
+
+【English News】
+
+1. Most New U.S. AI Data Centers Are Being Built in Drought Zones
+   （米国の新設AIデータセンターの大部分が干ばつ地帯に建設中）
+   Source: Tom's Hardware
+   Date: 2026-06-08
+   URL: https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land
+   Summary: Approximately 517 of 809 planned U.S. AI data centers are being constructed in drought-stricken
+   regions according to NOAA data. Water used for cooling accounts for growing environmental concern, and
+   states including California, Michigan, and Iowa are considering mandatory water-use reporting while South
+   Carolina and Kansas may require closed-loop cooling systems to reduce freshwater consumption.
+   【日本語訳】NOAAのデータによると、計画中の809か所の米国AIデータセンターのうち517か所が
+   干ばつ地域に建設予定。冷却用水の大量消費が環境問題として浮上し、カリフォルニア・ミシガン・
+   アイオワ州などで用水報告義務化や、サウスカロライナ・カンザス州では閉ループ冷却システムの
+   義務付けが検討されている。
+
+------------------------------------------------------
+
+2. Fit, Function, and Flexibility: Why Materials Matter in Liquid Cooling
+   （フィット・機能・柔軟性：データセンター液冷における材料選択の重要性）
+   Source: Data Center Knowledge
+   Date: 2026-06-08
+   URL: https://www.datacenterknowledge.com/cooling/fit-function-and-flexibility-why-materials-matter-in-liquid-cooling
+   Summary: As liquid cooling transitions from isolated trials to facility-wide adoption driven by rack densities
+   exceeding air cooling limits, material selection for cooling systems has become critical. Stainless steel
+   components offer consistent quality assurance across multi-site hyperscaler deployments, while direct-to-chip
+   cooling demands high-purity materials to prevent particulate blockages in ultrafine channels.
+   【日本語訳】ラック密度が空冷の限界を超えるにつれ、液冷は試験的導入から施設全体への本格普及へと
+   移行しつつある。ハイパースケーラーの多拠点展開ではステンレス製部品がQA一貫性を確保し、
+   ダイレクト・トゥ・チップ冷却では微細流路の目詰まりを防ぐための高純度素材選定が不可欠と解説。
+
+------------------------------------------------------
+
+3. Microsoft CEO Says New AI Data Centers Use as Little Water as a Restaurant
+   （マイクロソフトCEO：新世代AIデータセンターの年間用水量はレストラン並み）
+   Source: Tom's Hardware
+   Date: 2026-06-08
+   URL: https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny
+   Summary: Microsoft CEO Satya Nadella announced at Microsoft Build 2026 that the company's newest AI data
+   centers rely over 90% on a closed-loop liquid cooling system that is filled once during construction and
+   recirculates the same water indefinitely. Annual water consumption is now comparable to a single restaurant,
+   down from millions of gallons, marking a major breakthrough in sustainable data center cooling.
+   【日本語訳】マイクロソフトのサティア・ナデラCEOがMicrosoft Build 2026で発表。新世代AIデータセンターは
+   建設時に一度充填した水を循環させる閉ループ液冷システムを採用し、冷却の90%以上をカバー。
+   年間用水量は数百万ガロンから大幅削減され、レストラン1店舗並みに抑えた画期的な省水冷却を実現した。
+
+------------------------------------------------------
+
+4. Data Centre Cooling Market Size to Hit $83.54 Billion by 2035
+   （データセンター冷却市場規模、2035年までに835億ドル到達へ）
+   Source: GlobeNewswire (SNS Insider)
+   Date: 2026-06-08
+   URL: https://www.globenewswire.com/news-release/2026/06/03/3305885/0/en/Data-Centre-Cooling-Market-Size-to-Hit-83-54-Billion-by-2035-SNS-Insider.html
+   Summary: A new market research report from SNS Insider projects the global data center cooling market will
+   reach $83.54 billion by 2035, up from current levels. The rapid adoption of AI workloads, high-performance
+   computing, and increasing rack power densities are cited as key growth drivers accelerating the shift from
+   air cooling to advanced liquid and immersion cooling technologies.
+   【日本語訳】SNS Insiderの新市場調査レポートによると、グローバルなデータセンター冷却市場は2035年までに
+   835億ドルに達する見通し。AI workloadの急速な普及・高性能コンピューティング需要・ラック電力密度の
+   増大が成長を牽引し、空冷から液冷・液浸冷却への移行が加速するとしている。
+
+======================================================
+レポート生成日時: 2026-06-09
+対象期間: 2026-06-08 〜 2026-06-09
