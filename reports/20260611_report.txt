@@ -1,0 +1,107 @@
+データセンター冷却 日次ニュースレポート 2026-06-11
+======================================================
+
+【日本語ニュース】
+
+1. 生成AI普及で需要急拡大、「データセンター冷却」で浮上する妙味株6選
+   媒体: 株探ニュース
+   日付: 2026-06-08
+   URL: https://kabutan.jp/news/marketnews/?b=n202606081197
+   概要: 生成AIの急速な普及でGPUサーバーの発熱が深刻な課題となり、データセンターの
+   冷却需要が急拡大。空冷から水冷・液冷へのシフトが加速する中、液冷システムや空調
+   設備を手掛ける国内有力企業6社の事業動向と株式への注目度を詳しく分析している。
+
+------------------------------------------------------
+
+2. AIデータセンターは「水で冷やす」日本の省エネ技術、電力爆食を抑制
+   媒体: 日本経済新聞
+   日付: 2026-05-28
+   URL: https://www.nikkei.com/article/DGXZQOUC275TX0X20C26A5000000/
+   概要: AIサーバーの消費電力急増を受け、データセンターを水冷する液冷技術の導入が日本
+   でも加速。富士電機やダイキン工業などが独自の省エネ冷却システムを開発・投入し、
+   従来の空冷方式に比べてPUEを大幅に改善する次世代インフラの整備が進んでいる。
+
+------------------------------------------------------
+
+3. 世界初！エジェクタ冷却機の発売について（水冷データセンターの劇的な省エネを実現）
+   媒体: 環境ビジネスオンライン
+   日付: 2026-06-01
+   URL: https://www.kankyo-business.jp/news/44e6216e-180c-4ecc-9e56-d0cea9694f23
+   概要: 富士電機がサーバー冷却の消費電力を最大85%削減する「エジェクタ冷却機」を世界
+   で初めて開発し、2026年6月に発売。圧縮機を使わずサーバー排熱をエネルギーとして
+   再利用するエジェクタ方式で、データセンターの大幅な省エネ化を実現する革新製品。
+
+------------------------------------------------------
+
+【English News】
+
+1. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （核融合炉技術にヒントを得た冷却システム、データセンターの持続可能性を向上）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT researchers-founded startup Ferveret has developed Adaptive Phase Cooling
+   (APC), a liquid immersion cooling system inspired by nuclear reactor thermal management.
+   The technology generates finer bubbles on server surfaces that detach more frequently,
+   boosting heat transfer efficiency by 15% over conventional liquid cooling. The company
+   is already piloting with data center operators CleanSpark, FuriosaAI, and Switch.
+   【日本語訳】MITの研究者が創業したスタートアップ「Ferveret」が、原子炉の熱管理技術を
+   応用した液浸冷却システム「Adaptive Phase Cooling（APC）」を開発。サーバー表面で発生
+   する気泡を微細化・高頻度分離させることで熱交換効率を15%向上させ、従来の液冷方式に
+   比べて計算電力効率を改善。大手データセンター事業者との実証実験が進行中。
+
+------------------------------------------------------
+
+2. ASHRAE, NEMA and PNNL Release AI Data Center Energy Performance Framework
+   （ASHRAE・NEMA・PNNLがAIデータセンター向けエネルギー性能フレームワークを公開）
+   Source: HPCwire
+   Date: 2026-06-11
+   URL: https://www.hpcwire.com/off-the-wire/nema-ashrae-and-pnnl-release-ai-data-center-energy-performance-framework/
+   Summary: ASHRAE, NEMA, and Pacific Northwest National Laboratory (PNNL) jointly released
+   a comprehensive AI Data Center Energy Performance Framework on June 11, 2026. The
+   framework consolidates HVAC and thermal management standards, electrical system specs,
+   energy efficiency requirements, and grid-interactive design principles to guide
+   next-generation data center construction and operations.
+   【日本語訳】米国暖冷房空調学会（ASHRAE）、全米電気製造者協会（NEMA）、太平洋岸北西国立
+   研究所（PNNL）が2026年6月11日、AIデータセンター向けエネルギー性能フレームワークを共同
+   公開。HVAC・熱管理・電気設備・省エネ要件・グリッド連携など次世代データセンター設計の
+   包括的ガイドラインで、AI対応高密度施設における冷却・電力課題を統一規格で解決することを
+   目的としている。
+
+------------------------------------------------------
+
+3. Most New U.S. AI Data Centers Are Being Built in Drought Zones
+   （米国の新設AIデータセンターの大部分が干ばつ地域に建設、冷却用水の確保に懸念）
+   Source: Tom's Hardware
+   Date: 2026-06-10
+   URL: https://www.tomshardware.com/tech-industry/most-new-us-ai-data-centers-are-going-up-on-drought-land
+   Summary: Two-thirds of 809 planned U.S. AI data centers are slated for drought-stricken
+   areas, raising serious freshwater concerns for cooling. A single data center can consume
+   over five million gallons of water per day, prompting accelerated adoption of closed-loop
+   direct-to-chip liquid cooling systems that dramatically reduce water consumption. Several
+   U.S. states are now weighing mandatory water-use reporting regulations for data centers.
+   【日本語訳】米国で計画中の809件のAIデータセンターのうち約3分の2が干ばつ地域に建設予定
+   であり、冷却用淡水の確保に深刻な懸念が高まっている。1施設あたり1日500万ガロン超の水を
+   消費する可能性があることから、水消費量を大幅に削減できる閉ループ型直接チップ液冷の導入
+   が急加速。カリフォルニア州など複数の州が義務的な水使用量報告規制の導入を検討中。
+
+------------------------------------------------------
+
+4. Ferveret CEO on Cooling, Power Pains, and 'Waterless' Compute Gains
+   （Ferveret CEOが語る冷却課題、電力問題、そして「無水」コンピューティングの実現）
+   Source: Data Center Knowledge
+   Date: 2026-06-10
+   URL: https://www.datacenterknowledge.com/infrastructure/ferveret-ceo-on-cooling-power-pains-and-waterless-compute-gains
+   Summary: In an exclusive interview, Ferveret's CEO discussed the company's Adaptive Phase
+   Cooling technology and its potential to deliver waterless, energy-efficient cooling for
+   AI data centers. The closed-loop liquid system requires no water replenishment after
+   initial fill, addressing both the energy and environmental sustainability challenges
+   facing hyperscale AI infrastructure.
+   【日本語訳】Ferveret社CEOへの独占インタビューで、同社の「Adaptive Phase Cooling」技術
+   と、AIデータセンター向けの無水・省エネ冷却実現の可能性について詳述。閉ループ型液冷
+   システムは初期充填後の水補給を必要とせず、ハイパースケールAIインフラが抱えるエネルギー
+   消費と環境持続可能性の双方の課題を解決する次世代技術として注目を集めている。
+
+======================================================
+レポート生成日時: 2026-06-11
+対象期間: 2026-06-10 〜 2026-06-11
