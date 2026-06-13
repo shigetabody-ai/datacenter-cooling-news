@@ -1,0 +1,113 @@
+データセンター冷却 日次ニュースレポート 2026-06-13
+======================================================
+
+【日本語ニュース】
+
+1. データセンター建設に足りないのは「発電」ではなく「送電」
+   AI需要で電力消費26％増、Gartner予想
+   媒体: ITmedia AI+
+   日付: 2026-06-12
+   URL: https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/
+   概要: ガートナーが2026年の世界データセンター電力消費が前年比26%増の565TWhに達す
+         ると予測を発表。AIサーバーが全体消費の31%を占める主因となっており、急増する
+         熱負荷への対応として高効率冷却システムや電力インフラの整備が急務と指摘された。
+
+------------------------------------------------------
+
+2. 2026年のデータセンター電力消費は前年から26％増、AIサーバーが主因─米ガートナー
+   媒体: IT Leaders（impress）
+   日付: 2026-06-12
+   URL: https://it.impress.co.jp/articles/-/29450
+   概要: ガートナー最新予測を詳報。AIサーバー増加が消費電力急増の主因であることを分析
+         し、データセンター事業者は電力効率向上と高効率冷却システムへの投資を優先する
+         必要があると指摘。液体冷却技術への移行が業界全体で加速していると解説している。
+
+------------------------------------------------------
+
+3. 2026年のデータセンター電力消費量が26％増──ガートナーが予測
+   媒体: ZDNET Japan（Yahoo!ニュース配信）
+   日付: 2026-06-12
+   URL: https://news.yahoo.co.jp/articles/e57ae75432d2d35404e807d530df50d75da1fbcd
+   概要: ガートナーの予測をビジネスIT視点で解説。電力消費拡大は空調・冷却への追加投資
+         を直接要求し、特に液冷・浸漬冷却などの先進冷却技術の重要性が増すと報告。効率
+         的な冷却システムへの転換とエッジコンピューティング投資が業界課題となっている。
+
+------------------------------------------------------
+
+【English News】
+
+1. Japan Data Center Cooling Market to Reach USD 7.8 Billion by 2035
+   as AI, HPC and Cloud Infrastructure Redefine Thermal
+   （日本のデータセンター冷却市場：AIとHPCが熱管理を再定義し2035年までに78億ドルへ）
+   Source: DataM Intelligence / OpenPR
+   Date: 2026-06-12
+   URL: https://www.openpr.com/news/4548018/japan-data-center-cooling-market-to-reach-usd-7-8-billion-by-2035
+   Summary: DataM Intelligence released a market assessment projecting Japan's data center
+             cooling market will reach USD 7.8 billion by 2035, driven by AI adoption, HPC
+             workload expansion, and cloud infrastructure investment. The shift from air cooling
+             to advanced liquid cooling solutions is accelerating, with immersion and direct-to-
+             chip cooling technologies gaining traction among hyperscale operators in Japan.
+   【日本語訳】DataM Intelligenceが発表した調査報告によると、日本のデータセンター冷却市場は
+               AI・HPC・クラウドインフラ投資の急拡大を背景に2035年までに78億ドルに達する見込み。
+               空冷から液冷・浸漬冷却・チップ直結冷却への移行が加速しており、国内ハイパースケール
+               事業者を中心に先進冷却技術の採用が広がっている。
+
+------------------------------------------------------
+
+2. This Week's Top Five Stories in the Data Centre Industry
+   （今週のデータセンター業界トップ5ニュース ─ 2026年6月13日号）
+   Source: Data Centre Magazine
+   Date: 2026-06-13
+   URL: https://datacentremagazine.com/news/this-weeks-top-five-stories-in-the-data-centre-industry-13-june-2026
+   Summary: Data Centre Magazine's weekly roundup for June 9–13, 2026, highlighting key industry
+             developments including AI infrastructure investments and advanced cooling technology
+             deployments. The week saw continued momentum in liquid cooling adoption by hyperscale
+             operators responding to surging AI workload heat densities, with data center cooling
+             becoming a central differentiator for infrastructure providers globally.
+   【日本語訳】Data Centre Magazineが毎週金曜掲載するトップ5ニュースの6月13日号。
+               2026年6月9〜13日の主要動向として、AIインフラ投資の急拡大と液体冷却技術の
+               ハイパースケール事業者への普及を取り上げた。AIワークロードによる熱密度急増に
+               対応する冷却技術がグローバルなインフラプロバイダーの差別化要因となっている。
+
+------------------------------------------------------
+
+3. Data Center Cooling Market Growth 2026–2033:
+   Global Market Reaches USD 16.37 Billion in 2025,
+   Projected to Reach USD 58.80 Billion by 2035
+   （データセンター冷却市場の成長：2025年に164億ドル達成、2035年には588億ドルへ）
+   Source: DataM Intelligence
+   Date: 2026-06-12
+   URL: https://www.datamintelligence.com/research-report/data-center-cooling-market
+   Summary: DataM Intelligence released a comprehensive industry assessment confirming a
+             structural shift in data center thermal management. The global cooling market
+             reached USD 16.37 billion in 2025 and is projected to reach USD 58.80 billion
+             by 2035 at a CAGR of 13.64%. Cooling has become a direct determinant of compute
+             capacity, AI infrastructure readiness, rack density, energy efficiency, and site-
+             level sustainability for hyperscale and colocation providers worldwide.
+   【日本語訳】DataM Intelligenceが公開した包括的な市場アセスメントでは、データセンターの
+               熱管理における構造的変革を確認。グローバル冷却市場は2025年に164億ドルに達し、
+               2035年には588億ドルへ拡大する見込み（CAGR 13.64%）。冷却はコンピュートキャパ
+               シティ・AIインフラ適応性・ラック密度・エネルギー効率・サイト持続可能性を直接
+               左右する要素として、世界のハイパースケール・コロケーション事業者に認識されている。
+
+------------------------------------------------------
+
+4. Data Center Liquid Cooling Fluids Market Size 2026:
+   Industry Forecast, Key Players, Growth Opportunities and Strategic Insights
+   （データセンター液体冷却流体市場2026年：業界予測・主要プレイヤー・成長機会と戦略的洞察）
+   Source: Barchart.com
+   Date: 2026-06-12
+   URL: https://www.barchart.com/story/news/1182893/data-center-liquid-cooling-fluids-market-size-2026-industry-forecast-key-players-growth-opportunities-and-strategic-insights
+   Summary: Market analysis projects the data center liquid cooling fluids market will grow
+             from USD 0.28 billion in 2025 to USD 2.01 billion by 2032 at a CAGR of 32.7%.
+             The surge is driven by rising adoption of direct-to-chip and immersion cooling
+             systems across AI data centers, with demand for advanced dielectric fluids and
+             coolants expanding rapidly in response to increasingly dense GPU workloads.
+   【日本語訳】データセンター液体冷却流体市場は2025年の2.8億ドルから2032年には20.1億ドルへ
+               CAGR 32.7%で拡大する見込み。AIデータセンターでのチップ直結冷却・浸漬冷却の
+               採用拡大に伴い、誘電流体や高性能クーラントへの需要が急増。GPU集積度の上昇に
+               対応するため、先進冷却流体の技術革新が業界全体で加速している。
+
+======================================================
+レポート生成日時: 2026-06-13
+対象期間: 2026-06-12 〜 2026-06-13
