@@ -1,0 +1,123 @@
+データセンター冷却 日次ニュースレポート 2026-06-14
+======================================================
+
+【日本語ニュース】
+
+1. 富士電機、データセンターの冷却電力85%削減 世界初「エジェクタ冷却機」を発売
+   媒体: 富士電機プレスリリース / 日本経済新聞
+   日付: 2026-05-27
+   URL: https://www.fujielectric.co.jp/about/news/detail/1205838_4830.html
+   概要: 富士電機がデータセンターのサーバー冷却消費電力を最大85%削減する世界初の「エジェクタ
+         冷却機」を開発し、2026年6月下旬より発売。圧縮機を使わずサーバー排熱をエネルギーとして
+         再利用する独自技術を採用し、液冷式データセンターの劇的な省エネを実現する。
+
+------------------------------------------------------
+
+2. 山洋電気、大流量・長寿命の液冷システム用ポンプ「San Ace Pump」を発売
+   媒体: 日経会社情報（適時開示）
+   日付: 2026-06-02
+   URL: https://www.nikkei.com/nkd/disclosure/tdnr/20260602558950/
+   概要: 山洋電気がデータセンター・AI機器向け液冷システム用ポンプを新発売。最大流量160L/min・
+         最大揚程32m(H₂O)・期待寿命70,000時間（約8年）を実現し、月販1,000台を目標に展開。
+         冷却液循環効率の向上でデータセンターの省エネに貢献するとしている。
+
+------------------------------------------------------
+
+3. 生成AI普及で需要急拡大、「データセンター冷却」で浮上する妙味株6選
+   媒体: 株探ニュース
+   日付: 2026-06-08
+   URL: https://kabutan.jp/news/marketnews/?b=n202606081197
+   概要: 生成AI普及に伴いGPUサーバーの発熱問題が深刻化し、データセンター冷却需要が急拡大。
+         液冷・浸漬冷却など先進技術を手掛ける国内外企業6社を注目銘柄として特集。冷却システムが
+         AIインフラ整備の重要要素として投資家の関心を集めている。
+
+------------------------------------------------------
+
+【English News】
+
+1. 5 Notable Data Center Links, June 13 2026
+   （2026年6月13日 注目のデータセンターリンク5選）
+   Source: Data Center Richness (Substack)
+   Date: 2026-06-13
+   URL: https://datacenterrichness.substack.com/p/5-notable-data-center-links-june
+   Summary: Weekly curated digest of key data center industry news from June 13, 2026.
+             Covers the latest developments in cooling infrastructure, AI workload density
+             challenges, power efficiency strategies, and policy changes affecting global
+             data center operators and infrastructure investors worldwide.
+   【日本語訳】データセンター専門ニュースレター「Data Center Richness」が2026年6月13日に発行した
+               週次注目リンク集。冷却インフラの最新動向、AIワークロード高密度化の課題、電力効率化
+               戦略、および世界のデータセンター事業者・投資家に影響する政策変更を網羅している。
+
+------------------------------------------------------
+
+2. AI Factory Cooling vs Cloud Data Centers: Why Liquid Cooling Is Essential
+   for High-Density AI Workloads
+   （AIファクトリー冷却 vs クラウドデータセンター：高密度AIワークロードに液冷が不可欠な理由）
+   Source: Schneider Electric Blog
+   Date: 2026-06-12
+   URL: https://blog.se.com/datacenter/2026/06/12/ai-factory-cooling-vs-cloud-data-centers-why-liquid-cooling-is-essential-for-high-density-ai-workloads/
+   Summary: Schneider Electric explains that AI factories have become primarily liquid-cooled
+             as rack densities now exceed 75 kW per IT rack. The article contrasts thermal
+             management requirements of AI factories against traditional cloud data centers,
+             concluding that liquid cooling is no longer optional but a structural necessity
+             for high-density AI infrastructure deployments globally.
+   【日本語訳】シュナイダーエレクトリックが、AIファクトリー（高密度AI専用データセンター）と従来型
+               クラウドデータセンターの熱管理要件の違いを解説。ITラックあたり75kWを超える現在の電力
+               密度では液冷が必須と指摘し、高密度AIインフラにおける液冷導入の構造的必然性を論じている。
+
+------------------------------------------------------
+
+3. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （原子力にヒントを得た冷却システム、データセンターの持続可能性向上に貢献）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT-founded startup Ferveret developed a liquid immersion cooling system that
+             submerges servers in a specialized non-conductive liquid. Unlike conventional
+             immersion cooling, it generates smaller bubbles at the chip surface that detach
+             more frequently, dramatically accelerating heat transfer while significantly
+             reducing both energy consumption and water usage required to cool AI chips.
+   【日本語訳】MITの研究者が創業したスタートアップ「Ferveret」が、サーバーを専用の非導電性液体に
+               沈める液浸冷却システムを開発。チップ表面に生成される小さな気泡が高頻度で離脱する独自
+               技術により熱移動を大幅に加速し、AI用チップの冷却に必要なエネルギー消費量と水使用量を
+               従来比で大幅に削減できると発表した。
+
+------------------------------------------------------
+
+4. Gov. Greg Abbott Calls for Texas Energy Regulators to Rein in Data Centers
+   （テキサス州アボット知事、節水型冷却義務化など規制強化をエネルギー当局に要請）
+   Source: Houston Public Media
+   Date: 2026-06-10
+   URL: https://www.houstonpublicmedia.org/articles/news/energy-environment/2026/06/10/554138/data-center-texas-energy-grid-electricity-regulation-greg-abbott/
+   Summary: Texas Governor Greg Abbott directed state regulators PUC and ERCOT to prevent
+             data center infrastructure costs from being shifted to residents. Abbott called
+             for mandatory water-efficient closed-loop cooling systems, electricity and water
+             usage reporting requirements, and repeal of tax incentives for data centers,
+             with a joint memorandum due by July 17, 2026.
+   【日本語訳】テキサス州のグレッグ・アボット知事が、州エネルギー規制当局（PUCおよびERCOT）に
+               対し、データセンターのインフラコストを一般住民に転嫁しないよう指示。閉ループ式などの
+               節水型冷却システムの義務化、電力・水使用量の報告義務化、データセンターへの税制優遇廃止
+               を求め、7月17日までに対応案を提出するよう求めた。
+
+------------------------------------------------------
+
+5. Data Center Liquid Cooling Market to Reach US$29.2 Bn by 2033 as AI and
+   High-Density Computing Accelerate Adoption
+   （データセンター液体冷却市場、AI・高密度コンピューティングの普及加速で2033年に292億ドルへ）
+   Source: Persistence Market Research / PR Newswire
+   Date: 2026-06-09
+   URL: https://www.prnewswire.com/news-releases/data-center-liquid-cooling-market-to-reach-us29-2-bn-by-2033-as-ai-and-high-density-computing-accelerate-adoption--persistence-market-research-302795410.html
+   Summary: Persistence Market Research released a comprehensive market report projecting
+             the global data center liquid cooling market will grow from approximately
+             US$5.7 billion in 2026 to US$29.2 billion by 2033, a CAGR of 26.4%. Growth
+             is driven by surging AI and HPC workloads generating heat loads that far exceed
+             traditional air cooling capacity, pushing adoption of direct-to-chip, rear-door
+             heat exchanger, and immersion cooling technologies.
+   【日本語訳】Persistence Market Researchが発表した市場レポートによると、世界のデータセンター液体
+               冷却市場は2026年の約57億ドルから2033年には292億ドルへ、CAGR 26.4%で拡大する見込み。
+               AI・HPCワークロードによる熱負荷の急増が空冷の限界を超え、チップ直結冷却・背面熱交換器・
+               浸漬冷却の採用拡大が市場成長を牽引する主要因となっている。
+
+======================================================
+レポート生成日時: 2026-06-14
+対象期間: 2026-06-13 〜 2026-06-14
