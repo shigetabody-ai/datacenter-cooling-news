@@ -1,0 +1,135 @@
+データセンター冷却 日次ニュースレポート 2026-06-15
+======================================================
+
+【日本語ニュース】
+
+1. エヌビディア、GPU供給網を徹底分析 大型化で日本勢に特需 次の注目は冷却・通信
+   媒体: 日経ビジネス電子版
+   日付: 2026-06-15
+   URL: https://business.nikkei.com/atcl/NBD/19/special/02529/
+   概要: NVIDIAの次世代GPU「Rubin」の大型化・高消費電力化に伴い、液冷インフラや電源設備の
+         整備で日本企業への特需が拡大中。冷却システムメーカー・空調設備企業を含むデータセンター
+         周辺産業への波及効果が高まっており、次の投資テーマとして「冷却」と「通信」が注目される。
+
+------------------------------------------------------
+
+2. KAYTUS、Interop Tokyo 2026にてプレハブ型液冷AIDCソリューションを展示
+   媒体: 共同通信PRワイヤー
+   日付: 2026-06-11
+   URL: https://kyodonewsprwire.jp/release/202606110704
+   概要: 中国系大手サーバーメーカーKAYTUSが幕張メッセで開催のInterop Tokyo 2026（6/10〜12）に
+         出展し、プレハブ型データセンターと液冷システムを統合したAIデータセンターソリューションを
+         展示。高密度AIサーバー向け液冷インフラの日本市場への本格展開を示した。
+
+------------------------------------------------------
+
+3. Interop Tokyo 2026のBest of Show Award受賞製品が決定
+   媒体: @IT（アイティメディア）
+   日付: 2026-06-10
+   URL: https://atmarkit.itmedia.co.jp/ait/articles/2606/10/news111.html
+   概要: 6月10〜12日開催のInterop Tokyo 2026でBest of Show Awardの受賞製品が決定。液冷・
+         空冷ハイブリッド対応データセンターインフラ製品が複数ノミネートされ、AIサーバーの高発熱
+         への対応力が主要審査項目となるなど、冷却技術の重要性が業界で一層高まっている。
+
+------------------------------------------------------
+
+4. 東京都内でも外気でサーバー冷却、NTTデータ最新データセンターの省エネ術
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-06-10
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/01669/061000002/
+   概要: NTTデータが東京都心の最新データセンターで外気を活用したサーバー冷却システムを採用し、
+         空調電力を大幅削減する省エネ手法を公開。夏季でも外気と組み合わせた冷却制御で効率を高め、
+         AI時代の電力需要増大に対応するデータセンター運用の先進事例として注目されている。
+
+------------------------------------------------------
+
+【English News】
+
+1. Data Center Liquid Cooling Market to Reach USD 29.5 Billion by 2033 as AI
+   Revolution Reshapes Global Infrastructure
+   （データセンター液体冷却市場、AIが世界インフラを再編し2033年に295億ドルへ）
+   Source: Grand View Research / PR Newswire
+   Date: 2026-06-09
+   URL: https://www.prnewswire.com/news-releases/data-center-liquid-cooling-market-to-reach-usd-29-5-billion-by-2033-as-ai-revolution-reshapes-global-infrastructure-302794905.html
+   Summary: Grand View Research's new market report projects the global data center liquid
+             cooling market will grow from USD 8.2 billion in 2026 to USD 29.5 billion by
+             2033, at a CAGR of 20.1%. AI-driven rack densities exceeding 100 kW are making
+             air cooling obsolete, accelerating adoption of direct-to-chip cooling, rear-door
+             heat exchangers, and immersion cooling solutions globally.
+   【日本語訳】Grand View Researchのリポートによると、世界のデータセンター液体冷却市場は2026年の
+               約82億ドルから2033年には295億ドルへ、年平均20.1%で拡大する見通し。AIによる100kW超の
+               ラック電力密度が空冷の限界を超え、チップ直結冷却・背面熱交換器・液浸冷却の導入が世界
+               規模で加速している。
+
+------------------------------------------------------
+
+2. Intel and Shell Advance Immersion Cooling in Xeon-Based Data Centers
+   （IntelとShell、Xeonデータセンター向け液浸冷却を推進——初の認定ソリューションを発表）
+   Source: Intel Newsroom
+   Date: 2026-06-02
+   URL: https://newsroom.intel.com/data-center/intel-shell-advance-immersion-cooling-xeon-based-data-centers
+   Summary: Intel and Shell announced the first certified immersion cooling solution for
+             4th and 5th Gen Intel Xeon processors, validated with Supermicro and Submer
+             hardware. The solution reduces electricity demand by up to 49%, CO2 emissions
+             by up to 30%, and water consumption by up to 99% compared to traditional air
+             cooling, marking a major step toward sustainable AI data center infrastructure.
+   【日本語訳】IntelとShellが第4・第5世代Intel Xeonプロセッサー向けに業界初の液浸冷却認定ソリュー
+               ションを発表。Supermicro・Submerのハードウェアで検証済み。従来の空冷比で電力消費最大
+               49%削減、CO2排出最大30%削減、水使用量最大99%削減を実現し、持続可能なAIデータセンター
+               インフラへの大きな前進となる。
+
+------------------------------------------------------
+
+3. Supermicro Announces Support for Upcoming NVIDIA Vera Rubin NVL72, HGX Rubin
+   NVL8 and Expanded Rack-Scale Manufacturing Capacity for Liquid-Cooled AI Solutions
+   （Supermicro、NVIDIA Vera Rubin NVL72対応と液冷AIソリューションのラックスケール製造拡張を発表）
+   Source: Super Micro Computer, Inc. (Investor Relations)
+   Date: 2026-06-02
+   URL: https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Support-for-Upcoming-NVIDIA-Vera-Rubin-NVL72-HGX-Rubin-NVL8-and-Expanded-Rack-Scale-Manufacturing-Capacity-for-Liquid-Cooled-AI-Solutions/default.aspx
+   Summary: Supermicro announced full support for NVIDIA Vera Rubin NVL72 and HGX Rubin
+             NVL8 platforms with 100% liquid-cooled rack-scale solutions at Computex 2026.
+             The company also unveiled the SMC PG25-A dielectric coolant achieving 1,000x
+             higher electrical impedance than conventional fluids, enabling safer and more
+             reliable full-rack immersion deployments for next-generation AI infrastructure.
+   【日本語訳】SupermicroがComputex 2026にてNVIDIA Vera Rubin NVL72・HGX Rubin NVL8プラットフォーム
+               向けの100%液冷ラックスケールソリューション対応を発表。同時に、従来の冷却液比1,000倍の
+               電気絶縁性を持つ新誘電体冷却液「SMC PG25-A」を発表。次世代AIインフラ向けの全ラック液浸
+               冷却をより安全・安定的に実現する。
+
+------------------------------------------------------
+
+4. New Data Center Developments: June 2026
+   （2026年6月 データセンター新規開発動向）
+   Source: Data Center Knowledge
+   Date: 2026-06-15
+   URL: https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-june-2026
+   Summary: Data Center Knowledge's June 2026 roundup highlights surging worldwide data
+             center construction driven by AI capacity demands, with cooling infrastructure
+             emerging as the primary deployment bottleneck. Operators are now specifying
+             liquid-cooled systems at the design stage rather than retrofitting, and facility
+             timelines are compressing as hyperscalers race to deploy AI-optimized campuses.
+   【日本語訳】Data Center KnowledgeによるJune 2026の世界データセンター開発動向まとめ。AIによる
+               容量需要の急増で世界各地の建設が加速する一方、液冷インフラが導入の主要ボトルネックに。
+               後からの改修ではなく設計段階から液冷を仕様化する事業者が増え、ハイパースケーラーが
+               AI最適化キャンパスの競争的展開を加速させている。
+
+------------------------------------------------------
+
+5. AI Pushes Cooling to the Forefront of Data Center Design
+   （AIが冷却をデータセンター設計の最前線へ押し上げる）
+   Source: Data Center Knowledge
+   Date: 2026-06-14
+   URL: https://www.datacenterknowledge.com/cooling/cooling-becomes-the-system-constraint-as-ai-reshapes-data-center-design
+   Summary: As AI workloads reshape data center infrastructure, cooling has supplanted power
+             as the primary system constraint. Rack densities of 100–150 kW are now baseline
+             for AI deployments, forcing a shift to direct-to-chip and immersion cooling.
+             Industry analysts project direct-to-chip adoption to double within 18 months as
+             NVIDIA Rubin-generation GPUs enter widespread production deployments.
+   【日本語訳】AIワークロードがデータセンターインフラを再定義するなか、冷却が電力に代わって主要な
+               システム制約となりつつある。AIデプロイでは100〜150kW/ラックが標準となり、チップ直結
+               冷却・液浸冷却へのシフトが加速。NVIDIA Rubin世代のGPUが本格量産される今後18ヶ月で
+               Direct-to-Chip冷却の採用が2倍に拡大すると業界アナリストは予測している。
+
+======================================================
+レポート生成日時: 2026-06-15
+対象期間: 2026-06-14 〜 2026-06-15
