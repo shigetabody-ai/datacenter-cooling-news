@@ -1,0 +1,144 @@
+データセンター冷却 日次ニュースレポート 2026-06-16
+======================================================
+
+【日本語ニュース】
+
+1. AI時代を支える「水冷」が主役！ Data Center Summitエリアで見えた次世代インフラの最新動向
+   媒体: クラウド Watch（Impress Corporation）
+   日付: 2026-06-16
+   URL: https://cloud.watch.impress.co.jp/docs/event/2117452.html
+   概要: Interop Tokyo 2026（6月10〜12日）のData Center Summitエリアの展示レポート。AI
+         サーバーの高発熱化に対応するため液冷技術が主役に躍り出た。Dell×Schneiderの共同
+         展示をはじめ各社の液冷CDUソリューションが実機展示され、国内DC冷却市場の転換点を示した。
+
+------------------------------------------------------
+
+2. HPE、1.6Tbpsイーサネット搭載の液冷スイッチなどを展示し旧Juniperとの統合をアピール
+   媒体: クラウド Watch（Impress Corporation）
+   日付: 2026-06-15
+   URL: https://cloud.watch.impress.co.jp/docs/event/2117252.html
+   概要: Interop Tokyo 2026でHPEが液冷対応の1.6Tbpsイーサネットスイッチを展示。Juniper
+         Networks統合後の統合ポートフォリオをアピールし、AIインフラにおける高速・低発熱
+         ネットワーク機器の重要性を訴求した。
+
+------------------------------------------------------
+
+3. レノボが第6世代の水冷サーバーを展示、純水採用で最大40％省電力
+   媒体: クラウド Watch（Impress Corporation）
+   日付: 2026-06-15
+   URL: https://cloud.watch.impress.co.jp/docs/event/2117123.html
+   概要: LenovoがInterop Tokyo 2026にてThinkSystem SC750 V4（Neptune第6世代）を展示。
+         純水を採用した直接液冷技術により最大40%の省電力を実現。チラー不要化も可能で、
+         AI時代のデータセンター空調コスト削減に直結する次世代冷却技術として注目を集めた。
+
+------------------------------------------------------
+
+4. AIインフラ、1.6Tbpsスイッチ、水冷システム――過去最大級のShowNetの全貌を徹底紹介
+   媒体: クラウド Watch（Impress Corporation）
+   日付: 2026-06-12
+   URL: https://cloud.watch.impress.co.jp/docs/event/2116608.html
+   概要: Interop Tokyo 2026の今年のShowNetテーマは「水冷インフラの実装可能性」。過去最大
+         規模となったShowNetで水冷システムの実動構成を公開し、液冷ネットワークインフラの
+         実用化に向けた技術的可能性を具体的に示した。
+
+------------------------------------------------------
+
+5. ニデック、サーバー向け水冷装置の売上高1000億円規模に 31年3月期
+   媒体: 日本経済新聞
+   日付: 2026-06-11
+   URL: https://www.nikkei.com/article/DGXZQOUF1137P0R10C26A6000000/
+   概要: ニデックがAIサーバー向け水冷CDU（冷却液分配装置）事業の売上高を2031年3月期に現状
+         の約5倍となる1000億円規模に拡大する計画を発表。Interop Tokyo 2026会場での取材で
+         田中常務が生産能力増強方針を言明し、液冷市場での存在感強化を打ち出した。
+
+------------------------------------------------------
+
+【English News】
+
+1. Nidec Debuts Highest Capacity In-Rack Cooling Prototype
+   （ニデック、最大300kW——過去最高冷却能力のラック内冷却ユニット試作品を初公開）
+   Source: Electronics Weekly
+   Date: 2026-06-12
+   URL: https://www.electronicsweekly.com/news/nidec-debuts-highest-capacity-in-rack-cooling-prototype-2026-06/
+   Summary: Nidec unveiled a prototype in-rack Coolant Distribution Unit (CDU) with up to
+            300kW cooling capacity at Interop Tokyo 2026, the company's highest capacity
+            in-rack solution to date. The OCP ORV3-compliant unit monitors temperature,
+            pressure, flow rate, and liquid levels in real time, with mass production
+            targeted for Q1 2027.
+   【日本語訳】ニデックがInterop Tokyo 2026にて最大300kWの冷却能力を持つラック内CDUの試作品を
+               初公開。同社史上最大容量のラック内冷却ソリューションで、OCP ORV3規格に準拠。温度・
+               圧力・流量・液面をリアルタイム監視する機能を搭載し、量産開始は2027年第1四半期を予定。
+
+------------------------------------------------------
+
+2. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （原子力着想の冷却システムでデータセンターを持続可能に——MITスタートアップFerveret）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT-founded startup Ferveret developed a nuclear-inspired liquid cooling system
+            that submerges servers in a specialized fluid, generating smaller and more frequent
+            bubbles at chip surfaces to dramatically accelerate heat transfer. The technology
+            significantly reduces both energy consumption and water usage in AI data centers
+            compared to conventional air and standard liquid cooling methods.
+   【日本語訳】MITが設立に関与したスタートアップFerveretが、原子炉技術にヒントを得た液体冷却
+               システムを開発。サーバーを専用液体に沈め、チップ表面に微小な気泡を高頻度で発生させ
+               ることで熱伝達を大幅に加速。AIデータセンターの冷却に要するエネルギーと水使用量を
+               従来の空冷・液冷方式に比べて大きく削減できる。
+
+------------------------------------------------------
+
+3. Data Center Liquid Cooling Market to Reach US$29.2 Bn by 2033 as AI and
+   High-Density Computing Accelerate Adoption
+   （データセンター液体冷却市場、AIと高密度計算の普及加速で2033年に292億ドル超へ）
+   Source: Persistence Market Research / PR Newswire
+   Date: 2026-06-09
+   URL: https://www.prnewswire.com/news-releases/data-center-liquid-cooling-market-to-reach-us29-2-bn-by-2033-as-ai-and-high-density-computing-accelerate-adoption--persistence-market-research-302795410.html
+   Summary: Persistence Market Research projects the global data center liquid cooling market
+            will grow from approximately US$5.7 billion in 2026 to US$29.2 billion by 2033
+            at a CAGR of 26.4%. AI acceleration hardware demands, immersion cooling deployments,
+            and direct-to-chip solutions are the three primary growth drivers, with North
+            America holding a 33% market share.
+   【日本語訳】Persistence Market Researchの新報告書によると、世界のデータセンター液体冷却市場は
+               2026年の約57億ドルから2033年には292億ドルへ、年率26.4%で拡大する見込み。AI加速ハード
+               ウェア向け需要、液浸冷却の展開、チップ直結冷却が3大成長ドライバー。北米が市場シェア
+               33%でリードを維持している。
+
+------------------------------------------------------
+
+4. Japan Data Center Cooling Market to Reach USD 7.8 Billion by 2035 as AI, HPC and
+   Cloud Infrastructure Redefine Thermal Management
+   （日本のデータセンター冷却市場、AI・HPC・クラウドによる熱管理の再定義で2035年に78億ドルへ）
+   Source: OpenPR / Research Reports World
+   Date: 2026-06-16
+   URL: https://www.openpr.com/news/4548018/japan-data-center-cooling-market-to-reach-usd-7-8-billion-by-2035
+   Summary: A new market research report projects Japan's data center cooling market will
+            grow from USD 2.8 billion in 2025 to USD 7.8 billion by 2035, at a CAGR of
+            approximately 11%. Growth is driven by hyperscale AI data center investments in
+            Tokyo and Osaka, expansion into Hokkaido and Kyushu, and rapid adoption of liquid
+            cooling and modular cooling architectures to meet AI workload demands.
+   【日本語訳】新市場調査リポートによると、日本のデータセンター冷却市場は2025年の28億ドルから
+               2035年には78億ドルへ年率約11%で成長する見通し。東京・大阪のハイパースケールAIデータ
+               センター投資と、北海道・九州など新興立地での開発拡大、液冷・モジュール型冷却の急速な
+               普及がドライバー。
+
+------------------------------------------------------
+
+5. Nidec Develops New Product "STC 1.0" Prototype to Enhance Data Center Design Flexibility
+   （ニデック、スタック型液冷ユニット「STC 1.0」試作品を開発——データセンター設計柔軟性を向上）
+   Source: Nidec Corporation / Mynewsdesk
+   Date: 2026-06-11
+   URL: https://www.mynewsdesk.com/us/nidec/pressreleases/nidec-develops-new-product-stc-1-dot-0-prototype-to-enhance-data-center-design-flexibility-3451658
+   Summary: Nidec unveiled the "STC 1.0" prototype at Interop Tokyo 2026, a stackable liquid
+            cooling unit that can house up to five in-rack CDUs in a single system, enabling
+            flexible cooling capacity selection from the start of deployment. The design
+            addresses the challenge of rising server heat density in the generative AI era
+            while enabling scalable expansion as future workloads grow.
+   【日本語訳】ニデックがInterop Tokyo 2026にてスタック型液冷ユニット「STC 1.0」の試作品を発表。
+               最大5台のラック内CDUを1システムに格納でき、初期導入時から柔軟な冷却容量を選択可能。
+               生成AIによるサーバー発熱密度の年々上昇という課題に対応しつつ、将来の需要増にも
+               スケーラブルに拡張できる設計思想を採用した。
+
+======================================================
+レポート生成日時: 2026-06-16
+対象期間: 2026-06-15 〜 2026-06-16
