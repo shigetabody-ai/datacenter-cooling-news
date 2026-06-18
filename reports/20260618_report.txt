@@ -1,0 +1,161 @@
+データセンター冷却 日次ニュースレポート 2026-06-18
+======================================================
+
+【日本語ニュース】
+
+1. デル・テクノロジーズ、ゲットワークスの水冷コンテナデータセンターに水冷GPUサーバー
+   「Dell PowerEdge XE9680L」を導入
+   媒体: クラウド Watch（Impress Corporation）
+   日付: 2026-06-17
+   URL: https://cloud.watch.impress.co.jp/docs/news/2117852.html
+   概要: デル・テクノロジーズは6月17日、コンテナ型データセンター運営のゲットワークスが
+         水冷コンテナデータセンターに水冷GPUサーバー「Dell PowerEdge XE9680L」を導入した
+         と発表。NVIDIA製GPU 8基を搭載可能な同サーバーは水冷方式を採用し、空冷では対応
+         困難なGPUの大量発熱課題を解決。生成AIの急速な普及を背景に国内でも水冷DCの採用
+         事例が増加している。
+
+------------------------------------------------------
+
+2. 2026年以降開業のデータセンターを独自調査、受電容量や液冷方式を一挙公開
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-06-17
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/03615/060300003/?ST=singleview
+   概要: 日経クロステックがデータセンター事業者約80社に対し2026〜2030年の新設・増設計画を
+         調査した結果、24社38件の開業予定が判明した。地方分散型立地とともに液冷対応が
+         新たなトレンドとして浮上しており、各施設の受電容量・液冷方式の詳細一覧を公開。
+         AIインフラ需要の急増が国内DC市場を大きく変えつつある。
+
+------------------------------------------------------
+
+3. 液浸冷却装置「ICEraQ Nano Japan Edition」をInterop Tokyo 2026に出展
+   媒体: INTERNET Watch（Impress Corporation）
+   日付: 2026-06-12
+   URL: https://internet.watch.impress.co.jp/docs/event/2117218.html
+   概要: Interop Tokyo 2026（6月10〜12日）で、ENEOSの液浸冷却液「ENEOS IX」を使用した
+         液浸冷却装置「ICEraQ Nano Japan Edition」が展示された。サーバー機器をそのまま
+         冷却液に浸して冷やす液浸方式により、PUE 1.03〜1.04の高い電力効率を実現。
+         液浸冷却の国内普及に向けた具体的な製品展開として注目を集めた。
+
+------------------------------------------------------
+
+4. 2026年の世界データセンター電力消費が26%増の565TWhに達すると予測 ─ ガートナー
+   媒体: AI Watch（Impress Corporation）
+   日付: 2026-06-12
+   URL: https://ai.watch.impress.co.jp/docs/news/2116862.html
+   概要: ガートナージャパンが2026年の世界データセンター電力消費は2025年比26%増の565TWh
+         に達するとの予測を発表。AI処理負荷の急増が主因で、今後は高効率な冷却システムや
+         エッジコンピューティングへの集中投資が不可欠と警告。データセンター冷却の省エネ
+         技術がますます重要な競争要素となっている。
+
+------------------------------------------------------
+
+5. 日本データセンター冷却市場、2035年までに21億5,227万米ドル規模へ拡大予測
+   媒体: AT Press（アットプレス）
+   日付: 2026-06-18
+   URL: https://www.atpress.ne.jp/news/8885368
+   概要: 新たな市場調査レポートによると、日本のデータセンター冷却市場は2035年までに
+         21億5,227万米ドルに達する見通し。AIサーバーや生成AIの普及に伴う高密度ラックの
+         増加が冷却需要を押し上げており、液冷・液浸冷却技術の採用が特に注目されている。
+         省エネ規制の強化も市場成長を後押しする要因として挙げられている。
+
+------------------------------------------------------
+
+【English News】
+
+1. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （MITスタートアップ、核反応炉から着想した冷却システムでデータセンターの持続可能性を向上）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT-founded startup Ferveret has developed an Adaptive Phase Cooling (APC) system
+            inspired by nuclear reactor physics that submerges servers in a low-boiling-point
+            liquid, generating smaller, more frequently detaching bubbles to accelerate heat
+            transfer. A study with UCLA's Samueli Computer Science Department found the APC
+            solution delivers 15% higher computational power efficiency versus state-of-the-art
+            liquid cooling, and reduces energy and water required to cool AI chips significantly.
+            Ferveret is already testing with CleanSpark, FuriosaAI, and Switch data centers.
+   【日本語訳】MIT発スタートアップFerveretが核燃料冷却技術からヒントを得た「適応型相変化
+               冷却（APC）」システムを開発。サーバーを低沸点液体に浸し、小さく高頻度に
+               離脱する気泡で熱伝達を加速する。UCLAとの共同研究で従来の液冷比15%の
+               電力効率向上を実証。CleanSpark・FuriosaAI・Switchなどとの実証実験が進行中。
+
+------------------------------------------------------
+
+2. Microsoft's New AI Data Centers Use as Little Water as a Restaurant via
+   Closed-Loop Cooling System
+   （マイクロソフト、密閉循環冷却システム採用の新AIデータセンターは年間使用水量がレストラン並み）
+   Source: Data Center Dynamics / Tom's Hardware
+   Date: 2026-06-02
+   URL: https://www.datacenterdynamics.com/en/news/microsofts-upcoming-data-centers-to-use-closed-loop-zero-water-evaporation-design/
+   Summary: Microsoft CEO Satya Nadella revealed at Microsoft Build 2026 (June 2) that the
+            company's new Fairwater data center in Wisconsin features a closed-loop cooling
+            system filled with water only once at construction, enabling near-zero ongoing water
+            consumption — equivalent to a single restaurant's annual water use. The 315-acre
+            facility stacks GPU racks vertically in a two-story design and is expected to save
+            over 125 million liters of water per year per data center compared to traditional
+            evaporative cooling.
+   【日本語訳】マイクロソフトCEOサティア・ナデラ氏がMicrosoft Build 2026（6月2日）で発表。
+               ウィスコンシン州のFairwaterデータセンターは建設時に一度だけ冷却水を封入する
+               密閉循環冷却方式を採用し、年間の水使用量がレストラン1店舗と同等まで削減。
+               GPUラックを縦に積み重ねる2階建て設計を採用し、従来比で1施設あたり年間
+               1億2,500万リットル超の節水を見込む。
+
+------------------------------------------------------
+
+3. Supermicro Claims 1,000x Higher Impedance Coolant for AI Racks at Computex 2026
+   （スーパーマイクロ、Computex 2026でAIラック向け電気インピーダンス1,000倍の新冷却剤を発表）
+   Source: TechTimes
+   Date: 2026-06-02
+   URL: https://www.techtimes.com/articles/317621/20260602/supermicro-claims-1000x-impedance-coolant-ai-racks-computex-independent-testing-pending.htm
+   Summary: At Computex 2026, Supermicro unveiled its proprietary dielectric fluid SMC PG25-A,
+            claiming electrical impedance 1,000 times higher than conventional cooling mixtures.
+            The coolant is designed for the NVIDIA Vera Rubin NVL72 and HGX Rubin NVL8 rack
+            solutions and enables systems to continue operating even during small coolant leaks,
+            reducing unplanned shutdowns. The new Data Center Building Block Solutions (DCBBS)
+            Blueprints are engineered for direct liquid cooling from 5MW up to gigawatt-scale.
+   【日本語訳】Computex 2026でスーパーマイクロが独自誘電体冷却剤「SMC PG25-A」を発表。
+               従来の冷却剤比で電気インピーダンスが1,000倍高く、微小な液体漏れが発生して
+               もシステム継続運転が可能。NVIDIA Vera Rubin NVL72対応のDLCソリューションは
+               5MWからギガワット規模まで拡張可能なデータセンターブロック設計を採用。
+
+------------------------------------------------------
+
+4. DCX Launches 8MW Facility Distribution Unit Supporting Vera Rubin Warm-Water Cooling
+   （DCX、Vera Rubin対応の温水冷却をサポートする8MW冷却分配ユニットを発表）
+   Source: Data Center Dynamics
+   Date: 2026-05
+   URL: https://www.datacenterdynamics.com/en/news/dcx-launches-8mw-cooling-distribution-unit/
+   Summary: DCX Liquid Cooling Systems launched its second-generation Facility Distribution
+            Unit (FDU V2AT2) delivering up to 8.15MW of heat transfer capacity. The CDU
+            supports 45°C warm-water cooling compatible with NVIDIA's Vera Rubin NVL72 and
+            Blackwell architectures, potentially eliminating the need for chillers in many
+            deployments. The unit replaces multiple legacy 1.3MW CDUs and enables
+            multi-megawatt cooling at the hall level with immediate availability.
+   【日本語訳】DCX Liquid Cooling Systemsが第2世代の施設用冷却分配ユニット「FDU V2AT2」
+               を発表。最大8.15MWの熱伝達能力を持ち、NVIDIAのVera Rubin NVL72に対応した
+               45℃温水冷却をサポート。多くのケースでチラー不要を実現し、従来の1.3MW
+               CDUを複数台置き換え可能。ホールレベルでのマルチメガワット冷却に即日対応。
+
+------------------------------------------------------
+
+5. Data Center Liquid Cooling Market to Reach USD 29.5 Billion by 2033 as AI Revolution
+   Reshapes Global Infrastructure
+   （AI革命が世界インフラを再編、データセンター液体冷却市場は2033年に295億ドル到達へ）
+   Source: PR Newswire
+   Date: 2026-06
+   URL: https://www.prnewswire.com/news-releases/data-center-liquid-cooling-market-to-reach-usd-29-5-billion-by-2033-as-ai-revolution-reshapes-global-infrastructure-302794905.html
+   Summary: A new market report forecasts the global data center liquid cooling market will
+            grow from USD 8.2 billion in 2026 to USD 29.5 billion by 2033, at a CAGR of 20.1%.
+            Growth is driven by AI/ML/HPC workload expansion, hyperscale data center buildouts,
+            and tightening sustainability mandates. Over 36% of data center operators have
+            already deployed liquid cooling, with another 28% planning adoption within 12-24
+            months. Direct-to-chip and immersion cooling segments are leading adoption rates.
+   【日本語訳】新たな市場調査レポートによると、世界のデータセンター液体冷却市場は2026年の
+               82億ドルから2033年には295億ドルへ、年率20.1%（CAGR）で拡大する見通し。
+               AI・ML・HPC処理負荷の増大、ハイパースケールDCの建設ラッシュ、持続可能性
+               規制の強化が主要ドライバー。データセンター事業者の36%超がすでに液冷を導入
+               済みで、28%が今後1〜2年以内の採用を計画している。
+
+======================================================
+レポート生成日時: 2026-06-18
+対象期間: 2026-06-17 〜 2026-06-18
