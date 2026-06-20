@@ -1,0 +1,131 @@
+データセンター冷却 日次ニュースレポート 2026-06-20
+======================================================
+
+【日本語ニュース】
+※2026-06-20 付の日本語報道は収集できなかったため、直近の関連記事を掲載します。
+
+1. 山洋電気、大流量・長寿命の液冷システム用ポンプ「San Ace Pump」を発売
+   媒体: 日本経済新聞（適時開示）/ 山洋電気
+   日付: 2026-06-02
+   URL: https://www.nikkei.com/nkd/disclosure/tdnr/20260602558950/
+   概要: 山洋電気が最大流量160L/min・最大揚程32m・期待寿命7万時間（約8年間）を実現した
+         液冷システム用ポンプ「San Ace Pump」を発売。消費電力648W（最大流量時）と従来比で
+         大幅な省エネを実現し、高発熱化が進むデータセンターおよびAI関連機器の冷却需要に
+         対応する。販売見込みは1,000台/月。
+
+------------------------------------------------------
+
+2. IIJ・NTTデータ・日比谷総合設備、都市型AIデータセンターで空冷・液冷ハイブリッド冷却の共同検証を開始
+   媒体: IIJ（インターネットイニシアティブ）
+   日付: 2026-06-02
+   URL: https://www.iij.ad.jp/news/pressrelease/2026/0602.html
+   概要: IIJ、NTTデータ、日比谷総合設備の3社がモジュール型エッジデータセンターを活用し、
+         都市型AI基盤における空冷・液冷ハイブリッド冷却構成の有効性を共同検証。都市部の
+         敷地・電力制約下でも高発熱AIサーバーを安定稼働させるための最適冷却方式を実証する
+         取り組みで、今後の都市型AIインフラ整備に向けた重要な知見が期待される。
+
+------------------------------------------------------
+
+3. AIデータセンターは「水で冷やす」 日本の省エネ技術、電力爆食を抑制
+   媒体: 日本経済新聞
+   日付: 2026-05-27
+   URL: https://www.nikkei.com/article/DGXZQOUC275TX0X20C26A5000000/
+   概要: AIサーバーの急激な電力消費増大に対応すべく、国内データセンター事業者が水冷（液冷）
+         方式の導入を加速させている状況を詳報。富士電機のエジェクタ冷却機（冷却電力最大85%
+         削減）やニデックの大容量水冷装置など、日本の省エネ液冷技術が世界市場でも競争力を
+         持ちうるとして注目が集まっていると報じた。
+
+======================================================
+
+【English News】
+
+1. Managing Data Centre Energy and Water Use in the AI Era
+   （AI時代におけるデータセンターのエネルギーと水使用量の管理）
+   Source: World Economic Forum
+   Date: 2026-06-19
+   URL: https://www.weforum.org/stories/2026/06/build-data-centres-future-sustainable/
+   Summary: Published ahead of the WEF Summer Davos event (June 23-25, 2026), this article
+            argues that data center operators must optimize infrastructure for energy and water
+            efficiency before scaling AI capacity. It calls for a thoughtful, research-backed
+            approach to data center planning that enables AI-driven innovation without
+            disproportionate environmental consequences, including sustainable cooling strategies.
+   【日本語訳】WEF「サマー・ダボス」（6月23〜25日）に先立ち公開。AIキャパシティ拡大の前に
+               データセンター事業者がエネルギーと水の効率を最適化すべきと主張。環境への
+               過大な影響なしにAIイノベーションを実現するため、冷却を含む持続可能な
+               データセンター設計の重要性を訴える。
+
+------------------------------------------------------
+
+2. 79% of Global Data Center Capacity Faces Elevated Climate Risk
+   （世界のデータセンター容量の79%が高い気候リスクにさらされている）
+   Source: First Street / PRNewswire
+   Date: 2026-06-18
+   URL: http://www.prnewswire.com/news-releases/79-of-global-data-center-capacity-faces-elevated-climate-risk-302804645.html
+   Summary: First Street's analysis of 97 global data center markets found that 79% of global
+            capacity faces elevated exposure to climate hazards including flooding, extreme heat,
+            wildfire, wind, and drought. Extreme heat in particular directly undermines cooling
+            efficiency and raises cooling-related operating costs, threatening data center
+            reliability in key growth regions.
+   【日本語訳】ファーストストリートが世界97市場を対象に実施した調査で、世界のデータセンター
+               容量の79%が洪水・猛暑・山火事・強風・干ばつなど高い気候リスクに直面している
+               と判明。特に猛暑は冷却効率を直接低下させ、冷却コスト増大・施設の信頼性低下に
+               つながると指摘。
+
+------------------------------------------------------
+
+3. Why Cooling Is the Real Obstacle to Space-Based Data Centres
+   （宇宙データセンターの本当の障壁は冷却問題にある）
+   Source: World Economic Forum
+   Date: 2026-06-19
+   URL: https://www.weforum.org/stories/2026/06/space-data-centres-cooling/
+   Summary: WEF examines why thermal management is the fundamental engineering challenge for
+            space-based data centers. In the vacuum of space, heat cannot dissipate through
+            convection or conduction, making cooling orders of magnitude more difficult than on
+            Earth. Scaling thermal control hardware to just 1 MW of compute would require
+            roughly 100 tons of radiators—approximately ten times the weight of the compute
+            hardware itself.
+   【日本語訳】WEFが、宇宙空間での熱管理が宇宙データセンターにとって根本的な工学的課題で
+               あると解説。真空中では対流・伝導による放熱が不可能で、わずか1MWの計算機を
+               冷やすだけで約100トンの放熱板が必要（計算機本体の約10倍の重量）と試算。
+               従来の地上向け冷却技術が宇宙では通用しない現実を明らかにした。
+
+------------------------------------------------------
+
+4. AI Factory Cooling vs Cloud Data Centers: Why Liquid Cooling Is Essential for High-Density AI Workloads
+   （AIファクトリー vs クラウドDC：高密度AIワークロードで液冷が不可欠な理由）
+   Source: Schneider Electric Blog
+   Date: 2026-06-12
+   URL: https://blog.se.com/datacenter/2026/06/12/ai-factory-cooling-vs-cloud-data-centers-why-liquid-cooling-is-essential-for-high-density-ai-workloads/
+   Summary: Schneider Electric analyzes the diverging cooling requirements between AI factories
+            and conventional cloud data centers. As GPU power draw roughly doubles each
+            generation, liquid cooling transitions from an efficiency advantage to an operational
+            necessity for AI workloads. The article contrasts cold-plate direct liquid cooling
+            for AI factories versus air cooling that remains viable for lower-density cloud
+            workloads.
+   【日本語訳】シュナイダーエレクトリックが、AIファクトリーと従来型クラウドDCの冷却要件の
+               違いを分析。GPUの消費電力が世代ごとに約2倍に増大する中、液冷はAIワークロード
+               では効率向上策から運用上の必須要件へと転換。コールドプレート式液冷（AIファク
+               トリー向け）と空冷（クラウドDC向け）の使い分けを解説する。
+
+------------------------------------------------------
+
+5. Data Centers in Space: Hype, Reality, and the Long Timeline Ahead
+   （宇宙データセンター：誇大宣伝と現実、そして長い未来への道筋）
+   Source: Data Center Knowledge
+   Date: 2026-06-16
+   URL: https://www.datacenterknowledge.com/next-gen-data-centers/data-centers-in-space-hype-reality-and-the-long-timeline-ahead
+   Summary: Data Center Knowledge examines the gap between the hype around space-based computing
+            infrastructure and technical reality. SpaceX is seeking FCC approval for a
+            solar-powered data center satellite constellation integrated with Starlink, but
+            experts emphasize that cooling in the vacuum of space remains an unsolved engineering
+            problem. Orbital data centers have never been deployed at commercial scale, and
+            economics depend heavily on continued reductions in launch costs.
+   【日本語訳】宇宙ベースのコンピューティングインフラを巡る誇大宣伝と技術的現実のギャップを
+               検証。スペースXはStarlinkと統合した太陽光発電型宇宙DCコンステレーションのFCC
+               認可を申請中だが、真空中の冷却問題は未解決のまま。軌道上DCの商用展開実績は
+               ゼロで、経済性はロケット打ち上げコストの継続的低下に大きく依存すると専門家が
+               指摘する。
+
+======================================================
+レポート生成日時: 2026-06-20
+対象期間: 2026-06-19 〜 2026-06-20
