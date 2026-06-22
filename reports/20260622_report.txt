@@ -1,0 +1,167 @@
+データセンター冷却 日次ニュースレポート 2026-06-22
+======================================================
+
+【日本語ニュース】
+
+1. ニデック、最大300kWのインラック式CDUを開発——NVIDIAの次世代AIサーバーに対応
+   媒体: 電波新聞デジタル
+   日付: 2026-06-08
+   URL: https://dempa-digital.com/article/718042
+   概要: ニデックがラック内設置型のCoolant Distribution Unit（CDU）として
+         業界トップ級となる最大300kWの冷却能力を持つ新製品を開発したと発表。
+         NVIDIA Vera Rubin世代のAIサーバーに対応し、OCP ORV3ラック規格に準拠。
+         2027年第1四半期からの量産開始を予定しており、2030年度に水冷事業
+         売上高1000億円規模を目指す同社の旗艦製品として位置づける。
+
+------------------------------------------------------
+
+2. レノボとニデック、AIデータセンター向け水冷検証拠点「Neptuneラボ」を千葉・印西に開設
+   媒体: MONOist（ITmedia）
+   日付: 2026-06-01
+   URL: https://monoist.itmedia.co.jp/mn/articles/2606/01/news036.html
+   概要: レノボ・エンタープライズ・ソリューションズとニデックが千葉県印西市の
+         MCデジタル・リアルティ「NRT12」データセンター内に水冷AIサーバーの
+         実機検証拠点「Neptuneラボ」を共同開設。企業が生成AI導入を検討する
+         際、実際の水冷システム環境での動作確認・性能評価が行えるようにすることで、
+         液冷技術の採用拡大を後押しする。
+
+------------------------------------------------------
+
+3. AIデータセンターは「水で冷やす」——日本の省エネ冷却技術、電力爆食を抑制
+   媒体: 日本経済新聞
+   日付: 2026-06-21
+   URL: https://www.nikkei.com/article/DGXZQOUC275TX0X20C26A5000000/
+   概要: 生成AIによるデータセンターの電力消費急増を背景に、日本発の省エネ冷却
+         技術を特集。富士電機の排熱再利用型エジェクタ冷却機（冷却電力85%削減）、
+         ニデックの水冷CDUなど、日本企業の技術が世界のデータセンター省エネ化に
+         大きく貢献しつつあることを報告。AI時代のインフラ競争において冷却技術が
+         戦略的優位性の鍵を握ると分析。
+
+------------------------------------------------------
+
+4. ダイキン工業、サーバー冷却とチップ液冷を手中にデータセンター攻略——北米を主戦場に展開
+   媒体: 日経クロステック（日経BP）
+   日付: 2026-06-21
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業が買収したスタートアップ2社の技術を活用し、AIサーバー向け
+         サーバー冷却装置とチップ液冷装置の量産を2026年春から開始した。
+         AWS・Google・Microsoft等の大手クラウド事業者への採用獲得を目指す
+         とともに、北米でのDCソリューションハブ新設を計画。空調から液冷まで
+         一括提供できる強みを武器にグローバル展開を加速する。
+
+------------------------------------------------------
+
+5. ニデック・第一実業・カンネツ、AI液冷化の国産アライアンス始動——止まらないインフラ実現へ
+   媒体: PR TIMES
+   日付: 2026-06-22
+   URL: https://prtimes.jp/main/html/rd/p/000000011.000129736.html
+   概要: ニデック、第一実業、カンネツの3社がAIデータセンターの液冷インフラを
+         迅速かつ確実に実装するため戦略的ビジネスアライアンスを締結。
+         冷却装置（CDU）、液冷配管・施工、熱管理をワンストップで提供する
+         オールジャパン体制を構築し、急増する国内AIデータセンター建設案件に
+         対応する。「止まらないインフラ」を合言葉に冗長設計と保守サービスも一体化。
+
+======================================================
+
+【English News】
+
+1. SSSTC Expands Immersion-Cooling SSD Portfolio to Address AI Data Center Thermal Challenges at Computex 2026
+   （SSSPCがComputex 2026で液浸冷却対応SSDのラインナップを拡充——AIデータセンターの発熱課題に対応）
+   Source: PR Newswire
+   Date: 2026-06-02
+   URL: https://www.prnewswire.com/news-releases/computex-2026-ssstc-expands-immersion-cooling-ssd-portfolio-to-address-ai-data-center-thermal-challenges-302787916.html
+   Summary: SSSTC (a Kioxia subsidiary) unveiled an expanded lineup of enterprise SSDs
+            engineered for immersion cooling environments at Computex 2026. The portfolio
+            includes SATA ER3/ER4/ER5 series and PCIe U.2 PJ1/EJ5 series, all optimized
+            for direct immersion in non-conductive dielectric fluids through enhanced
+            corrosion resistance, specialized materials, and multi-tier power-loss
+            protection. The drives maintain over 90% random IOPS consistency under
+            sustained workloads in liquid-submerged AI data center deployments.
+   【日本語訳】キオクシア子会社のSSSTC（ソリッドステートストレージテクノロジー）が
+               Computex 2026にてAIデータセンターの液浸冷却環境向けエンタープライズSSD
+               ラインナップを拡充。SATA ERシリーズおよびPCIe U.2シリーズを不導体誘電液
+               への直接液浸に対応する設計で提供。耐腐食性・多段階電力ロス保護・高IOPS維持
+               性能などを備え、液冷AIデータセンターにおけるストレージ信頼性を向上させる。
+
+------------------------------------------------------
+
+2. Supermicro Announces Support for Upcoming NVIDIA Vera Rubin NVL72 with Expanded Liquid-Cooled AI Solutions
+   （スーパーマイクロ、NVIDIA Vera Rubin NVL72に対応した液冷AIソリューション拡充を発表）
+   Source: Supermicro Investor Relations
+   Date: 2026-06-01
+   URL: https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-Support-for-Upcoming-NVIDIA-Vera-Rubin-NVL72-HGX-Rubin-NVL8-and-Expanded-Rack-Scale-Manufacturing-Capacity-for-Liquid-Cooled-AI-Solutions/default.aspx
+   Summary: Supermicro announced comprehensive liquid-cooling support for NVIDIA's
+            next-generation Vera Rubin NVL72 and HGX Rubin NVL8 platforms, featuring
+            its DLC-2 Direct Liquid Cooling system with near-total heat capture. The
+            company also introduced SMC PG25-A coolant with up to 1,000 times higher
+            electrical impedance than conventional mixtures, improving electrical safety
+            in direct liquid cooling applications. Rack-scale manufacturing capacity
+            expansion was announced simultaneously to meet surging demand.
+   【日本語訳】スーパーマイクロがNVIDIA Vera Rubin NVL72およびHGX Rubin NVL8向けに
+               包括的な液冷サポートを発表。ほぼ完全な熱回収を実現するDLC-2直接液体冷却と、
+               従来品比最大1000倍の電気的インピーダンスを持つ新冷却液「SMC PG25-A」を
+               投入。急増する需要に対応するためラック規模の製造能力増強も同時に発表した。
+
+------------------------------------------------------
+
+3. Intel and Shell Advance Immersion Cooling in Xeon-Based Data Centers
+   （インテルとシェル、Xeonベースデータセンター向け液浸冷却を推進——業界初の認定冷却ソリューション）
+   Source: Intel Newsroom
+   Date: 2026-06-22
+   URL: https://newsroom.intel.com/data-center/intel-shell-advance-immersion-cooling-xeon-based-data-centers
+   Summary: Intel and Shell have jointly developed and validated an immersion cooling
+            solution certified for Intel Xeon processors (4th and 5th Gen), supported
+            by hardware from Supermicro and Submer. The solution can reduce electricity
+            demand by up to nearly half compared to traditional air cooling, cut CO2
+            emissions by up to 30%, and decrease water consumption by up to 99%.
+            Intel issued a Xeon Processor Single-Phase Immersion Warranty Rider to
+            formally affirm compatibility with Shell Immersion Cooling Fluids.
+   【日本語訳】インテルとシェルが第4・5世代Intel Xeonプロセッサー向けの液浸冷却ソリューションを
+               共同開発・認証。スーパーマイクロおよびSubmer社のハードウェアと組み合わせ、
+               従来の空冷と比較して消費電力を最大半減、CO2排出量を最大30%削減、水消費量を
+               最大99%減少させることが可能。インテルは公式にXeon向け単相液浸冷却保証ライダーを
+               発行し、シェルの冷却液との互換性を保証した。
+
+------------------------------------------------------
+
+4. Ecolab to Acquire CoolIT Systems for $4.75 Billion to Lead AI Data Center Liquid Cooling
+   （エコラボ、AIデータセンター液冷リーダーのCoolITシステムズを47.5億ドルで買収へ）
+   Source: Yahoo Finance / Ecolab
+   Date: 2026-03-20
+   URL: https://finance.yahoo.com/sectors/technology/articles/ecolab-acquire-coolit-systems-global-120000047.html
+   Summary: Ecolab announced a definitive agreement to acquire CoolIT Systems, a
+            global leader in advanced liquid cooling for AI data centers, for
+            approximately $4.75 billion in cash. CoolIT is expected to generate
+            approximately $550 million in sales over the next 12 months. The deal,
+            expected to close in Q3 2026, is positioned to significantly strengthen
+            Ecolab's technology portfolio and accelerate its data center cooling
+            business as hyperscalers rapidly deploy liquid-cooled AI infrastructure.
+   【日本語訳】エコラボがAIデータセンター向け先進液冷のグローバルリーダーであるCoolITシステムズを
+               約47.5億ドルの現金で買収する合意を発表。CoolITの今後12ヶ月の売上は約5.5億ドルと
+               見込まれ、買収完了は2026年第3四半期の予定（規制承認待ち）。ハイパースケーラーが
+               液冷AIインフラを急速展開する中、エコラボの冷却事業を大幅に強化する戦略的買収として
+               注目される。
+
+------------------------------------------------------
+
+5. Data Center Liquid Cooling Market to Reach US$29.2 Billion by 2033 as AI and High-Density Computing Accelerate Adoption
+   （AIと高密度コンピューティングが液冷普及を加速——データセンター液体冷却市場、2033年に292億ドルへ）
+   Source: Yahoo Finance / Persistence Market Research
+   Date: 2026-06-21
+   URL: https://finance.yahoo.com/sectors/technology/articles/data-center-liquid-cooling-market-141500523.html
+   Summary: Persistence Market Research projects the global data center liquid cooling
+            market will grow from approximately $5.2 billion in 2025 to $29.2 billion
+            by 2033, registering a CAGR of 26.4%. Liquid cooling penetration in data
+            centers is forecast to reach approximately 37% in 2026, up dramatically
+            from around 3% in 2021. North America holds 36% market share while
+            Asia-Pacific is set for the fastest growth (CAGR 35.6%) driven by AI,
+            cloud, and 5G infrastructure expansion.
+   【日本語訳】パーシスタンス・マーケット・リサーチによると、世界のデータセンター液体冷却市場は
+               2025年の約52億ドルから2033年に292億ドルへとCAGR 26.4%で成長すると予測。
+               データセンターにおける液冷の普及率は2021年の約3%から2026年には約37%に急上昇する
+               見通し。北米が36%のシェアを占める一方、アジア太平洋地域がAI・クラウド・5G
+               インフラ拡大を背景に最速のCAGR 35.6%で成長すると分析している。
+
+======================================================
+レポート生成日時: 2026-06-22
+対象期間: 2026-06-21 〜 2026-06-22
