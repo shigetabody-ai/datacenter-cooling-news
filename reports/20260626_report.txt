@@ -1,0 +1,134 @@
+データセンター冷却 日次ニュースレポート 2026-06-26
+======================================================
+
+【日本語ニュース】
+
+1. 富士電機、水冷データセンター向け世界初「エジェクタ冷却機」を6月発売
+   媒体: 環境ビジネスオンライン
+   日付: 2026-05-27
+   URL: https://www.kankyo-business.jp/news/44e6216e-180c-4ecc-9e56-d0cea9694f23
+   概要: 富士電機がデータセンターのサーバー冷却電力を最大85%削減する「エジェクタ冷却機」を
+   世界で初めて開発し、2026年6月に発売と発表。圧縮機を使わずサーバーの排熱を再利用し、
+   独自開発した流体圧縮機（エジェクタ）で冷媒ガスを圧縮・循環させる仕組みが特徴。
+
+------------------------------------------------------
+
+2. 富士電機、データセンターの冷却電力85%削減 「水冷式」機器開発
+   媒体: 日本経済新聞
+   日付: 2026-05-26
+   URL: https://www.nikkei.com/article/DGXZQOUC19AVO0Z10C26A5000000/
+   概要: 日本経済新聞が富士電機のエジェクタ冷却機を取り上げ報道。AIサーバーの急増で深刻化する
+   データセンターの消費電力問題に対し、冷却コストを抜本的に削減する技術として注目。
+   2026年8月には蒸気生成ヒートポンプの発売も予定されている。
+
+------------------------------------------------------
+
+3. 生成AI普及で需要急拡大、「データセンター冷却」で浮上する妙味株6選
+   媒体: 株探ニュース
+   日付: 2026-06-08
+   URL: https://kabutan.jp/news/marketnews/?b=n202606081197
+   概要: 生成AIによるGPUサーバー急増を背景にデータセンター冷却設備への需要が急拡大。
+   液冷・空冷・水冷などの冷却技術を手がける日本企業の注目銘柄6社を分析。
+   データセンターの消費電力のうち30〜40%を冷却が占めるとして、省エネ技術の重要性を強調。
+
+------------------------------------------------------
+
+4. データセンター冷却の日本市場（2026年〜2034年）分析レポート公表
+   媒体: NEWSCAST / AT Press
+   日付: 2026-06-（詳細不明）
+   URL: https://newscast.jp/news/1946495
+   概要: 日本のデータセンター冷却市場が2025年の28億米ドルから2034年に72億米ドルへ拡大すると予測。
+   空調・冷却ユニット・液冷システム・制御システムなど分野別に詳細分析レポートを発表。
+   CAGR 11.02%での成長が見込まれている。
+
+------------------------------------------------------
+
+5. ダイキン工業、AIデータセンター向け冷却技術強化で米企業を買収
+   媒体: 日経クロステック
+   日付: 2026-06-（詳細不明）
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業がAIデータセンター向け冷却技術強化のため、サーバー冷却および液冷チップ技術を
+   持つ米国企業を買収。国内外のデータセンター建設ラッシュに対応した空調・液冷ソリューションの
+   拡充を目指す。
+
+------------------------------------------------------
+
+【English News】
+
+1. Nvidia Says Its New Data Center Design Will Fix AI's Water Problem
+   （NVIDIAが新データセンター設計でAIの水問題解決を宣言）
+   Source: Fortune
+   Date: 2026-06-22
+   URL: https://fortune.com/2026/06/22/nvidia-new-data-center-design-ai-water-problem-cooling/
+   Summary: Nvidia announced its Rubin-generation AI servers achieve 100% liquid cooling, eliminating
+   air-cooling fans that require evaporative water. The system circulates coolant at 45 degrees Celsius,
+   allowing passive radiators to dissipate heat without evaporative cooling in most climates. A 50-megawatt
+   hyperscale facility could save over $4 million annually in cooling-related energy and water costs.
+   【日本語訳】NVIDIAがRubin世代AIサーバーで100%液体冷却を達成したと発表。冷却液を45℃で循環させ、
+   大半の気候条件で蒸発冷却なしに熱放散が可能。5万kWのハイパースケール施設では年間400万ドル以上の
+   冷却コスト削減が見込まれる。
+
+------------------------------------------------------
+
+2. Nvidia Wants to Cut Data Center Water Use, but That's Not the Same as Fixing AI's Water Problem
+   （NVIDIAの水使用削減は評価できるが、AI全体の水問題解決とは異なる）
+   Source: TechCrunch
+   Date: 2026-06-22
+   URL: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
+   Summary: While Nvidia's new liquid cooling technology significantly reduces on-site water use, TechCrunch
+   cautions this does not resolve the full water footprint of AI infrastructure. Upstream water consumption
+   from chip manufacturing, power generation, and the broader supply chain remains unaddressed.
+   【日本語訳】NVIDIAの液冷技術がデータセンター内の水使用量を大幅に削減する一方、TechCrunchは
+   AIインフラ全体の水フットプリント解決には至っていないと指摘。半導体製造や発電など上流工程での
+   水消費には対応できていないと分析している。
+
+------------------------------------------------------
+
+3. Hotter Than a Hot Tub: The 45 Celsius Breakthrough to Cool AI's Biggest Machines
+   （ホットタブより熱く：AIの巨大マシンを冷やす45度の革新技術）
+   Source: NVIDIA Blog
+   Date: 2026-06-22
+   URL: https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/
+   Summary: NVIDIA's own blog post details the 45 degrees Celsius warm-water liquid cooling breakthrough
+   for AI factories. By running coolant hotter than conventional systems, the design enables fully passive
+   heat rejection in favorable climates — no chillers, no evaporative towers, and potentially zero on-site
+   water use. The Rubin generation is the first to achieve 100% liquid cooling across all components.
+   【日本語訳】NVIDIAが45℃温水液体冷却の詳細を自社ブログで解説。従来システムより高温の冷却液を
+   循環させることで、好気候条件下では完全受動冷却（チラー・冷却塔不要）が可能になる。
+   Rubin世代はすべてのコンポーネントで100%液体冷却を達成した初の製品群。
+
+------------------------------------------------------
+
+4. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （核融合技術着想のスタートアップがデータセンターの持続可能性向上を目指す）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT spinout Ferveret has developed Adaptive Phase Cooling (APC), inspired by nuclear reactor
+   engineering. The system generates tiny bubbles at chip surfaces to accelerate heat transfer while reducing
+   energy and water use. Ferveret is already testing its solution with CleanSpark, FuriosaAI, and Switch,
+   one of the largest US data center operators.
+   【日本語訳】MITから生まれたスタートアップFerveretが原子炉工学を応用した「適応相変化冷却（APC）」を
+   開発。チップ表面に微細な気泡を生成して熱伝達を促進し、エネルギーと水の使用量を削減。
+   CleanSpark、FuriosaAI、大手データセンター事業者Switchでの実証テストが進行中。
+
+------------------------------------------------------
+
+5. Microsoft CEO Says New AI Data Centers Use as Little Water Annually as a Restaurant
+   （マイクロソフトCEO：新世代AIデータセンターの年間水使用量はレストラン1軒分）
+   Source: Tom's Hardware
+   Date: 2026-06-02
+   URL: https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny
+   Summary: At Microsoft Build 2026 (June 2), CEO Satya Nadella revealed that new AI data centers use
+   closed-loop cooling systems with near-zero evaporative water consumption — roughly equivalent to a single
+   restaurant annually. This represents a 90% reduction versus early Microsoft facilities. The closed-loop
+   pilot is rolling out in Phoenix, AZ and Mount Pleasant, WI.
+   【日本語訳】Microsoft Build 2026でサティア・ナデラCEOが新世代AIデータセンターのクローズドループ
+   冷却システムを発表。蒸発による水消費をほぼゼロにし、年間水使用量が一般的なレストラン1軒分程度。
+   初期施設比90%削減を実現し、アリゾナ州フェニックスなどでパイロット展開中。
+
+======================================================
+レポート生成日時: 2026-06-26
+対象期間: 2026-06-25 〜 2026-06-26
+※注記: 検索可能な最新英語記事は2026年6月22〜24日付が中心です。
+       6月25〜26日付の記事は検索インデックスへの掲載が間に合わないため未掲載です。
