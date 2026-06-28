@@ -1,0 +1,148 @@
+データセンター冷却 日次ニュースレポート 2026-06-28
+======================================================
+
+【日本語ニュース】
+
+1. ITインフラの要件に"大変化" なぜ「電力」と「冷却」にAI活用が縛られるのか？
+   媒体: ITmedia エンタープライズ
+   日付: 2026-06-26
+   URL: https://www.itmedia.co.jp/enterprise/articles/2606/26/news023.html
+   概要: 生成AIの急速な普及によって、データセンターのITインフラに求められる要件が大きく変化
+   しつつあることを解説。消費電力と冷却性能がAI活用を左右する制約となっており、液冷など
+   次世代冷却技術の早急な採用が業界全体の課題となっている状況を詳説している。
+
+------------------------------------------------------
+
+2. データセンターの液浸冷却とは？ AI時代に必須…富士通・ニデックら開発競争など解説
+   媒体: ビジネス+IT（SBBit）
+   日付: 2026-06-27
+   URL: https://www.sbbit.jp/article/cont1/159638
+   概要: 液浸冷却の仕組みと単相・二相の2種類の方式を詳解。富士通、ニデックなど日本の主要企業が
+   AI時代のデータセンター向け液浸冷却技術の開発競争を繰り広げており、空冷方式の限界から
+   液浸冷却への移行が加速していると分析。AIサーバーの高密度化に対応する不可欠な技術として注目。
+
+------------------------------------------------------
+
+3. 2026年のデータセンター電力消費は26％増の見込み、AIサーバーの普及が主因
+   媒体: ビジネス+IT（SBBit）
+   日付: 2026-06-14
+   URL: https://www.sbbit.jp/article/cont1/185783
+   概要: ガートナーの最新予測によると、2026年の世界データセンター消費電力は前年比26%増の
+   565TWhに達する見通し。AIサーバーが主因であり、2026年にはAI最適化サーバーがデータセンター
+   電力全体の31%を占めると予測。2027年にはAI向けサーバーの消費電力が汎用サーバーを上回る見込み。
+
+------------------------------------------------------
+
+4. サーバー機器ごと冷却液にどっぷり浸して冷やす、液浸冷却装置「ICEraQ Nano Japan Edition」
+   【Interop Tokyo 2026】
+   媒体: INTERNET Watch
+   日付: 2026-06-12
+   URL: https://internet.watch.impress.co.jp/docs/event/2117218.html
+   概要: Interop Tokyo 2026（6月10〜12日開催）に出展された液浸冷却装置「ICEraQ Nano Japan
+   Edition」を詳細レポート。サーバー機器を非伝導性液体に直接浸して冷却するシステムで、
+   従来の空冷方式と比較して電力効率を大幅に改善。AIデータセンター向け液浸冷却の国内普及に向けた
+   製品として展示された。
+
+------------------------------------------------------
+
+5. AIデータセンターは「水で冷やす」 日本の省エネ技術、電力爆食を抑制
+   媒体: 日本経済新聞
+   日付: 2026-05-28
+   URL: https://www.nikkei.com/article/DGXZQOUC275TX0X20C26A5000000/
+   概要: 生成AIの普及でデータセンターの電力消費が急増する中、日本の省エネ技術として水冷・液冷が
+   注目を集めていると報道。空冷方式と比べて冷却効率が高く、消費電力を大幅に削減できるとして、
+   国内外の主要メーカーが水冷システムの開発・量産を加速させている状況を解説。
+
+------------------------------------------------------
+
+【English News】
+
+1. Nvidia Announces Liquid Cooling System That Runs 'Hotter Than a Hot Tub'
+   （NVIDIAが「ホットタブより高温で動作」する液体冷却システムを発表）
+   Source: Tom's Hardware
+   Date: 2026-06-22
+   URL: https://www.tomshardware.com/tech-industry/data-centers/nvidia-announces-liquid-cooling-system-that-runs-hotter-than-a-hot-tub-promises-to-reduce-electricity-consumption-and-cut-water-use-by-up-to-100-percent-but-sustainability-challenges-remain
+   Summary: Tom's Hardware reports Nvidia's liquid cooling system operating at 45°C — higher than
+   conventional data center standards. The system promises to reduce electricity consumption and cut
+   on-site water use by up to 100% through a closed-loop design. The Rubin generation NVIDIA AI
+   infrastructure is the world's first fully liquid-cooled platform covering every chip and networking
+   component. However, the article notes broader sustainability challenges remain around the AI supply
+   chain's overall water and energy footprint.
+   【日本語訳】NVIDIAが45℃で動作する液体冷却システムを発表。施設内の電力消費削減と水使用量
+   最大100%削減をクローズドループ設計で実現するとしている。Rubin世代NVIDIAのAIインフラは
+   全チップ・全ネットワーク部品を100%液体冷却した世界初のプラットフォーム。ただし、AIサプライ
+   チェーン全体の水・エネルギーフットプリントに関する課題は残っていると指摘されている。
+
+------------------------------------------------------
+
+2. AI Pushes Cooling to the Forefront of Data Center Design Challenges
+   （AIが冷却をデータセンター設計の最重要課題に押し上げる）
+   Source: Data Center Knowledge
+   Date: 2026-06-（詳細不明）
+   URL: https://www.datacenterknowledge.com/cooling/cooling-becomes-the-system-constraint-as-ai-reshapes-data-center-design
+   Summary: As AI workloads push rack densities toward the megawatt era, cooling is no longer a
+   supporting system — it has become the primary design constraint for data centers. The article
+   examines how traditional air-cooling architectures are reaching operational limits and how liquid
+   cooling, hybrid adiabatic systems, and AI-driven thermal management are emerging as essential
+   solutions for next-generation AI infrastructure.
+   【日本語訳】AIワークロードがラック密度をメガワット時代に押し上げるにつれ、冷却システムはもはや
+   補助的な存在ではなく、データセンター設計の主要な制約条件となっている。従来の空冷アーキテクチャが
+   限界に達しつつあり、液冷・ハイブリッド断熱冷却・AI駆動型熱管理が次世代AIインフラの必須解として
+   台頭していると分析している。
+
+------------------------------------------------------
+
+3. The Water-Energy Nexus Reshaping Data Center Cooling
+   （データセンター冷却を再定義する「水とエネルギー」の相互依存関係）
+   Source: Data Center Knowledge
+   Date: 2026-06-（詳細不明）
+   URL: https://www.datacenterknowledge.com/cooling/the-water-energy-nexus-reshaping-data-center-cooling
+   Summary: As AI drives higher heat loads, data centers must carefully balance water consumption
+   and power use through smarter cooling strategies and long-term sustainability planning. The article
+   explores trade-offs between evaporative cooling (water-intensive but energy-efficient) and
+   mechanical cooling (energy-intensive but water-conserving), and highlights hybrid adiabatic cooling
+   as a promising middle ground for operators seeking to optimize both resource uses simultaneously.
+   【日本語訳】AIによる熱負荷増大に伴い、データセンターは水消費と電力使用のバランスをスマートな
+   冷却戦略と長期的なサステナビリティ計画によって取る必要がある。蒸発冷却（水集約型だが省電力）と
+   機械冷却（電力集約型だが節水）のトレードオフを分析し、ハイブリッド断熱冷却が両資源の同時最適化を
+   目指す事業者にとっての有力な中間解として注目されていると解説している。
+
+------------------------------------------------------
+
+4. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （核融合技術着想のスタートアップがデータセンターの持続可能性を高める）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT spinout Ferveret has developed Adaptive Phase Cooling (APC) technology, inspired
+   by nuclear reactor engineering principles. The system generates smaller bubbles at chip surfaces
+   that detach more frequently, leading to a 15% improvement in computational power efficiency
+   compared to state-of-the-art liquid cooling solutions. Ferveret is currently testing its solution
+   with CleanSpark, FuriosaAI, and Switch, one of the largest US data center operators.
+   【日本語訳】MITから生まれたスタートアップFerveretが原子炉工学を応用した「適応相変化冷却（APC）」を
+   開発。チップ表面に微細な気泡を生成し、従来の最先端液冷ソリューションと比較して計算電力効率を
+   15%向上させることに成功。現在CleanSpark、FuriosaAI、米大手データセンター事業者Switchとの
+   実証テストが進行中。
+
+------------------------------------------------------
+
+5. How Data Center Cooling Could Become More Manageable
+   （データセンター冷却はいかにして管理しやすくなるか）
+   Source: Facilities Dive
+   Date: 2026-06-（詳細不明）
+   URL: https://www.facilitiesdive.com/news/how-data-center-cooling-could-become-more-manageable/812051/
+   Summary: As AI workloads increase heat density, facility managers are exploring new approaches
+   to make data center cooling more manageable. The article reviews emerging strategies including
+   AI-driven thermal management, advanced direct-to-chip liquid cooling, hybrid adiabatic cooling
+   systems, and heat reuse initiatives. Industry experts note that cooling decisions now need to
+   be integrated into data center design from the outset rather than retrofitted later.
+   【日本語訳】AIワークロードによる熱密度の増大に伴い、ファシリティマネージャーはデータセンター冷却の
+   管理性向上に向けた新たなアプローチを模索している。AI駆動型熱管理、ダイレクト・トゥ・チップ液冷、
+   ハイブリッド断熱冷却システム、排熱再利用イニシアティブなどの最新戦略を概説。業界専門家は、冷却の
+   意思決定をデータセンター設計の当初から組み込む必要があると指摘している。
+
+======================================================
+レポート生成日時: 2026-06-28
+対象期間: 2026-06-27 〜 2026-06-28
+※注記: 2026年6月27〜28日付の英語記事は検索インデックスへの掲載タイミングにより取得が難しいため、
+       6月22〜27日の最新記事を中心に掲載しています。日本語記事は6月26〜27日の最新情報を含みます。
