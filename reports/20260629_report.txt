@@ -1,0 +1,138 @@
+データセンター冷却 日次ニュースレポート 2026-06-29
+======================================================
+
+【日本語ニュース】
+
+1. 富士電機、世界初のエジェクタ冷却機「FEC-200 / FEC-250」発売 サーバ冷却電力を最大85%削減
+   媒体: オートメーション新聞
+   日付: 2026-06
+   URL: https://www.automation-news.jp/2026/06/105287/
+   概要: 富士電機がコンプレッサー不要の「エジェクタ冷却機（FEC-200/FEC-250）」を2026年6月下旬より
+   発売。サーバーの排熱をエネルギーとして再利用する独自エジェクタ技術により、従来の水冷チラーと
+   比べて冷却電力を最大85%削減（夏季）する世界初の製品。消費電力問題が深刻化するAIデータセンター
+   向けのチラー代替として本格展開を開始。
+
+------------------------------------------------------
+
+2. 山洋電気、大流量・長寿命 液冷システム用ポンプ「San Ace Pump」を発売
+   媒体: 日刊工業新聞 電子版
+   日付: 2026-06-02
+   URL: https://www.nikkan.co.jp/articles/view/00783353
+   概要: 山洋電気がデータセンターおよびAI関連機器の液冷システム向けポンプ「San Ace Pump」を発売。
+   最大流量160L/min・最大揚程32m(H2O)・消費電力648W・期待寿命7万時間（約8年）を実現し、
+   データセンターの省エネ運用と安定稼働に貢献する製品として月間販売目標1,000台を設定。
+
+------------------------------------------------------
+
+3. レノボとニデック、水冷ソリューションで協業 AIデータセンターの電力課題解決を目指す
+   媒体: EnterpriseZine
+   日付: 2026-06
+   URL: https://enterprisezine.jp/news/detail/23036
+   概要: レノボとニデックがAIデータセンターの電力課題解決を目的とした水冷ソリューションで業務提携。
+   生成AIの急速な普及でGPUサーバーの発熱量が急増する中、レノボのサーバー技術とニデックの液冷
+   装置製造技術を組み合わせた統合ソリューションの提供を目指す。ニデックは水冷装置事業を2030年度
+   に現状比3倍超の1,000億円規模へ拡大する目標を掲げている。
+
+------------------------------------------------------
+
+4. ダイキン工業、サーバー冷却とチップ液冷を手中に データセンター攻略へ本格始動
+   媒体: 日経クロステック（xTECH）
+   日付: 2026-06
+   URL: https://xtech.nikkei.com/atcl/nxt/column/18/00001/11308/
+   概要: ダイキン工業がスタートアップ買収で獲得したサーバー冷却装置および半導体チップ液冷装置の
+   量産を2026年春に開始。AI半導体からサーバールームまで一貫してカバーする冷却ソリューション事業を
+   北米中心に展開しており、空調大手の知見を活かしたデータセンター冷却市場での存在感を高めている。
+
+======================================================
+
+【English News】
+
+1. Nvidia Says Its New Data Center Design Will Fix AI's Water Problem
+   （NVIDIAが新しいデータセンター設計でAIの水問題を解決すると表明）
+   Source: Fortune
+   Date: 2026-06-22
+   URL: https://fortune.com/2026/06/22/nvidia-new-data-center-design-ai-water-problem-cooling/
+   Summary: Nvidia unveiled a fully liquid-cooled reference design for its Rubin platform at London
+   Climate Week, using a closed-loop system operating at up to 45°C coolant temperature. The design
+   eliminates evaporative cooling towers, cutting on-site water use to near-zero. For a 50MW
+   hyperscale facility, Nvidia estimates annual savings exceeding $4 million in cooling-related
+   energy and water costs compared to conventional cooling architectures.
+   【日本語訳】NVIDIAはロンドン気候週間でRubinプラットフォーム向け完全液冷リファレンス設計を発表。
+   最大45°Cで動作するクローズドループシステムは蒸発冷却塔が不要で施設内の水消費をほぼゼロに
+   削減するとしている。50MWのハイパースケール施設では年間400万ドル超の冷却コスト削減効果が見込まれ、
+   従来型冷却アーキテクチャからの抜本的転換を示す設計として業界の注目を集めている。
+
+------------------------------------------------------
+
+2. Nvidia Wants to Cut Data Center Water Use, But That's Not the Same as Fixing AI's Water Problem
+   （NVIDIAの節水設計はデータセンター内の水消費削減だが、AIの水問題の根本解決ではない）
+   Source: TechCrunch
+   Date: 2026-06-22
+   URL: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
+   Summary: TechCrunch critically examines Nvidia's liquid cooling claims, noting that reducing
+   in-facility water use doesn't address water consumed at electricity-generating power plants,
+   which can double or triple the total water footprint. The 45°C coolant ceiling also means hot
+   climates like Phoenix may still require chillers during peak summer heat, limiting the
+   technology's universal applicability.
+   【日本語訳】TechCrunchはNVIDIAの液冷設計を批判的に検証。施設内の水使用削減は電力発電所での水
+   消費（施設全体の水フットプリントを2〜3倍にする可能性）に対処しないと指摘。フェニックスなど
+   高温地域では冷却液45°C制限を超える夏季にチラーが依然必要となる実用上の課題も残るとして、
+   NVIDIAの主張に対する冷静な視点を提供している。
+
+------------------------------------------------------
+
+3. Nvidia Says AI's Water Challenge Is Largely Solved
+   （NVIDIAがAIの水課題はほぼ解決済みと表明）
+   Source: Axios
+   Date: 2026-06-22
+   URL: https://www.axios.com/2026/06/22/nvidia-data-center-water-solution
+   Summary: At London Climate Week, Nvidia's vice president of data center solution architecture
+   declared the company's new warm-water liquid cooling architecture has "largely solved" AI's
+   in-facility water problem. The Rubin platform's closed-loop glycol-water system operates at
+   elevated temperatures, dissipating heat via dry coolers in most climates without drawing on
+   local water supplies, effectively decoupling AI compute expansion from water consumption growth.
+   【日本語訳】ロンドン気候週間にてNVIDIAのデータセンターソリューションアーキテクチャ担当VPは、
+   同社の新しい温水液冷アーキテクチャがAIの施設内水問題を「ほぼ解決した」と宣言。Rubinプラット
+   フォームのクローズドループ グリコール水システムは多くの気候条件で乾式クーラーにより廃熱を放散し
+   地域の水供給に依存しないため、AIコンピューティングの拡大を水消費増大から切り離すことが可能になる。
+
+------------------------------------------------------
+
+4. Ecolab to Acquire CoolIT Systems, a Global Leader in Advanced Liquid Cooling for Next-Gen AI Data Centers
+   （エコラボが次世代AIデータセンター向け先進液冷グローバルリーダーのCoolITシステムズを47.5億ドルで買収）
+   Source: Yahoo Finance / Ecolab
+   Date: 2026-03-20
+   URL: https://finance.yahoo.com/sectors/technology/articles/ecolab-acquire-coolit-systems-global-120000047.html
+   Summary: Ecolab announced a $4.75 billion agreement to acquire CoolIT Systems from KKR funds,
+   one of the largest deals ever in data center liquid cooling. CoolIT designs and manufactures
+   CDUs, cold plates, and direct-to-chip cooling technologies with 25+ years of experience serving
+   hyperscale and colocation operators. The acquisition, expected to close in Q3 2026, will
+   strengthen Ecolab's Cooling-as-a-Service offering and accelerate its Global Water segment growth.
+   【日本語訳】エコラボがKKR傘下のCoolITシステムズを47.5億ドルで買収する契約を締結。データセンター
+   液冷業界過去最大級の取引で、CoolITはCDU・コールドプレート・ダイレクト・トゥ・チップ冷却技術を
+   25年以上の実績で設計・製造するリーダー企業。2026年Q3完了予定の買収により、エコラボの
+   「Cooling-as-a-Service」事業が大幅強化されAIハイパースケール向け液冷サービスが拡充される。
+
+------------------------------------------------------
+
+5. Data Center Liquid Cooling Market to Reach USD 29.5 Billion by 2033 as AI Revolution Reshapes Global Infrastructure
+   （AIがグローバルインフラを再編する中、データセンター液冷市場は2033年に295億ドル規模へ成長）
+   Source: PR Newswire
+   Date: 2026-06
+   URL: https://www.prnewswire.com/news-releases/data-center-liquid-cooling-market-to-reach-usd-29-5-billion-by-2033-as-ai-revolution-reshapes-global-infrastructure-302794905.html
+   Summary: A comprehensive market research report projects the global data center liquid cooling
+   market to grow from USD 6.6 billion in 2025 to USD 29.5 billion by 2033, expanding at a CAGR
+   of 20.1%. The report highlights that 21% of enterprise data center decision-makers now plan to
+   adopt liquid cooling within one year (up from 13% in 2024), driven by AI workloads pushing rack
+   densities beyond 140kW and forcing the retirement of conventional air-cooling architectures.
+   【日本語訳】包括的市場調査レポートによると、世界のデータセンター液冷市場は2025年の66億ドルから
+   2033年の295億ドルへと年率20.1%で成長する見込み。エンタープライズデータセンターの意思決定者の
+   21%が1年以内に液冷採用を計画しており（2024年比8ポイント増）、AIワークロードがラック密度を
+   140kW超に押し上げ従来の空冷アーキテクチャの引退を余儀なくしていることが成長の主要因となっている。
+
+======================================================
+レポート生成日時: 2026-06-29
+対象期間: 2026-06-28 〜 2026-06-29
+※注記: 2026年6月28〜29日付の記事は検索インデックスへの掲載タイミングにより取得困難なため、
+       6月上旬〜6月22日の最新記事を中心に掲載しています。英語記事はNVIDIAのロンドン気候週間
+       発表（6月22日）が最新。日本語記事は富士電機エジェクタ冷却機の6月下旬発売を含みます。
