@@ -1,0 +1,133 @@
+データセンター冷却 日次ニュースレポート 2026-07-03
+======================================================
+
+【日本語ニュース】
+
+1. 省エネ・非化石転換法に基づくデータセンター向けPUE規制が2026年7月1日より施行
+   媒体: 資源エネルギー庁（経済産業省）
+   日付: 2026-07-01
+   URL: https://www.enecho.meti.go.jp/about/special/johoteikyo/data_center2026.html
+   概要: 省エネ・非化石転換法（改正省エネ法）に基づき、2026年7月1日以降に運用を開始するデータ
+   センターへのPUE（電力使用効率）1.2以下の義務付けが施行。既設施設は2027年7月から1.5以下、
+   2030年7月から1.3以下が求められる。冷却システムの抜本的な高効率化が事業者全体に課せられ、
+   液冷導入や高効率空調への移行をさらに加速させる規制として注目されている。
+
+------------------------------------------------------
+
+2. 富士電機、世界初のエジェクタ冷却機「FEC-200/FEC-250」発売 冷却電力を最大85%削減
+   媒体: 富士電機株式会社 ニュースリリース
+   日付: 2026-06-02
+   URL: https://www.fujielectric.co.jp/about/news/detail/1205838_4830.html
+   概要: 富士電機が、コンプレッサを使わずサーバの排熱をエネルギーに再利用する世界初の
+   「エジェクタ冷却機」を発売。独自開発したエジェクタで冷媒ガスを圧縮・循環させ、水冷データ
+   センターの冷却消費電力を従来比最大85%削減する。生成AIサーバーの急増に伴う電力課題への
+   抜本的な解決策として、データセンター事業者から高い注目を集めている。
+
+------------------------------------------------------
+
+3. 山洋電気、データセンター液冷向け大流量・長寿命ポンプ「San Ace Pump」を発売
+   媒体: 日刊工業新聞
+   日付: 2026-06-02
+   URL: https://www.nikkan.co.jp/articles/view/00783353
+   概要: 山洋電気がデータセンターおよびAI関連機器の液冷システム向けに特化した大容量ポンプ
+   「San Ace Pump」を発売。最大流量160L/min・最大揚程32m（H₂O）の高性能を実現しつつ、
+   期待寿命7万時間（約8年）の長寿命設計を両立した。生成AIサーバーの高発熱化に対応する
+   液冷インフラ需要の急増を見込み、月産1,000台を計画している。
+
+======================================================
+
+【English News】
+
+1. Rising AI and HPC Workloads Propel Demand for Liquid Cooling in European Data Centers
+   （AI・HPCワークロードの急増が欧州データセンターの液冷需要を牽引）
+   Source: GlobeNewswire
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320404/28124/en/Rising-AI-and-HPC-Workloads-Propel-Demand-for-Liquid-Cooling-in-European-Data-Centers.html
+   Summary: A market research report released July 1, 2026 highlights that surging AI and
+   high-performance computing (HPC) workloads are significantly accelerating demand for liquid
+   cooling solutions in European data centers. As rack densities climb toward and beyond 100kW,
+   hyperscale and colocation operators are rapidly replacing traditional air cooling with direct-
+   to-chip and immersion-based thermal management systems to handle next-generation AI server loads.
+   【日本語訳】2026年7月1日付の市場調査レポートは、AI・HPCワークロードの急増が欧州データセンターに
+   おける液冷需要を大幅に加速させていることを示している。ラック密度が100kWに迫るにつれ、ハイパー
+   スケール・コロケーション事業者が従来の空冷からダイレクト・トゥ・チップや液浸冷却方式へと急速に
+   移行しており、次世代AIサーバーの熱管理対応が急務となっている。
+
+------------------------------------------------------
+
+2. Data Center D2C Coolants Market to Reach USD 1.30 Billion by 2032 with 38.6% CAGR
+   （データセンター向けダイレクト・トゥ・チップ冷却液市場、2032年に13億ドル到達へ）
+   Source: GlobeNewswire
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320788/28124/en/data-center-d2c-coolants-market-to-reach-usd-1-30-billion-by-2032-with-38-6-cagr.html
+   Summary: A new market analysis published July 1, 2026 projects the data center direct-to-chip
+   (D2C) coolants market to grow at a CAGR of 38.6%, rising from USD 0.18 billion in 2026 to
+   USD 1.30 billion by 2032. The explosive expansion reflects accelerating adoption of direct
+   liquid cooling systems designed to manage the extreme thermal output of AI accelerator chips
+   such as those in the NVIDIA Blackwell and next-generation GPU architectures.
+   【日本語訳】2026年7月1日発行の市場分析レポートによると、データセンター向けダイレクト・トゥ・チップ
+   （D2C）冷却液市場はCAGR38.6%で拡大し、2026年の1.8億ドルから2032年には13億ドルに達すると予測。
+   NVIDIA BlackwellをはじめとするAIアクセラレータチップの極端な発熱量に対応する直接液冷システムの
+   採用拡大がこの急成長を支えている。
+
+------------------------------------------------------
+
+3. Nvidia Says Its New Data Center Design Will Fix AI's Water Problem
+   （NVIDIAの新データセンター設計がAIインフラの水消費問題を解決か）
+   Source: Fortune
+   Date: 2026-06-22
+   URL: https://fortune.com/2026/06/22/nvidia-new-data-center-design-ai-water-problem-cooling/
+   Summary: Nvidia announced that its newest AI server architecture (Rubin generation) achieves
+   100% liquid cooling with no fans anywhere in the system, circulating coolant at up to 45°C
+   in a closed loop. This design eliminates evaporative water towers, reducing a 50MW hyperscale
+   facility's annual cooling water consumption to near zero, compared to millions of gallons
+   under conventional air-cooling approaches, while also cutting cooling energy costs by over
+   $4 million per year.
+   【日本語訳】NVIDIAは最新AIサーバーアーキテクチャ（Rubin世代）がシステム内ファンを完全廃止し
+   最大45°Cのクローズドループ液冷を実現すると発表。この設計により蒸発冷却塔が不要となり、5万kWの
+   ハイパースケール施設の年間冷却水使用量を従来の数百万ガロンからほぼゼロに削減。さらに年間400万
+   ドル超の冷却エネルギーコスト削減も実現するとしている。
+
+------------------------------------------------------
+
+4. Datacenters Dip a Toe Back Into Waterborne Computing Despite Obvious Challenges
+   （課題を抱えながらもデータセンターが水中コンピューティングへ再挑戦）
+   Source: The Register
+   Date: 2026-06-23
+   URL: https://www.theregister.com/systems/2026/06/23/datacenters-dip-a-toe-back-into-waterborne-computing-despite-obvious-challenges/5259331
+   Summary: An underwater data center off China's coast has commenced commercial operations,
+   powered by a nearby offshore wind farm with a 24MW capacity and designed to run on over 95%
+   renewable electricity. The facility uses ambient seawater as a passive cooling medium,
+   offering a radical approach to the energy and water efficiency challenges that increasingly
+   constrain land-based data center construction, though operators acknowledge significant
+   maintenance and latency challenges remain.
+   【日本語訳】中国沖に設置された海中データセンターが商業運転を開始。近隣の洋上風力発電（24MW）を
+   電源とし95%超の再エネで稼働する。周辺の海水を受動的な冷却媒体として活用することで、土地ベースの
+   データセンターを悩ます電力・水効率の課題を根本的に解決するアプローチとして注目されるが、保守作業
+   やレイテンシ面での課題が残ることも事業者は認めている。
+
+------------------------------------------------------
+
+5. Startup's Nuclear-Inspired Cooling System Could Make Data Centers More Sustainable
+   （原子力からヒントを得た冷却システムがデータセンターの持続可能性を向上）
+   Source: MIT News
+   Date: 2026-06-10
+   URL: https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610
+   Summary: MIT-affiliated startup Ferveret has developed a passive cooling system inspired by
+   nuclear reactor thermal management principles, significantly reducing both energy and water
+   consumption needed to cool AI chips in data centers. Founded by two MIT researchers, the
+   company's technology applies passive heat-dissipation techniques originally developed for
+   nuclear safety systems to create a more sustainable and energy-efficient alternative to
+   conventional data center cooling infrastructure.
+   【日本語訳】MITが関与するスタートアップFervereが、原子炉の熱管理原理からヒントを得たパッシブ冷却
+   システムを開発し、データセンターにおけるAIチップ冷却のエネルギーと水消費量を大幅に削減した。
+   2人のMIT研究者が設立した同社は、原子力安全システム向けに開発されたパッシブ放熱技術を応用し、
+   従来の冷却インフラより持続可能でエネルギー効率の高い代替手段を実現している。
+
+======================================================
+レポート生成日時: 2026-07-03
+対象期間: 2026-07-02 〜 2026-07-03
+※注記: 2026年7月2〜3日付の新規記事の取得が限定的なため、7月1日前後の直近関連記事を中心に収録
+       しています。日本語記事はPUE規制施行（7月1日）・富士電機・山洋電気（各6月2日）を掲載。
+       英語記事はGlobeNewswire（7月1日×2件）、Fortune・The Register（各6月22〜23日）、
+       MIT News（6月10日）から選定しています。
