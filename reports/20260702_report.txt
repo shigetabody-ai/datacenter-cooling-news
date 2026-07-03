@@ -1,0 +1,123 @@
+データセンター冷却 日次ニュースレポート 2026-07-02
+======================================================
+
+【日本語ニュース】
+
+1. NTTデータとダイキン工業、AIによるサーバー内部の熱状態予測からデータセンターの冷却を最適化する共同検証を開始
+   媒体: クラウド Watch
+   日付: 2026-07-02
+   URL: https://cloud.watch.impress.co.jp/docs/news/2120885.html
+   概要: NTTデータとダイキン工業が、AIを活用してサーバー内部の熱状態をリアルタイムに予測し、
+   データセンターの冷却設備を動的に最適化する共同検証の実施を発表。2026年7月から2027年3月に
+   かけてNTTデータのデータセンターで省エネ効果・電力コスト削減・運用自動化の効果を検証し、
+   2027年度の商用サービス化を目指す。
+
+------------------------------------------------------
+
+2. シュナイダーエレクトリック、データセンターの局所空調向けInRow空調機の最新モデル「ACRC331」を発売
+   媒体: クラウド Watch
+   日付: 2026-07-01
+   URL: https://cloud.watch.impress.co.jp/docs/news/2119710.html
+   概要: シュナイダーエレクトリックがデータセンター向け局所冷却「InRow」シリーズの新モデル
+   「ACRC331」を発表し、2026年7月21日より日本市場での受注を開始。冷水方式の精密空調機で
+   高密度AIサーバー環境における熱密度の増大に対応。従来モデル比で冷却効率と設置柔軟性を向上した。
+
+------------------------------------------------------
+
+3. AI時代のデータセンター冷却は「脱水冷」へ — マイクロソフトの無水クローズドループ冷却にみる、インフラの生存戦略
+   媒体: ITmedia エンタープライズ
+   日付: 2026-06-29
+   URL: https://www.itmedia.co.jp/enterprise/articles/2606/29/news037.html
+   概要: マイクロソフトが次世代データセンターにクローズドループ型の水蒸発ゼロ冷却システムを採用
+   すると発表。2024年8月以降に設計した新設施設からこの方式を適用し、1施設あたり年間1億2500万
+   リットルを超える節水効果を見込む。AI時代の急増する消費電力と水資源問題の双方に対応する技術として
+   注目が高まっている。
+
+------------------------------------------------------
+
+4. ダイキン工業、北米のデータセンター向け冷却市場における体制を強化
+   媒体: クラウド Watch
+   日付: 2026-07-01
+   URL: https://cloud.watch.impress.co.jp/docs/special/2068122.html
+   概要: ダイキン工業が北米データセンター冷却市場の開拓に向け、AIデータセンター向け液冷装置の
+   量産・販売体制を整備したと発表。2025年度に約1,000億円規模の北米冷却事業売上高を、2030年度には
+   3,000億円超へ拡大する計画。空調大手のノウハウを活かした液冷ソリューションでの主導権確立を目指す。
+
+======================================================
+
+【English News】
+
+1. Valar Atomics and Nvidia Demonstrate Nuclear-Powered AI Data Center in Utah
+   （バラー・アトミクスとNVIDIA、ユタ州で核エネルギー駆動AIデータセンターをデモ）
+   Source: Deseret News
+   Date: 2026-07-01
+   URL: https://www.deseret.com/u-s-world/2026/07/01/valar-atomics-nvidia-milestone/
+   Summary: Valar Atomics and Nvidia jointly demonstrated the world's first AI data center powered
+   by a micro nuclear reactor in Utah on July 1, 2026. The startup's Ward250 reactor, which reached
+   criticality on June 18, generated approximately 100kW to power an Nvidia Blackwell-based RTX
+   Spark PC. The companies are exploring a 30MW, nearly waterless data center using Nvidia's
+   closed-loop liquid cooling — potentially cutting facility cooling water from 2.6 million gallons
+   per MW per year to near zero.
+   【日本語訳】バラー・アトミクスとNVIDIAが2026年7月1日、ユタ州で小型核リアクターを電源とする
+   世界初のAIデータセンターデモを実施。同スタートアップのWard250リアクターは6月18日に臨界達成後、
+   約100kWの電力を生成しNVIDIA Blackwellアーキテクチャ搭載PCを稼働させた。両社はNVIDIAの
+   クローズドループ液冷技術を活用した30MW規模の無水データセンター計画を検討しており、冷却水使用量を
+   MWあたり年間約260万ガロンからほぼゼロに削減できる見込みとしている。
+
+------------------------------------------------------
+
+2. Valar Nuclear Startup Partners with Nvidia on Data Center Aiming to Conserve Water
+   （バラー核スタートアップ、節水型データセンターでNVIDIAと提携）
+   Source: WTVB / AP
+   Date: 2026-07-01
+   URL: https://wtvbam.com/2026/07/01/valar-nuclear-startup-partners-with-nvidia-on-data-center-aiming-to-conserve-water/
+   Summary: The Ward250 helium-cooled reactor paired with Nvidia's DSX AI factory design enables
+   the proposed Utah facility to operate with minimal water consumption. Nvidia's DSX design
+   circulates coolant at 113°F in a closed loop, eliminating power-hungry water chillers entirely.
+   The combination of nuclear power and water-efficient liquid cooling is being positioned as a
+   replicable model for sustainable, off-grid AI infrastructure.
+   【日本語訳】Ward250のヘリウム冷却リアクターとNVIDIAのDSX AIファクトリー設計を組み合わせることで、
+   ユタ州の計画データセンターは最小限の水消費での運転が実現する。NVIDIAのDSX設計はクローズドループで
+   約45°Cの冷却液を循環させ、電力消費の大きいウォーターチラーを不要とする。核エネルギーと省水型液冷の
+   組み合わせは、持続可能なオフグリッドAIインフラ開発の再現可能なモデルとして位置付けられている。
+
+------------------------------------------------------
+
+3. Microsoft CEO Says New AI Data Centers Use as Little Water Annually as a Restaurant
+   （マイクロソフトCEO、新型AIデータセンターの年間水使用量はレストラン1軒並みと表明）
+   Source: Tom's Hardware
+   Date: 2026-07-01
+   URL: https://www.tomshardware.com/tech-industry/big-tech/microsoft-ceo-says-new-ai-data-centers-use-as-little-water-annually-as-a-restaurant-closed-loop-cooling-system-aims-to-slash-consumption-from-millions-of-gallons-as-ai-infrastructure-faces-mounting-environmental-scrutiny
+   Summary: Microsoft CEO Satya Nadella stated that newly designed AI data centers consume as
+   little water per year as a single restaurant, thanks to the company's next-generation
+   closed-loop cooling system. The evaporative-tower-free design cuts annual water use from
+   millions of gallons to a negligible amount per facility. The announcement comes amid growing
+   regulatory and public scrutiny over AI infrastructure's environmental impact.
+   【日本語訳】マイクロソフトのサティア・ナデラCEOが、同社の新設計AIデータセンターの年間水使用量が
+   レストラン1軒程度に過ぎないと発表。次世代クローズドループ冷却システムにより蒸発冷却塔を廃止し、
+   施設あたりの年間水使用量を数百万ガロンからほぼゼロに削減する。AIインフラの環境負荷に対する
+   規制当局と社会的関心が高まる中、大手テック企業による冷却技術の抜本的刷新として注目を集めている。
+
+------------------------------------------------------
+
+4. Dow's Role in Enabling Data Center Liquid Cooling Solutions for Next-Gen Telecom Infrastructure
+   （ダウ、次世代通信インフラ向けデータセンター液冷ソリューション実現における役割を解説）
+   Source: Dow Chemical
+   Date: 2026-07-01
+   URL: https://corporate.dow.com/en-us/news/seek-together/data-center-liquid-cooling-telecommunications-infrastructure.html
+   Summary: Dow highlighted its materials science capabilities enabling data center liquid cooling,
+   including dielectric fluids for immersion cooling and heat-transfer fluids for direct-to-chip
+   systems. As AI workloads push rack densities to 50-120kW and beyond, Dow's specialty chemicals
+   provide critical performance characteristics for next-generation cooling architectures across
+   hyperscale and edge deployments.
+   【日本語訳】ダウ（Dow Chemical）が液浸冷却向け誘電流体やダイレクト・トゥ・チップ冷却向け熱移動流体
+   など、データセンター液冷技術を支える素材科学分野における同社の役割を紹介。AIワークロードがラック
+   密度を50〜120kW超に押し上げる中、ダウの特殊化学品はハイパースケールからエッジまで次世代冷却
+   アーキテクチャに不可欠な性能特性を提供するとしている。
+
+======================================================
+レポート生成日時: 2026-07-02
+対象期間: 2026-07-01 〜 2026-07-02
+※注記: 2026年7月1〜2日の日本語記事の一部（ITmedia記事は6月29日付）については、検索インデックスへの
+       掲載タイミングにより最新記事の取得が困難なため、直近の関連記事を併せて掲載しています。
+       英語記事はValar Atomics/NVIDIA核エネルギーデータセンターデモ（7月1日）を中心に構成しています。
