@@ -1,0 +1,136 @@
+データセンター冷却 日次ニュースレポート 2026-07-05
+======================================================
+
+【日本語ニュース】
+
+1. NVIDIA、45度液冷でAIデータセンターの施設冷却水をほぼゼロへ
+   媒体: XenoSpectrum
+   日付: 2026-06-22
+   URL: https://xenospectrum.com/nvidia-45c-liquid-cooling-ai-factory-water/
+   概要: NVIDIAが新世代AIインフラ「DSX AIファクトリー」向けに45°Cの液冷技術を発表。
+         コールドプレートに冷却液を45°Cで導入し55°Cで排出する完全密閉ループを採用し、
+         従来の蒸発式冷却塔を廃してオンサイトの冷却水消費をほぼゼロへ削減できると
+         した。GPUや全ネットワーク機器を液冷で統一し、ファンと冷却通路を完全廃止。
+
+------------------------------------------------------
+
+2. 富士電機、世界初のエジェクタ冷却機「FEC-200/FEC-250」を発売 ― データセンター冷却電力を最大85%削減
+   媒体: オートメーション新聞
+   日付: 2026-06-29
+   URL: https://www.automation-news.jp/2026/06/105287/
+   概要: 富士電機がサーバーの排熱をエネルギーとして再利用するコンプレッサレスの液冷用
+         「エジェクタ冷却機」を世界で初めて製品化し発売。独自開発の流体圧縮機（エジェクタ）
+         で冷媒ガスを圧縮・循環させることで、従来チラー比で消費電力を最大85%削減。
+         液冷データセンターの省エネ・低コスト化に貢献する技術として注目される。
+
+------------------------------------------------------
+
+3. NVIDIAの「水使用量ほぼゼロ」冷却技術、AIデータセンターの水問題解決には至らないとの指摘も
+   媒体: 財経新聞
+   日付: 2026-06-28
+   URL: https://www.zaikei.co.jp/article/20260628/858787.html
+   概要: NVIDIAの密閉ループ式液冷技術がオンサイト冷却水消費をほぼゼロに削減できる一方、
+         製造段階や間接的な水使用は依然残るとの指摘が相次いでいる。専門家は、AI全体の
+         水使用問題の解決には施設外も含めた水消費削減が不可欠と強調しており、インフラ
+         だけでなくバリューチェーン全体での取り組みが求められる。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. NVIDIA's New Liquid-Cooled Data Centers Are Running At An Unexpected Temperature
+   （NVIDIAの新型液冷データセンター、予想外の高温で稼働 ― 冷却革命として注目）
+   Source: BGR
+   Date: 2026-07-04
+   URL: https://www.bgr.com/2204460/nvidia-data-center-unexpected-temperature/
+   Summary: BGR reported on NVIDIA's DSX AI factories achieving 100% liquid cooling at 45°C
+            (113°F) — far above conventional standards of around 30°C. The closed-loop
+            system eliminates all on-site water evaporation; coolant enters chips at 45°C
+            and exits at 55°C with no fans or cold aisles anywhere in the facility. NVIDIA
+            claims every 1°F rise in operating temperature yields up to 5% energy savings,
+            with a 50 MW hyperscale facility projected to save over $4 million per year.
+   【日本語訳】BGRがNVIDIAのDSX AIファクトリーにおける100%液冷稼働（45°C / 113°F）を報道。
+   従来の業界標準（約30°C）を大幅に上回る温度で冷却液を導入し、密閉ループで全チップ・全ネット
+   ワーク機器を冷却。ファンと冷却通路を廃止した完全液冷設計を採用し、運用温度1°F上昇ごとに
+   エネルギーコストを最大5%削減できるとしている。50MWハイパースケール施設では年間400万ドル超の
+   コスト削減が見込まれる。
+
+------------------------------------------------------
+
+2. Ecolab Closes CoolIT Acquisition and Expands AI Cooling Platform; Global High-Tech Business Targets $4 Billion by 2030
+   （イーコラブ、CoolITシステムズ買収完了でAI液冷プラットフォームを拡充 ― 2030年に40億ドル目標）
+   Source: Ecolab
+   Date: 2026-07-02
+   URL: https://www.ecolab.com/media-center/news/ecolab-closes-coolit-acquisition-and-expands-ai-cooling-platform
+   Summary: Ecolab completed its $4.75 billion acquisition of CoolIT Systems ahead of schedule.
+            CoolIT is a pure-play liquid cooling company specializing in CDUs, cold plates, and
+            direct-to-chip cooling. CoolIT's year-to-date sales surged over 100% driven by AI
+            data center demand. Ecolab plans to integrate CoolIT's thermal engineering with its
+            water chemistry and digital monitoring capabilities to deliver an end-to-end
+            Cooling-as-a-Service platform, targeting $4 billion in Global High-Tech revenue by 2030.
+   【日本語訳】イーコラブが47.5億ドルでのCoolITシステムズ買収を予定より早く完了。CoolITはCDU・
+   コールドプレート・ダイレクト・トゥ・チップ冷却を専門とする液冷専業企業で、AIデータセンター需要
+   急増により年初来売上が前年比100%超を記録。イーコラブはCoolITの熱工学技術と自社の水処理化学・
+   デジタル監視技術を統合した「冷却サービス（CaaS）」プラットフォームを展開し、2030年にグローバル
+   ハイテク事業で40億ドル（約6,000億円）の売上を目指す。
+
+------------------------------------------------------
+
+3. Trane Launches HSWE Magnetic Bearing Chiller to Advance Data Center Cooling Across Asia Pacific
+   （トレーン、磁気軸受型チラー「HSWE」を発売 ― アジア太平洋データセンター冷却を強化）
+   Source: PR Newswire / Trane Technologies
+   Date: 2026-07-02
+   URL: https://www.prnewswire.com/apac/news-releases/trane-launches-hswe-magnetic-bearing-chiller-to-advance-data-center-cooling-across-asia-pacific-302816514.html
+   Summary: Trane Technologies launched the HSWE magnetic bearing centrifugal chiller designed
+            for high-demand data center applications in Asia Pacific. It offers a cooling
+            capacity of 600 to over 1,500 RT for data centers, restarts within 25 seconds
+            after power restoration, and reaches full load within 2 minutes — minimizing server
+            overheating risk. The oil-free magnetic-bearing design achieves ultra-high efficiency
+            for hyperscale and enterprise data centers.
+   【日本語訳】トレーン・テクノロジーズがアジア太平洋地区向けデータセンター専用の磁気軸受型遠心
+   チラー「HSWE」を発売。600〜1,500RT超の冷却容量を持ち、停電後25秒以内に再起動・2分でフル
+   負荷稼働を実現し、サーバー過熱リスクを最小化。オイル不要の磁気軸受方式により超高効率を達成し、
+   ハイパースケールから企業向けデータセンターまで幅広く対応する。
+
+------------------------------------------------------
+
+4. Rising AI and HPC Workloads Propel Demand for Liquid Cooling in European Data Centers
+   （AIおよびHPCワークロードの増大が欧州データセンターの液冷需要を加速）
+   Source: GlobeNewswire / Research and Markets
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320404/28124/en/Rising-AI-and-HPC-Workloads-Propel-Demand-for-Liquid-Cooling-in-European-Data-Centers.html
+   Summary: A new market report highlights accelerating demand for liquid cooling in European
+            data centers driven by AI and HPC infrastructure expansion. The European data center
+            construction market is projected to grow at a CAGR of 22.96% from 2025 to 2031.
+            Direct-to-chip and immersion cooling are emerging as the leading solutions for
+            AI-density thermal management, with Germany, UK, and France leading adoption.
+   【日本語訳】新市場レポートが欧州データセンターにおけるAI・HPC需要拡大に伴う液冷需要の加速を
+   報告。欧州データセンター建設市場は2025〜2031年にCAGR 22.96%での成長が見込まれる。ダイレクト・
+   トゥ・チップ冷却と液浸冷却が高密度AI用途の主力技術として台頭しており、ドイツ・英国・フランスが
+   欧州における液冷採用をリードしている。
+
+------------------------------------------------------
+
+5. Data Center Heat Exchangers Market Worth $14.40 Billion by 2032
+   （データセンター熱交換器市場、2032年に144億ドル規模へ ― CAGR 11.1%で成長）
+   Source: PR Newswire / MarketsandMarkets
+   Date: 2026-07-02
+   URL: https://www.prnewswire.com/news-releases/data-center-heat-exchangers-market-worth-14-40-billion-by-2032---exclusive-report-by-marketsandmarkets-302816722.html
+   Summary: MarketsandMarkets released a report projecting the data center heat exchangers
+            market to grow from $7.67 billion in 2026 to $14.40 billion by 2032 at an 11.1%
+            CAGR. Liquid-to-liquid and liquid-to-air heat exchangers are surging in demand as
+            AI infrastructure pushes rack power densities beyond 50kW, making efficient thermal
+            transfer solutions essential components in modern data center design.
+   【日本語訳】マーケッツアンドマーケッツがデータセンター熱交換器市場レポートを発表。市場規模は
+   2026年の76.7億ドルから2032年には144億ドルへ、CAGR 11.1%で拡大すると予測。AIインフラのラック
+   電力密度が50kWを超える中、液体対液体・液体対空気の熱交換器への需要が急増しており、効率的な
+   熱移送ソリューションがデータセンター設計の必須コンポーネントとなりつつある。
+
+======================================================
+レポート生成日時: 2026-07-05
+対象期間: 2026-07-04 〜 2026-07-05
+※注記: 2026年7月4日は米国独立記念日（祝日）のため英語圏での新規プレスリリースは少数でした。
+       英語記事は7月1〜4日の最新情報を中心に掲載。日本語記事は直近の主要ニュース（6月下旬）を
+       掲載しています。
