@@ -1,0 +1,116 @@
+データセンター冷却 日次ニュースレポート 2026-07-07
+======================================================
+
+【日本語ニュース】
+
+1. データセンター用バッテリー冷却システムの世界市場（2026年～2032年）、市場規模（空冷システム、液冷システム、ハイブリッド冷却システム）・分析レポートを発表
+   媒体: 株式会社マーケットリサーチセンター（atpress）
+   日付: 2026-07-06
+   URL: https://www.atpress.ne.jp/news/9527909
+   概要: 世界のデータセンター用バッテリー冷却システム（UPS冷却含む）の市場規模が2025年の
+         14億4,800万米ドルから2032年には34億700万米ドルへ、年平均成長率（CAGR）13.1%で
+         成長するとの調査資料を発表。AIサーバー急増に伴いUPSやバッテリーの発熱量が増大する
+         中、空冷・液冷・ハイブリッドの各方式が競合しながら市場を拡大している。バッテリー
+         温度管理の精緻化がデータセンターの信頼性向上と省エネ化の双方に不可欠な課題として
+         浮上している。
+
+------------------------------------------------------
+
+2. データセンター電力消費、26%増 26年世界予測、AI普及で
+   媒体: 日本経済新聞
+   日付: 2026-07-06
+   URL: https://www.nikkei.com/nkd/industry/article/?DisplayType=2&n_m_code=012&ng=DGKKZO97201160X20C26A6BZ0000
+   概要: 米調査会社ガートナーは、生成AIの急速な普及を受けて2026年の世界データセンター電力
+         消費量が前年比26%増の565テラワット時（TWh）に達するとの予測を発表。2030年には
+         1,200TWhを超えると見通し、冷却効率改善がコスト削減と環境負荷低減の主要手段として
+         注目される。日本でも2026年4月に施行された新規制により、PUE 1.4以下を目標とした
+         液体冷却・ハイブリッド冷却技術の導入が加速している。
+
+------------------------------------------------------
+
+3. 2026年のデータセンターの電力消費が26％増、565TWhに達すると予測
+   媒体: AI Watch（Impress Watch）
+   日付: 2026-07-06
+   URL: https://ai.watch.impress.co.jp/docs/news/2116862.html
+   概要: ガートナーの2026年データセンター電力消費予測（565TWh・前年比26%増）をAIビジネス
+         専門の観点から詳報。GPUサーバー高密度化により従来の空冷では対応困難なラック熱負荷
+         が常態化しており、直接液冷（DLC）や液浸冷却への移行が電力消費抑制の現実的手段と
+         して評価されている。日本企業によるデータセンター冷却技術への投資も急増していると
+         伝えている。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. The Data Center Water Problem Is Soluble
+   （データセンターの水問題は解決可能 ― 新技術と適切な政策でウォーターフットプリント削減は達成可能）
+   Source: ITIF (Information Technology and Innovation Foundation)
+   Date: 2026-07-06
+   URL: https://itif.org/publications/2026/07/06/the-data-center-water-problem-is-soluble/
+   Summary: A new ITIF policy analysis argues that hyperscaler data centers pose a less severe
+            threat to local water supplies than commonly portrayed, citing that Aurora's nine
+            existing data centers use just 0.3% of the city's water supply. New technologies
+            including near-zero-water closed-loop cooling and single-phase immersion now make
+            it possible to dramatically reduce direct water consumption, though two-phase systems
+            require 2–5x more capital than traditional cooling. The report calls for better
+            regulatory oversight and transparency rather than outright construction bans, noting
+            more than 40 data-center-related bills were enacted across US states in 2025.
+   【日本語訳】ITIFの新たな政策分析は、ハイパースケール型データセンターが地域の水資源に与える
+   脅威は一般的に語られるより小さいと論じており、オーロラ市の9施設が市の水使用量のわずか0.3%
+   しか消費していないことを例示している。クローズドループ冷却や単相液浸冷却など新技術により、
+   直接的な水消費を大幅削減することは技術的に可能になった。二相液浸は従来比2〜5倍の資本コスト
+   がかかる課題はあるが、報告書は建設禁止より透明性強化と規制整備が有効と主張する。
+
+------------------------------------------------------
+
+2. Data Centers: Daily Notes | July 6, 2026
+   （データセンター：2026年7月6日のデイリーニュースノート）
+   Source: Strisker Blog
+   Date: 2026-07-06
+   URL: https://writing.strisker.com/data-centers-daily-notes-july-6-2026/
+   Summary: A daily roundup of data center industry developments for July 6, 2026, aggregating
+            key news on cooling technology, power management, and infrastructure investment.
+            The edition covers the policy and operational responses to the ongoing US heatwave,
+            including data center operators switching to backup generators under federal directive.
+            It also highlights the accelerating adoption of liquid cooling solutions as AI rack
+            densities push beyond 100kW, and tracks legislative activity across multiple US
+            states regarding data center water use and energy impact.
+   【日本語訳】2026年7月6日のデータセンター業界の主要動向をまとめたデイリーノート。冷却技術・
+   電力管理・インフラ投資に関する幅広いニュースを集約している。連邦指令に基づくバックアップ発電機
+   への切り替えなど、熱波への政策・運用対応を取り上げる。AIラック密度が100kWを超える中、液冷
+   採用が加速している状況や、米国各州でのデータセンターの水・エネルギー使用に関する立法動向
+   についても報じている。
+
+------------------------------------------------------
+
+3. Rising AI and HPC Workloads Propel Demand for Liquid Cooling in European Data Centers
+   （AIとHPCワークロードの急増が欧州データセンターの液体冷却需要を牽引）
+   Source: GlobeNewswire
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320404/28124/en/Rising-AI-and-HPC-Workloads-Propel-Demand-for-Liquid-Cooling-in-European-Data-Centers.html
+   Summary: A new market research report highlights surging demand for liquid cooling in European
+            data centers driven by the rapid expansion of AI and high-performance computing (HPC)
+            workloads. European operators are prioritizing liquid cooling over traditional air
+            cooling due to its superior thermal management capabilities, with companies like Spode
+            Works Regeneration Ltd leading adoption of immersion and direct-to-chip solutions.
+            The European data center construction market is projected to grow at a CAGR of 22.96%
+            from 2025 to 2031, supported by stringent EU energy efficiency regulations pushing
+            operators toward liquid cooling adoption.
+   【日本語訳】新たな市場調査レポートが、AIとHPCワークロードの急速な拡大に伴い欧州データセンター
+   での液体冷却需要が急増していることを明らかにした。欧州オペレーターは優れた熱管理能力を持つ
+   液冷を空冷に代えて優先採用しており、液浸・直接液冷（DLC）ソリューションへの移行が進んでいる。
+   欧州データセンター建設市場は2025〜2031年に年平均成長率22.96%で拡大すると予測され、EU
+   エネルギー効率規制が液冷採用を後押ししている。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-07
+対象期間: 2026-07-06 〜 2026-07-07
+※注記: 2026年7月6〜7日の日本語ニュースとしては、市場調査レポートの発表（atpress）および
+       ガートナーの電力消費予測（日経・AI Watch）が主な記事として確認されました。英語記事は
+       ITIFによる政策レポート（7月6日）、Striskerデイリーノート（7月6日）を掲載し、欧州液冷
+       需要に関するGlobeNewswire（7月1日）も参考として含めています。米国熱波に伴うデータ
+       センター電力・冷却問題の深刻化が引き続き業界最大の話題となっています。
