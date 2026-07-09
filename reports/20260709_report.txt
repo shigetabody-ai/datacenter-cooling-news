@@ -1,0 +1,121 @@
+データセンター冷却 日次ニュースレポート 2026-07-09
+======================================================
+
+【日本語ニュース】
+
+1. パナソニックHD、データセンター冷却の新技術 消費電力60%減
+   媒体: 日本経済新聞
+   日付: 2026-07-09
+   URL: https://www.nikkei.com/article/DGXZQOUF075Y00X00C26A7000000/
+   概要: パナソニックHD傘下のパナソニックHVAC&CCが、AIデータセンター向けに消費電力を60%削減
+         できる新冷却技術を開発。オフィスビルやドーム球場で使われる「吸収式冷凍機（チラー）」の
+         技術を応用し、冷媒に水を使うシステムで、従来の電気式冷却と比べ大幅な省エネを実現する。
+
+------------------------------------------------------
+
+2. 化学メーカーの独Wacker、データセンター向け液浸冷却液「Helisol EC」を発売
+   媒体: クラウドWatch（Impress）
+   日付: 2026-07-09
+   URL: https://cloud.watch.impress.co.jp/docs/dccafe/2123570.html
+   概要: ドイツの化学メーカーWackerが、単相液浸冷却向けシリコンベース誘電冷却液「Helisol EC」を
+         新たに発表しデータセンター冷却市場に本格参入。高密度AIサーバーの冷却効率向上と、従来の
+         冷却液と比べた安全性・環境負荷低減を訴求している。
+
+------------------------------------------------------
+
+3. 世界のデータセンター向け液冷市場、爆発的な成長へ――2035年には418億ドルへ
+   媒体: 宮崎日日新聞DIGITAL（プレスリリース配信）
+   日付: 2026-07-08
+   URL: https://www.the-miyanichi.co.jp/pressrelease/dreamnews/889802.html
+   概要: 調査会社が発表した市場レポートによると、世界のデータセンター向け液冷市場は2025年時点で
+         約27億5,000万米ドルと評価され、2026〜2035年の年平均成長率（CAGR）31.28%を記録し
+         2035年には418億1,000万米ドルへ拡大すると予測。AI・HPCワークロードの急増が液冷需要を
+         牽引しており、アジア太平洋地域が最速の成長地域として注目されている。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. IT Availability Hosts Inaugural Cooling IT Government Summit 2026 to Advance Immersion Cooling Adoption Across Government IT
+   （IT Availability、政府IT全体への液浸冷却普及推進を目指す第1回Cooling IT政府サミット2026を開催）
+   Source: PR Newswire
+   Date: 2026-07-07
+   URL: https://www.prnewswire.com/news-releases/it-availability-hosts-inaugural-cooling-it-government-summit-2026-to-advance-immersion-cooling-adoption-across-government-it-302819748.html
+   Summary: IT Availability LLC held its inaugural Cooling IT Government Summit 2026 on July 7
+            at its R&D Center in Chantilly, Virginia, bringing together government officials and
+            industry partners to explore immersion cooling for next-generation government data
+            centers and AI infrastructure. Immersion cooling places IT hardware in dielectric fluid
+            to improve thermal performance, reduce energy demand, and address growing power, space,
+            and cooling constraints in federal IT environments.
+   【日本語訳】IT Availability LLCが7月7日、バージニア州チャンティリーの研究開発センターで第1回
+   Cooling IT政府サミット2026を開催。政府関係者と業界パートナーが一堂に会し、次世代政府系データ
+   センターとAIインフラ向けの液浸冷却技術を検討した。液浸冷却は誘電体液体にITハードウェアを浸す
+   方式で、熱的性能向上・エネルギー消費削減・連邦IT設備の電力・スペース・冷却制約への対応が期待
+   されている。
+
+------------------------------------------------------
+
+2. Key Data Center & Cloud Appointments (Q3 2026): Güntner Group Names Yan Evans as Managing Director, Global Data Center Business
+   （データセンター・クラウド業界の主要人事（2026年Q3）：GüntnerグループがYan Evansをグローバルデータセンター事業のMDに任命）
+   Source: Data Center Knowledge
+   Date: 2026-07-09
+   URL: https://www.datacenterknowledge.com/operations-and-management/leadership-updates-key-data-center-cloud-appointments-q3-2026-
+   Summary: Data Center Knowledge reports key industry appointments for Q3 2026. Güntner Group
+            named Yan Evans as Managing Director, Global Data Center Business, unifying activities
+            across both the Güntner and JAEGGI cooling brands as AI-driven demand for advanced
+            data center cooling solutions accelerates. Trane Technologies also appointed Donny
+            Simmons as Chief Operating Officer following its completion of the LiquidStack
+            acquisition, accelerating end-to-end liquid cooling solutions.
+   【日本語訳】Data Center Knowledgeが2026年Q3主要人事を報道。GüntnerグループはYan Evansをグローバル
+   データセンター事業マネージングダイレクターに任命し、GüntnerおよびJAEGGIの両冷却ブランドを統合指
+   揮する体制を整えた。またTrane TechnologiesはLiquidStack買収完了を受けてDonny Simmonsを最高執行
+   責任者（COO）に任命し、チップから中央プラントまでの統合液冷ソリューション展開を加速させている。
+
+------------------------------------------------------
+
+3. Rising AI and HPC Workloads Propel Demand for Liquid Cooling in European Data Centers
+   （AI・HPCワークロードの急増が欧州データセンターの液体冷却需要を押し上げ）
+   Source: GlobeNewswire
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320404/28124/en/Rising-AI-and-HPC-Workloads-Propel-Demand-for-Liquid-Cooling-in-European-Data-Centers.html
+   Summary: A new market research report highlights a significant surge in liquid cooling adoption
+            across European data centers, driven by the rapid escalation of AI and HPC workloads.
+            As rack densities increase beyond what air cooling can handle, European operators are
+            accelerating deployment of direct-to-chip and immersion cooling solutions. Energy
+            efficiency regulations in the EU are also pushing operators toward more advanced cooling
+            architectures to meet sustainability and PUE targets.
+   【日本語訳】新市場調査レポートが、AIおよびHPCワークロードの急速な拡大を背景に欧州データセンターで
+   液冷採用が大幅に増加していることを報告。ラック密度が空冷限界を超える中、欧州事業者は直接液冷（DLC）
+   や液浸冷却の導入を加速している。EUのエネルギー効率規制もPUEおよびサステナビリティ目標達成に向けた
+   高度冷却アーキテクチャへの移行を後押ししている。
+
+------------------------------------------------------
+
+4. US Data Center Construction Slows as Labor Shortage Limits Growth
+   （米国データセンター建設が減速：熟練労働者不足が成長を制約）
+   Source: Bloomberg
+   Date: 2026-07-08
+   URL: https://www.bloomberg.com/news/articles/2026-07-08/labor-crunch-tests-growth-limits-for-us-data-center-builders
+   Summary: Bloomberg reports that a critical skilled-labor shortage is slowing US data center
+            construction, testing the growth limits for craft-labor providers who build data
+            centers. With AI-driven demand for advanced cooling and power infrastructure
+            accelerating, the gap between planned capacity and available construction workforce
+            is widening, potentially delaying the deployment of next-generation cooling systems
+            and high-density AI compute facilities across the country.
+   【日本語訳】Bloombergが、熟練労働者不足により米国のデータセンター建設が減速していると報道。AI需要
+   に伴う高度冷却・電力インフラの急拡大を受け、計画キャパシティと建設可能な労働力の乖離が拡大しており、
+   次世代冷却システムや高密度AIコンピュート施設の全米展開に遅延が生じる可能性が指摘されている。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-09
+対象期間: 2026-07-08 〜 2026-07-09
+※注記: 日本語記事はパナソニックHDの新冷却技術（日経、7月9日）、独Wackerの液浸冷却液発売
+       （クラウドWatch、7月9日）、世界液冷市場規模予測レポート（宮崎日日新聞、7月8日）を
+       収録しました。英語記事は対象期間（7月8〜9日）のBloomberg建設労働者不足報道（7月8日）、
+       DCK Q3人事（7月9日）と近接記事としてPR NewswireのCooling IT政府サミット（7月7日）、
+       GlobeNewswireの欧州液冷需要レポート（7月1日）を収録しています。
+       AIサーバー高密度化に伴う冷却技術革新と液冷市場の急拡大が引き続き業界の主要テーマです。
