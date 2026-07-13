@@ -1,0 +1,131 @@
+データセンター冷却 日次ニュースレポート 2026-07-13
+======================================================
+
+【日本語ニュース】
+
+1. NTTデータとダイキン工業、AIでサーバー内部の熱状態を予測しデータセンター冷却を最適化する共同検証を開始
+   媒体: クラウドWatch（Impress）
+   日付: 2026-06-29
+   URL: https://cloud.watch.impress.co.jp/docs/news/2120885.html
+   概要: NTTデータとダイキン工業が、AIを活用してサーバー内部の熱状態を予測するデータセンター
+         向け次世代冷却最適化ソリューションの共同検証を開始。AIサーバーの高発熱・大きな負荷
+         変動に対応するため、NTTデータの運用ノウハウとダイキンの空調AI制御技術を組み合わせ、
+         安定運用と省エネを両立させる次世代冷却を実現。2027年度の商用化をめざす。
+
+------------------------------------------------------
+
+2. AIでサーバー内部の熱状態予測 データセンター向け次世代冷却を検証 NTTデータとダイキン
+   媒体: 電波新聞デジタル
+   日付: 2026-07-12
+   URL: https://dempa-digital.com/article/719294
+   概要: 電波新聞がNTTデータとダイキン工業の共同検証を詳報。NTTデータのデータセンターにおいて
+         サーバーの熱状態をAIで予測し空調設備を制御する実証を2026年7月〜2027年3月にかけて実施。
+         エネルギー効率の向上と運用自動化の効果を検証する内容が伝えられている。
+
+------------------------------------------------------
+
+3. AI時代のデータセンターは「冷やす能力」がカギを握る。次世代インフラの核心とは何か？
+   媒体: 東洋経済オンライン（ダイキン工業 提供）
+   日付: 2026-07-13
+   URL: https://toyokeizai.net/articles/-/940636
+   概要: 生成AIの急速な普及により、データセンターのサーバー1ラックあたりの発熱量が従来の約10倍
+         （150〜200kW）に増加。次世代AIサーバーでは将来的に600kW超も予測される中、水冷・液浸
+         冷却など液冷技術の採用が急務となっており、「冷やす能力」がデータセンター選択の重要指標
+         になってきていると解説している。
+
+------------------------------------------------------
+
+4. データセンター冷却の日本市場（2026年〜2034年）市場調査レポート
+   媒体: アットプレス / NEWSCAST（プレスリリース配信）
+   日付: 2026-07-12
+   URL: https://newscast.jp/news/1946495
+   概要: 国内データセンター冷却市場は2025年に約28億米ドル規模に達し、2034年までに約72億米ドルへ
+         拡大する見込みで、年平均成長率（CAGR）11.02%を記録すると予測。生成AIの普及を背景に
+         した高密度AIサーバー導入加速が、空調・冷却ユニット・冷却塔などの需要を大きく押し上げる
+         主要因として分析されている。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Cooling vendor Wafr Technologies raises $100m - report
+   （冷却スタートアップWafr Technologies、AIデータセンターの水使用量95%削減技術に1億ドル調達）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-07-03
+   URL: https://www.datacenterdynamics.com/en/news/cooling-vendor-wafr-technologies-raises-100m-report/
+   Summary: Canadian cooling startup Wafr Technologies reports raising $100 million toward a $300
+            million fundraising target to develop its water-efficient thermal battery cooling system
+            for AI data centers. The technology claims to reduce AI data center water use by up to
+            95% and cooling power use by up to 80%, by storing cooling capacity when grid power is
+            cheaper and releasing it during peak demand periods.
+   【日本語訳】カナダの冷却スタートアップWafr Technologiesが、AIデータセンター向け水効率熱電池
+   冷却システム開発に向けた総額3億ドルの資金調達目標のうち1億ドルを確保。データセンターの水使用量
+   を最大95%、冷却電力を最大80%削減するとされ、グリッド電力が安価な時間帯に冷却キャパシティを蓄積し、
+   需要ピーク時に放出するサーマルバッテリー方式を採用している。
+
+------------------------------------------------------
+
+2. Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem
+   （NvidiaはAIデータセンターの水使用削減を目指しているが、AI全体の水問題の解決とは別の話）
+   Source: TechCrunch
+   Date: 2026-06-22
+   URL: https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/
+   Summary: TechCrunch examines Nvidia's warm-water liquid cooling for its Rubin-generation AI
+            data centers, which promises to eliminate virtually all water use inside the facility
+            by running coolant loops at 45°C. The article notes that while this approach is more
+            water-efficient within the building, broader AI-related water usage in power generation
+            and semiconductor manufacturing remains a significant environmental challenge.
+   【日本語訳】NvidiaのRubinジェネレーション向け温水液冷システム（冷却液を45℃で循環）は施設内の
+   水使用量をほぼゼロにするとされる革新的技術だが、TechCrunchは電力発電や半導体製造に伴う水使用など
+   AIシステム全体の水利用課題は別途残ると指摘。業界全体の持続可能性に向けたより包括的なアプローチが
+   必要だと論じている。
+
+------------------------------------------------------
+
+3. New Data Center Developments: July 2026
+   （新規データセンター動向：2026年7月版）
+   Source: Data Center Knowledge
+   Date: 2026-07-12
+   URL: https://www.datacenterknowledge.com/data-center-construction/new-data-center-developments-july-2026
+   Summary: Data Center Knowledge's monthly roundup of new data center developments for July 2026
+            highlights significant infrastructure expansions across the US, including Microsoft's
+            $3.3 billion facility coming fully online in Wisconsin. Cooling infrastructure
+            investments are a major theme as operators address the growing thermal management
+            demands of AI workloads and increasing power density, with liquid cooling deployment
+            accelerating across new builds.
+   【日本語訳】Data Center Knowledgeが2026年7月の新規データセンター開発動向をまとめた月次レポートを
+   掲載。ウィスコンシン州でMicrosoftの33億ドル規模施設が本格稼働した事例など米国各地の大規模インフラ
+   拡張を伝えるとともに、AIワークロードの高密度化に対応するための冷却設備投資の拡大と、新設施設での
+   液冷導入加速についても詳細に報告している。
+
+------------------------------------------------------
+
+4. Rising AI and HPC Workloads Propel Demand for Liquid Cooling in European Data Centers
+   （AI・HPCワークロードの急増が欧州データセンターの液体冷却需要を押し上げ）
+   Source: GlobeNewswire
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320404/28124/en/Rising-AI-and-HPC-Workloads-Propel-Demand-for-Liquid-Cooling-in-European-Data-Centers.html
+   Summary: A new market research report highlights a significant surge in liquid cooling adoption
+            across European data centers, driven by the rapid escalation of AI and HPC workloads.
+            As rack densities increase beyond what air cooling can handle, European operators are
+            accelerating deployment of direct-to-chip and immersion cooling solutions. EU energy
+            efficiency regulations are also pushing operators toward advanced cooling architectures
+            to meet sustainability and PUE targets.
+   【日本語訳】新市場調査レポートが、AIおよびHPCワークロードの急速な拡大を背景に欧州データセンターで
+   液冷採用が大幅に増加していることを報告。ラック密度が空冷限界を超える中、欧州事業者は直接液冷（DLC）
+   や液浸冷却の導入を加速している。EUのエネルギー効率規制もPUEおよびサステナビリティ目標達成に向けた
+   高度冷却アーキテクチャへの移行を後押ししている。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-13
+対象期間: 2026-07-12 〜 2026-07-13
+※注記: 日本語記事はNTTデータ・ダイキン工業の冷却最適化共同検証（電波新聞7/12、クラウドWatch6/29）、
+       東洋経済オンラインのAIデータセンター冷却解説（7/13）、国内冷却市場レポート（NEWSCAST7/12）
+       を収録しました。英語記事はカナダ冷却スタートアップWafrの1億ドル調達（DCD、7/3）、Nvidia温水
+       液冷に関するTechCrunch分析（6/22）、DCK7月新規DC動向まとめ（7/12）、欧州液冷需要レポート
+       （GlobeNewswire、7/1）を収録しています。
+       AIサーバーの高密度化に伴う液冷技術の本格普及と、水使用効率の向上が主要テーマとなっています。
