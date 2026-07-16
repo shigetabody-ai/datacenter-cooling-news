@@ -1,0 +1,143 @@
+データセンター冷却 日次ニュースレポート 2026-07-16
+======================================================
+
+【日本語ニュース】
+
+1. 三菱重工とNVIDIA、AIデータセンター冷却で連携 10MW級冷凍機を米国へ
+   媒体: マイナビTECHPLUS
+   日付: 2026-07-16
+   URL: https://news.mynavi.jp/techplus/article/20260716-4707639/
+   概要: 三菱重工業がNVIDIA Partner Networkの「Power & Cooling」カテゴリに参画し、
+         AIデータセンター向け冷却事業を強化すると発表。10MW級ターボ冷凍機の試験機を
+         米国向けに出荷（ジョージア州ブランズウィック港に7月到着予定）し、ターボ冷凍機・
+         ポンプ・熱交換器・制御装置を統合したモジュラーチラープラント（MCP）の開発も
+         推進。急増するAIデータセンターの冷却需要を取り込む総合冷却戦略を本格化。
+
+------------------------------------------------------
+
+2. NVIDIAと三菱重工、AIデータセンターで提携 次世代冷却技術で
+   媒体: 日本経済新聞
+   日付: 2026-07-16
+   URL: https://www.nikkei.com/article/DGXZQOUC104V50Q6A710C2000000/
+   概要: 三菱重工業がNVIDIAと次世代AI工場の電力・冷却技術開発で提携を締結。
+         120kWを超える高密度AIラックの熱管理を可能にする日本の省エネ冷凍技術を
+         NVIDIA DSXの展開に活用し、AIデータセンターが直面する電力効率と冷却能力の
+         課題に対する解決策を共同開発する計画を明らかにした。
+
+------------------------------------------------------
+
+3. 「サーバー冷却」が２０位、三菱重とエヌビディアの提携で話題＜注目テーマ＞
+   媒体: 株探ニュース
+   日付: 2026-07-15
+   URL: https://kabutan.jp/news/marketnews/?b=n202607150599
+   概要: 三菱重工業とNVIDIAがAIデータセンター向け冷却・電力技術で協力するとの
+         報道を受け、株式市場の注目テーマランキングで「サーバー冷却」が20位にランク
+         イン。空調・液冷・水処理など関連銘柄への投資関心が一気に高まっており、
+         AIデータセンターインフラ整備の加速を見込んだ動きとして注目される。
+
+------------------------------------------------------
+
+4. 三菱重工、NVIDIAとAIデータセンター向け冷却事業を強化、10MW級冷凍機を米国へ
+   媒体: 日本インタビュ新聞（media-ir.com）
+   日付: 2026-07-16
+   URL: https://www.media-ir.com/news/?p=176029
+   概要: 三菱重工業がAIデータセンター向け冷却事業の強化とNVIDIA Partner Network参画を
+         発表。10MW級ターボ冷凍機の米国への出荷と、統合型モジュラーチラープラント
+         （MCP）の開発推進により、次世代AI基盤の電力・熱管理需要を取り込む戦略を
+         明らかにした。高密度GPUラックへの対応力を強化し、グローバル展開を加速させる。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. AI Rack Limits Exposed: Cooling, 800VDC, and Fiber at Data Center Insights 2026 Today
+   （AIラックの限界が露わに：Data Center Insights 2026で冷却・800VDC・光ファイバーが焦点に）
+   Source: TechTimes
+   Date: 2026-07-15
+   URL: https://www.techtimes.com/articles/320529/20260715/ai-rack-limits-exposed-cooling-800vdc-fiber-data-center-insights-2026-today.htm
+   Summary: Data Center Insights 2026, a two-day virtual conference running July 15–16, convened
+            industry experts to address critical infrastructure challenges for AI data centers, with
+            GPU thermal design power approaching the 1,000-watt-per-chip threshold. Key sessions
+            covered liquid cooling solutions from Accelsius, CoolIT Systems, Panduit, and Munters,
+            as well as 800VDC power architecture for megawatt-class racks with NVIDIA's Mike Tu and
+            Schneider Electric's Jim Simonelli. Experts emphasized that infrastructure decisions made
+            now will lock in operational efficiency and expansion capability for the next 10–15 years.
+   【日本語訳】7月15〜16日開催の仮想カンファレンス「Data Center Insights 2026」で、GPU熱設計電力が
+   1,000W/チップに迫る中、AIデータセンターのインフラ課題が集中議論された。AccelsiusやCoolIT
+   Systems、Panduit、Muntersによる液冷セッションと、NVIDIAとSchneider Electricによるメガワット級
+   ラック向け800VDCアーキテクチャが主要テーマ。今の選択が今後10〜15年の運用効率を左右すると強調された。
+
+------------------------------------------------------
+
+2. MHI Advances AI Infrastructure Commercialization with U.S. Deployment of 10MW-Class Chiller
+   and MCP Development
+   （三菱重工、10MW級冷凍機の米国展開とMCP開発でAI基盤事業を前進）
+   Source: Mitsubishi Heavy Industries (Official Press Release)
+   Date: 2026-07-16
+   URL: https://www.mhi.com/news/260716.html
+   Summary: Mitsubishi Heavy Industries announced the shipment of its 10MW-class centrifugal chiller
+            test unit to the United States, expected to arrive at the Port of Brunswick, Georgia in
+            July 2026, targeting next-generation high-density AI workloads. MHI joined the NVIDIA
+            Partner Network as a Power & Cooling Partner to jointly develop power and cooling
+            technologies supporting NVIDIA DSX. The company is simultaneously advancing its Modular
+            Chiller Plant (MCP), which integrates turbo chillers, pumps, heat exchangers, and control
+            equipment for scalable and energy-efficient on-site installation.
+   【日本語訳】三菱重工業は10MW級ターボ冷凍機の試験機を米国向けに出荷（ジョージア州ブランズウィック
+   港へ7月到着予定）し、次世代高密度AIワークロードへの対応を強化。NVIDIA Partner Networkに
+   Power & Cooling Partnerとして参画し、NVIDIA DSXを支える電力・冷却技術を共同開発する。また、
+   ターボ冷凍機・ポンプ・熱交換器・制御装置を統合したMCP（モジュラーチラープラント）の開発も推進している。
+
+------------------------------------------------------
+
+3. Heat Dome Forces Data Centers Onto Diesel as Smoke Grounds Northeast Flights
+   （熱波でデータセンターがディーゼル発電に 煙霧で北東部の航空便も運休）
+   Source: TechTimes
+   Date: 2026-07-15
+   URL: https://www.techtimes.com/articles/320665/20260715/heat-dome-forces-data-centers-diesel-smoke-grounds-northeast-flights.htm
+   Summary: A record-breaking heat dome affecting more than 250 million Americans triggered a federal
+            grid emergency order, forcing data centers drawing 50+ MW to switch to diesel backup
+            generators under PJM Interconnection's emergency directive. AI data center cooling loads
+            peaked simultaneously with the heat wave's grid strain, while wildfire smoke grounded
+            flights across the Northeast, compounding national infrastructure pressure. Environmental
+            and health concerns intensified as diesel emissions from data center generators were
+            authorized to exceed EPA pollution thresholds during the declared emergency.
+   【日本語訳】2億5,000万人以上に影響する記録的な熱波でPJMの連邦グリッド緊急令が発動され、
+   50MW超の大口需要家（データセンター等）に対し15分以内の非常用ディーゼル発電機への切り替えが
+   命令された。AIデータセンターの冷却負荷が熱波によるグリッド逼迫と同時にピークを迎え、山火事の
+   煙霧による北東部の運航停止も重なり、インフラへの複合的な負担が深刻化した。緊急令の下でEPA
+   基準を超えるディーゼル排出が許可され、地域住民から健康・環境への懸念の声が相次いだ。
+
+------------------------------------------------------
+
+4. Data Center Insights 2026 Brings Industry Leaders Together for a Two-Day Look at the AI
+   Infrastructure Era
+   （Data Center Insights 2026、AIインフラ時代を見据えた業界リーダーが2日間集結）
+   Source: Data Center Frontier
+   Date: 2026-07-15
+   URL: https://www.datacenterfrontier.com/press-releases/article/55384832/data-center-insights-2026-brings-industry-leaders-together-for-a-two-day-look-at-the-ai-infrastructure-era
+   Summary: Data Center Frontier's Data Center Insights 2026 virtual conference (July 15–16, 11 AM
+            to 3:30 PM ET each day) brought together operators, architects, and engineers to address
+            AI infrastructure strategy. Sessions featured liquid cooling technologies, 800VDC power
+            systems, and high-density fiber connectivity, with speakers from Accelsius, CoolIT
+            Systems, NVIDIA, Schneider Electric, Munters, and Panduit. The event stressed the urgency
+            of sustainable, scalable cooling architectures as rack densities for AI workloads continue
+            to exceed traditional air-cooling limits.
+   【日本語訳】Data Center Frontierが主催する「Data Center Insights 2026」仮想カンファレンス（7月
+   15〜16日、東部時間11:00〜15:30）で、AIインフラ戦略をテーマにオペレーター・アーキテクト・
+   エンジニアが一堂に会した。AccelsiusやCoolIT Systems、NVIDIA、Schneider Electric、Munters、
+   Panduitの登壇者が液冷技術・800VDC電源・高密度光ファイバー接続を解説。AIワークロードの
+   ラック密度が空冷限界を超え続ける中、持続可能でスケーラブルな冷却アーキテクチャの緊急性が強調された。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-16
+対象期間: 2026-07-15 〜 2026-07-16
+※注記: 日本語記事は三菱重工業とNVIDIAのAIデータセンター冷却事業提携（7/16）を中心に、
+       マイナビTECHPLUS、日本経済新聞、株探ニュース、日本インタビュ新聞の計4件を収録。
+       英語記事はData Center Insights 2026カンファレンス（7/15〜16）の液冷・800VDC議論
+       （TechTimes、Data Center Frontier）、三菱重工業公式プレスリリース（MHI、7/16）、
+       米国熱波によるデータセンターのディーゼル切り替え問題（TechTimes、7/15）の計4件を収録。
+       三菱重工×NVIDIAの提携と、熱波に象徴される冷却需要の構造的増大が本日の主要テーマ。
