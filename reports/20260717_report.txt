@@ -1,0 +1,136 @@
+データセンター冷却 日次ニュースレポート 2026-07-17
+======================================================
+
+【日本語ニュース】
+
+1. パナソニックHD、データセンター冷却の新技術 消費電力60%減
+   媒体: 日本経済新聞
+   日付: 2026-07-07
+   URL: https://www.nikkei.com/article/DGXZQOUF075Y00X00C26A7000000/
+   概要: パナソニックHDのHVAC&CC事業部が、AIデータセンター向け新冷却技術を開発と発表。
+         オフィスビルやドーム球場向けに採用される吸収式冷凍機の技術を応用し、水を
+         冷媒として活用することで、従来の電気式冷却に比べ消費電力を約60%削減できる。
+         急増するGPUサーバーの発熱に対応した省エネソリューションとして注目を集めている。
+
+------------------------------------------------------
+
+2. 三菱重工、データセンターの安定稼働を維持しながら冷却に使うエネルギーの削減を達成しPUEの改善を実証
+   媒体: 日本経済新聞（プレスリリース）
+   日付: 2026-07-09
+   URL: https://www.nikkei.com/article/DGXZRSP709660_Z00C26A7000000/
+   概要: 三菱重工業が稼働中のデータセンターにてマルチベンダー構成の冷却設備を一元管理・
+         最適制御する技術を検証し、冷却エネルギーを2.3%削減してPUEの改善を達成と発表。
+         システムの安定稼働を維持しながら省エネ化を実現できることを実証し、増加する
+         AIデータセンターの電力効率改善ニーズに応える実績を示した。
+
+------------------------------------------------------
+
+3. NTTデータとダイキン工業、AIでサーバー内部の熱状態を予測しデータセンター冷却を最適化する共同検証を開始
+   媒体: クラウド Watch（Impress）
+   日付: 2026-06-29
+   URL: https://cloud.watch.impress.co.jp/docs/news/2120885.html
+   概要: NTTデータとダイキン工業が、AIを用いてサーバー内部の熱状態を予測する次世代
+         冷却最適化ソリューションの共同検証を2026年7月より開始。間接データからAIが
+         熱状態を推定し、空調・熱源・液冷設備を統合制御することで安定稼働とエネルギー
+         最適化を両立させる手法を確立。2027年度の商用化を目指して検証を進める。
+
+------------------------------------------------------
+
+4. ダイキン工業、AIデータセンター向け大型圧縮機を日本主導で開発
+   媒体: ダイキン工業（公式サイト）
+   日付: 2026-06-30
+   URL: https://www.daikin.co.jp/tic/topics/feature/2026/20260630
+   概要: ダイキン工業がAIデータセンター向け大型圧縮機を日本主導で開発し量産化を推進。
+         スタートアップ買収で得たサーバー冷却装置・チップ液冷装置を2026年春より量産、
+         AWS・Google・Microsoftなどのハイパースケーラーへの採用拡大を目指す。日本の
+         冷凍サイクル技術を核に据えたグローバル展開戦略を本格始動させた。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Supermicro Expands End-to-End DCBBS Liquid Cooling Portfolio with Rear Door Heat Exchangers for High-Density AI and HPC Infrastructure
+   （スーパーマイクロ、高密度AI・HPC向けリアドア熱交換器でDCBBS液冷ポートフォリオを拡張）
+   Source: PR Newswire
+   Date: 2026-07-15
+   URL: https://www.prnewswire.com/news-releases/supermicro-expands-end-to-end-dcbbs-liquid-cooling-portfolio-with-rear-door-heat-exchangers-for-high-density-ai-and-hpc-infrastructure-302825872.html
+   Summary: Super Micro Computer announced the expansion of its Rear Door Heat Exchanger (RDHx)
+            portfolio, adding ten new models with cooling capacities from 10kW to 120kW per door,
+            enabling up to 240kW per rack when integrated with Direct-to-Chip cooling systems.
+            Compatible with standard EIA, ORv3, and MGX racks, the solutions feature intelligent
+            fan control, N+1 redundancy, and anti-condensation protection. The expansion allows
+            data center operators to deploy validated, high-density AI rack-scale cooling without
+            requiring major infrastructure overhauls.
+   【日本語訳】スーパーマイクロが、高密度AI・HPCインフラ向けにリアドア熱交換器（RDHx）ポートフォリオ
+   を拡張し、1ドアあたり10〜120kWの冷却能力を持つ10モデルを追加。ダイレクト・トゥ・チップ冷却との
+   併用でラックあたり最大240kWの冷却が可能となる。EIA・ORv3・MGX準拠ラックに対応し、インテリジェント
+   ファン制御とN+1冗長性を搭載。既存インフラを大規模改修せずに高密度AIラック向け液冷を導入できる。
+
+------------------------------------------------------
+
+2. Rising Heat, Humidity Threatens Cheaper AI Data Center Cooling Methods
+   （気温・湿度の上昇がAIデータセンターの低コスト冷却手法を脅かす）
+   Source: University of Hawaiʻi System News
+   Date: 2026-07-13
+   URL: https://www.hawaii.edu/news/2026/07/13/ai-data-center-cooling/
+   Summary: Researchers at the University of Hawaii found that rising global temperatures and
+            humidity are significantly reducing the hours when direct air cooling — one of the
+            cheapest data center cooling methods — is viable. Over the past 45 years, conditions
+            that prevent effective air cooling have increased substantially, particularly in tropical
+            regions and the southeastern United States. As AI data centers expand into these
+            climate-stressed regions, the shift toward more expensive liquid cooling and
+            refrigeration-based systems is becoming economically unavoidable.
+   【日本語訳】ハワイ大学の研究チームが、地球規模の気温・湿度上昇により、最もコストが低いデータセンター
+   冷却手法である外気直接冷却の有効時間が大幅に減少していると報告。特に熱帯地域と米国南東部で過去45年間
+   この傾向が顕著。AI時代に急増するデータセンターはより高コストな液冷・冷凍機式への移行を経済的に
+   余儀なくされつつあるとしている。
+
+------------------------------------------------------
+
+3. Rising AI and HPC Workloads Propel Demand for Liquid Cooling in European Data Centers
+   （AI・HPCワークロード増大が欧州データセンターにおける液冷需要を急拡大）
+   Source: GlobeNewswire
+   Date: 2026-07-01
+   URL: https://www.globenewswire.com/news-release/2026/07/01/3320404/28124/en/Rising-AI-and-HPC-Workloads-Propel-Demand-for-Liquid-Cooling-in-European-Data-Centers.html
+   Summary: A new market report highlights surging demand for liquid cooling in European data
+            centers, driven by AI and HPC workload growth pushing GPU rack densities to 60–80kW
+            and beyond — well past the limits of traditional air cooling. Regulatory pressure for
+            energy efficiency in the EU, combined with massive AI infrastructure investment, is
+            accelerating adoption of direct-to-chip and immersion cooling at a pace exceeding
+            the global average. Market analysts project Europe's liquid cooling segment will be
+            among the fastest-growing regions through 2030.
+   【日本語訳】新たな市場調査レポートが欧州データセンターにおける液冷需要の急拡大を報告。AI・HPC
+   ワークロードの増大でGPUラック密度が60〜80kWを超え、従来の空冷では対応不可能になりつつある。
+   EU内でのエネルギー効率規制とAIインフラ投資が相乗的に作用し、直接チップ冷却・液浸冷却の採用
+   ペースが世界平均を上回っている。欧州の液冷市場は2030年に向けて最も高成長が見込まれる地域となる。
+
+------------------------------------------------------
+
+4. Data Centers: Daily Notes | July 16, 2026
+   （データセンター：日次ノート ｜ 2026年7月16日）
+   Source: Strisker (writing.strisker.com)
+   Date: 2026-07-16
+   URL: https://writing.strisker.com/data-centers-daily-notes-july-16-2026/
+   Summary: The July 16 edition of this data center industry daily digest covers accelerating
+            pressure on cooling infrastructure as AI deployments push rack densities beyond the
+            limits of conventional air cooling. Developments in liquid cooling technology, energy
+            efficiency standards, and capacity planning are highlighted as data center operators
+            across North America, Europe, and Asia-Pacific navigate unprecedented thermal
+            management challenges driven by the rapid proliferation of GPU-dense AI workloads.
+   【日本語訳】2026年7月16日付のデータセンター業界日次ダイジェスト。AIデプロイメントの加速でラック
+   密度が従来型空冷の限界を超え、冷却インフラへの圧力が高まっていることを特集。液冷技術・エネルギー
+   効率基準・キャパシティ計画の最新動向をまとめ、北米・欧州・アジア太平洋のデータセンター事業者が
+   直面するGPU高密度化による未曾有の熱管理課題の現状を俯瞰している。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-17
+対象期間: 2026-07-16 〜 2026-07-17
+※注記: 日本語記事はパナソニックHDの新冷却技術（7/7）、三菱重工のPUE改善実証（7/9）、
+       NTTデータとダイキンの冷却最適化共同検証（6/29発表・7月開始）、ダイキン大型圧縮機
+       開発（6/30）の4件を収録。英語記事はスーパーマイクロのRDHx液冷ポートフォリオ拡張
+       （7/15）、ハワイ大学の気候変動と冷却コスト研究（7/13）、欧州液冷需要調査（7/1）、
+       データセンター日次ダイジェスト（7/16）の4件を収録。
