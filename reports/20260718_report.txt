@@ -1,0 +1,115 @@
+データセンター冷却 日次ニュースレポート 2026-07-18
+======================================================
+
+【日本語ニュース】
+
+1. パナソニックHD、データセンター冷却の新技術 消費電力60%減
+   媒体: 日本経済新聞
+   日付: 2026-07-17
+   URL: https://www.nikkei.com/article/DGXZQOUF075Y00X00C26A7000000/
+   概要: パナソニックHVAC&CC社がAIデータセンター向けに吸収式冷凍機技術を応用した
+         新型冷却システムを発表。冷媒に水を使い気化熱を最大限に活用することで従来の
+         電気式冷凍機に比べて消費電力を約60%削減できる。生成AI需要急増によるGPUサーバー
+         の発熱深刻化を受け、廃熱を吸収式サイクルで回収・利用する省エネ手法が日本独自の
+         解決策として国内外で注目を集めている。
+
+------------------------------------------------------
+
+2. AIを支える電力：バークレイズが推奨するデータセンター冷却関連株トップ銘柄
+   媒体: Investing.com（日本語版）
+   日付: 2026-07-17
+   URL: https://jp.investing.com/news/stock-market-news/article-93CH-1485447
+   概要: バークレイズが生成AI需要の急拡大を背景に高成長するデータセンター冷却市場に着目し、
+         投資家向けに有望銘柄のトップリストを公開。GPU消費電力の増大により液冷・空調・
+         熱管理分野の需要が今後数年で倍増すると予測する中、機関投資家のデータセンター
+         インフラ関連株への関心が一層高まっていると分析している。
+
+------------------------------------------------------
+
+3. NTTデータとダイキン、AIでサーバー内部の熱状態を予測しデータセンター冷却を最適化する共同検証を開始
+   媒体: NTTデータグループ プレスリリース
+   日付: 2026-07-01
+   URL: https://www.nttdata.com/global/ja/news/release/2026/062900/
+   概要: NTTデータとダイキン工業がAIを活用してサーバー内部の熱状態をリアルタイムで予測し、
+         冷却設備を自動制御する次世代ソリューションの共同検証を2026年7月から開始。
+         NTTデータのデータセンターに適用し、2027年3月まで省エネルギー効果・電力コスト
+         削減効果・運用自動化の有効性を検証する計画。PUE（電力使用効率）の抜本的改善が狙い。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Rising Heat and Humidity Threatens Cheaper AI Data Center Cooling Methods
+   （気温・湿度の上昇が安価なAIデータセンター冷却手法を脅かす）
+   Source: University of Hawaiʻi System News
+   Date: 2026-07-13
+   URL: https://www.hawaii.edu/news/2026/07/13/ai-data-center-cooling/
+   Summary: University of Hawaiʻi researchers found that rising heat and humidity are
+            increasingly threatening "direct air free cooling," one of the cheapest and
+            most energy-efficient data center cooling approaches. Over the past 45 years,
+            the number of high-temperature and high-humidity hours has grown significantly,
+            particularly in the tropics and southeastern US. The findings indicate that
+            climate change is undermining the siting and cooling model of data centers,
+            which was designed for average conditions that are rapidly disappearing,
+            accelerating the business case for transition to liquid cooling.
+   【日本語訳】ハワイ大学の研究者らが、気温と湿度の上昇により「外気直接冷却（フリー
+   クーリング）」の利用可能時間が急減していると警告。過去45年で高温多湿条件の時間数が
+   増加し、特に熱帯・米南東部で傾向が顕著。データセンターの立地・冷却設計の前提となる
+   「平均的な気候条件」が気候変動で崩れつつあると指摘し、液冷への早期移行を後押しする
+   重要な研究として注目される。
+
+------------------------------------------------------
+
+2. Dutch Science Organization TNO Seeks CEO to Lead New Spin-Out Cooling Business
+   （オランダTNOが新スピンアウト冷却企業CoolMicroのCEOを公募）
+   Source: Data Center Dynamics
+   Date: 2026-07-16
+   URL: https://www.datacenterdynamics.com/en/news/dutch-science-organization-tno-seeks-ceo-to-lead-new-spin-out-cooling-business/
+   Summary: Dutch scientific research organization TNO has spun out CoolMicro, a new
+            company commercializing a microfluidic thermal management technology for
+            next-generation AI, HPC, and semiconductor applications. By leveraging
+            phase-change cooling at the microscale, CoolMicro addresses the critical
+            heat removal bottleneck increasingly common in high-density AI data centers.
+            TNO is seeking a technically-driven CEO to steer the technology roadmap
+            and build a team to grow the company into a global cooling solutions provider.
+   【日本語訳】オランダの科学技術研究機関TNOが、マイクロ流体熱管理技術を事業化する
+   新会社「CoolMicro」を設立。マイクロスケールでの相変化を活用し、次世代AI・HPC・
+   半導体向けの高効率熱除去を実現する技術を保有。高密度AIデータセンターで深刻化する
+   熱管理ボトルネックを解消する革新的アプローチとして注目されており、TNOは技術ロード
+   マップを牽引するCEO候補者を公募中。
+
+------------------------------------------------------
+
+3. Data Centers: Weekly Briefing // July 13 - July 17, 2026
+   （データセンター週報：2026年7月13〜17日）
+   Source: The Strisker
+   Date: 2026-07-17
+   URL: https://writing.strisker.com/data-centers-weekly-briefing-july-13-july-17-2026/
+   Summary: The weekly data center industry briefing covering July 13-17, 2026
+            summarizes a pivotal week shaped by AI infrastructure demands and extreme
+            weather events. Major stories include the Mitsubishi Heavy Industries and
+            NVIDIA Power & Cooling partnership for 10MW-class chiller deployment in
+            the US, the US heat dome pushing data center cooling loads to record levels,
+            and liquid cooling discussions at the Data Center Insights 2026 conference.
+            Enterprise data center operators are accelerating the shift from air to
+            liquid cooling as GPU rack densities approach and exceed 100kW thresholds.
+   【日本語訳】2026年7月13〜17日の週次データセンター業界ブリーフィング。AIインフラ
+   需要と異常気象が交錯した激動の1週間をまとめた。三菱重工業とNVIDIAのPower & Cooling
+   連携による10MW級冷凍機の米国展開、熱ドームによるデータセンター冷却負荷の記録的急増、
+   Data Center Insights 2026カンファレンスでの液冷議論が主要トピック。GPUラック密度が
+   100kWを超える中、空冷から液冷へのシフトが業界全体で加速している現状を総括した。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-18
+対象期間: 2026-07-17 〜 2026-07-18
+※注記: 日本語記事はパナソニックHDの吸収式冷却新技術60%削減（Nikkei、7/17）、
+       バークレイズによるデータセンター冷却関連株推奨分析（Investing.com、7/17）、
+       NTTデータ×ダイキンの熱状態AI予測共同検証開始（NTT DATA、7/1）の3件を収録。
+       英語記事は気候変動による外気冷却利用可能時間減少（ハワイ大学、7/13）、
+       TNO CoolMicroマイクロ流体冷却スピンアウト（DCD、7/16）、
+       週次業界ブリーフィング7/13〜17（The Strisker、7/17）の3件を収録。
+       パナソニックの省エネ吸収式冷却技術と、気候変動・液冷シフト加速が本日の主要テーマ。
