@@ -1,0 +1,123 @@
+データセンター冷却 日次ニュースレポート 2026-07-19
+======================================================
+
+【日本語ニュース】
+
+1. データセンター建設に米で抗議 42州で、保守系団体主導
+   媒体: ライブドアニュース
+   日付: 2026-07-18
+   URL: https://news.livedoor.com/article/detail/31863215/
+   概要: 米国の保守系市民団体が主導し、全米42州142カ所でデータセンター建設に反対する
+         抗議運動が同時開催。AIブームによる急拡大するデータセンターの冷却水大量消費が
+         招く水不足と、空調・サーバー稼働による電力需要急増が引き起こす電気代高騰への
+         市民の懸念が主な背景。ニューヨーク州知事がデータセンター建設許可手続きを最大
+         1年間凍結する行政命令に署名し、連邦政府との対立が深まっている。
+
+------------------------------------------------------
+
+2. 三菱重工とNVIDIA、AIデータセンター冷却で連携 10MW級冷凍機を米国へ
+   媒体: TECH+（テックプラス）／マイナビ
+   日付: 2026-07-16
+   URL: https://news.mynavi.jp/techplus/article/20260716-4707639/
+   概要: 三菱重工業がNVIDIAのパートナーネットワーク「Power & Cooling」カテゴリに正式参画し、
+         AIファクトリー向け冷却事業を本格強化すると発表。10MW級ターボ冷凍機の試験機を
+         米国市場向けに出荷し、モジュラーチラープラント（MCP）の量産体制を整備する。
+         AI専用ラックが空冷では対応不能な120kWを超える熱密度に達する中、日本の大型
+         産業用冷凍機技術がAIデータセンター（AIファクトリー）冷却の世界標準として台頭。
+
+------------------------------------------------------
+
+3. NVIDIAと三菱重工、AIデータセンターで提携 次世代冷却技術で
+   媒体: 日本経済新聞
+   日付: 2026-07-14
+   URL: https://www.nikkei.com/article/DGXZQOUC104V50Q6A710C2000000/
+   概要: NVIDIAと三菱重工業がAIデータセンター（AIファクトリー）の冷却・電力管理技術で
+         包括提携を締結。NVIDIAが世界各地で整備する次世代AI拠点に三菱重工の冷却システム
+         導入を検討し、大規模AIサーバー群が生む膨大な廃熱を産業用ターボ冷凍機で処理する
+         計画。生成AIの急速な普及でGPUサーバーラックの発熱が従来の空冷システムの限界を
+         超えつつある中、日本の産業機械技術が世界的に注目を集めている。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Data Center Direct-to-Chip Cooling Market Worth $17.31 Billion by 2032, at 26.5% CAGR, Says MarketsandMarkets
+   （データセンター・ダイレクト・トゥ・チップ冷却市場、2032年に173億ドル規模へ　年平均26.5%成長）
+   Source: GlobeNewswire / MarketsandMarkets
+   Date: 2026-07-17
+   URL: https://www.globenewswire.com/news-release/2026/07/17/3329159/0/en/data-center-direct-to-chip-cooling-market-worth-17-31-billion-by-2032-at-26-5-says-marketsandmarkets.html
+   Summary: MarketsandMarkets projects the Data Center Direct-to-Chip (D2C) Cooling Market to
+            grow from USD 3.33 billion in 2026 to USD 17.31 billion by 2032, registering a CAGR
+            of 26.5% over the forecast period, driven by AI GPU thermal design power nearing
+            the 1,000-watt-per-chip threshold that renders air cooling physically inadequate.
+            Cold plate-based direct-to-chip liquid cooling, which delivers coolant directly to
+            individual processors via precision microchannels, is becoming the dominant thermal
+            management technology as hyperscalers scale megawatt-class AI clusters. North
+            America leads adoption, with cloud and AI hyperscalers accelerating procurement of
+            D2C cooling infrastructure to meet GPU rack density demands exceeding 100kW.
+   【日本語訳】MarketsandMarketsの調査によると、データセンターのダイレクト・トゥ・チップ
+   (D2C)冷却市場は2026年の33億3000万ドルから2032年に173億1000万ドルへ年平均26.5%成長
+   する見通し。AIのGPU熱設計電力が1チップあたり1000ワットに迫り空冷が物理的限界に達す
+   る中、コールドプレートによるプロセッサ直接液冷が主流技術として浮上。100kW超に達した
+   AIラック密度への対応でハイパースケーラーのD2C液冷調達が急加速している。
+
+------------------------------------------------------
+
+2. Supermicro Expands End-to-End Liquid Cooling Portfolio with Rear Door Heat Exchangers for High-Density AI and HPC Infrastructure
+   （スーパーマイクロ、高密度AI・HPC向け液冷ポートフォリオをリアドア熱交換器10機種に拡充）
+   Source: PR Newswire / Super Micro Computer
+   Date: 2026-07-15
+   URL: https://www.prnewswire.com/news-releases/supermicro-expands-end-to-end-dcbbs-liquid-cooling-portfolio-with-rear-door-heat-exchangers-for-high-density-ai-and-hpc-infrastructure-302825872.html
+   Summary: Super Micro Computer announced 10 new Rear Door Heat Exchanger (RDHx) models
+            supporting cooling capacities of 10kW to 120kW per rack (max 240kW at rack level),
+            compatible with standard EIA, ORv3, and MGX racks for seamless integration into
+            existing data center infrastructure without major facility modifications. The RDHx
+            expansion enables operators to deploy liquid cooling as an overlay on legacy
+            air-cooled systems, providing a cost-effective air-to-liquid migration path for
+            enterprise and hyperscale AI deployments exceeding 100kW rack densities. Supermicro
+            positions the portfolio as part of its comprehensive DCBBS (Data Center Building
+            Block Solutions) liquid cooling strategy for the growing AI infrastructure market.
+   【日本語訳】スーパーマイクロがリアドア熱交換器（RDHx）液冷ポートフォリオを10機種に拡充。
+   1ラックあたり10〜120kW（最大240kW）の冷却能力を提供し、既存標準ラックへの後付けが
+   可能なため大規模インフラ改修不要で空冷から液冷への移行が実現できる。100kWを超える
+   AIラック密度急増に対応した企業・ハイパースケーラー向けハイブリッド液冷基盤として
+   位置付けられており、DCBBSソリューションの一環として提供される。
+
+------------------------------------------------------
+
+3. AI Rack Limits Exposed: Cooling, 800VDC, and Fiber at Data Center Insights 2026
+   （AIラック限界が浮き彫りに：Data Center Insights 2026で冷却・800VDC・ファイバーを議論）
+   Source: TechTimes
+   Date: 2026-07-15
+   URL: https://www.techtimes.com/articles/320529/20260715/ai-rack-limits-exposed-cooling-800vdc-fiber-data-center-insights-2026-today.htm
+   Summary: Data Center Insights 2026 virtual conference brought together practitioners to address
+            long-term infrastructure challenges as GPU thermal design power closes in on the
+            1,000-watt-per-chip threshold, making air cooling physically inadequate for modern
+            high-density AI clusters generating heat loads exceeding 100kW per rack. Sessions
+            covered liquid cooling chemistry, 800VDC power architecture for megawatt racks, and
+            800G fiber validation, emphasizing that decisions made in 2026 carry 10-to-15-year
+            infrastructure consequences. Industry data cited at the conference showed 36% of
+            data center operators have already deployed liquid cooling, with another 28% planning
+            adoption within 24 months, signaling a rapid shift from air to liquid thermal
+            management across the industry.
+   【日本語訳】Data Center Insights 2026バーチャルカンファレンスが、GPU熱設計電力が
+   1000ワット/チップに迫りAI高密度ラック100kW超の空冷限界が明確になりつつある現状を
+   議論。液冷の化学組成・メガワットラック向け800VDCアーキテクチャ・800Gファイバー検証
+   など、2026年の設計判断が10〜15年後のインフラを規定すると強調。データセンター事業者の
+   36%がすでに液冷を展開し28%が24ヶ月以内の採用を計画しており、業界全体で空冷から
+   液冷へのシフトが加速していることが確認された。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-07-19
+対象期間: 2026-07-18 〜 2026-07-19
+※注記: 日本語記事は米国データセンター建設反対抗議（livedoor、7/18）、三菱重工・NVIDIA
+       Power & Coolingパートナー参画・10MW冷凍機展開（TECH+、7/16）、日経スクープの
+       三菱重工・NVIDIA AIデータセンター提携（Nikkei、7/14）の3件を収録。
+       英語記事はD2C液冷市場2032年173億ドル予測（GlobeNewswire/MarketsandMarkets、7/17）、
+       スーパーマイクロRDHx液冷10機種拡充（PRNewswire、7/15）、Data Center Insights 2026
+       でのAIラック冷却限界議論（TechTimes、7/15）の3件を収録。
+       三菱重工・NVIDIAのAIファクトリー冷却連携と液冷市場加速が本日の主要テーマ。
