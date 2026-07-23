@@ -1,0 +1,133 @@
+データセンター冷却 日次ニュースレポート 2026-07-23
+======================================================
+
+【日本語ニュース】
+
+1. データ拠点 水使い冷却 パナHD系 消費電力60%削減
+   媒体: 日本経済新聞
+   日付: 2026-07-22
+   URL: https://www.nikkei.com/article/DGKKZO97462530Z00C26A7TB3000/
+   概要: パナソニックHD系が吸収式冷凍機技術を応用したAIデータセンター向け新冷却
+   システムを開発。冷媒に水を使い、従来の電気式と比べ消費電力を60%削減できる。
+   データセンター消費電力の約4割を占める冷却コストの大幅削減が期待される。
+
+------------------------------------------------------
+
+2. TDKや出光の参入で活況、データセンターの冷却8兆円市場
+   媒体: 日本経済新聞
+   日付: 2026-07-23
+   URL: https://www.nikkei.com/article/DGXZQOUC111ZA0R10C26A7000000/
+   概要: 生成AIの普及でデータセンターの電力需要が急拡大するなか、TDKや出光興産
+   など異業種大手が冷却市場に参入し活況を呈している。市場規模は約8兆円に達する
+   見込みで、空冷から液冷へのシフトが急加速している。
+
+------------------------------------------------------
+
+3. 配管大手Georg Fischer、2026年上半期の液冷関連受注が倍増と発表
+   媒体: Data Center Café（日本語）
+   日付: 2026-07-22
+   URL: https://cafe-dc.com/energy/piping-specialist-georg-fischer-sees-liquid-cooling-orders-double-in-first-half-of-2026/
+   概要: スイスの配管大手ゲオルク・フィッシャー（GF）が2026年上半期の業績を発表し、
+   データセンター向けダイレクト・トゥ・チップ液冷システムの受注が前年同期比で
+   ほぼ倍増したことが判明。AI需要拡大による液冷インフラ投資の加速が業績を牽引した。
+
+------------------------------------------------------
+
+4. オランダのデータセンターで電力・冷却システムに障害、Google Cloudでサービス停止
+   媒体: クラウドWatch（Impress）
+   日付: 2026-07-22
+   URL: https://cloud.watch.impress.co.jp/docs/dccafe/2127024.html
+   概要: Googleのオランダ（europe-west4）データセンターで停電と冷却システムの連鎖
+   障害が発生し、VMware EngineやBare Metal Solutionなどが約15時間停止した。電力
+   グリッドの電気的障害が冷却設備を停止させ、サーバー保護シャットダウンを誘発した。
+
+======================================================
+
+【English News】
+
+1. Exclusive: OpenAI's Australian Data Centre Drops Water Recycling Plan
+   （OpenAIのオーストラリア・データセンター、再生水冷却計画を断念）
+   Source: Reuters / 93.3 The Drive
+   Date: 2026-07-22
+   URL: https://www.933thedrive.com/2026/07/22/exclusive-openais-australian-data-centre-drops-water-recycling-plan-testing-a-drive-to-curb-resource-use/
+   Summary: Reuters exclusively reported that OpenAI's planned 612MW data center in Sydney
+   (developed by NextDC) has abandoned plans to cool servers using recycled sewage water
+   after failing to secure planning permission for the required pipeline. The facility will
+   instead use a closed-loop liquid cooling system that circulates coolant around chips,
+   significantly reducing water use but requiring considerably more electricity.
+   【日本語訳】ロイターが独占報道。シドニーのOpenAI向けデータセンター（NextDC建設）が、
+   パイプライン建設の許可を得られず再生下水を用いた冷却計画を断念。密閉型液冷システム
+   に変更され、水使用量は削減されるものの電力消費は増加する見通しで、持続可能性を
+   めぐる議論を呼んでいる。
+
+------------------------------------------------------
+
+2. OpenAI-Backed Australian Data Center Drops Recycled Water Cooling Plan, Raising Sustainability Concerns
+   （OpenAI支援のオーストラリア・データセンター、再生水冷却断念で持続可能性に懸念）
+   Source: [your]NEWS
+   Date: 2026-07-23
+   URL: https://yournews.com/2026/07/23/7124751/openai-backed-australian-data-center-drops-recycled-water-cooling-plan-raising/
+   Summary: Follow-up coverage of the OpenAI/NextDC Sydney data center story highlights the
+   sustainability trade-offs of the cooling strategy change. NextDC CEO Craig Scroggie
+   acknowledged the merit of recycled water cooling but cited infrastructure constraints.
+   New South Wales regulations require a PUE limit of 1.3 and water consumption disclosure,
+   putting additional pressure on the project's environmental commitments.
+   【日本語訳】OpenAI支援のシドニー・データセンターに関するロイター報道への続報。
+   NextDCのスクロジーCEOが再生水冷却の有効性を認めつつもインフラ上の制約を説明した。
+   ニューサウスウェールズ州はPUE 1.3以下と水使用量の開示を義務付けており、
+   プロジェクトの環境目標への影響が注目されている。
+
+------------------------------------------------------
+
+3. Piping Specialist Georg Fischer Sees Liquid Cooling Orders Double in First Half of 2026
+   （配管大手ゲオルク・フィッシャー、2026年上半期の液冷受注が倍増）
+   Source: Data Center Dynamics (DCD)
+   Date: 2026-07-21
+   URL: https://www.datacenterdynamics.com/en/news/piping-specialist-georg-fischer-sees-liquid-cooling-orders-double-in-first-half-of-2026/
+   Summary: Swiss piping specialist Georg Fischer (GF) reported in its H1 2026 results that
+   year-on-year orders for direct-to-chip (DTC) liquid cooling systems nearly doubled,
+   driven by the AI data center buildout. The company's LiquidCore modular piping system
+   launched in November 2025 has seen strong hyperscaler demand, prompting GF to raise
+   its full-year outlook.
+   【日本語訳】スイスの配管専門企業ゲオルク・フィッシャーが2026年上半期の業績を
+   発表し、データセンター向けDTC液冷システムの受注が前年同期比でほぼ倍増した。
+   2025年11月に発売したモジュール式「LiquidCore」システムへの需要が旺盛で、
+   通期見通しを上方修正した。
+
+------------------------------------------------------
+
+4. Google Cloud Outage Shows It's Still Hard to Understand Hyperscalers' Real Resilience Regimes
+   （Google Cloud障害、ハイパースケーラーの真の冗長性評価の難しさを露わに）
+   Source: The Register
+   Date: 2026-07-21
+   URL: https://www.theregister.com/off-prem/2026/07/21/google-cloud-outage-shows-its-still-hard-to-understand-hyperscalers-real-resilience-regimes/5275405
+   Summary: In-depth analysis of Google's europe-west4 (Netherlands) data center outage
+   caused by an upstream power grid fault that simultaneously took down cooling
+   infrastructure, resulting in a 14+ hour service disruption. The incident sparked
+   broader debate about how cooling system failures can cascade and whether published
+   SLAs reflect the true resilience of hyperscale infrastructure.
+   【日本語訳】Googleのオランダ（europe-west4）データセンターでの停電と冷却障害を
+   詳細分析した記事。電力グリッドの障害が冷却設備を連鎖停止させ15時間超の
+   サービス停止を引き起こした。公表されているSLAが実際の冗長性を反映しているかを
+   問う議論に発展している。
+
+------------------------------------------------------
+
+5. Data Center Direct-to-Chip Cooling Market Worth $17.31 Billion by 2032, at 26.5% CAGR
+   （データセンター向けダイレクト・トゥ・チップ冷却市場、2032年に173億ドル規模へ）
+   Source: GlobeNewswire (MarketsandMarkets)
+   Date: 2026-07-17
+   URL: https://www.globenewswire.com/news-release/2026/07/17/3329159/0/en/data-center-direct-to-chip-cooling-market-worth-17-31-billion-by-2032-at-26-5-says-marketsandmarkets.html
+   Summary: MarketsandMarkets projects the Data Center Direct-to-Chip Cooling Market will
+   grow from USD 3.33 billion in 2026 to USD 17.31 billion by 2032, representing a CAGR
+   of 26.5%. The rapid rise of AI/ML workloads, GPU-dense rack configurations, and
+   tightening energy efficiency regulations are driving adoption of direct-to-chip cooling
+   over traditional air cooling solutions.
+   【日本語訳】MarketsandMarketsの調査によると、データセンター向けダイレクト・トゥ・
+   チップ冷却市場は2026年の33億3000万ドルから2032年には173億1000万ドルへ成長（CAGR
+   26.5%）。AI・ML処理需要の急増とGPU高密度ラック構成、エネルギー効率規制の強化が
+   液冷採用を加速させている。
+
+======================================================
+レポート生成日時: 2026-07-23
+対象期間: 2026-07-22 〜 2026-07-23
