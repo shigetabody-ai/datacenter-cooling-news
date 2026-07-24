@@ -1,0 +1,118 @@
+データセンター冷却 日次ニュースレポート 2026-07-24
+======================================================
+
+【日本語ニュース】
+
+1. NY州、知事が大規模データセンター新設1年停止命令 全米で初
+   媒体: 日本経済新聞
+   日付: 2026-07-15
+   URL: https://www.nikkei.com/article/DGXZQOGN14CF70U6A710C2000000/
+   概要: ニューヨーク州のキャシー・ホークル知事が、電力使用量50MW超の大規模
+   データセンター新設を最長1年間停止する命令に署名した。AIデータセンターの急増が
+   電力消費・水使用量の急拡大と電気代高騰を招くとして規制を強化。州全体の停止措置
+   は全米初となり、他州の政策立案にも影響を与えるとして注目されている。
+
+------------------------------------------------------
+
+2. こう暑いとデータセンターの冷却もままならなくなるのですね。今後どうなる？
+   媒体: ギズモード・ジャパン
+   日付: 2026-07-17
+   URL: https://www.gizmodo.jp/article/the-cheapest-way-to-cool-data-centers-wont-work-in-a-warmer-world/
+   概要: 気温・湿度の上昇により、外気を取り込む「直接外気冷却（フリークーリング）」
+   というデータセンターの低コスト・省水型冷却方式が、気候変動の進行に伴い有効に
+   機能しなくなるリスクが高まっているとの研究結果が紹介された。過去45年間で
+   冷却困難な気象条件が増加しており、AI需要増を背景にした液冷化への移行が急務と
+   なっている。
+
+------------------------------------------------------
+
+3. トランプ大統領がAIデータセンター向け電力確保公約を拡大、23州知事・187社署名
+   媒体: ライブドアニュース / 各メディア
+   日付: 2026-07-23
+   URL: https://news.livedoor.com/topics/detail/31827155/
+   概要: トランプ米大統領がAIデータセンター向け電力・エネルギーインフラの整備費用を
+   テック企業・電力会社が自ら負担するとする公約を拡大発表した。23州知事とNextEra
+   Energy、Duke Energy、Equinix等187社が署名。消費者保護の実効性を疑問視する声も
+   上がっており、電気料金が2026年に5.1%上昇する見込みの中、影響が注視されている。
+
+======================================================
+
+【English News】
+
+1. Google to Use Air-Cooling at Future Botetourt County Data Center
+   （グーグル、バージニア州ボテトート郡データセンターで空冷方式を採用へ）
+   Source: WDBJ7
+   Date: 2026-07-23
+   URL: https://www.wdbj7.com/2026/07/23/google-use-air-cooling-future-botetourt-county-data-center/
+   Summary: Google announced it will use air-cooling technology for the first of three
+   planned buildings at its Botetourt Center at Greenfield data center campus in Virginia,
+   switching from the originally planned water-cooling approach. The change will significantly
+   reduce water withdrawals from Carvins Cove reservoir, potentially eliminating the need
+   for up to 2 million gallons of water per day. However, local residents and environmental
+   researchers raised concerns about increased noise and heat discharge associated with
+   air-cooling systems.
+   【日本語訳】グーグルが米バージニア州ボテトート郡のグリーンフィールド・データセンター
+   キャンパスにおいて、第1棟の冷却方式を水冷から空冷（電気式冷却）に変更すると発表した。
+   カービンズ・コーブ貯水池からの取水量が大幅に削減される一方、騒音や廃熱の増加を
+   懸念する地元住民や環境研究者からの声も上がっている。
+
+------------------------------------------------------
+
+2. Google to Use Electric Cooling Instead of Water in at Least 1 of 3 Data Centers on Botetourt Campus
+   （グーグル、ボテトート郡データセンター3棟のうち少なくとも1棟で水冷から電気冷却に変更）
+   Source: Cardinal News
+   Date: 2026-07-23
+   URL: https://cardinalnews.org/2026/07/23/google-to-use-electric-cooling-instead-of-water-in-at-least-1-of-3-data-centers-on-botetourt-campus/
+   Summary: Cardinal News reported additional context on Google's cooling plan revision at
+   Botetourt Center. Under the original agreement, Google was permitted to draw up to 2
+   million gallons of water per day initially, with an option to request up to 8 million
+   gallons. With air-cooling replacing water-cooling in Building 1, those water figures
+   are expected to drop substantially. Cooling strategies for Buildings 2 and 3 remain
+   under evaluation, with Google maintaining close coordination with the Western Virginia
+   Water Authority.
+   【日本語訳】グーグルはボテトート郡データセンターにおいて、当初は1日最大200万ガロン
+   の取水を予定していたが、第1棟の空冷化により水需要が大幅に減少する見通し。第2棟・
+   第3棟の冷却方式は引き続き検討中で、西バージニア水道局と継続的に協議している。
+
+------------------------------------------------------
+
+3. Trump Pledge on Data Center Power Supplies Draws Skepticism
+   （トランプ大統領のデータセンター電力供給公約に懐疑的な見方）
+   Source: AP / KFGO News
+   Date: 2026-07-24
+   URL: https://kfgo.com/2026/07/24/trump-pledge-on-data-center-power-supplies-draws-skepticism/
+   Summary: President Trump announced an expansion of a voluntary pledge at an EPA event
+   attended by Republican governors, power CEOs and data center developers, in which U.S.
+   utilities and data center operators commit to fund or build their own energy infrastructure
+   to meet massive AI-related power demands. The pledge has been signed by 23 governors and
+   187 companies including NextEra Energy, Duke Energy, Equinix, and Digital Realty.
+   Consumer advocacy groups dismissed the pledge as non-binding and ineffective, warning
+   residential electricity prices are projected to rise 5.1% in 2026.
+   【日本語訳】トランプ大統領がEPAのイベントでAIデータセンター向け電力インフラの
+   整備費用をテック企業と電力会社が自己負担する公約の拡大を発表した。23州知事と
+   187社が署名したが、消費者団体は非拘束的な取り決めに過ぎないと批判。2026年の
+   家庭向け電気料金は5.1%上昇の見込みで、AIデータセンターの電力需要急増が
+   消費者に転嫁されることへの懸念が高まっている。
+
+------------------------------------------------------
+
+4. AI Data Centers Push Liquid Cooling Into Core Infrastructure
+   （AIデータセンターが液体冷却をコアインフラへと押し上げる）
+   Source: Digitimes
+   Date: 2026-07-21
+   URL: https://www.digitimes.com/news/a20260721PD233/data-liquid-cooling-infrastructure-demand-cooling.html
+   Summary: Rising AI computing demand is transforming liquid cooling from a premium niche
+   option into a standard core infrastructure element for high-power AI racks and newly
+   built facilities. As cloud providers ramp up shipments of ASIC AI servers with integrated
+   liquid cooling in 2026, liquid-cooled AI server penetration rates are expected to surpass
+   50%. Next-generation AI racks could reach 370kW, making air cooling physically inadequate
+   and pushing the industry toward direct-to-chip and immersion cooling architectures.
+   【日本語訳】AI計算需要の急増により、液体冷却が高性能AIラックの標準コアインフラへと
+   移行しつつある。クラウドプロバイダーが2026年にASIC AI サーバーの液冷対応出荷を
+   加速するなか、液冷AIサーバーの普及率は50%超が見込まれる。次世代AIラックは
+   370kWに達する可能性があり、空冷では物理的に限界となるため、ダイレクト・トゥ・
+   チップや液浸冷却への全面移行が加速している。
+
+======================================================
+レポート生成日時: 2026-07-24
+対象期間: 2026-07-23 〜 2026-07-24
