@@ -1,0 +1,97 @@
+データセンター冷却 日次ニュースレポート 2026-07-26
+======================================================
+
+【日本語ニュース】
+
+1. TDKや出光の参入で活況、データセンターの冷却8兆円市場
+   媒体: 日本経済新聞
+   日付: 2026-07-11
+   URL: https://www.nikkei.com/article/DGXZQOUC111ZA0R10C26A7000000/
+   概要: TDKや出光興産などの大手企業がデータセンター向け冷却市場に相次いで参入し、
+   活況を呈している。AI向けGPUの普及でサーバーの発熱量が急増するなか、国内外の
+   データセンター冷却市場は8兆円規模に達する見通しで、空冷から液冷へのシフトが
+   加速し、素材・設備・冷媒など多分野からの新規参入が増加している。
+
+------------------------------------------------------
+
+2. パナソニックHD、データセンター冷却の新技術 消費電力60%減
+   媒体: 日本経済新聞
+   日付: 2026-07-09
+   URL: https://www.nikkei.com/article/DGXZQOUF075Y00X00C26A7000000/
+   概要: パナソニックホールディングス傘下のパナソニックHVAC&CCが、AIデータセンター向け
+   の新冷却技術を開発したと発表。オフィスビルやドーム球場などで実績のある吸収式冷凍機
+   （チラー）の技術を応用し、水を冷媒として使用することで従来の電気式冷却方式に比べ
+   消費電力を60%削減できる。今後の実用化・商品化に向けた取り組みが加速する見通し。
+
+------------------------------------------------------
+
+3. データ拠点 水使い冷却 パナHD系 消費電力60%削減
+   媒体: 日本経済新聞（電子版）
+   日付: 2026-07-10
+   URL: https://www.nikkei.com/article/DGKKZO97462530Z00C26A7TB3000/
+   概要: パナソニックHD系のパナソニックHVAC&CCが開発した水を使った新冷却技術の詳細が
+   報じられた。真空状態の空間で水が低温蒸発する際の気化熱を活用する方式を採用しており、
+   冷媒に水を用いるため環境負荷が低い点も評価される。AI需要の急拡大が続くデータセンター
+   の省エネ化に向け、国内外への展開が注目されている。
+
+======================================================
+
+【English News】
+
+1. Data Center Direct-to-Chip Coolants Market to Grow USD 1.30 Billion by 2032 at a CAGR of 38.6%
+   （データセンター向けダイレクト・トゥ・チップ冷媒市場、2032年に13億ドル規模へ―年平均38.6%成長）
+   Source: GlobeNewswire / MarketsandMarkets
+   Date: 2026-07-24
+   URL: https://www.globenewswire.com/news-release/2026/07/24/3332926/0/en/Data-Center-Direct-to-Chip-Coolants-Market-to-Grow-USD-1-30-Billion-by-2032-at-a-CAGR-of-38-6-MarketsandMarkets.html
+   Summary: The global Data Center Direct-to-Chip Coolants Market is projected to grow from
+   USD 0.18 billion in 2026 to USD 1.30 billion by 2032, representing a CAGR of 38.6%.
+   Surging GPU rack densities and AI-driven power requirements are accelerating adoption of
+   direct liquid cooling, with specialized coolants playing an increasingly critical role in
+   thermal performance, hardware longevity, and overall data center energy efficiency.
+   【日本語訳】世界のデータセンター向けダイレクト・トゥ・チップ冷媒市場は、2026年の
+   1億8000万ドルから2032年には13億ドルへと拡大し、年平均成長率38.6%が見込まれる。
+   AIワークロードによるGPUの高密度化と電力需要の急増が直接液冷の採用を加速しており、
+   専用冷媒の重要性が熱管理・機器耐久性・省エネの観点から一段と高まっている。
+
+------------------------------------------------------
+
+2. Coolant Distribution Unit for Data Centers Market Size to Reach USD 3.9 Billion by 2034, Growing at a 21.8% CAGR
+   （データセンター向け冷媒分配ユニット（CDU）市場、2034年に39億ドル規模へ―年平均21.8%成長）
+   Source: GlobeNewswire / IntelMarketResearch
+   Date: 2026-07-23
+   URL: https://www.globenewswire.com/news-release/2026/07/23/3332274/0/en/coolant-distribution-unit-for-data-centers-market-size-to-reach-usd-3-9-billion-by-2034-growing-at-a-21-8-cagr-driven-by-rising-data-center-cooling-demand-according-to-intelmarketr.html
+   Summary: The worldwide Coolant Distribution Unit (CDU) market for data centers is in a
+   new growth phase as hyperscale operators, colocation providers, and enterprises shift from
+   conventional air cooling to advanced liquid cooling infrastructure. Driven by AI, HPC,
+   cloud expansion, and next-generation processors, CDUs are becoming a core architectural
+   component of modern high-density data centers, with the market forecast to reach
+   USD 3.9 billion by 2034 at a CAGR of 21.8%.
+   【日本語訳】ハイパースケール事業者・コロケーション事業者・企業が空冷から液冷インフラへ
+   移行する中、データセンター向けCDU（冷媒分配ユニット）市場が新たな成長局面を迎えている。
+   AI・HPC・クラウド・次世代プロセッサの需要を背景に、CDUは高密度データセンターの
+   コアコンポーネントとなりつつあり、市場規模は年平均成長率21.8%で2034年に39億ドルに
+   達すると予測されている。
+
+------------------------------------------------------
+
+3. Data Center Direct-to-Chip Cooling Market Worth $17.31 Billion by 2032 at 26.5% CAGR
+   （データセンター向けダイレクト・トゥ・チップ冷却市場、2032年に173億ドル規模へ―年平均26.5%成長）
+   Source: GlobeNewswire / MarketsandMarkets
+   Date: 2026-07-17
+   URL: https://www.globenewswire.com/news-release/2026/07/17/3329159/0/en/data-center-direct-to-chip-cooling-market-worth-17-31-billion-by-2032-at-26-5-says-marketsandmarkets.html
+   Summary: The global Data Center Direct-to-Chip Cooling Market is projected to reach
+   USD 17.31 billion by 2032, growing at a CAGR of 26.5%, according to MarketsandMarkets.
+   GPU thermal design power (TDP) approaching 1,000 watts per chip is making air cooling
+   physically inadequate for high-density AI clusters, driving widespread migration to
+   direct-to-chip liquid cooling. Hyperscalers and colocation providers are accelerating
+   deployments of cold plate and CDU-based liquid cooling systems to meet next-generation
+   AI workload demands.
+   【日本語訳】MarketsandMarketsの調査によると、データセンター向けダイレクト・トゥ・チップ
+   冷却市場は年平均成長率26.5%で2032年に173億ドルへ到達する見通し。GPUの熱設計電力が
+   1チップあたり1,000ワットに迫る中、空冷では高密度AIクラスターの冷却が物理的に困難と
+   なっており、コールドプレートやCDUベースの液冷システムへの全面移行をハイパースケーラーと
+   コロケーション事業者が加速している。
+
+======================================================
+レポート生成日時: 2026-07-26
+対象期間: 2026-07-25 〜 2026-07-26
