@@ -1,0 +1,137 @@
+データセンター冷却 日次ニュースレポート 2026-07-30
+======================================================
+
+【日本語ニュース】
+
+1. あなたのAIサーバー、まだ「風」で冷やしてる？ キオクシアが打ち立てた直接液冷SSDの衝撃
+   媒体: DXマガジン
+   日付: 2026-07-29
+   URL: https://dxmagazine.jp/news/mmgi262940/
+   概要: キオクシアが2026年7月29日、GPU搭載サーバーやハイパースケールデータセンター向けに
+   直接液冷（DLC）対応のNVMe SSD「KIOXIA NX1シリーズ」の開発とサンプル出荷開始を発表
+   した。E1.Sフォームファクター・PCIe 5.0対応で、AI処理の高熱密度問題に対応するストレー
+   ジ冷却の新潮流として注目を集めている。
+
+------------------------------------------------------
+
+2. データセンターの液冷技術、施工・運用ノウハウが不足 進む共同検証
+   媒体: 日本経済新聞
+   日付: 2026-06-26
+   URL: https://www.nikkei.com/article/DGXZQOUC261N50W6A620C2000000/
+   概要: AIデータセンターで液冷技術の導入が急速に進む一方、施工・運用に必要な専門ノウハウの
+   不足が業界共通の課題として浮上している。各社が共同検証プロジェクトを立ち上げ、配管工
+   事・冷媒管理・故障対応の標準化を目指す動きが広がっており、液冷普及の鍵を握る人材・
+   手順整備が本格化している。
+
+------------------------------------------------------
+
+3. AI半導体の"爆熱"を誰が冷やすのか…8兆円データセンター冷却市場、日本勢の逆襲
+   媒体: ビジネスジャーナル
+   日付: 2026-07月
+   URL: https://biz-journal.jp/economy/post_395425.html
+   概要: AIデータセンター向け冷却市場は8兆円規模に膨らむ見通しで、日本企業の攻勢が続く。
+   TDKは熱制御技術を持つ米Fabric8Labsを最大640億円で買収、出光興産は浸漬冷却用オイル
+   「IDEMITSU ICF Series」を投入した。国内勢がAI半導体の"爆熱"対策で世界市場に打って出る
+   動きが加速している。
+
+------------------------------------------------------
+
+4. 富士電機、世界初のエジェクタ冷却機発売 データセンターの冷却電力を最大85%削減
+   媒体: オートメーション新聞
+   日付: 2026-06-26
+   URL: https://www.automation-news.jp/2026/06/105287/
+   概要: 富士電機が世界初となる「エジェクタ冷却機（FEC-200/FEC-250）」を発売した。コンプレ
+   ッサを使わず、サーバーの排熱をエネルギーとして再利用する仕組みで、従来の水冷式と比較
+   してデータセンターのサーバー冷却消費電力を最大85%削減できる。チラー代替として省エネ
+   法強化を見据えたデータセンター向けに投入される。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. Phononic Thermal Control Kits Unlock Performance, Efficiency, and Asset Life in AI Data Centers
+   （Phononic社、予測型ワークロード対応のAIデータセンター向け熱制御キットを提供開始）
+   Source: Data Center Dynamics
+   Date: 2026-07-29
+   URL: https://www.datacenterdynamics.com/en/product-news/phononic-thermal-control-kits-unlock-performance-efficiency-and-asset-life-in-ai-data-centers/
+   Summary: Phononic launched Thermal Control Kits that move beyond traditional precision cooling to
+   provide predictive, workload-aware optimization for AI data centers. The closed-loop control
+   architecture applies cooling capacity only when and where needed in milliseconds, reducing
+   overprovisioning, improving energy efficiency, extending equipment life, and unlocking higher
+   system performance for GPU clusters.
+   【日本語訳】Phonenicが、AIデータセンター向けの予測型熱制御キットを発表した。密閉ループ
+   制御アーキテクチャによりミリ秒単位でワークロードに応じた冷却を必要な箇所にのみ適用し、
+   過剰冷却を削減。エネルギー効率の改善と機器寿命の延長を実現し、GPUクラスターの高性能
+   化にも貢献する。
+
+------------------------------------------------------
+
+2. Johnson Controls Releases Absorption Chiller Reference Design for Data Centers
+   （ジョンソンコントロールズ、データセンター廃熱活用の吸収式冷凍機リファレンスデザインを公開）
+   Source: Data Center Dynamics
+   Date: 2026-07-28
+   URL: https://www.datacenterdynamics.com/en/news/johnson-controls-releases-absorption-chiller-reference-design/
+   Summary: Johnson Controls released a reference design for absorption chillers in data centers,
+   enabling operators to convert high-grade waste heat from on-site gas or fuel cells into cooling
+   power. The company claims 2MW of cooling capacity via absorption chiller requires only 25kW,
+   compared to approximately 500kW for a traditional electrical chiller — a dramatic efficiency gain.
+   【日本語訳】ジョンソンコントロールズが、データセンターの廃熱を冷却エネルギーに転換する
+   吸収式冷凍機のリファレンスデザインを公表した。吸収式冷凍機では2MWの冷却能力に必要な
+   電力が25kWのみで済み、従来電気式冷凍機の約500kWと比べ劇的な省エネを実現できるとして
+   いる。
+
+------------------------------------------------------
+
+3. Waterless Data Center Cooling: Building AI Factories That Don't Drain the Well
+   （水を使わないデータセンター冷却：水資源を消費しないAIファクトリーの設計）
+   Source: Data Center Dynamics
+   Date: 2026-07-27
+   URL: https://www.datacenterdynamics.com/en/opinions/waterless-data-center-cooling-building-ai-factories-that-dont-drain-the-well/
+   Summary: As scrutiny over AI data center water consumption intensifies, the industry is moving
+   toward waterless cooling alternatives that eliminate evaporative cooling entirely. The piece
+   discusses how operators can design next-generation AI factories with minimal water footprint
+   while maintaining efficiency, addressing one of the most politically charged criticisms of the
+   AI infrastructure buildout.
+   【日本語訳】AIデータセンターの水消費量に対する批判が高まる中、蒸発式冷却を不要とする
+   水レス冷却システムへの移行が業界で進んでいる。次世代AIファクトリーを水フットプリント
+   最小化・ゼロ水消費で設計するためのアプローチを論じており、AI基盤整備における政治的争点
+   の解消策として注目される。
+
+------------------------------------------------------
+
+4. Prioritizing Data Center Uptime with Optimal Cooling Strategies
+   （最適な冷却戦略でデータセンター稼働率を最大化する）
+   Source: Data Center Dynamics
+   Date: 2026-07-29
+   URL: https://www.datacenterdynamics.com/en/opinions/prioritizing-data-center-uptime-with-optimal-cooling-strategies/
+   Summary: As AI drives server density and processing power to new heights, maintaining reliable and
+   consistent cooling has become central to data center uptime. The article argues that cooling design
+   decisions made in 2026 carry 10-to-15-year infrastructure consequences, urging operators to adopt
+   proactive thermal management strategies rather than retrofitting cooling after deployment.
+   【日本語訳】AIによるサーバー密度と処理能力の急増に伴い、冷却の安定性がデータセンターの
+   稼働率確保の要となっている。2026年に行う冷却設計の判断が10〜15年間のインフラに影響を
+   与えると指摘し、事後的な冷却増強ではなく設計段階からの積極的な熱管理戦略の採用を訴えて
+   いる。
+
+------------------------------------------------------
+
+5. Ecolab Closes CoolIT $4.75bn Acquisition to Scale AI Cooling
+   （エコラボ、47.5億ドルのCoolIT買収を完了しAI向け液冷事業を本格拡大）
+   Source: Data Centre Magazine
+   Date: 2026-07-02
+   URL: https://datacentremagazine.com/news/ecolab-closes-coolit-acquisition-to-scale-ai-cooling
+   Summary: Ecolab officially completed its $4.75 billion acquisition of CoolIT Systems, merging
+   Ecolab's global water treatment expertise with CoolIT's direct-to-chip liquid cooling and coolant
+   distribution unit (CDU) technologies. The deal positions the combined entity as a dominant force
+   in AI data center liquid cooling, with CoolIT expected to contribute approximately $550 million
+   in annual sales.
+   【日本語訳】エコラボが47.5億ドルのCoolITシステムズ買収を完了した。エコラボの水処理技術
+   とCoolITの直接チップ液冷・冷媒分配ユニット（CDU）技術を統合し、AIデータセンター向け
+   液冷市場での支配的な存在感を確立する。CoolITは今後12か月で約5億5000万ドルの売上が
+   見込まれる。
+
+======================================================
+レポート生成日時: 2026-07-30
+対象期間: 2026-07-29 〜 2026-07-30
