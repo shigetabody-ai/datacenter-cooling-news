@@ -1,0 +1,129 @@
+データセンター冷却 日次ニュースレポート 2026-08-01
+======================================================
+
+【日本語ニュース】
+
+1. TDKや出光の参入で活況、データセンターの冷却8兆円市場
+   媒体: 日本経済新聞
+   日付: 2026-07-31
+   URL: https://www.nikkei.com/article/DGXZQOUC111ZA0R10C26A7000000/
+   概要: AI・クラウド需要の急増を背景に、データセンターの冷却市場が世界規模で約8兆円に達する
+   見込みであることが明らかになった。TDKは熱制御技術を持つ米Fabric8Labsを最大640億円で
+   買収し、出光興産は浸漬冷却向けオイル「IDEMITSU ICF Series」を新たに投入するなど、
+   異業種からの参入が相次いでいる。消費電力の約40%を占める冷却コスト削減が急務となって
+   いる中、液体冷却市場の主導権争いが激化している。
+
+------------------------------------------------------
+
+2. 三菱電機、米国にデータセンター向け冷却機器の製造工場を設立
+   媒体: 三菱電機 プレスリリース
+   日付: 2026-07-30
+   URL: https://www.mitsubishielectric.co.jp/ja/pr/2026/0730_ld/
+   概要: 三菱電機は米国オハイオ州に新会社を設立し、データセンター向け冷却システムの製造工場を
+   新設すると発表した。2027年4月の製造開始を目指しており、北米で急増するAIデータセンター
+   向け冷却設備の需要に対応する。米国内での現地製造体制を整えることで、供給チェーンの
+   強化と納期短縮を図る。
+
+------------------------------------------------------
+
+3. パナソニックHD、データセンター冷却の新技術 消費電力60%減
+   媒体: 日本経済新聞
+   日付: 2026-07-07
+   URL: https://www.nikkei.com/article/DGXZQOUF075Y00X00C26A7000000/
+   概要: パナソニックホールディングス傘下のパナソニックHVAC&CCが、AIデータセンター向け
+   冷却システムの新技術を開発した。水を媒体として利用した冷却方式により、従来の電気式
+   空調と比較して消費電力を60%削減できる技術で、急増するAI処理の発熱対策として注目を
+   集めている。NTTデータとの共同検証も2026年7月より開始した。
+
+------------------------------------------------------
+
+4. データセンター向け液冷市場、2035年に418億ドルへ爆発的成長の見通し
+   媒体: atpress（プレスリリース）
+   日付: 2026-07-31
+   URL: https://www.atpress.ne.jp/news/2879209
+   概要: 世界のデータセンター向け液冷市場は2025年の27億5,000万米ドルから年平均成長率31.28%で
+   拡大し、2035年には418億1,000万米ドルに達するとの市場調査レポートが発表された。
+   ハイパフォーマンス・コンピューティングとAI主導のワークロード拡大、ならびにハイパー
+   スケールデータセンターにおける省エネ要請が急成長を牽引している。
+
+------------------------------------------------------
+
+======================================================
+
+【English News】
+
+1. nVent Expands Data Center Liquid Cooling Capacity
+   （nVent、データセンター向け液体冷却の製造能力を拡大）
+   Source: GlobeNewswire
+   Date: 2026-07-31
+   URL: https://www.globenewswire.com/news-release/2026/07/31/3336671/0/en/nVent-Expands-Data-Center-Liquid-Cooling-Capacity.html
+   Summary: nVent Electric plc announced the lease of additional manufacturing space at a second
+   facility in Blaine, Minnesota, to meet surging demand for liquid cooling from AI and
+   high-performance computing environments. The expansion reflects the accelerating shift from
+   traditional air cooling toward liquid-based solutions across enterprise data centers, as
+   GPU rack densities continue to exceed what conventional air-cooling infrastructure can support.
+   【日本語訳】nVentエレクトリックは、AIおよびHPC環境からの液体冷却需要の急増に対応する
+   ため、米国ミネソタ州ブレインの第2工場で追加製造スペースを確保したと発表した。
+   GPUラック密度が従来の空冷インフラの限界を超える中、企業データセンターにおける空冷
+   から液体冷却への移行加速が改めて示された形となっている。
+
+------------------------------------------------------
+
+2. Data Centers: Weekly Briefing // July 27 - July 31, 2026
+   （データセンター週次ブリーフィング：2026年7月27〜31日）
+   Source: Strisker
+   Date: 2026-07-31
+   URL: https://writing.strisker.com/data-centers-weekly-briefing-july-27-july-31-2026/
+   Summary: The weekly roundup covering July 27-31 highlights major cooling-related developments:
+   Google revealed that its proposed Hermantown, MN data center will use non-evaporative cooling
+   technology rather than groundwater extraction, addressing local environmental concerns.
+   Meta also announced expansion of its Hyperion data center in Louisiana to 5 gigawatts of
+   capacity, more than doubling its original scale with investment exceeding $50 billion.
+   【日本語訳】7月27〜31日の主なデータセンター冷却動向として、GoogleがミネソタHermantown
+   データセンターで地下水採取ではなく非蒸発型冷却技術を採用すると表明し、地域環境への
+   懸念に対応した。またMetaはルイジアナ州Hyperionデータセンターを50億ドル超の投資で
+   当初の2倍超となる5GW規模へ拡張すると発表した。
+
+------------------------------------------------------
+
+3. Data Center Liquid Cooling Market to Approach $7 Billion by 2029 as AI Deployments Accelerate
+   （AI活用加速で2029年に世界データセンター液冷市場が70億ドル規模に接近）
+   Source: Dell'Oro Group
+   Date: 2026-07-31
+   URL: https://www.delloro.com/news/data-center-liquid-cooling-market-to-approach-7-billion-by-2029-as-ai-deployments-accelerate/
+   Summary: Dell'Oro Group released a market research report projecting the worldwide data center
+   liquid cooling market to reach approximately $7 billion in manufacturer revenue by 2029.
+   As of mid-2026, liquid cooling is moving into mainstream enterprise infrastructure planning,
+   driven by soaring AI and GPU power densities that are pushing traditional air cooling well
+   past its operational limits. Direct-to-chip liquid cooling has emerged as one of the
+   fastest-growing solutions for AI data center deployments.
+   【日本語訳】Dell'Oroグループは、世界のデータセンター液体冷却市場が2029年に製造業者
+   売上ベースで約70億ドル規模に達するという調査レポートを発表した。2026年半ば時点で
+   液体冷却は主流エンタープライズインフラ計画へ移行しつつあり、AIとGPUの発熱密度上昇が
+   従来空冷の限界を超えていることが主要因となっている。直接チップ液冷（Direct-to-chip）
+   がAIデータセンター展開において最も急成長するソリューションの一つとして台頭している。
+
+------------------------------------------------------
+
+4. Liquid Cooling in Data Centers Explodes in 2026: How to Choose Between Cold Plate and Immersion Cooling
+   （2026年にデータセンター液体冷却が爆発的拡大：コールドプレートvs浸漬冷却の選択指針）
+   Source: Gottog Power
+   Date: 2026-07-31
+   URL: https://www.gottogpower.com/liquid-cooling-in-data-centers-explodes-in-2026-how-to-choose-between-cold-plate-and-immersion-cooling/
+   Summary: As AI workloads drive liquid cooling adoption beyond niche applications into mainstream
+   data center design, operators face a critical choice between direct-to-chip cold plate cooling
+   and single or two-phase immersion cooling. Cold plate systems offer easier integration with
+   existing infrastructure, while immersion cooling achieves PUE of 1.03-1.08 and is increasingly
+   viable for high-density GPU environments. Mid-2026 pricing: single-phase immersion tanks
+   cost $5,000-$15,000 per rack unit, while two-phase turnkey systems range $22,000-$38,000 per rack.
+   【日本語訳】AIワークロードの急増でデータセンターの液冷導入が一般化する中、オペレーターは
+   コールドプレート式と浸漬冷却式の選択を迫られている。コールドプレート方式は既存インフラ
+   との親和性が高く、浸漬冷却はPUE 1.03〜1.08を達成し高密度GPU環境で有力視される。
+   2026年中期価格は単相浸漬タンクが1ラック当たり5,000〜15,000ドル、2相ターンキーシステム
+   が22,000〜38,000ドルとなっている。
+
+------------------------------------------------------
+
+======================================================
+レポート生成日時: 2026-08-01
+対象期間: 2026-07-31 〜 2026-08-01
