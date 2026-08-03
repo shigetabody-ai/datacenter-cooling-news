@@ -1,0 +1,93 @@
+データセンター冷却 日次ニュースレポート 2026-08-03
+======================================================
+
+【日本語ニュース】
+
+1. パナソニックHD、データセンター冷却の新技術 消費電力60%減
+   媒体: 日本経済新聞
+   日付: 2026-07
+   URL: https://www.nikkei.com/article/DGXZQOUF075Y00X00C26A7000000/
+   概要: パナソニックホールディングス傘下のパナソニックHVAC&CCが、吸収式冷凍機技術を応用した
+   AIデータセンター向け新冷却システムを開発。電気式チラーに比べて消費電力を60%削減できる。
+   冷媒に水を使用した真空蒸発方式（吸収式）を採用し、生成AIの普及で急増するデータセンターの
+   電力消費を大幅に抑制できる省エネ技術として注目を集めている。
+
+------------------------------------------------------
+
+2. TDKや出光の参入で活況、データセンターの冷却8兆円市場
+   媒体: 日本経済新聞
+   日付: 2026-07
+   URL: https://www.nikkei.com/article/DGXZQOUC111ZA0R10C26A7000000/
+   概要: AIデータセンターの急拡大に伴い、データセンター冷却市場が8兆円規模に拡大。TDKが液冷向け
+   部品、出光興産が液浸冷却液（誘電性流体）で参入するなど、異業種からの参入が相次いでいる。
+   空冷から液冷・液浸冷却への移行が加速する中、素材・部品・システムの各層で日本企業の
+   競争が激化している。
+
+------------------------------------------------------
+
+3. 三菱重工とNVIDIA、AIデータセンター冷却で連携 10MW級冷凍機を米国へ
+   媒体: マイナビ ニュース TECH+
+   日付: 2026-07-16
+   URL: https://news.mynavi.jp/techplus/article/20260716-4707639/
+   概要: 三菱重工業がNVIDIA Partner Networkの「Power & Cooling」カテゴリへ参画し、AIデータセンター
+   向け冷却事業を強化すると発表。10MW級ターボ冷凍機の試験機を米国ジョージア州ブランズウィック港へ
+   出荷し、NVIDIAのDSXエコシステムと連携。超大規模AIファクトリーに対応する大規模液冷ソリューションを
+   北米市場を中心に展開する。
+
+------------------------------------------------------
+
+【English News】
+
+1. Michigan Data Centers: The Weekly Download
+   （ミシガン州データセンター週報：水・エネルギー使用報告義務化法案と冷却水問題が焦点に）
+   Source: Michigan Advance
+   Date: 2026-08-03
+   URL: https://michiganadvance.com/2026/08/03/michigan-data-centers-the-weekly-download-3-2-2-2-2-2-2/
+   Summary: U.S. Rep. Hillary Scholten introduced two bills that would require annual water and energy
+   usage reporting surveys for data center operators and mandate the U.S. Department of Defense to
+   update its cooling efficiency requirements to reduce impact on water resources. Additionally,
+   Michigan's Department of Environment, Great Lakes and Energy opened public comment on a permit
+   allowing the Oracle and OpenAI data center in Saline Township to discharge treated wastewater
+   into the Saline River, highlighting growing community concerns over data center cooling water use.
+   【日本語訳】米議員がデータセンター事業者に対して水・エネルギー使用量の年次報告を義務付ける
+   法案と、国防総省に冷却効率基準の更新を求める法案を提出。また、ミシガン州環境局がオラクル・
+   OpenAI共同データセンターによる河川への排水許可についてパブリックコメントを開始。
+   データセンター冷却の用水問題に地域社会の関心が高まっている。
+
+------------------------------------------------------
+
+2. Kioxia Showcases Game Changing Flash Storage Innovations for the AI Era at FMS 2026
+   （キオクシア、FMS 2026でAI時代の画期的フラッシュストレージ革新を発表——液冷SSDも展示）
+   Source: BusinessWire
+   Date: 2026-08-03
+   URL: https://www.businesswire.com/news/home/20260803123361/en/Kioxia-Showcases-Game-Changing-Flash-Storage-Innovations-for-the-AI-Era-at-FMS-2026
+   Summary: Kioxia announced at FMS 2026 its CM10 Series enterprise SSDs — the industry's first to
+   combine PCIe 6.0, 332-layer BiCS FLASH Generation 10 NAND, and direct cold-plate liquid cooling
+   alongside conventional air cooling. The NX1 E1.S PCIe 5.0 series also supports direct liquid
+   cooling, targeting AI data centers where dense storage configurations demand advanced heat removal
+   as GPU rack densities continue to exceed air-cooled thermal limits.
+   【日本語訳】キオクシアがFMS 2026にてCM10シリーズを発表。PCIe 6.0・332層BiCS FLASH Gen10・
+   ダイレクト液冷（コールドプレート）を業界初めて一体化したエンタープライズSSD。NX1 E1.S PCIe5.0
+   シリーズも直接液冷対応。AIデータセンターのラック密度上昇に対応し、ストレージレベルでも
+   液冷化が進む状況を示す製品として注目されている。
+
+------------------------------------------------------
+
+3. Data Center Chillers Market to Reach USD 2.81 Billion by 2032, Growing at a CAGR of 9.0%
+   （データセンター向けチラー市場、2032年に28.1億ドル到達予測——CAGR9.0%で堅調成長）
+   Source: GlobeNewswire (MarketsandMarkets)
+   Date: 2026-07-30
+   URL: https://www.globenewswire.com/news-release/2026/07/30/3335893/0/en/Data-Center-Chillers-Market-to-Reach-USD-2-81-Billion-by-2032-Growing-at-a-CAGR-of-9-0-MarketsandMarkets.html
+   Summary: The global data center chillers market is projected to grow from USD 1.67 billion in 2026
+   to USD 2.81 billion by 2032 at a CAGR of 9.0%, according to MarketsandMarkets. Growth is driven
+   by expanding AI and hyperscale data center deployments that demand energy-efficient, high-capacity
+   chiller systems as rack densities increase and liquid cooling becomes the new standard for AI
+   infrastructure worldwide.
+   【日本語訳】データセンター向けチラー（冷凍機）市場は2026年の16.7億ドルから2032年に28.1億ドルへ
+   成長する見込み（CAGR9.0%）とMarketsandMarketsが発表。AIおよびハイパースケールデータセンターの
+   拡大によるエネルギー効率の高い大容量チラー需要の増大が市場を牽引。液冷が世界規模で普及するにつれ、
+   チラー機器市場も継続的な成長が見込まれている。
+
+======================================================
+レポート生成日時: 2026-08-03
+対象期間: 2026-08-02 〜 2026-08-03
