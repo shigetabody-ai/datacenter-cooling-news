@@ -17,7 +17,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install gspread google-auth
+        run: pip install gspread google-auth google-api-python-client
 
       - name: Update Google Sheets
         env:
